@@ -71,4 +71,5 @@ Automate Windows applications with win32com
 Indices
 =======
 * :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
