@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="G7ToWin A.00.200a" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.gpsinformation.org/ronh/g7towin.htm">
+      <text>G7ToWin</text>
+    </link>
+    <time>2006-06-06T20:12:51Z</time>
+    <bounds minlat="-46.6233720" minlon="167.3819870" maxlat="-34" maxlon="178"/>
+  </metadata>
+
+  <wpt lat="-38.462547000" lon="176.148087000">
+    <time>2005-10-28T06:35:05Z</time>
+    <name>Akatarewa Stream</name>
+    <cmt>Akatarewa Stream</cmt>
+    <desc>Akatarewa Stream</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.519200000" lon="172.852700000">
+    <time>2006-06-04T18:44:38Z</time>
+    <name>ALPINE HOL</name>
+    <cmt><![CDATA[ALPINE HOLIDAY APARTMENTS &amp; C]]></cmt>
+    <desc><![CDATA[ALPINE HOLIDAY APARTMENTS &amp; C]]></desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.451856000" lon="169.914183000">
+    <ele>71.699997</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>ALPVIEWS</name>
+    <cmt>ALP VIEW</cmt>
+    <desc>ALP VIEW</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.169165000" lon="170.628613000">
+    <time>2005-10-28T06:54:32Z</time>
+    <name>Amethyst Hot Springs</name>
+    <cmt>Amethyst Hot Springs</cmt>
+    <desc>Amethyst Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.008570000" lon="174.782130000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>AUCKLAND</name>
+    <cmt>Auckland International Airport</cmt>
+    <desc>Auckland International Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.258480000" lon="173.907780000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>BAYOFISLAN</name>
+    <cmt>Bay of Islands Airport</cmt>
+    <desc>Bay of Islands Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.940229000" lon="169.369500000">
+    <time>2005-03-25T04:43:57Z</time>
+    <name>BENDIGO</name>
+    <cmt>Bendigo historic mine</cmt>
+    <desc>Bendigo historic mine</desc>
+    <sym>Mine</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.023502000" lon="168.439594000">
+    <ele>426.000000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>BENITBLUFF</name>
+    <cmt>BENNETS BLUFF VIEW</cmt>
+    <desc>BENNETS BLUFF VIEW</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.069524000" lon="168.509386000">
+    <ele>361.100006</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>BOBS COVE</name>
+    <cmt>BOBS COVE</cmt>
+    <desc>BOBS COVE</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.351555000" lon="169.168688000">
+    <ele>288.299988</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>BOUNDERYCK</name>
+    <cmt>Boundary Creek - lake Wanaka lookout</cmt>
+    <desc>Boundary Creek - lake Wanaka lookout</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.453167000" lon="176.342800000">
+    <time>2005-09-25T04:08:14Z</time>
+    <name>BUTCHERS-P</name>
+    <cmt>Butchers Pool Hot Springs</cmt>
+    <desc>Butchers Pool Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.644180000" lon="176.071810000">
+    <time>2004-11-26T18:26:46Z</time>
+    <name>C-MOON</name>
+    <cmt>Free thermal area</cmt>
+    <desc>Free thermal area</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.232665000" lon="171.723271000">
+    <ele>730.500000</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>CASTLEHILL</name>
+    <cmt>Castle Hill - spectacular rock formations</cmt>
+    <desc>Castle Hill - spectacular rock formations</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.963798000" lon="171.150089000">
+    <time>2005-10-28T06:51:55Z</time>
+    <name>Cedar Flat Hot Springs</name>
+    <cmt>Cedar Flat Hot Springs</cmt>
+    <desc>Cedar Flat Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.485920000" lon="172.534000000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>CHRISTCHUR</name>
+    <cmt>Christchurch International Airport</cmt>
+    <desc>Christchurch International Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.239590000" lon="175.470640000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>CLARIS</name>
+    <cmt>Claris Airport</cmt>
+    <desc>Claris Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.832860000" lon="171.630061000">
+    <time>2005-10-28T06:49:11Z</time>
+    <name>Deception River Hot Springs</name>
+    <cmt>Deception River Hot Springs</cmt>
+    <desc>Deception River Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.801770000" lon="171.576272000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-AC</name>
+    <cmt>Arthurs Pass  (DOC)</cmt>
+    <desc>Arthurs Pass  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.678582000" lon="169.189333000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-AL</name>
+    <cmt>Albert Town  (DOC)</cmt>
+    <desc>Albert Town  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.105022000" lon="175.739323000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-BH</name>
+    <cmt>Broken Hills  (DOC)</cmt>
+    <desc>Broken Hills  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.384772000" lon="176.332703000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-CA</name>
+    <cmt>Gentle Annie  (DOC)</cmt>
+    <desc>Gentle Annie  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.161153000" lon="169.286935000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-CF</name>
+    <cmt>Cameron Flat  (DOC)</cmt>
+    <desc>Cameron Flat  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.524060000" lon="175.327140000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-FA</name>
+    <cmt>Fantail Bay  (DOC)</cmt>
+    <desc>Fantail Bay  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.477385000" lon="175.389837000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-FB</name>
+    <cmt>Fletchers Bay  (DOC)</cmt>
+    <desc>Fletchers Bay  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-46.007538000" lon="167.456762000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-FI</name>
+    <cmt>Near Lake Hauroko  (DOC)</cmt>
+    <desc>Near Lake Hauroko  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.984238000" lon="171.590662000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-GR</name>
+    <cmt>Near Arthurs Pass  (DOC)</cmt>
+    <desc>Near Arthurs Pass  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.291157000" lon="177.385952000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-H2</name>
+    <cmt>Sh2  (DOC)</cmt>
+    <desc>Sh2  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.988995000" lon="167.381987000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-HA</name>
+    <cmt>Hauroko  (DOC)</cmt>
+    <desc>Hauroko  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.906068000" lon="175.484213000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-HO</name>
+    <cmt>Holdsworth  (DOC)</cmt>
+    <desc>Holdsworth  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.710342000" lon="177.063135000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-HP</name>
+    <cmt>Whaikaramoana Near Lake  (DOC)</cmt>
+    <desc>Whaikaramoana Near Lake  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.440698000" lon="169.258180000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-KB</name>
+    <cmt>Kidds Bush  (DOC)</cmt>
+    <desc>Kidds Bush  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.173868000" lon="174.117192000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-KE</name>
+    <cmt>Kenipuru Head  (DOC)</cmt>
+    <desc>Kenipuru Head  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.393440000" lon="176.327905000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-KU</name>
+    <cmt>Kuripapango  (DOC)</cmt>
+    <desc>Kuripapango  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.795647000" lon="172.049512000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-LY</name>
+    <cmt>Lyle  (DOC)</cmt>
+    <desc>Lyle  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-34.829872000" lon="173.406342000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-MA</name>
+    <cmt>Matau Bay  (DOC)</cmt>
+    <desc>Matau Bay  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.443482000" lon="174.425722000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-MI</name>
+    <cmt>Mimiwhangata  (DOC)</cmt>
+    <desc>Mimiwhangata  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.276000000" lon="168.170457000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-ML</name>
+    <cmt>Mavora Lakes  (DOC)</cmt>
+    <desc>Mavora Lakes  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.346018000" lon="172.226650000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-MR</name>
+    <cmt>Marble Flat  (DOC)</cmt>
+    <desc>Marble Flat  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.404937000" lon="171.518860000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-NC</name>
+    <cmt>Nelson Creek  (DOC)</cmt>
+    <desc>Nelson Creek  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.941985000" lon="175.146280000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-OH</name>
+    <cmt>Ohura (DOC)</cmt>
+    <desc>Ohura (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.714117000" lon="175.126187000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-OM</name>
+    <cmt>Otumaiare (DOC)</cmt>
+    <desc>Otumaiare (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.879807000" lon="175.220498000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-OT</name>
+    <cmt>Otaki Forks  (DOC)</cmt>
+    <desc>Otaki Forks  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.297677000" lon="173.572715000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-PE</name>
+    <cmt>Pelorus Bridge  (DOC)</cmt>
+    <desc>Pelorus Bridge  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.483175000" lon="175.343785000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-PJ</name>
+    <cmt>Port Jackson  (DOC)</cmt>
+    <desc>Port Jackson  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-34.725060000" lon="173.082823000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-RA</name>
+    <cmt>Rarawa  (DOC)</cmt>
+    <desc>Rarawa  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.284968000" lon="176.496978000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-RE</name>
+    <cmt>Rerewhakaaitu  (DOC)</cmt>
+    <desc>Rerewhakaaitu  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.364908000" lon="174.355117000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-RR</name>
+    <cmt>Whangaruru  (DOC)</cmt>
+    <desc>Whangaruru  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.156233000" lon="171.791992000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-SL</name>
+    <cmt>Slab Flat  (DOC)</cmt>
+    <desc>Slab Flat  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-34.426432000" lon="172.862555000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-SP</name>
+    <cmt>Spirits Bay  (DOC)</cmt>
+    <desc>Spirits Bay  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.512492000" lon="175.424110000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-ST</name>
+    <cmt>Stoney Bay  (DOC)</cmt>
+    <desc>Stoney Bay  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-46.459202000" lon="169.494987000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-TA</name>
+    <cmt>Tawanui  (DOC)</cmt>
+    <desc>Tawanui  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-34.439912000" lon="172.715323000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-TP</name>
+    <cmt>Tapotupotu  (DOC)</cmt>
+    <desc>Tapotupotu  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.721665000" lon="173.652603000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-TR</name>
+    <cmt>Trounson Kauri Pk  (DOC)</cmt>
+    <desc>Trounson Kauri Pk  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.234072000" lon="176.895138000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-TU</name>
+    <cmt>Lake Tutira (DOC)</cmt>
+    <desc>Lake Tutira (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.936143000" lon="174.455745000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-UR</name>
+    <cmt>Uretiti Beach  (DOC)</cmt>
+    <desc>Uretiti Beach  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.351652000" lon="169.168592000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-WA</name>
+    <cmt>Wharf Creek  (DOC)</cmt>
+    <desc>Wharf Creek  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.652432000" lon="173.555147000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-WF</name>
+    <cmt>Waipora Forest  (DOC)</cmt>
+    <desc>Waipora Forest  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.001955000" lon="171.154305000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-WG</name>
+    <cmt>Waihi Gorge (DOC)</cmt>
+    <desc>Waihi Gorge (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.605682000" lon="175.535488000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-WK</name>
+    <cmt>Waikawau  (DOC)</cmt>
+    <desc>Waikawau  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.003410000" lon="171.588592000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-WR</name>
+    <cmt>Near Arthurs Pass  (DOC)</cmt>
+    <desc>Near Arthurs Pass  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-46.623372000" lon="169.133755000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>DOC-WV</name>
+    <cmt>Waikawa Valley  (DOC)</cmt>
+    <desc>Waikawa Valley  (DOC)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.928630000" lon="170.198500000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>DUNEDIN</name>
+    <cmt>Dunedin Airport</cmt>
+    <desc>Dunedin Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.372600000" lon="170.181300000">
+    <time>2006-06-04T18:44:38Z</time>
+    <name>FRANZ JOSE</name>
+    <cmt>FRANZ JOSEF TOP 10 HOLIDAY PAR</cmt>
+    <desc>FRANZ JOSEF TOP 10 HOLIDAY PAR</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.775631000" lon="172.846860000">
+    <ele>181.600006</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL CULDE</name>
+    <cmt>CULVERDEN FUEL</cmt>
+    <desc>CULVERDEN FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.466069000" lon="170.017382000">
+    <ele>162.800003</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL FOX</name>
+    <cmt>FOX FUEL</cmt>
+    <desc>FOX FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.859428000" lon="169.043999000">
+    <ele>7.100000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL HAAST</name>
+    <cmt>HAAST FUEL</cmt>
+    <desc>HAAST FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.213733000" lon="173.395838000">
+    <ele>40.299999</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL HIRA</name>
+    <cmt>HIRA FUEL</cmt>
+    <desc>HIRA FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.276587000" lon="173.765610000">
+    <ele>11.200000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL HLOCK</name>
+    <cmt>HAVELOCK FUEL</cmt>
+    <desc>HAVELOCK FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.289290000" lon="173.858816000">
+    <ele>12.900000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL LINKW</name>
+    <cmt>LINKWATER FUEL</cmt>
+    <desc>LINKWATER FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.231639000" lon="169.231388000">
+    <ele>324.100006</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL MAKAR</name>
+    <cmt>MAKARORA FUEL</cmt>
+    <desc>MAKARORA FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.799911000" lon="172.324986000">
+    <ele>166.399994</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL MURCH</name>
+    <cmt>MURCHISON FUEL</cmt>
+    <desc>MURCHISON FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.488022000" lon="169.963605000">
+    <ele>431.000000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL OMA</name>
+    <cmt>FUEL OMARAMA</cmt>
+    <desc>FUEL OMARAMA</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.228237000" lon="173.582892000">
+    <ele>45.799999</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL RAIVL</name>
+    <cmt>RAI VALLEY FUEL</cmt>
+    <desc>RAI VALLEY FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.402245000" lon="171.246494000">
+    <ele>44.099998</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL RNGA</name>
+    <cmt>RUNANGA FUEL</cmt>
+    <desc>RUNANGA FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.898821000" lon="170.816992000">
+    <ele>31.400000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL ROSS</name>
+    <cmt>ROSS FUEL</cmt>
+    <desc>ROSS FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.335024000" lon="172.182195000">
+    <ele>447.899994</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL SPNGJ</name>
+    <cmt>SPRINGS JUNCTION FUEL</cmt>
+    <desc>SPRINGS JUNCTION FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.801682000" lon="172.847229000">
+    <ele>632.700012</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL STARD</name>
+    <cmt>ST ARNAUD FUEL</cmt>
+    <desc>ST ARNAUD FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.836840000" lon="169.411882000">
+    <ele>274.100006</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL TARRA</name>
+    <cmt>FUEL TARRA</cmt>
+    <desc>FUEL TARRA</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.970403000" lon="172.705759000">
+    <ele>238.500000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL WAIKE</name>
+    <cmt>WAIKARE FUEL</cmt>
+    <desc>WAIKARE FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.261745000" lon="170.358859000">
+    <ele>63.299999</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>FUEL WHATO</name>
+    <cmt>WHATOROA FUEL</cmt>
+    <desc>WHATOROA FUEL</desc>
+    <sym>Gas Station</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.660000000" lon="177.977790000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>GISBORNE</name>
+    <cmt>Gisborne Airport</cmt>
+    <desc>Gisborne Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.003770000" lon="169.934669000">
+    <ele>568.700012</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>GOLDENPROG</name>
+    <cmt>Golden Progress - Historic mine with complete popp</cmt>
+    <desc>Golden Progress - Historic mine with complete popp</desc>
+    <sym>Mine</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.041103000" lon="169.381509000">
+    <ele>202.500000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>GTS HAAST</name>
+    <cmt>GATES OF HAAST</cmt>
+    <desc>GATES OF HAAST</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.863200000" lon="175.327990000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>HAMILTON</name>
+    <cmt>Hamilton Airport</cmt>
+    <desc>Hamilton Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.660110000" lon="171.773036000">
+    <time>2005-10-28T06:48:21Z</time>
+    <name>Haupiri River Hot Springs</name>
+    <cmt>Haupiri River Hot Springs</cmt>
+    <desc>Haupiri River Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.468950000" lon="176.866840000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>HAWKESBAY</name>
+    <cmt>Napier Airport</cmt>
+    <desc>Napier Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.010770000" lon="169.903875000">
+    <ele>496.899994</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>HAYS WORKS</name>
+    <cmt>Historic Hayes Engineering works museum</cmt>
+    <desc>Historic Hayes Engineering works museum</desc>
+    <sym>Museum</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.085252000" lon="176.287712000">
+    <time>2005-10-28T06:22:56Z</time>
+    <name>Hinemoas Pool</name>
+    <cmt>Hinemoas Pool</cmt>
+    <desc>Hinemoas Pool</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.764645000" lon="167.989558000">
+    <ele>909.000000</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>HOMER TNNL</name>
+    <cmt>Homer Tunnel</cmt>
+    <desc>Homer Tunnel</desc>
+    <sym>Tunnel</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.589601000" lon="172.487587000">
+    <time>2005-10-28T06:45:20Z</time>
+    <name>Horseshoe Hot Springs</name>
+    <cmt>Horseshoe Hot Springs</cmt>
+    <desc>Horseshoe Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.196461000" lon="170.653066000">
+    <time>2005-10-28T06:57:00Z</time>
+    <name>Hot Springs Flat</name>
+    <cmt>Hot Springs Flat</cmt>
+    <desc>Hot Springs Flat</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.199272000" lon="170.653610000">
+    <time>2005-10-28T06:57:37Z</time>
+    <name>Hot Springs Flat #2</name>
+    <cmt>Hot Springs Flat #2</cmt>
+    <desc>Hot Springs Flat #2</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.694437000" lon="172.046601000">
+    <time>2005-10-28T06:41:57Z</time>
+    <name>Hurunui River</name>
+    <cmt>Hurunui River</cmt>
+    <desc>Hurunui River</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.744305000" lon="172.057483000">
+    <time>2005-10-28T06:43:50Z</time>
+    <name>Hurunui River South Hot Springs</name>
+    <cmt>Hurunui River South Hot Springs</cmt>
+    <desc>Hurunui River South Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-46.412400000" lon="168.309230000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>INVERCARGI</name>
+    <cmt>Invercargill Airport</cmt>
+    <desc>Invercargill Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.453580000" lon="173.814990000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>KAIKOHE</name>
+    <cmt>Kaikohe Airport</cmt>
+    <desc>Kaikohe Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.071430000" lon="173.277410000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>KAITAIA</name>
+    <cmt>Kaitaia Airport</cmt>
+    <desc>Kaitaia Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.221679000" lon="175.426528000">
+    <time>2005-10-28T06:17:01Z</time>
+    <name>Kaitoke Hot Springs</name>
+    <cmt>Kaitoke Hot Springs</cmt>
+    <desc>Kaitoke Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.334322000" lon="176.386380000">
+    <ele>372.000000</ele>
+    <time>2005-09-25T04:07:05Z</time>
+    <name>KERO-CREEK</name>
+    <cmt>Kerosene Creek Hotsprings</cmt>
+    <desc>Kerosene Creek Hotsprings</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.322101000" lon="176.373311000">
+    <time>2005-10-28T06:29:58Z</time>
+    <name>Lake Rotowhero</name>
+    <cmt>Rotowhero (Green Lake)</cmt>
+    <desc>Rotowhero (Green Lake)</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.806805000" lon="172.846463000">
+    <ele>623.299988</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>LAKEVIEWST</name>
+    <cmt>LAKE VIEW ST ARNAUD</cmt>
+    <desc>LAKE VIEW ST ARNAUD</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.508886000" lon="169.247048000">
+    <ele>458.000000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>LK HAWEA</name>
+    <cmt>LAKE HAWEA VIEW</cmt>
+    <desc>LAKE HAWEA VIEW</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.449973000" lon="169.216964000">
+    <ele>363.299988</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>LK HAWEA 2</name>
+    <cmt>LAKE HAWEA VIEW</cmt>
+    <desc>LAKE HAWEA VIEW</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.437541000" lon="169.194496000">
+    <ele>404.799988</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>LK WANAKA</name>
+    <cmt>LAKE WANAKA VIEWS</cmt>
+    <desc>LAKE WANAKA VIEWS</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.410832000" lon="169.185288000">
+    <ele>333.500000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>LK WANAKA2</name>
+    <cmt>LAKE WANAKA VIEWS</cmt>
+    <desc>LAKE WANAKA VIEWS</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.267379000" lon="173.783147000">
+    <ele>118.400002</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>LOOKOUTPNT</name>
+    <cmt>LOOKOUT POINT</cmt>
+    <desc>LOOKOUT POINT</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.657135000" lon="172.045139000">
+    <time>2005-10-28T06:42:41Z</time>
+    <name>Mackenzie Stream Hot Springs</name>
+    <cmt>Mackenzie Stream Hot Springs</cmt>
+    <desc>Mackenzie Stream Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.165109000" lon="176.397603000">
+    <time>2005-10-28T06:40:50Z</time>
+    <name>Mangatainoka Hot Springs</name>
+    <cmt>Mangatainoka Hot Springs</cmt>
+    <desc>Mangatainoka Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.736010000" lon="175.738170000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>MATAMATA</name>
+    <cmt>Matamata Airport</cmt>
+    <desc>Matamata Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.302168000" lon="174.796291000">
+    <time>2004-11-14T05:51:30Z</time>
+    <name>MATHESONS</name>
+    <cmt>Off the track beach</cmt>
+    <desc>Off the track beach</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.746245000" lon="176.821220000">
+    <time>2005-10-28T06:38:08Z</time>
+    <name>Maungatanuiwha Hot Springs</name>
+    <cmt>Maungatanuiwha Hot Springs</cmt>
+    <desc>Maungatanuiwha Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.806957000" lon="176.044995000">
+    <ele>104.699997</ele>
+    <time>2004-11-25T07:15:28Z</time>
+    <name>MCLAREN</name>
+    <cmt>Lakes, river, falls, nice trees :-)</cmt>
+    <desc>Lakes, river, falls, nice trees :-)</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.028450000" lon="168.011336000">
+    <ele>333.500000</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>MIRRORLAKE</name>
+    <cmt>Mirror Lakes - tarns which reflect the mountains</cmt>
+    <desc>Mirror Lakes - tarns which reflect the mountains</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.468683000" lon="174.471583000">
+    <time>2004-11-26T18:26:46Z</time>
+    <name>MTAUCK</name>
+    <cmt>Good views of Kaipara harbour</cmt>
+    <desc>Good views of Kaipara harbour</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.067296000" lon="169.195557000">
+    <ele>226.000000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>MTB C HILL</name>
+    <cmt>CAIRNMUIR HILL</cmt>
+    <desc>CAIRNMUIR HILL</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.723828000" lon="168.376077000">
+    <ele>415.399994</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>MTB CNBLUF</name>
+    <cmt>4WD ROAD TO CHINAMANS BLUFF</cmt>
+    <desc>4WD ROAD TO CHINAMANS BLUFF</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.982572000" lon="169.253404000">
+    <ele>209.000000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>MTB DEVCRK</name>
+    <cmt>DEVILS CREEK RECREATION AREA</cmt>
+    <desc>DEVILS CREEK RECREATION AREA</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.969503000" lon="169.438512000">
+    <ele>1198.199951</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>MTB MTMOKA</name>
+    <cmt>MOUNT MOKA TRACK</cmt>
+    <desc>MOUNT MOKA TRACK</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.032201000" lon="171.185999000">
+    <time>2005-10-28T06:52:50Z</time>
+    <name>Mungo River Hot Springs</name>
+    <cmt>Mungo River Hot Springs</cmt>
+    <desc>Mungo River Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.296130000" lon="173.219520000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>NELSON</name>
+    <cmt>Nelson Airport</cmt>
+    <desc>Nelson Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.005060000" lon="174.169070000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>NEW PLYMOU</name>
+    <cmt>New Plymouth Airport</cmt>
+    <desc>New Plymouth Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.967890000" lon="171.085560000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>OAMARU</name>
+    <cmt>Oamaru Airport</cmt>
+    <desc>Oamaru Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.203480000" lon="175.377640000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>OHAKEA AIR</name>
+    <cmt>RNZAF Ohakea Airforce Base</cmt>
+    <desc>RNZAF Ohakea Airforce Base</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.045892000" lon="176.555185000">
+    <time>2005-10-28T06:39:33Z</time>
+    <name>Ohane Stream Hot Springs</name>
+    <cmt>Ohane Stream Hot Springs</cmt>
+    <desc>Ohane Stream Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.110556000" lon="169.589904000">
+    <ele>303.899994</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>OPHIR BRG</name>
+    <cmt>HISTORIC OPHIR BRIDGE</cmt>
+    <desc>HISTORIC OPHIR BRIDGE</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.801778000" lon="171.706727000">
+    <time>2005-10-28T06:49:59Z</time>
+    <name>Otehake River Hot Springs</name>
+    <cmt>Otehake River Hot Springs</cmt>
+    <desc>Otehake River Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.322740000" lon="175.610670000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>PALMERSTON</name>
+    <cmt>Palmerston North Airport</cmt>
+    <desc>Palmerston North Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.452795000" lon="176.156065000">
+    <time>2005-10-28T06:35:38Z</time>
+    <name>Paradise</name>
+    <cmt>Paradise</cmt>
+    <desc>Paradise</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.211365000" lon="175.433053000">
+    <time>2005-10-28T06:17:51Z</time>
+    <name>Peach Tree Hot Springs</name>
+    <cmt>Peach Tree Hot Springs</cmt>
+    <desc>Peach Tree Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.283382000" lon="174.003159000">
+    <ele>43.099998</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>PICT VIEW</name>
+    <cmt>PICTON VIEW</cmt>
+    <desc>PICTON VIEW</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.847943000" lon="172.770437000">
+    <time>2004-11-26T18:26:46Z</time>
+    <name>PUPU</name>
+    <cmt>PUPUSPRINGS-NATURALSPRINGSUPWE</cmt>
+    <desc>PUPUSPRINGS-NATURALSPRINGSUPWE</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.032684000" lon="168.663899000">
+    <ele>324.299988</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>QTN PRKING</name>
+    <cmt>FREE PARKING</cmt>
+    <desc>FREE PARKING</desc>
+    <sym>Parking Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.020850000" lon="168.741860000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>QUEENSTOWN</name>
+    <cmt>Queenstown Airport</cmt>
+    <desc>Queenstown Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.194574000" lon="169.334783000">
+    <ele>170.800003</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>RAIL TRAIL</name>
+    <cmt>START OF RAIL TRAIL</cmt>
+    <desc>START OF RAIL TRAIL</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.218314000" lon="173.943763000">
+    <time>2004-11-14T05:51:30Z</time>
+    <name>RAINBOWFLL</name>
+    <cmt>Rainbow falls</cmt>
+    <desc>Rainbow falls</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.710323000" lon="174.556656000">
+    <time>2006-06-04T18:44:38Z</time>
+    <name>Riverhead1</name>
+    <cmt>Main entry into Riverhead Forest MTB</cmt>
+    <desc>Main entry into Riverhead Forest MTB</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.699385000" lon="174.555904000">
+    <time>2006-06-04T18:44:38Z</time>
+    <name>Riverhead2</name>
+    <cmt>Entry into Riverhead Forest MTB</cmt>
+    <desc>Entry into Riverhead Forest MTB</desc>
+    <sym>Bike Trail</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.103210000" lon="176.312080000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>ROTORUA</name>
+    <cmt>Rotorua Airport</cmt>
+    <desc>Rotorua Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.355938000" lon="176.364509000">
+    <ele>328.000000</ele>
+    <time>2005-09-25T04:07:11Z</time>
+    <name>SECRET-SPO</name>
+    <cmt>Secret Spot Hotsprings</cmt>
+    <desc>Secret Spot Hotsprings</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.077756000" lon="169.144797000">
+    <ele>266.399994</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>SLUCINGS</name>
+    <cmt>Bannockburn slucings - spectacular moonscape</cmt>
+    <desc>Bannockburn slucings - spectacular moonscape</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.208503000" lon="170.846743000">
+    <time>2005-10-28T06:58:10Z</time>
+    <name>Smythe Hut Hot Springs</name>
+    <cmt>Smythe Hut Hot Springs</cmt>
+    <desc>Smythe Hut Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.893832000" lon="175.028696000">
+    <time>2004-11-13T04:00:02Z</time>
+    <name>SOUTHWOOD</name>
+    <cmt>Southwood car museum - very large collection and l</cmt>
+    <desc>Southwood car museum - very large collection and l</desc>
+    <sym>Museum</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.490344000" lon="172.386717000">
+    <ele>600.000000</ele>
+    <time>2005-10-28T06:47:07Z</time>
+    <name>SYLVFLAHOS</name>
+    <cmt>SYLVIA FLATS HOT SPRINGS</cmt>
+    <desc>SYLVIA FLATS HOT SPRINGS</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.284287000" lon="173.239925000">
+    <ele>2.300000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>TAHUNACAMP</name>
+    <cmt>TAHUNA BEACH HOLIDAY PARK</cmt>
+    <desc>TAHUNA BEACH HOLIDAY PARK</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.895437000" lon="171.426351000">
+    <time>2005-10-28T06:50:36Z</time>
+    <name>Taipo River Hot Springs</name>
+    <cmt>Taipo River Hot Springs</cmt>
+    <desc>Taipo River Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.738370000" lon="176.088080000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>TAUPO</name>
+    <cmt>Taupo Airport</cmt>
+    <desc>Taupo Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.673850000" lon="176.190040000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>TAURANGA</name>
+    <cmt>Tauranga Airport</cmt>
+    <desc>Tauranga Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.473600000" lon="175.617960000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>TE AROHA A</name>
+    <cmt>Te Aroha Airfield</cmt>
+    <desc>Te Aroha Airfield</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-39.702187000" lon="176.908164000">
+    <time>2004-11-13T04:00:02Z</time>
+    <name>TE MATA</name>
+    <cmt>TeMata Peak - views</cmt>
+    <desc>TeMata Peak - views</desc>
+    <sym>Summit</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.243767000" lon="176.433734000">
+    <time>2005-10-28T06:27:03Z</time>
+    <name>Te Rata Bay</name>
+    <cmt>Te Rata Bay</cmt>
+    <desc>Te Rata Bay</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.217199000" lon="173.970835000">
+    <ele>1.800000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>TEMAHIABAY</name>
+    <cmt>TE MAHIA BAY RESORT</cmt>
+    <desc>TE MAHIA BAY RESORT</desc>
+    <sym>Lodging</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.116637000" lon="173.763685000">
+    <ele>8.800000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>TENNYSON</name>
+    <cmt>TENNYSON INLET</cmt>
+    <desc>TENNYSON INLET</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.488776000" lon="176.151928000">
+    <time>2005-10-28T06:34:08Z</time>
+    <name>The Tubs</name>
+    <cmt>The Tubs</cmt>
+    <desc>The Tubs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.037270000" lon="169.366748000">
+    <ele>116.199997</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>THNDRFALLS</name>
+    <cmt>THUNDER CREEK FALLS</cmt>
+    <desc>THUNDER CREEK FALLS</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.588966000" lon="172.143518000">
+    <time>2005-10-28T06:44:38Z</time>
+    <name>Top Hope Hot Springs</name>
+    <cmt>Top Hope Hot Springs</cmt>
+    <desc>Top Hope Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.763631000" lon="172.902268000">
+    <ele>696.799988</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>TOPHOUSE</name>
+    <cmt>Tophouse - historic hotel with spectacular views</cmt>
+    <desc>Tophouse - historic hotel with spectacular views</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.527781000" lon="172.830089000">
+    <ele>356.799988</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>TT HANMER</name>
+    <cmt>TOP 10 HANMER SPRINGS</cmt>
+    <desc>TOP 10 HANMER SPRINGS</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.038755000" lon="169.213980000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-CRO</name>
+    <cmt>CROMWELL   (TOP 10)</cmt>
+    <desc>CROMWELL   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.098060000" lon="170.831255000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-FAI</name>
+    <cmt>FAIRLIE   (TOP 10)</cmt>
+    <desc>FAIRLIE   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.468638000" lon="171.187072000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-GRE</name>
+    <cmt>GREYMOUTH  (TOP 10)</cmt>
+    <desc>GREYMOUTH  (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.750950000" lon="173.673725000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-KC</name>
+    <cmt>KAURI COAST  (TOP 10)</cmt>
+    <desc>KAURI COAST  (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.229367000" lon="173.942123000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-KER</name>
+    <cmt>KERIKERI   (TOP 10)</cmt>
+    <desc>KERIKERI   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.104287000" lon="173.014042000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-MOT</name>
+    <cmt>MOTUEKA   (TOP 10)</cmt>
+    <desc>MOTUEKA   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-40.833252000" lon="172.885035000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-POH</name>
+    <cmt>POHURA   (TOP 10)</cmt>
+    <desc>POHURA   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.136825000" lon="176.239815000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-ROT</name>
+    <cmt>ROTORUA   (TOP 10)</cmt>
+    <desc>ROTORUA   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.259497000" lon="174.126042000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-RUS</name>
+    <cmt>RUSSELL   (TOP 10)</cmt>
+    <desc>RUSSELL   (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.735597000" lon="175.481980000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-SHB</name>
+    <cmt>SHELLEY BEACH  (TOP 10)</cmt>
+    <desc>SHELLEY BEACH  (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-45.414343000" lon="167.709106000">
+    <ele>225.100006</ele>
+    <time>2005-03-25T04:43:57Z</time>
+    <name>TT-TEANAU</name>
+    <cmt>TEANAU  (TOP 10)</cmt>
+    <desc>TEANAU  (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.768240000" lon="174.393618000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-WH</name>
+    <cmt>WHANGAREI  HEADS  (TOP 10)</cmt>
+    <desc>WHANGAREI  HEADS  (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-34.873700000" lon="173.388885000">
+    <time>2005-01-30T11:07:24Z</time>
+    <name>TT-WHA</name>
+    <cmt>WHATAWHIWHI  (TOP 10)</cmt>
+    <desc>WHATAWHIWHI  (TOP 10)</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.501948000" lon="173.960895000">
+    <ele>-1.800000</ele>
+    <time>2006-05-20T22:21:07Z</time>
+    <name>TTBLENHEIM</name>
+    <cmt>TOP 10 BLENHEIM</cmt>
+    <desc>TOP 10 BLENHEIM</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.040360000" lon="176.359285000">
+    <time>2005-10-28T06:21:54Z</time>
+    <name>Tumoana Point Hot Springs</name>
+    <cmt>Tumoana Point Hot Springs</cmt>
+    <desc>Tumoana Point Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.326850000" lon="176.303183000">
+    <time>2005-09-25T04:07:48Z</time>
+    <name>WAIKITE-PO</name>
+    <cmt>Waikite Pool Hotspring</cmt>
+    <desc>Waikite Pool Hotspring</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.994966000" lon="174.483967000">
+    <time>2004-11-14T05:51:30Z</time>
+    <name>WAIPU RIVR</name>
+    <cmt>River mouth fishing</cmt>
+    <desc>River mouth fishing</desc>
+    <sym>Fishing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.239730000" lon="176.424116000">
+    <time>2005-10-28T06:27:51Z</time>
+    <name>Wairoa Stream</name>
+    <cmt>Wairoa Stream</cmt>
+    <desc>Wairoa Stream</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.128638000" lon="170.728169000">
+    <time>2005-10-28T06:53:38Z</time>
+    <name>Waitaha River Hot Springs</name>
+    <cmt>Waitaha River Hot Springs</cmt>
+    <desc>Waitaha River Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.883600000" lon="174.537550000">
+    <time>2004-11-26T18:26:46Z</time>
+    <name>WAITAK1</name>
+    <cmt>Nice views of the Auckland region</cmt>
+    <desc>Nice views of the Auckland region</desc>
+    <sym>Summit</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-38.038559000" lon="176.549400000">
+    <time>2005-10-28T06:26:06Z</time>
+    <name>Waitangi Soda Springs approx</name>
+    <cmt>Waitangi Soda Springs approx</cmt>
+    <desc>Waitangi Soda Springs approx</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-44.724309000" lon="169.250409000">
+    <time>2005-03-25T04:43:57Z</time>
+    <name>WANAKA</name>
+    <cmt>Wanaka airport - also the Wanaka Warbirds museum a</cmt>
+    <desc>Wanaka airport - also the Wanaka Warbirds museum a</desc>
+    <sym>Museum</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.629700000" lon="169.946268000">
+    <time>2005-10-28T06:59:55Z</time>
+    <name>Welcome Flat Hot Springs</name>
+    <cmt>Welcome Flat Hot Springs</cmt>
+    <desc>Welcome Flat Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.329550000" lon="174.805610000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>WELLINGTON</name>
+    <cmt>Wellington Airport</cmt>
+    <desc>Wellington Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-37.921320000" lon="176.918890000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>WHAKATANE</name>
+    <cmt>Whakatane Airport</cmt>
+    <desc>Whakatane Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-35.770490000" lon="174.360210000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>WHANGAREI</name>
+    <cmt>Whangarei Airport</cmt>
+    <desc>Whangarei Airport</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-36.791020000" lon="174.616420000">
+    <time>2006-06-04T18:44:38Z</time>
+    <name>WHENUAPAI</name>
+    <cmt>Whenuapai Airforce base</cmt>
+    <desc>Whenuapai Airforce base</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-43.552010000" lon="172.547180000">
+    <ele>-0.100000</ele>
+    <time>2004-11-13T04:00:02Z</time>
+    <name>WIGRAM</name>
+    <cmt>Wigram Airbase</cmt>
+    <desc>Wigram Airbase</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-41.517667000" lon="173.868833000">
+    <time>2006-06-04T18:44:38Z</time>
+    <name>WOODBOURNE</name>
+    <cmt>RNZAF Base Woodbourne</cmt>
+    <desc>RNZAF Base Woodbourne</desc>
+    <sym>Airport</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-42.964563000" lon="171.149514000">
+    <time>2005-10-28T06:51:21Z</time>
+    <name>Wren Creek Hot Springs</name>
+    <cmt>Wren Creek Hot Springs</cmt>
+    <desc>Wren Creek Hot Springs</desc>
+    <sym>Swimming Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
