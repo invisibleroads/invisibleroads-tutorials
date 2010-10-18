@@ -16,14 +16,6 @@ Live fully
     life-engineers-collaborate.rst
 
 
-Use `invisibleroads.com <http://invisibleroads.com>`_
------------------------------------------------------
-.. toctree::
-    :maxdepth: 1
-
-    site-goals-use.rst
-
-
 Find objects in satellite images
 --------------------------------
 .. toctree::
