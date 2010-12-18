@@ -19,7 +19,7 @@ For the walkthrough, you will also need the following:
 
 Example
 -------
-Download the :download:`code and data <files/gdal-shapefile-points.zip>`, unzip and start Python
+Download the :download:`code and data <files/gdal-shapefile-points.zip>`, unzip and start Python.
 ::
 
     wget http://invisibleroads.com/tutorials/_downloads/gdal-shapefile-points.zip
@@ -27,7 +27,7 @@ Download the :download:`code and data <files/gdal-shapefile-points.zip>`, unzip 
     cd gdal-shapefile-points
     python
 
-Save points and spatial reference
+Save points and spatial reference.
 ::
 
     import point_store
@@ -39,7 +39,7 @@ Save points and spatial reference
 
 
 Concepts
-------------
+--------
 * A point is a type of geometry stored as a feature.
 * A layer can have many features.
 * A datasource can have many layers.
@@ -58,36 +58,36 @@ Concepts
 
 Walkthrough
 -----------
-Import GDAL
+Import GDAL.
 ::
 
     import osgeo.ogr, osgeo.osr
 
-Set spatial reference
+Set spatial reference.
 ::
 
     spatialReference = osgeo.osr.SpatialReference()
     spatialReference.ImportFromProj4('+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs')
 
-Create shapefile
+Create shapefile.
 ::
     
     driver = osgeo.ogr.GetDriverByName('ESRI Shapefile')
     shapeData = driver.CreateDataSource('points-shifted.shp')
 
-Create layer
+Create layer.
 ::
 
     layer = shapeData.CreateLayer('layer1', spatialReference, osgeo.ogr.wkbPoint)
     layerDefinition = layer.GetLayerDefn()
 
-Create point
+Create point.
 ::
 
     point = osgeo.ogr.Geometry(osgeo.ogr.wkbPoint)
     point.SetPoint(0, 474595, 4429281)
 
-Put point as a geometry inside a feature
+Put point as a geometry inside a feature.
 ::
 
     featureIndex = 0
@@ -95,12 +95,12 @@ Put point as a geometry inside a feature
     feature.SetGeometry(point)
     feature.SetFID(featureIndex)
 
-Put feature in a layer
+Put feature in a layer.
 ::
 
     layer.CreateFeature(feature)
 
-Flush
+Flush.
 ::
 
     shapeData.Destroy()

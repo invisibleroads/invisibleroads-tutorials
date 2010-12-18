@@ -27,8 +27,6 @@ Find objects in satellite images
 
 Design geographic information systems
 -------------------------------------
-.. We are here
-
 .. toctree::
     :maxdepth: 1
 

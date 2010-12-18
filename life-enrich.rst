@@ -3,6 +3,13 @@ Enrich your life
 If something is wrong, you can do something about it.  [#RachelHamilton]_  The continual opportunity to redeem yourself is the gift of life.  [#JoseSaramago]_
 
 
+Eat
+---
+It is easy to forget to eat especially when you are not hungry, but when you are hungry, that is too late.  Eat before you get hungry.  Think of eating as an investment that will converted into work.  If you eat good quality food and enough of it, then you will produce good quality work and enough of it.  This is true for physical and mental labor.
+
+Though it might not seem that way, socializing with people you don't know is safer than isolating yourself.  [#RachelHamilton]_  Eat with people if you can.  Eating together brings team spirit and goodwill.
+
+
 Rest
 ----
 Don't think that when you are resting, you are wasting time.  Not at all!  Rest is essential for productivity.
@@ -19,13 +26,6 @@ Make a rule not to show anyone the contents of your journal.  Then write, write,
 Write when you are confused, sad, happy, disoriented, overwhelmed, annoyed, apathetic, excited.  Make sense of the vague emotions in your life and put things in perspective.
 
 Sometimes it helps to use a question and answer format to make sure you resolve specific issues and other times it is good to ramble and explore on paper different facets of your life.
-
-
-Eat
----
-It is easy to forget to eat especially when you are not hungry, but when you are hungry, that is too late.  Eat before you get hungry.  Think of eating as an investment that will converted into work.  If you eat good quality food and enough of it, then you will produce good quality work and enough of it.  This is true for physical and mental labor.
-
-Though it might not seem that way, socializing with people you don't know is safer than isolating yourself.  [#RachelHamilton]_  Eat with people if you can.  Eating together brings team spirit and goodwill.
 
 
 Exercise

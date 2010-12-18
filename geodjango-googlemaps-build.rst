@@ -8,19 +8,17 @@ By the end of this tutorial you will have built a simple GIS web application for
 
 
 Example
---------
-Make sure that GeoDjango is installed; see :doc:`geodjango-install`
+-------
+Make sure that GeoDjango is installed; see :doc:`geodjango-install`.  **If you are running a 64-bit system, you may have to patch GeoDjango**; see :ref:`geodjango-patch`.
 
-**If you are running a 64-bit system, you may have to patch GeoDjango**; see :ref:`geodjango-patch`
-
-Start PostgreSQL server
+Start PostgreSQL server.
 ::
     
     su
     service postgresql start
     exit
 
-Create PostgreSQL user and PostGIS database
+Create PostgreSQL user and PostGIS database.
 ::
 
     su - postgres
@@ -28,37 +26,37 @@ Create PostgreSQL user and PostGIS database
     createdb -T template_postgis -O YOUR-USERNAME geodjango-googlemaps
     exit
 
-Download the :download:`code and data <files/geodjango-googlemaps.zip>`
+Download the :download:`code and data <files/geodjango-googlemaps.zip>`.
 ::
     
     wget http://invisibleroads.com/tutorials/_downloads/geodjango-googlemaps.zip
     unzip geodjango-googlemaps.zip
     cd geodjango-googlemaps
 
-Create database configuration file ".database" with the following information on each line
+Create database configuration file ``.database`` with the following information on each line.
 ::
 
     geodjango-googlemaps
     YOUR-USERNAME
     YOUR-PASSWORD
 
-Setup tables
+Setup tables.
 ::
     
     python manage.py syncdb
 
-Run server
+Run server.
 ::
     
     python manage.py runserver
 
-Go to http://localhost:8000 and experiment with the application
+Go to http://localhost:8000 and experiment with the application.
 
-1. Upload a GPX file of waypoints
-2. Click on a waypoint to see its position on the map
-3. Drag a waypoint marker on the map to adjust its position
-4. Save your changes
-5. Enter an address and rank waypoints by distance from address
+1. Upload a GPX file of waypoints.
+2. Click on a waypoint to see its position on the map.
+3. Drag a waypoint marker on the map to adjust its position.
+4. Save your changes.
+5. Enter an address and rank waypoints by distance from address.
 
 
 Dependencies
@@ -72,13 +70,12 @@ Dependencies
 Walkthrough
 -----------
 
+
 .. _geodjango-patch:
 
 Patch GeoDjango
-^^^^^^^^^^^^^^^^^^^^^^
-Depending on your version of Django, you may have to patch some of the
-Django code.  Specifically, you may have to edit `base.py` in GeoDjango's
-GDAL wrapper so that it handles long pointers on 64-bit systems.
+^^^^^^^^^^^^^^^
+Depending on your version of Django, you may have to patch some of the Django code.  Specifically, you may have to edit `base.py` in GeoDjango's GDAL wrapper so that it handles long pointers on 64-bit systems.
 
 Old `django/contrib/gis/gdal/base.py`
 ::
@@ -92,7 +89,6 @@ Old `django/contrib/gis/gdal/base.py`
             self._ptr = ptr
         else:
             raise TypeError('Incompatible pointer type')
-
 
 New `django/contrib/gis/gdal/base.py`
 ::
@@ -110,12 +106,9 @@ New `django/contrib/gis/gdal/base.py`
 Thanks to Ronald Kemker for the patch and thanks to Justin Bronn for closing the ticket: http://code.djangoproject.com/ticket/11609
 
 
-
 Create spatial database
 ^^^^^^^^^^^^^^^^^^^^^^^
-If you are using the default PostgreSQL configuration, then you 
-need to have a PostgreSQL account with the same name as your Linux 
-account; see :ref:`postgresql-default`
+If you are using the default PostgreSQL configuration, then you need to have a PostgreSQL account with the same name as your Linux account; see :ref:`postgresql-default`.
 ::
 
     su - postgres
@@ -123,9 +116,7 @@ account; see :ref:`postgresql-default`
     createdb -T template_postgis -O YOUR-USERNAME geodjango-googlemaps
     exit
 
-If you are using the alternate PostgreSQL configuration, then 
-you can set postgres to be the owner of the database, although this 
-is less secure; see :ref:`postgresql-alternate`
+If you are using the alternate PostgreSQL configuration, then you can set postgres to be the owner of the database, although this is less secure; see :ref:`postgresql-alternate`.
 ::
 
     su - postgres
@@ -135,7 +126,7 @@ is less secure; see :ref:`postgresql-alternate`
 
 Create GeoDjango project
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Start a new project and an application
+Start a new project and an application.
 ::
 
     django-admin.py startproject application
@@ -145,7 +136,7 @@ Start a new project and an application
 
 Configure settings
 """"""""""""""""""
-Add the following lines to the top of ``settings.py``
+Add the following lines to the top of ``settings.py``.
 ::
 
     # Import system modules
@@ -155,7 +146,7 @@ Add the following lines to the top of ``settings.py``
     fillPath = lambda x: os.path.join(baseDirectory, x)
     staticPath, templatePath = map(fillPath, ['static', 'templates'])
 
-Change the following parameters in ``settings.py`` as indicated
+Change the following parameters in ``settings.py`` as indicated.
 ::
 
     MEDIA_ROOT = staticPath
@@ -173,8 +164,7 @@ Change the following parameters in ``settings.py`` as indicated
         'application.waypoints',
     )
 
-Set your database connection parameters in ``settings.py`` according 
-to your PostgreSQL configuration
+Set your database connection parameters in ``settings.py`` according to your PostgreSQL configuration.
 ::
 
     DATABASE_ENGINE = 'postgresql_psycopg2'
@@ -188,12 +178,12 @@ to your PostgreSQL configuration
     DATABASE_USER = postgres
     DATABASE_PASSWORD = YOUR-POSTGRES-PASSWORD
 
-Create subfolders in the project folder ``application``
+Create subfolders in the project folder ``application``.
 ::
     
     mkdir static templates templates/waypoints
 
-Place a copy of the `jQuery <http://jquery.com>`_ library in the ``static`` folder
+Place a copy of the `jQuery <http://jquery.com>`_ library in the ``static`` folder.
 ::
 
     cd static
@@ -219,7 +209,7 @@ Edit ``waypoints/models.py``; the *geometry* attribute contains the geospatial i
         def __unicode__(self):
             return '%s %s %s' % (self.name, self.geometry.x, self.geometry.y)
 
-Create tables
+Create tables.
 ::
 
     python manage.py syncdb
@@ -254,7 +244,7 @@ Edit ``urls.py``; the code at the end enables ``python manage.py runserver`` to 
         )
 
 
-Create ``waypoints/urls.py`` and add the following code
+Create ``waypoints/urls.py`` and add the following code.
 ::
 
     # Import django modules
@@ -265,9 +255,10 @@ Create ``waypoints/urls.py`` and add the following code
         url(r'^$', 'index', name='waypoints-index'),
     )
 
+
 Test
 """"
-Edit ``waypoints/views.py`` and add the following code
+Edit ``waypoints/views.py`` and add the following code.
 ::
     
     from django.http import HttpResponse
@@ -276,21 +267,23 @@ Edit ``waypoints/views.py`` and add the following code
     def index(request):
         return HttpResponse('Hello')
 
-Run development server
+Run development server.
 ::
 
     python manage.py runserver
 
-Go to http://localhost:8000
+Go to http://localhost:8000 in your browser.
 
 .. image:: images/geodjango-googlemaps-project-create.png
 
 
 View map
 ^^^^^^^^
+
+
 Create url
 """"""""""
-Make sure that ``waypoints/urls.py`` has an index
+Make sure that ``waypoints/urls.py`` has an index.
 ::
 
     # Import django modules
@@ -301,9 +294,10 @@ Make sure that ``waypoints/urls.py`` has an index
         url(r'^$', 'index', name='waypoints-index'),
     )
 
+
 Create template
 """""""""""""""
-Create the template ``templates/waypoints/index.html``
+Create the template ``templates/waypoints/index.html``.
 ::
 
     <!doctype html>
@@ -339,7 +333,7 @@ Create the template ``templates/waypoints/index.html``
 
 Create view
 """""""""""
-Edit ``waypoints/views.py``
+Edit ``waypoints/views.py``.
 ::
 
     from django.shortcuts import render_to_response
@@ -348,9 +342,10 @@ Edit ``waypoints/views.py``
         return render_to_response('waypoints/index.html', {
         })
 
+
 Test
 """"
-Run development server
+Run development server.
 ::
 
     python manage.py runserver
@@ -362,16 +357,18 @@ Go to http://localhost:8000
 
 View waypoints
 ^^^^^^^^^^^^^^
+
+
 Modify template
 """""""""""""""
-Add a script link to the `jQuery <http://jquery.com>`_ library below the script link to the Google Maps API in ``templates/waypoints/index.html``
+Add a script link to the `jQuery <http://jquery.com>`_ library below the script link to the Google Maps API in ``templates/waypoints/index.html``.
 ::
 
     <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=x">
     </script>
     <script src="/static/jquery-1.3.2.min.js"></script>
 
-Add Javascript code for displaying waypoint markers
+Add Javascript code for displaying waypoint markers.
 ::
 
     <script>
@@ -406,7 +403,7 @@ Add Javascript code for displaying waypoint markers
     });
     </script>
 
-Add styles for the waypoint content box
+Add styles for the waypoint content box.
 ::
 
     <style>
@@ -419,14 +416,14 @@ Add styles for the waypoint content box
         .linkON {color: white; background-color: darkblue}
     </style>
 
-Finally, add the waypoint content box in the body
+Finally, add the waypoint content box in the body.
 ::
 
     <div id=waypoints>
         {{content}}
     </div>
 
-Your ``templates/waypoints/index.html`` template should resemble the following
+Your ``templates/waypoints/index.html`` template should resemble the following.
 ::
 
     <!doctype html>
@@ -496,7 +493,7 @@ Your ``templates/waypoints/index.html`` template should resemble the following
     </body>
     </html>
 
-Create another template for displaying waypoint content in ``templates/waypoints/waypoints.html``
+Create another template for displaying waypoint content in ``templates/waypoints/waypoints.html``.
 ::
 
     {% for waypoint in waypoints %}
@@ -508,7 +505,7 @@ Create another template for displaying waypoint content in ``templates/waypoints
 
 Modify view
 """""""""""
-Modify *index* in ``waypoints/views.py``
+Modify *index* in ``waypoints/views.py``.
 ::
 
     # Import django modules
@@ -527,7 +524,7 @@ Modify *index* in ``waypoints/views.py``
 
 Test
 """"
-Create data
+Create data.
 ::
     
     from waypoints.models import Waypoint
@@ -537,7 +534,7 @@ Create data
     Waypoint(name='Atlanta', geometry='POINT(-84.3896630 33.7544870)').save()
     print Waypoint.objects.all()
 
-Run development server
+Run development server.
 ::
 
     python manage.py runserver
@@ -549,9 +546,11 @@ Go to http://localhost:8000 and click on a waypoint in the content box
 
 Edit waypoints
 ^^^^^^^^^^^^^^
+
+
 Create url
 """"""""""
-Add *save* to ``waypoints/urls.py``
+Add *save* to ``waypoints/urls.py``.
 ::
 
     # Import django modules
@@ -563,9 +562,10 @@ Add *save* to ``waypoints/urls.py``
         url(r'^save$', 'save', name='waypoints-save'),
     )
 
+
 Modify template
 """""""""""""""
-Update jQuery's ``$(document).ready()`` construct in ``templates/waypoints/index.html``
+Update jQuery's ``$(document).ready()`` construct in ``templates/waypoints/index.html``.
 ::
 
     var current_object;
@@ -611,7 +611,7 @@ Update jQuery's ``$(document).ready()`` construct in ``templates/waypoints/index
         activate_waypoints();
     });
 
-Add a button to the body
+Add a button to the body.
 ::
 
     <div id=waypoints>
@@ -622,7 +622,7 @@ Add a button to the body
 
 Create view
 """""""""""
-Add *save* to ``waypoints/views.py``
+Add *save* to ``waypoints/views.py``.
 ::
 
     from django.http import HttpResponse
@@ -637,23 +637,26 @@ Add *save* to ``waypoints/views.py``
             waypoint.save()
         return HttpResponse('ok')
 
+
 Test
 """"
-Run development server
+Run development server.
 ::
 
     python manage.py runserver
 
-Go to http://localhost:8000, drag a waypoint to a new location and save
+Go to http://localhost:8000, drag a waypoint to a new location and save.
 
 .. image:: images/geodjango-googlemaps-waypoints-save.png
+
 
 Rank waypoints by distance from address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
 Create url
 """"""""""
-Add *search* to ``waypoints/urls.py``
+Add *search* to ``waypoints/urls.py``.
 ::
 
     # Import django modules
@@ -666,9 +669,10 @@ Add *search* to ``waypoints/urls.py``
         url(r'^search$', 'search', name='waypoints-search'),
     )
 
+
 Modify template
 """""""""""""""
-Add a geocoder to ``templates/waypoints/index.html``
+Add a geocoder to ``templates/waypoints/index.html``.
 ::
 
     var map, marker, geocoder, current_object;
@@ -681,7 +685,7 @@ Add a geocoder to ``templates/waypoints/index.html``
             geocoder = new GClientGeocoder();
         }
 
-Insert the following code within jQuery's ``$(document).ready()`` construct
+Insert the following code within jQuery's ``$(document).ready()`` construct.
 ::
 
     $('#button_search').click(function () {
@@ -700,7 +704,7 @@ Insert the following code within jQuery's ``$(document).ready()`` construct
         });
     });
 
-Add a *search* button to the body after the *save* button
+Add a *search* button to the body after the *save* button.
 ::
 
     <input id=input_search value="Chicago, IL"> 
@@ -708,9 +712,10 @@ Add a *search* button to the body after the *save* button
         value='Rank waypoints by distance from address' 
         id=button_search>
 
+
 Create view
 """""""""""
-Add *search* to ``waypoints/views.py``
+Add *search* to ``waypoints/views.py``.
 ::
 
     from django.contrib.gis.geos import Point
@@ -735,24 +740,26 @@ Add *search* to ``waypoints/views.py``
         # Return
         return HttpResponse(simplejson.dumps(json))
 
+
 Test
 """"
-Run development server
+Run development server.
 ::
 
     python manage.py runserver
 
-Go to http://localhost:8000, type an address and rank by distance from address
+Go to http://localhost:8000, type an address and rank by distance from address.
 
 .. image:: images/geodjango-googlemaps-waypoints-search.png
 
 
-
 Upload waypoints from GPX file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 Create url
 """"""""""
-Add *upload* to ``waypoints/urls.py``
+Add *upload* to ``waypoints/urls.py``.
 ::
 
     # Import django modules
@@ -766,9 +773,10 @@ Add *upload* to ``waypoints/urls.py``
         url(r'^upload$', 'upload', name='waypoints-upload'),
     )
 
+
 Create template
 """""""""""""""
-Add the *upload* form above the map in ``templates/waypoints/index.html``
+Add the *upload* form above the map in ``templates/waypoints/index.html``.
 ::
 
     <form enctype="multipart/form-data" method=post action="{% url waypoints-upload %}">
@@ -776,9 +784,10 @@ Add the *upload* form above the map in ``templates/waypoints/index.html``
         <input type=submit value='Upload GPX'>
     </form>
 
+
 Create view
 """""""""""
-Add *upload* view in ``waypoints/views.py``
+Add *upload* view in ``waypoints/views.py``.
 ::
     
     from django.http import HttpResponseRedirect
@@ -814,9 +823,10 @@ Add *upload* view in ``waypoints/views.py``
         # Redirect
         return HttpResponseRedirect(reverse('waypoints-index'))
 
+
 Test
 """"
-Run development server
+Run development server.
 ::
 
     python manage.py runserver
@@ -829,12 +839,15 @@ Go to http://localhost:8000 and upload a GPX file such as the `New Zealand Touri
 Troubleshooting
 ---------------
 
+
 Google Maps
 ^^^^^^^^^^^
+
 
 Google Maps hangs
 """""""""""""""""
 Google Maps occasionally hangs after a redirect when Firebug is enabled.  Disabling Firebug or restarting your browser will resolve this problem.
+
 
 Google Maps API key is invalid
 """"""""""""""""""""""""""""""

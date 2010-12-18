@@ -14,31 +14,30 @@ Download `GeoServer <http://geoserver.org>`_
 
 Test GeoServer
 ^^^^^^^^^^^^^^
-Set JAVA_HOME environment variable
+Set JAVA_HOME environment variable.
 ::
     
     export JAVA_HOME=/usr/lib/jvm/jre/
 
-Unzip and run ``bin/startup.sh``
+Unzip and run ``bin/startup.sh``.
 ::
     
     unzip geoserver-1.7.3a-bin.zip
     cd geoserver-1.7.3/bin
     ./startup.sh
 
-Go to http://localhost:8080/geoserver
+Go to http://localhost:8080/geoserver in your browser.
 
 
 Install GeoServer to load at boot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Copy geoserver files to ``/usr/local/geoserver``
+Copy geoserver files to ``/usr/local/geoserver``.
 ::
    
     su
     cp -R geoserver-1.7.3 /usr/local/geoserver
 
-Add the following lines to the end of ``/etc/rc.local``
+Add the following lines to the end of ``/etc/rc.local``.
 ::
 
     export JAVA_HOME=/usr/lib/jvm/jre/

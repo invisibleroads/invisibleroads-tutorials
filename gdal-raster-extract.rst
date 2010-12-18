@@ -8,14 +8,13 @@ Extract and display raster windows from 16-bit satellite imagery using pixel coo
 
 
 Example
--------------
+-------
 Make sure all dependencies are installed.
 ::
     
     yum install gdal gdal-python numpy python-imaging ipython wxPython qgis
 
-Download the :download:`code and data <files/gdal-raster-extract.zip>` and run
-the scripts
+Download the :download:`code and data <files/gdal-raster-extract.zip>` and run the scripts
 ::
 
     wget http://invisibleroads.com/tutorials/_downloads/gdal-raster-extract.zip
@@ -25,35 +24,32 @@ the scripts
     python ../extractSamples.py multispectral.tif panchromatic.tif locations.shp
     python ../browseSamples.py
 
-Open the generated SQLite database `samples.db` and browse the extracted samples.
-Below you can see the first sample with the four low-resolution multispectral
-bands on the left and the high-resolution panchromatic band on the right.
+Open the generated SQLite database ``samples.db`` and browse the extracted samples.  Below you can see the first sample with the four low-resolution multispectral bands on the left and the high-resolution panchromatic band on the right.
 
 .. image:: images/gdal-raster-extract-browse.png
 
 
 Requirements
--------------
+------------
 * `Python <http://www.python.org>`_ 
 * `Geospatial Data Abstraction Library <http://www.gdal.org>`_
 * `Numpy <http://numpy.scipy.org>`_
 * `IPython <http://ipython.scipy.org/>`_
 
-To run browseSamples.py, you will also need the following:
+To run ``browseSamples.py``, you will also need the following:
 
 * `Python Imaging Library <http://www.pythonware.com/products/pil/>`_
 * `wxPython <http://www.wxpython.org/>`_
 
 
 Walkthrough
--------------
+-----------
 Make sure all dependencies are installed.
 ::
     
     yum install gdal gdal-python numpy python-imaging ipython wxPython qgis
 
-Download the :download:`code and data <files/gdal-raster-extract.zip>`
-and start IPython
+Download the :download:`code and data <files/gdal-raster-extract.zip>` and start IPython.
 ::
 
     wget http://invisibleroads.com/tutorials/_downloads/gdal-raster-extract.zip
@@ -87,14 +83,7 @@ The package contains two scripts and example data as well as supporting library 
     window_process.py
     view.py
 
-The example data contains a low-resolution multispectral image, 
-a high-resolution panchromatic image and several hand-marked locations 
-of buildings in the image.  The imagery shows a region of Boulder, Colorado
-cropped from DigitalGlobe's sample standard 16-bit imagery.  
-Note that for higher geo-referencing accuracy, you would probably use ortho-ready 
-imagery instead of the coarsely-orthorectified standard imagery and perform 
-orthorectification yourself using a high-resolution digital elevation model (DEM) 
-as described in the tutorial :doc:`envi-image-orthorectify`.
+The example data contains a low-resolution multispectral image, a high-resolution panchromatic image and several hand-marked locations of buildings in the image.  The imagery shows a region of Boulder, Colorado cropped from DigitalGlobe's sample standard 16-bit imagery.  Note that for higher geo-referencing accuracy, you would probably use ortho-ready imagery instead of the coarsely-orthorectified standard imagery and perform orthorectification yourself using a high-resolution digital elevation model (DEM) as described in the tutorial :doc:`envi-image-orthorectify`.
 
 Multispectral image with locations
 
@@ -108,17 +97,14 @@ Panchromatic image with locations
 .. _gdal-raster-extract-pixel:
 
 Extract raster window from satellite image using a pixel location
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Load panchromatic image
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Load panchromatic image.
 ::
 
     import osgeo.gdal
     imageDataset = osgeo.gdal.Open('examples/panchromatic.tif')
 
-Define methods that we will use later.  Note that we use `pylab.imshow()` 
-because PIL's Image class has difficulty handling 16-bit image data.  We want 
-to keep the 16-bit values because each raw image bit has potential information 
-in remote sensing.
+Define methods that we will use later.  Note that we use `pylab.imshow()` because PIL's Image class has difficulty handling 16-bit image data.  We want to keep the 16-bit values because each raw image bit has potential information in remote sensing.
 ::
 
     import struct, numpy, pylab
@@ -143,7 +129,7 @@ in remote sensing.
         return extractWindow(centeredPixelX, centeredPixelY, pixelWidth, pixelHeight)
 
 
-Extract a 100x100 pixel window near the middle of the image
+Extract a 100x100 pixel window near the middle of the image.
 ::
 
     extractCenteredWindow(imageDataset.RasterXSize / 2, imageDataset.RasterYSize / 2, 100, 100)
@@ -155,16 +141,14 @@ Extract a 100x100 pixel window near the middle of the image
 
 Extract raster window from satellite image using a geo location
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-To extract raster windows using geocoordinates, we must convert the geocoordinates to their 
-corresponding pixel locations in the image.  Each image has a set of numbers called the 
-*GeoTransform* that tell us how to convert between geo locations and pixel locations.
+To extract raster windows using geocoordinates, we must convert the geocoordinates to their corresponding pixel locations in the image.  Each image has a set of numbers called the *GeoTransform* that tell us how to convert between geo locations and pixel locations.
 
-Get image georeferencing information
+Get image georeferencing information.
 ::
 
     g0, g1, g2, g3, g4, g5 = imageDataset.GetGeoTransform()
 
-Define conversion methods
+Define conversion methods.
 ::
 
     def convertGeoLocationToPixelLocation(geoLocation):
@@ -180,19 +164,18 @@ Define conversion methods
     def convertGeoDimensionsToPixelDimensions(geoWidth, geoHeight):
         return int(round(abs(float(geoWidth) / g1))), int(round(abs(float(geoHeight) / g5)))
 
-Load locations from shapefile.  For details, please see the tutorial
-:doc:`gdal-shapefile-points-load`.
+Load locations from shapefile.  For details, please see the tutorial :doc:`gdal-shapefile-points-load`.
 ::
 
     from libraries import point_store
     geoLocations, spatialReference = point_store.load('examples/locations.shp')
 
-Convert the first geo location to a pixel location
+Convert the first geo location to a pixel location.
 ::
 
     windowPixelX, windowPixelY = convertGeoLocationToPixelLocation(geoLocations[0])
 
-Convert window dimensions from 25 meters to their equivalent in pixels
+Convert window dimensions from 25 meters to their equivalent in pixels.
 ::
 
     windowPixelWidth, windowPixelHeight = convertGeoDimensionsToPixelDimensions(25, 25)

@@ -4,11 +4,11 @@ Load point coordinates and their spatial reference from a shapefile.  We first p
 
 .. raw:: html
 
-    <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/7Kj0A7dQGxc&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7Kj0A7dQGxc&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+    <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/5XkrYU-R4Co?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5XkrYU-R4Co?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
 Requirements
--------------------
+------------
 * `Python <http://python.org>`_ 
 * `Geospatial Data Abstraction Library <http://gdal.org>`_
 
@@ -27,7 +27,7 @@ Download the :download:`code and data <files/gdal-shapefile-points.zip>`, unzip 
     cd gdal-shapefile-points
     python
 
-Load points and spatial reference
+Load points and spatial reference.
 ::
 
     >>> import point_store
@@ -41,38 +41,38 @@ Load points and spatial reference
 
 
 Walkthrough
--------------------
-Download the :download:`code and data <files/gdal-shapefile-points.zip>`
+-----------
+Download the :download:`code and data <files/gdal-shapefile-points.zip>`.
 ::
 
     wget http://invisibleroads.com/tutorials/_downloads/gdal-shapefile-points.zip
     unzip gdal-shapefile-points.zip
     cd gdal-shapefile-points
 
-You can peek at the contents of the shapefile using `Quantum GIS <http://qgis.org/>`_
+You can peek at the contents of the shapefile using `Quantum GIS <http://qgis.org/>`_.
 
 .. image:: images/gdal-shapefile-points-load-qgis.png
 
 
 Open shapefile
-^^^^^^^^^^^^^^^^^^^^
-Start IPython
+^^^^^^^^^^^^^^
+Start IPython.
 ::
 
     ipython
 
-Import GDAL
+Import GDAL.
 ::
 
     >>> import osgeo.ogr
 
-Make sure are in the same directory as the shapefile
+Make sure we are in the same directory as the shapefile.
 ::
     
     >>> ls
     points.dbf*  points.prj*  points.shp*  points.shx*  point_store.py*
 
-Open the shapefile
+Open the shapefile.
 ::
 
     >>> shapeData = osgeo.ogr.Open('points.shp')
@@ -81,8 +81,8 @@ Open the shapefile
 
 
 Examine shapefile
-^^^^^^^^^^^^^^^^^^^^^^
-Type "shapeData." and press TAB to see what you can do 
+^^^^^^^^^^^^^^^^^
+Type ``shapeData.`` and press TAB to see what you can do.
 ::
 
     >>> shapeData.
@@ -101,25 +101,25 @@ Type "shapeData." and press TAB to see what you can do
     shapeData.GetRefCount          shapeData.__hash__             shapeData.name
     shapeData.GetSummaryRefCount   shapeData.__init__             shapeData.this
 
-Get the first layer
+Get the first layer.
 ::
 
     >>> layer = shapeData.GetLayer()
 
-Count the number of features in a layer
+Count the number of features in a layer.
 ::
 
     >>> layer.GetFeatureCount()
     3
 
-Get the spatial reference of the layer
+Get the spatial reference of the layer.
 ::
 
     >>> spatialReference = layer.GetSpatialRef()
     >>> spatialReference.ExportToProj4()
     '+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs '
 
-Examine the first point
+Examine the first point.
 ::
 
     >>> feature = layer.GetFeature(0)
@@ -131,8 +131,8 @@ Examine the first point
 
 
 Get points
-^^^^^^^^^^^^^^^^^^^^^^
-Collect points in a list
+^^^^^^^^^^
+Collect points in a list.
 ::
 
     shapeData = osgeo.ogr.Open('points.shp')
@@ -143,7 +143,7 @@ Collect points in a list
         geometry = feature.GetGeometryRef()
         points.append((geometry.GetX(), geometry.GetY()))
 
-Display points
+Display points.
 ::
 
     >>> points
@@ -153,5 +153,5 @@ Display points
 
 
 Code
--------
+----
 .. literalinclude:: files/gdal-shapefile-points/point_store.py

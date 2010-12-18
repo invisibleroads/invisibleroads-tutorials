@@ -16,7 +16,7 @@ Walkthrough
 -----------
 
 Locate satellite images
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 First locate your images.  Below are the typical contents of satellite data acquired from the QuickBird satellite.
 ::
 
@@ -92,7 +92,7 @@ The ``005613412020_01_P001_MUL`` folder contains the multispectral images and th
 
 
 Locate digital elevation model
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Orthorectification requires a digital elevation model, which are measurements of elevation at each geolocation.  Results from the latest Shuttle Radar Topography Mission are provided free at the `CGIAR-CSI SRTM 90m DEM Digital Elevation Database <http://srtm.csi.cgiar.org>`_.
 
 .. image:: images/srtm-home.png
@@ -105,7 +105,7 @@ Download your localized SRTM data as a GeoTiff image.
 
 
 Perform orthorectification
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 Start ENVI and choose Map > Orthorectification > QuickBird > Orthorectify QuickBird.  Open the satellite image you want to orthorectify and click OK.
 
 .. image:: images/envi-image-orthorectify1.png
@@ -121,9 +121,9 @@ The ENVI documentation recommends using Nearest Neighbor resampling to preserve 
 
 Select elevation model.
 
-* Click on ``Select DEM File``
+* Click on Select DEM File
 * Open the SRTM GeoTiff image
-* Select ``Band 1`` 
+* Select Band 1
 * Click OK
 
 Begin orthorectification

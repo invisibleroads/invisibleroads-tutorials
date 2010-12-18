@@ -2,18 +2,20 @@ List geospatial software
 ========================
 Web frameworks
 --------------
+* `Pylons <http://pylonshq.com>`_
 * `GeoDjango <http://geodjango.org>`_ through `Django <http://www.djangoproject.com>`_
 * `MapFish <http://www.mapfish.org>`_ through `Pylons <http://pylonshq.com>`_
 
 Client-side mapping
 -------------------
+* `Polymaps <http://polymaps.org>`_
 * `OpenLayers <http://openlayers.org>`_
 * `Google Maps API <http://code.google.com/apis/maps>`_
 
 Server-side mapping
 -------------------
-* `GeoServer <http://geoserver.org>`_
 * `Mapnik <http://mapnik.org>`_
+* `GeoServer <http://geoserver.org>`_
 * `MapServer <http://mapserver.org>`_
 
 Databases
@@ -45,3 +47,4 @@ Javascript
 Web hosting
 -----------
 * `WebFaction <http://www.webfaction.com?affiliate=starsareblue>`_
+* `Slicehost <http://www.slicehost.com>`_
