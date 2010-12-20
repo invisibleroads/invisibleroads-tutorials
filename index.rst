@@ -1,8 +1,7 @@
 Tutorials
 =========
-For updates, please see http://twitter.com/invisibleroads
-
-For projects, please see http://github.com/invisibleroads
+- For updates, please see http://twitter.com/invisibleroads
+- For projects, please see http://github.com/invisibleroads
 
 
 Find objects in satellite images
@@ -58,10 +57,3 @@ Live fully
     life-skills-train
     life-workshops-run
     life-engineers-collaborate.rst
-
-
-Indices
-=======
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
