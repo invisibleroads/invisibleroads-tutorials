@@ -1,6 +1,5 @@
 Run a hands-on technical workshop
 =================================
-I will add to this manual as I learn more about the art of running a workshop
 
 
 Prepare
@@ -12,16 +11,16 @@ Break content into short, self-contained modules.  It is easier to retain small 
 
 Keep sessions short
 ^^^^^^^^^^^^^^^^^^^
-Limit your session to one and half hours maximum.  The shorter your session, the more likely people will be able to fit it into their schedule.  [#EricLee]_
+Limit your session to one and half hours.  The shorter your session, the more likely people will be able to fit it into their schedule.
 
-Consider spreading your class over multiple sessions.  Either teach in depth or or in breadth but you must pack it into one and a half hours or less.  [#EricLee]_
+Consider spreading your class over multiple sessions.
 
-If your location requires that you reserve the room for longer than a single session, consider holding multiple sessions with different sets of people in tandem.  [#EricLee]_
+If your location requires that you reserve the room for longer than a single session, consider holding multiple sessions with different sets of people in tandem.
 
 
 Validate configurations
 ^^^^^^^^^^^^^^^^^^^^^^^
-Publish the list of requirements, possibly with unit tests, so that each student can install the required packages before the day of the workshop.  Reserve time before the workshop in case students have trouble installing packages.  [#EricLee]_
+Publish the list of requirements, possibly with unit tests, so that each student can install the required packages before the day of the workshop.  Reserve time before the workshop in case students have trouble installing packages.
 
 
 Make reservations after enough people have confirmed registration
@@ -70,7 +69,7 @@ For larger workshops, it helps to pair students so that they can teach each othe
 
 Review agenda
 ^^^^^^^^^^^^^
-Review the agenda of topics at the beginning and have a visual roadmap readily available so people can see where each topic fits in a broader context.  [#EricLee]_
+Review the agenda of topics at the beginning and have a visual roadmap readily available so people can see where each topic fits in a broader context.
 
 
 Maximize one-on-one interaction
@@ -80,7 +79,7 @@ This is a workshop, not a lecture!  Walk around, evaluate each student's situati
 
 Encourage participatory performance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Give opportunities for students to perform.  For the most part, students will love it!  [#MarkGrenier]_
+Give opportunities for students to perform.  For the most part, students will love it!
 
 
 Follow-up
@@ -98,7 +97,5 @@ It is the only way you will learn how to improve.
 .. rubric:: Footnotes
 
 .. [#CathaleenKayoorawongs] Credit to Cathaleen Kaiyoorawongs.
-.. [#EricLee] Credit to Eric Lee.
 .. [#BrandonLevi] Credit to Brandon Levi and his Muay Thai class at `Evolution Muay Thai <http://evolutionmuaythai.com>`_.
-.. [#MarkGrenier] Credit to Mark Grenier and his improv comedy class at `Magnet Theater <http://magnettheater.com>`_.
 .. [#EntrepreneurPress] *Start Your Own Seminar Production Business*. Entrepreneur Magazine, 2008.

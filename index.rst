@@ -1,19 +1,6 @@
 Tutorials
 =========
-We hope you find these tutorials useful.  We publish a new set of tutorials every month.  You are also welcome to visit our main site at `invisibleroads.com <http://invisibleroads.com>`_.
-
-
-Live fully
-----------
-.. toctree::
-    :maxdepth: 1
-
-    life-reminders-list
-    life-goals-reach
-    life-enrich
-    life-skills-train
-    life-workshops-run
-    life-engineers-collaborate.rst
+For updates, please see http://twitter.com/invisibleroads
 
 
 Find objects in satellite images
@@ -56,6 +43,19 @@ Automate Windows applications with win32com
     skype-call-win32com
     notes-mail-read-win32com
     pdf-convert-acrobat-win32com
+
+
+Live fully
+----------
+.. toctree::
+    :maxdepth: 1
+
+    life-reminders-list
+    life-goals-reach
+    life-enrich
+    life-skills-train
+    life-workshops-run
+    life-engineers-collaborate.rst
 
 
 Indices

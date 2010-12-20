@@ -90,7 +90,7 @@ Use your credentials to connect to the Domino server using win32com.  For the ``
 
 
 Browse folders
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 In Lotus Notes, the mailbox folders are a subset of the views in the database.
 ::
 
@@ -103,7 +103,7 @@ You may recognize some of your mailbox folders.  Standard folders have special n
 
 
 Load message
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
 The COM interface has an iterator for cycling through the messages in a folder.  We'll wrap the iterator in a generator.
 ::
 
@@ -142,7 +142,7 @@ We can retrieve the other fields in a similar fashion.
 
 
 Load attachments
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 Define a function for reserving a temporary file.
 ::
 

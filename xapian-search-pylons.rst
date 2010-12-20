@@ -17,6 +17,8 @@ Requirements
 
 Command-line experimentation
 ----------------------------
+
+
 Install Xapian
 ^^^^^^^^^^^^^^
 Xapian is available on most platforms including Linux, Mac OS X and Windows.
@@ -49,16 +51,17 @@ Query documents from the command-line
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Most of the work in a query happens before the query itself, when the documents are indexed for potential keywords.  The quality of indexing determines the speed of the search engine.
 
+
 Index documents
 """""""""""""""
-Download the :download:`collection of poems by Zbigniew Herbert <files/zbigniew-herbert.zip>`
+Download the :download:`collection of poems by Zbigniew Herbert <files/zbigniew-herbert.zip>`.
 ::
     
     wget http://invisibleroads.com/tutorials/_downloads/zbigniew-herbert.zip
     unzip zbigniew-herbert.zip
     cd zbigniew-herbert
 
-Start IPython
+Start IPython.
 ::
 
     ipython
@@ -78,7 +81,7 @@ Create a new Xapian database in a new folder.  Remember the location of this dat
     # Create the Xapian database
     database = xapian.WritableDatabase(databasePath, xapian.DB_CREATE_OR_OPEN)
 
-Prepare document indexer and set the word stemmer to the English language
+Prepare document indexer and set the word stemmer to the English language.
 ::
 
     # Initialize indexer
@@ -86,7 +89,7 @@ Prepare document indexer and set the word stemmer to the English language
     # Set word stemmer to English
     indexer.set_stemmer(xapian.Stem('english'))
 
-Index each text document using Python's standard glob module
+Index each text document using Python's standard glob module.
 ::
 
     # Import the glob module for file system browsing
@@ -196,8 +199,9 @@ Suppose you wanted to be able to order your results by date.  If you can index t
     enquire.set_docid_order(Xapian::Enquire::DESCENDING) # Newest first
     enquire.set_docid_order(Xapian::Enquire::ASCENDING)  # Oldest first
 
+
 Order documents by date using value
-""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""
 However, if you cannot guarantee that you will index documents in the same order as their date, then you can store the date as a value associated with the document.  For example, when indexing mail downloaded from an IMAP server, there is no guarantee that you will be receiving messages in the order that they were sent.  Xapian has empty slots associated with each document that you can use to store strings or numbers converted into strings.  We will use the ``xapian.Document.add_value()`` method.
 ::
 
@@ -537,6 +541,7 @@ Web application development
 ---------------------------
 Let's take what we learned from the command-line and create a web interface to the search engine.
 
+
 Install setuptools
 ^^^^^^^^^^^^^^^^^^
 The setuptools Python module is an easy way to install third-party packages such as Pylons.  On Fedora 11, python-setuptools is a YUM package.
@@ -546,6 +551,7 @@ The setuptools Python module is an easy way to install third-party packages such
     yum install python-setuptools
 
 For Windows, you can download `ez_setup.py <http://peak.telecommunity.com/dist/ez_setup.py>`_ and run it using the Python distribution of your choice.
+
 
 Install Pylons
 ^^^^^^^^^^^^^^
@@ -560,9 +566,11 @@ You might also want to update the ``WebOb`` module.
 
     easy_install -U WebOb==dev
 
+
 Create a simple search page
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Here you will take the Xapian database you created in the first section and wrap a Pylons web interface around it.
+
 
 Create Pylons project
 """""""""""""""""""""
@@ -603,6 +611,7 @@ Most of the files you will be working with are in the ``demo/demo`` subfolder.  
         tests/              Stores test scripts
     development.ini         Configures the development server when used with "paster serve"
     test.ini                Configures the test server when running "nosetest"
+
 
 Add search page skeleton
 """"""""""""""""""""""""
@@ -1268,6 +1277,7 @@ If you got lost in this section, you can continue to the next section by :downlo
 Deployment via WebFaction
 -------------------------
 `WebFaction <http://www.webfaction.com/?affiliate=starsareblue>`_ is an awesome Python-friendly web hosting provider.
+
 
 Install Xapian on WebFaction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
