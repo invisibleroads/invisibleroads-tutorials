@@ -18,6 +18,11 @@ Live fully
     life-engineers-collaborate
 
 
+Use our products
+----------------
+* `Manage your goals using invisibleroads.com <http://invisibleroads.com/docs>`_
+
+
 Find objects in satellite images
 --------------------------------
 .. toctree::
