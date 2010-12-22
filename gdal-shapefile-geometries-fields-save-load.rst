@@ -36,7 +36,7 @@ Import modules.
     # Import custom modules
     import geometry_store
 
-Use shortcut to save points in GPX format for use with GPS devices.
+Use shortcut to save points in GPX format for GPS devices using the longitude and latitude spatial reference.
 ::
 
     geometry_store.savePoints('villages.gpx', geometry_store.proj4LL, [(0, 0), (1, 1)], driverName='GPX')
