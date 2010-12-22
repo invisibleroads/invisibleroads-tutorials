@@ -19,8 +19,8 @@ def test_geometry_store():
     targetPath = os.path.join(temporaryFolder, 'xxx.shp')
     # Save
     geometry_store.save(targetPath, geometry_store.proj4LL, [
-        geometry.Point(0, 1), 
-        geometry.Point(1, 0),
+        geometry.Polygon([(0, 0), (0, 10), (10, 10), (10, 0), (0, 0)]),
+        geometry.Polygon([(10, 0), (10, 10), (20, 10), (20, 0), (10, 0)]),
     ], [
         ('World War II', 11111, 44444.44, datetime.date(1939, 9, 1)),
         ('Korean War', 22222, 88888.88, datetime.date(1950, 6, 25)),
