@@ -6,6 +6,8 @@ Save point coordinates and their spatial reference to a shapefile.  This tutoria
 
     <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/BieCLKuoQEA&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BieCLKuoQEA&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
+Loading other geometries such as lines and polygons and their associated fields are covered in :doc:`gdal-shapefile-geometries-fields-save-load`.
+
 
 Requirements
 ------------

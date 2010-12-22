@@ -6,6 +6,8 @@ Load point coordinates and their spatial reference from a shapefile.  We first p
 
     <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/5XkrYU-R4Co?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5XkrYU-R4Co?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
+Loading other geometries such as lines and polygons and their associated fields are covered in :doc:`gdal-shapefile-geometries-fields-save-load`.
+
 
 Requirements
 ------------

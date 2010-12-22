@@ -37,12 +37,13 @@ Design geographic information systems
 .. toctree::
     :maxdepth: 1
 
-    geodjango-googlemaps-build
-    geodjango-install
-    gdal-shapefile-points-load
+    gdal-shapefile-geometries-fields-save-load
     gdal-shapefile-points-save
+    gdal-shapefile-points-load
     gdal-raster-extract
     gdal-raster-merge
+    geodjango-googlemaps-build
+    geodjango-install
     geoserver-install
     gis-software-list
 
