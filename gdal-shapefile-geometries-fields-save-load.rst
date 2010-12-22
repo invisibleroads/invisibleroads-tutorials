@@ -88,6 +88,6 @@ Load geometries with fields.
 
 Code
 ----
-.. literalinclude:: files/gdal-shapefile-geometries/test_geometry_store.py
-
 .. literalinclude:: files/gdal-shapefile-geometries/geometry_store.py
+
+.. literalinclude:: files/gdal-shapefile-geometries/test_geometry_store.py
