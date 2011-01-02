@@ -42,6 +42,7 @@ Design geographic information systems
     gdal-shapefile-points-load
     gdal-raster-extract
     gdal-raster-merge
+    postgresql-postgis-install
     geodjango-googlemaps-build
     geodjango-install
     geoserver-install

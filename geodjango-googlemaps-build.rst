@@ -1,3 +1,6 @@
+.. use updated django in code
+.. test that the downloadable code still works
+
 Build a simple GIS web application using GeoDjango and Google Maps
 ==================================================================
 By the end of this tutorial you will have built a simple GIS web application for viewing, editing, searching and uploading GIS data.  We first presented this tutorial as part of a three-hour session on `Working with Geographic Information Systems in Python <http://us.pycon.org/2009/tutorials/schedule/1PM4/>`_ during the `2009 Python Conference <http://us.pycon.org/2009/>`_ in Chicago, Illinois.
@@ -7,6 +10,13 @@ By the end of this tutorial you will have built a simple GIS web application for
     <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Dfd5lzrz7ps&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Dfd5lzrz7ps&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
+Requirements
+------------
+* `GeoDjango <http://geodjango.org>`_ (see :doc:`geodjango-install`)
+* `jQuery <http://jquery.com>`_
+* `Firebug <http://getfirebug.com>`_
+
+
 Example
 -------
 Make sure that GeoDjango is installed; see :doc:`geodjango-install`.  **If you are running a 64-bit system, you may have to patch GeoDjango**; see :ref:`geodjango-patch`.
@@ -14,17 +24,13 @@ Make sure that GeoDjango is installed; see :doc:`geodjango-install`.  **If you a
 Start PostgreSQL server.
 ::
     
-    su
-    service postgresql start
-    exit
+    su -c 'service postgresql start'
 
 Create PostgreSQL user and PostGIS database.
 ::
 
-    su - postgres
-    createuser YOUR-USERNAME
-    createdb -T template_postgis -O YOUR-USERNAME geodjango-googlemaps
-    exit
+    createuser -U postgres SET-USERNAME-HERE
+    createdb -U postgres -T template_postgis -O SET-USERNAME-HERE geodjango-googlemaps
 
 Download the :download:`code and data <files/geodjango-googlemaps.zip>`.
 ::
@@ -37,8 +43,8 @@ Create database configuration file ``.database`` with the following information 
 ::
 
     geodjango-googlemaps
-    YOUR-USERNAME
-    YOUR-PASSWORD
+    SET-USERNAME-HERE
+    SET-PASSWORD-HERE
 
 Setup tables.
 ::
@@ -59,14 +65,6 @@ Go to http://localhost:8000 and experiment with the application.
 5. Enter an address and rank waypoints by distance from address.
 
 
-Dependencies
-------------
-* `GeoDjango <http://geodjango.org>`_ (see :doc:`geodjango-install`)
-* `Google Maps API Key <http://code.google.com/apis/maps/signup.html>`_
-* `jQuery <http://jquery.com>`_
-* `Firebug <http://getfirebug.com>`_
-
-
 Walkthrough
 -----------
 
@@ -75,9 +73,9 @@ Walkthrough
 
 Patch GeoDjango
 ^^^^^^^^^^^^^^^
-Depending on your version of Django, you may have to patch some of the Django code.  Specifically, you may have to edit `base.py` in GeoDjango's GDAL wrapper so that it handles long pointers on 64-bit systems.
+Depending on your version of Django, you may have to patch the Django code.  Specifically, you may have to edit ``base.py`` in GeoDjango's GDAL wrapper so that it handles long pointers on 64-bit systems.
 
-Old `django/contrib/gis/gdal/base.py`
+Here is the original `django/contrib/gis/gdal/base.py`.
 ::
 
     def _set_ptr(self, ptr):
@@ -90,7 +88,7 @@ Old `django/contrib/gis/gdal/base.py`
         else:
             raise TypeError('Incompatible pointer type')
 
-New `django/contrib/gis/gdal/base.py`
+Here are the modifications you need to make.
 ::
 
     def _set_ptr(self, ptr):
@@ -108,20 +106,11 @@ Thanks to Ronald Kemker for the patch and thanks to Justin Bronn for closing the
 
 Create spatial database
 ^^^^^^^^^^^^^^^^^^^^^^^
-If you are using the default PostgreSQL configuration, then you need to have a PostgreSQL account with the same name as your Linux account; see :ref:`postgresql-default`.
+Create a spatial database using the template from :doc:`postgresql-postgis-install`.
 ::
 
-    su - postgres
-    createuser YOUR-USERNAME
-    createdb -T template_postgis -O YOUR-USERNAME geodjango-googlemaps
-    exit
-
-If you are using the alternate PostgreSQL configuration, then you can set postgres to be the owner of the database, although this is less secure; see :ref:`postgresql-alternate`.
-::
-
-    su - postgres
-    createdb -T template_postgis -O postgres geodjango-googlemaps
-    exit
+    createuser -U postgres SET-USERNAME-HERE
+    createdb -U postgres -T template_postgis -O SET-USERNAME-HERE geodjango-googlemaps
 
 
 Create GeoDjango project
@@ -169,14 +158,8 @@ Set your database connection parameters in ``settings.py`` according to your Pos
 
     DATABASE_ENGINE = 'postgresql_psycopg2'
     DATABASE_NAME = geodjango-googlemaps
-
-    # Default PostgreSQL configuration
-    DATABASE_USER = YOUR-USERNAME
-    DATABASE_PASSWORD = YOUR-PASSWORD
-    
-    # Alternate PostgreSQL configuration
-    DATABASE_USER = postgres
-    DATABASE_PASSWORD = YOUR-POSTGRES-PASSWORD
+    DATABASE_USER = SET-USERNAME-HERE
+    DATABASE_PASSWORD = SET-PASSWORD-HERE
 
 Create subfolders in the project folder ``application``.
 ::
@@ -303,7 +286,7 @@ Create the template ``templates/waypoints/index.html``.
     <!doctype html>
     <html>
     <head>
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=x">
+    <script src="http://maps.google.com/maps/api/js?sensor=false">
     </script>
     <script>
     var map;
@@ -364,7 +347,7 @@ Modify template
 Add a script link to the `jQuery <http://jquery.com>`_ library below the script link to the Google Maps API in ``templates/waypoints/index.html``.
 ::
 
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=x">
+    <script src="http://maps.google.com/maps/api/js?sensor=false">
     </script>
     <script src="/static/jquery-1.3.2.min.js"></script>
 
@@ -429,7 +412,7 @@ Your ``templates/waypoints/index.html`` template should resemble the following.
     <!doctype html>
     <html>
     <head>
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=x"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
     <script src="/static/jquery-1.3.2.min.js"></script>
     <script>
     var waypointByID = {};
@@ -849,20 +832,16 @@ Google Maps hangs
 Google Maps occasionally hangs after a redirect when Firebug is enabled.  Disabling Firebug or restarting your browser will resolve this problem.
 
 
-Google Maps API key is invalid
-""""""""""""""""""""""""""""""
-Google Maps may indicate that your API key is invalid.  Make sure that you have replaced the value of the *sensor* parameter to either *true* or *false* and that there are no line breaks in the URL. 
+Google Maps API server rejected your request
+""""""""""""""""""""""""""""""""""""""""""""
+Google Maps may indicate that your request is invalid.  Make sure that you have replaced the value of the *sensor* parameter to either *true* or *false*. 
 
 Incorrect
 ::
 
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true_or_false
-    &amp;key=x"
-    type="text/javascript">
-    </script>
+    <script src="http://maps.google.com/maps/api/js?sensor=set_to_true_or_false"></script>
 
 Correct
 ::
 
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=x">
-    </script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
