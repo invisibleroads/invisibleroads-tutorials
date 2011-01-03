@@ -13,29 +13,18 @@ Install packages through the graphical interface or the command line, then initi
         service postgresql initdb
         service postgresql start
 
-Set the password for the Linux user *postgres*.  The Linux account is used to modify PostgreSQL settings.
-::
-
-    su
-        passwd postgres
-
-Set the password for the PostgreSQL user *postgres*.  The PostgreSQL account is used to manage PostgreSQL databases.
-::
-
-    psql -U postgres -c "alter role postgres with password 'SET-PASSWORD-HERE';"
-
 
 Configure PostgreSQL permissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 PostgreSQL user accounts are separate from Linux user accounts and may be set with different passwords even though they may share the same username.  Log in as the database administrator *postgres* to control which PostgreSQL users have access to a database and what actions the PostgreSQL user may perform on the database.
 
-If you cannot log in as the Linux user *postgres*, you can reset the password.
+If you cannot log in as the Linux user *postgres*, you can reset the password.  The Linux account is used to modify PostgreSQL settings.
 ::
 
     su
         passwd postgres
 
-If you cannot log in as the PostgreSQL user *postgres*, you can reset the password.
+If you cannot log in as the PostgreSQL user *postgres*, you can reset the password.  The PostgreSQL account is used to manage PostgreSQL databases.
 ::
 
     su - postgres
