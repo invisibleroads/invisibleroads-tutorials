@@ -1,4 +1,4 @@
-# Import geodjango modules
+# Import django modules
 from django.contrib.gis.db import models
 
 
@@ -9,4 +9,4 @@ class Waypoint(models.Model):
     objects = models.GeoManager()
 
     def __unicode__(self):
-        return '%s longitude=%s latitude=%s' % (self.name, self.geometry.x, self.geometry.y)
+        return '%s %s %s' % (self.name, self.geometry.x, self.geometry.y)

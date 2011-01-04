@@ -9,17 +9,12 @@ By the end of this tutorial you will have built a simple GIS web application for
 
     <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Dfd5lzrz7ps&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Dfd5lzrz7ps&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-
-Requirements
-------------
-* `GeoDjango <http://geodjango.org>`_ (see :doc:`geodjango-install`)
-* `jQuery <http://jquery.com>`_
-* `Firebug <http://getfirebug.com>`_
+This tutorial has been updated to work with Django 1.3.
 
 
 Example
 -------
-Make sure that GeoDjango is installed; see :doc:`geodjango-install`.  **If you are running a 64-bit system, you may have to patch GeoDjango**; see :ref:`geodjango-patch`.
+Make sure that the latest version of GeoDjango is installed; see :doc:`geodjango-install`.
 
 Start PostgreSQL server.
 ::
@@ -29,22 +24,16 @@ Start PostgreSQL server.
 Create PostgreSQL user and PostGIS database.
 ::
 
-    createuser -U postgres SET-USERNAME-HERE
-    createdb -U postgres -T template_postgis -O SET-USERNAME-HERE geodjango-googlemaps
+    createuser -U postgres geouser -S -D -R
+    psql -U postgres -c "alter role geouser with password 'geopassword';"
+    createdb -U postgres -T template_postgis -O geouser geodatabase
 
 Download the :download:`code and data <files/geodjango-googlemaps.zip>`.
 ::
     
     wget http://invisibleroads.com/tutorials/_downloads/geodjango-googlemaps.zip
     unzip geodjango-googlemaps.zip
-    cd geodjango-googlemaps
-
-Create database configuration file ``.database`` with the following information on each line.
-::
-
-    geodjango-googlemaps
-    SET-USERNAME-HERE
-    SET-PASSWORD-HERE
+    cd geodjango-googlemaps/googlemaps
 
 Setup tables.
 ::
@@ -58,50 +47,22 @@ Run server.
 
 Go to http://localhost:8000 and experiment with the application.
 
-1. Upload a GPX file of waypoints.
+1. Upload a GPX file of waypoints; a sample GPX file is included in ``geodjango-googlemaps/data``.
 2. Click on a waypoint to see its position on the map.
 3. Drag a waypoint marker on the map to adjust its position.
 4. Save your changes.
 5. Enter an address and rank waypoints by distance from address.
 
 
+Requirements
+------------
+* `GeoDjango <http://geodjango.org>`_ (see :doc:`geodjango-install`)
+* `jQuery <http://jquery.com>`_
+* `Firebug <http://getfirebug.com>`_
+
+
 Walkthrough
 -----------
-
-
-.. _geodjango-patch:
-
-Patch GeoDjango
-^^^^^^^^^^^^^^^
-Depending on your version of Django, you may have to patch the Django code.  Specifically, you may have to edit ``base.py`` in GeoDjango's GDAL wrapper so that it handles long pointers on 64-bit systems.
-
-Here is the original `django/contrib/gis/gdal/base.py`.
-::
-
-    def _set_ptr(self, ptr):
-        # Only allow the pointer to be set with pointers of the
-        # compatible type or None (NULL).
-        if isinstance(ptr, int):
-            self._ptr = self.ptr_type(ptr)
-        elif isinstance(ptr, (self.ptr_type, NoneType)):
-            self._ptr = ptr
-        else:
-            raise TypeError('Incompatible pointer type')
-
-Here are the modifications you need to make.
-::
-
-    def _set_ptr(self, ptr):
-        # Only allow the pointer to be set with pointers of the
-        # compatible type or None (NULL).
-        if isinstance(ptr, int) or isinstance(ptr, long):
-            self._ptr = self.ptr_type(ptr)
-        elif isinstance(ptr, (self.ptr_type, NoneType)):
-            self._ptr = ptr
-        else:
-            raise TypeError('Incompatible pointer type')
-
-Thanks to Ronald Kemker for the patch and thanks to Justin Bronn for closing the ticket: http://code.djangoproject.com/ticket/11609
 
 
 Create spatial database
@@ -109,8 +70,9 @@ Create spatial database
 Create a spatial database using the template from :doc:`postgresql-postgis-install`.
 ::
 
-    createuser -U postgres SET-USERNAME-HERE
-    createdb -U postgres -T template_postgis -O SET-USERNAME-HERE geodjango-googlemaps
+    createuser -U postgres geouser -S -D -R
+    psql -U postgres -c "alter role geouser with password 'geopassword';"
+    createdb -U postgres -T template_postgis -O geouser geodatabase
 
 
 Create GeoDjango project
@@ -118,8 +80,8 @@ Create GeoDjango project
 Start a new project and an application.
 ::
 
-    django-admin.py startproject application
-    cd application
+    django-admin.py startproject googlemaps
+    cd googlemaps
     python manage.py startapp waypoints
 
 
@@ -131,55 +93,47 @@ Add the following lines to the top of ``settings.py``.
     # Import system modules
     import os
     # Set paths
-    baseDirectory = os.path.dirname(__file__)
-    fillPath = lambda x: os.path.join(baseDirectory, x)
-    staticPath, templatePath = map(fillPath, ['static', 'templates'])
+    fillPath = lambda x: os.path.join(os.path.dirname(__file__), x)
 
 Change the following parameters in ``settings.py`` as indicated.
 ::
 
-    MEDIA_ROOT = staticPath
-    MEDIA_URL = '/static/'
+    DATABASES = {
+        'default': {
+            'ENGINE' : 'django.contrib.gis.db.backends.postgis',
+            'NAME': 'geodatabase',
+            'USER': 'geouser',
+            'PASSWORD': 'geopassword',
+        }
+    }
     TEMPLATE_DIRS = (
-        templatePath,
+        fillPath('templates'),
     )
     INSTALLED_APPS = (
         'django.contrib.auth',
         'django.contrib.contenttypes',
         'django.contrib.sessions',
         'django.contrib.sites',
+        'django.contrib.messages',
+        'django.contrib.staticfiles',
         'django.contrib.admin',
+        'django.contrib.admindocs',
         'django.contrib.gis',
-        'application.waypoints',
+        'googlemaps.waypoints',
     )
 
-Set your database connection parameters in ``settings.py`` according to your PostgreSQL configuration.
-::
-
-    DATABASE_ENGINE = 'postgresql_psycopg2'
-    DATABASE_NAME = geodjango-googlemaps
-    DATABASE_USER = SET-USERNAME-HERE
-    DATABASE_PASSWORD = SET-PASSWORD-HERE
-
-Create subfolders in the project folder ``application``.
+Create subfolders in the project folder ``googlemaps``.
 ::
     
-    mkdir static templates templates/waypoints
-
-Place a copy of the `jQuery <http://jquery.com>`_ library in the ``static`` folder.
-::
-
-    cd static
-    wget http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js
-    cd ..
+    mkdir -p templates/waypoints
 
 
 Configure models
 """"""""""""""""
-Edit ``waypoints/models.py``; the *geometry* attribute contains the geospatial information and uses the 4326 spatial reference system that is compatible with the longitude and latitude coordinates provided by the Google Maps API.
+Edit ``waypoints/models.py``.  The *geometry* attribute contains geospatial information and uses the 4326 spatial reference system that is compatible with the longitude and latitude coordinates provided by the Google Maps API.
 ::
 
-    # Import geodjango modules
+    # Import django modules
     from django.contrib.gis.db import models
 
 
@@ -201,7 +155,7 @@ Create tables.
 
 Configure urls
 """"""""""""""
-Edit ``urls.py``; the code at the end enables ``python manage.py runserver`` to serve static files as described in `How to serve static files <http://docs.djangoproject.com/en/dev/howto/static-files>`_
+Edit ``urls.py``.  
 ::
 
     # Import django modules
@@ -210,22 +164,12 @@ Edit ``urls.py``; the code at the end enables ``python manage.py runserver`` to 
     # Import custom modules
     import settings
 
-    admin.autodiscover()
 
+    admin.autodiscover()
     urlpatterns = patterns('',
         (r'^admin/', include(admin.site.urls)),
-        (r'', include('application.waypoints.urls')),
+        (r'', include('googlemaps.waypoints.urls')),
     )
-
-    if settings.DEBUG:
-        # Set
-        mediaURL = settings.MEDIA_URL[1:]
-        # Extend
-        urlpatterns += patterns('',
-            (r'^%s(?P<path>.*)$' % mediaURL, 'django.views.static.serve', 
-                {'document_root': settings.MEDIA_ROOT}),
-        )
-
 
 Create ``waypoints/urls.py`` and add the following code.
 ::
@@ -234,13 +178,10 @@ Create ``waypoints/urls.py`` and add the following code.
     from django.conf.urls.defaults import *
 
 
-    urlpatterns = patterns('application.waypoints.views',
+    urlpatterns = patterns('googlemaps.waypoints.views',
         url(r'^$', 'index', name='waypoints-index'),
     )
 
-
-Test
-""""
 Edit ``waypoints/views.py`` and add the following code.
 ::
     
@@ -250,6 +191,9 @@ Edit ``waypoints/views.py`` and add the following code.
     def index(request):
         return HttpResponse('Hello')
 
+
+Test
+""""
 Run development server.
 ::
 
@@ -273,7 +217,7 @@ Make sure that ``waypoints/urls.py`` has an index.
     from django.conf.urls.defaults import *
 
 
-    urlpatterns = patterns('application.waypoints.views',
+    urlpatterns = patterns('googlemaps.waypoints.views',
         url(r'^$', 'index', name='waypoints-index'),
     )
 
@@ -286,29 +230,24 @@ Create the template ``templates/waypoints/index.html``.
     <!doctype html>
     <html>
     <head>
-    <script src="http://maps.google.com/maps/api/js?sensor=false">
-    </script>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
     <script>
     var map;
     function initialize() {
-        if (GBrowserIsCompatible()) {
-            map = new GMap2(document.getElementById('map'));
-            map.setCenter(new GLatLng(41.879535, -87.624333), 5);
-            map.setUIToDefault();
-        }
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 5,
+            center: new google.maps.LatLng(41.879535, -87.624333),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
     }
     </script>
     <style>
-        body {
-            font-family: sans-serif;
-        }
-        #map {
-            width: 500px; 
-            height: 300px;
-        }
+        body {font-family: sans-serif}
+        #map {width: 500px; height: 300px}
     </style>
     </head>
-    <body onload="initialize()" onunload="GUnload()">
+    <body onload='initialize()'>
         <div id=map></div>
     </body>
     </html>
@@ -322,6 +261,7 @@ Edit ``waypoints/views.py``.
     from django.shortcuts import render_to_response
     
     def index(request):
+        'Display map'
         return render_to_response('waypoints/index.html', {
         })
 
@@ -347,14 +287,14 @@ Modify template
 Add a script link to the `jQuery <http://jquery.com>`_ library below the script link to the Google Maps API in ``templates/waypoints/index.html``.
 ::
 
-    <script src="http://maps.google.com/maps/api/js?sensor=false">
-    </script>
-    <script src="/static/jquery-1.3.2.min.js"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
 
 Add Javascript code for displaying waypoint markers.
 ::
 
     <script>
+    var marker;
     var waypointByID = {};
     {% for waypoint in waypoints %}
     waypointByID[{{waypoint.id}}] = {
@@ -363,18 +303,15 @@ Add Javascript code for displaying waypoint markers.
         lng: {{waypoint.geometry.x}}
     };
     {% endfor %}
-    var marker;
-        
     $(document).ready(function () {
-        function activate_waypoints() {
+        function activateWaypoints() {
             // Add waypoint click handler
             $('.waypoint').each(function () {
                 $(this).click(function() {
                     var waypoint = waypointByID[this.id];
-                    var center = new GLatLng(waypoint.lat, waypoint.lng);
-                    if (marker) map.removeOverlay(marker);
-                    marker = new GMarker(center);
-                    map.addOverlay(marker);
+                    var center = new google.maps.LatLng(waypoint.lat, waypoint.lng);
+                    if (marker) marker.setMap();
+                    marker = new google.maps.Marker({map: map, position: center});
                     map.panTo(center);
                 }).hover(
                     function () {this.className = this.className.replace('OFF', 'ON');}, 
@@ -382,7 +319,7 @@ Add Javascript code for displaying waypoint markers.
                 );
             });
         }
-        activate_waypoints();
+        activateWaypoints();
     });
     </script>
 
@@ -390,11 +327,7 @@ Add styles for the waypoint content box.
 ::
 
     <style>
-        #waypoints {
-            overflow: auto;
-            width: 500px;
-            height: 100px;
-        }
+        #waypoints {overflow: auto; width: 500px; height: 100px}
         .linkOFF {color: darkblue} 
         .linkON {color: white; background-color: darkblue}
     </style>
@@ -402,9 +335,12 @@ Add styles for the waypoint content box.
 Finally, add the waypoint content box in the body.
 ::
 
-    <div id=waypoints>
-        {{content}}
-    </div>
+    <body onload='initialize()'>
+        <div id=map></div>
+        <div id=waypoints>
+            {{content}}
+        </div>
+    </body>
 
 Your ``templates/waypoints/index.html`` template should resemble the following.
 ::
@@ -412,63 +348,56 @@ Your ``templates/waypoints/index.html`` template should resemble the following.
     <!doctype html>
     <html>
     <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-    <script src="/static/jquery-1.3.2.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
     <script>
-    var waypointByID = {};
+    var map, marker, waypointByID = {};
+
+    function initialize() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 5,
+            center: new google.maps.LatLng(41.879535, -87.624333),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+    }
+
     {% for waypoint in waypoints %}
     waypointByID[{{waypoint.id}}] = {
-        name: "{{waypoint.name}}", 
-        lat: {{waypoint.geometry.y}}, 
+        name: "{{waypoint.name}}",
+        lat: {{waypoint.geometry.y}},
         lng: {{waypoint.geometry.x}}
     };
     {% endfor %}
-    var map, marker;
-    function initialize() {
-        if (GBrowserIsCompatible()) {
-            map = new GMap2(document.getElementById('map'));
-            map.setCenter(new GLatLng(41.879535, -87.624333), 5);
-            map.setUIToDefault();
+
+    $(document).ready(function () {
+        function activateWaypoints() {
+            // Add waypoint click handler
+            $('.waypoint').each(function () {
+                $(this).click(function() {
+                    var waypoint = waypointByID[this.id];
+                    var center = new google.maps.LatLng(waypoint.lat, waypoint.lng);
+                    if (marker) marker.setMap();
+                    marker = new google.maps.Marker({map: map, position: center});
+                    map.panTo(center);
+                }).hover(
+                    function () {this.className = this.className.replace('OFF', 'ON');},
+                    function () {this.className = this.className.replace('ON', 'OFF');}
+                );
+            });
         }
-        $(document).ready(function () {
-            function activate_waypoints() {
-                // Add waypoint click handler
-                $('.waypoint').each(function () {
-                    $(this).click(function() {
-                        var waypoint = waypointByID[this.id];
-                        var center = new GLatLng(waypoint.lat, waypoint.lng);
-                        if (marker) map.removeOverlay(marker);
-                        marker = new GMarker(center);
-                        map.addOverlay(marker);
-                        map.panTo(center);
-                    }).hover(
-                        function () {this.className = this.className.replace('OFF', 'ON');}, 
-                        function () {this.className = this.className.replace('ON', 'OFF');}
-                    );
-                });
-            }
-            activate_waypoints();
-        });
-    }
+        activateWaypoints();
+    });
     </script>
     <style>
-        body {
-            font-family: sans-serif;
-        }
-        #map {
-            width: 500px; 
-            height: 300px;
-        }
-        #waypoints {
-            overflow: auto;
-            width: 500px;
-            height: 100px;
-        }
-        .linkOFF {color: darkblue} 
+        body {font-family: sans-serif}
+        #map {width: 500px; height: 300px}
+        #waypoints {overflow: auto; width: 500px; height: 100px}
+        .linkOFF {color: darkblue}
         .linkON {color: white; background-color: darkblue}
     </style>
     </head>
-    <body onload="initialize()" onunload="GUnload()">
+    <body onload='initialize()'>
         <div id=map></div>
         <div id=waypoints>
             {{content}}
@@ -495,10 +424,12 @@ Modify *index* in ``waypoints/views.py``.
     from django.shortcuts import render_to_response
     from django.template.loader import render_to_string
     # Import custom modules
-    from application.waypoints.models import Waypoint
+    from googlemaps.waypoints.models import Waypoint
+
 
     def index(request):
-        waypoints = Waypoint.objects.all()
+        'Display map'
+        waypoints = Waypoint.objects.order_by('name')
         return render_to_response('waypoints/index.html', {
             'waypoints': waypoints,
             'content': render_to_string('waypoints/waypoints.html', {'waypoints': waypoints}),
@@ -510,12 +441,13 @@ Test
 Create data.
 ::
     
-    from waypoints.models import Waypoint
-    Waypoint(name='New York', geometry='POINT(-73.9869510 40.7560540)').save()
-    Waypoint(name='Buenos Aires', geometry='POINT(-58.4173090 -34.6117810)').save()
-    Waypoint(name='Moscow', geometry='POINT(37.6176330 55.7557860)').save()
-    Waypoint(name='Atlanta', geometry='POINT(-84.3896630 33.7544870)').save()
-    print Waypoint.objects.all()
+    python manage.py shell
+        from waypoints.models import Waypoint
+        Waypoint(name='New York', geometry='POINT(-73.9869510 40.7560540)').save()
+        Waypoint(name='Buenos Aires', geometry='POINT(-58.4173090 -34.6117810)').save()
+        Waypoint(name='Moscow', geometry='POINT(37.6176330 55.7557860)').save()
+        Waypoint(name='Atlanta', geometry='POINT(-84.3896630 33.7544870)').save()
+        print Waypoint.objects.all()
 
 Run development server.
 ::
@@ -540,7 +472,7 @@ Add *save* to ``waypoints/urls.py``.
     from django.conf.urls.defaults import *
 
 
-    urlpatterns = patterns('application.waypoints.views',
+    urlpatterns = patterns('googlemaps.waypoints.views',
         url(r'^$', 'index', name='waypoints-index'),
         url(r'^save$', 'save', name='waypoints-save'),
     )
@@ -551,28 +483,27 @@ Modify template
 Update jQuery's ``$(document).ready()`` construct in ``templates/waypoints/index.html``.
 ::
 
-    var current_object;
+    var currentObject;
 
     $(document).ready(function () {
-        function activate_waypoints() {
+        function activateWaypoints() {
             // Add waypoint click handler
             $('.waypoint').each(function () {
                 $(this).click(function() {
                     var waypoint = waypointByID[this.id];
-                    var center = new GLatLng(waypoint.lat, waypoint.lng);
-                    current_object = $(this);
-                    if (marker) map.removeOverlay(marker);
-                    marker = new GMarker(center, {draggable: true});
-                    GEvent.addListener(marker, "dragend", function() {
-                        var latlng = marker.getLatLng();
-                        waypoint.lat = latlng.lat();
-                        waypoint.lng = latlng.lng();
-                        current_object.html(waypoint.name + 
+                    var center = new google.maps.LatLng(waypoint.lat, waypoint.lng);
+                    currentObject = $(this);
+                    if (marker) marker.setMap();
+                    marker = new google.maps.Marker({map: map, position: center, draggable: true});
+                    google.maps.event.addListener(marker, 'dragend', function() {
+                        var position = marker.getPosition();
+                        waypoint.lat = position.lat();
+                        waypoint.lng = position.lng();
+                        currentObject.html(waypoint.name + 
                             ' (' + waypoint.lat + 
                             ', ' + waypoint.lng + ')');
-                        $('#button_save').removeAttr("disabled");
+                        $('#saveWaypoints').removeAttr('disabled');
                     });
-                    map.addOverlay(marker);
                     map.panTo(center);
                 }).hover(
                     function () {this.className = this.className.replace('OFF', 'ON');}, 
@@ -580,27 +511,35 @@ Update jQuery's ``$(document).ready()`` construct in ``templates/waypoints/index
                 );
             });
         }
-        $('#button_save').click(function () {
+        $('#saveWaypoints').click(function () {
             var waypointStrings = [];
             for (id in waypointByID) {
                 waypoint = waypointByID[id];
                 waypointStrings.push(id + ' ' + waypoint.lng + ' ' + waypoint.lat);
             };
-            $.post("{% url waypoints-save %}", 
-                {waypoints_payload: waypointStrings.join('\n')}, function (data) {
-                    $('#button_save').attr("disabled","disabled");
-                });
+            $.post("{% url waypoints-save %}", {
+                waypointsPayload: waypointStrings.join('\n')
+            }, function (data) {
+                if (data.isOk) {
+                    $('#saveWaypoints').attr('disabled', 'disabled');
+                } else {
+                    alert(data.message);
+                }
+            });
         });
-        activate_waypoints();
+        activateWaypoints();
     });
 
 Add a button to the body.
 ::
 
-    <div id=waypoints>
-        {{content}}
-    </div>
-    <button id=button_save disabled=disabled>Save</button>
+    <body onload='initialize()'>
+        <div id=map></div>
+        <div id=waypoints>
+            {{content}}
+        </div>
+        <input id=saveWaypoints type=button value=Save disabled=disabled>
+    </body>
 
 
 Create view
@@ -608,17 +547,23 @@ Create view
 Add *save* to ``waypoints/views.py``.
 ::
 
+    # Import django modules
     from django.http import HttpResponse
-    from application.waypoints.models import Waypoint
+    # Import system modules
+    import simplejson
+    # Import custom modules
+    from googlemaps.waypoints.models import Waypoint
+
 
     def save(request):
-        for waypointString in request.POST['waypoints_payload'].splitlines():
+        'Save waypoints'
+        for waypointString in request.POST.get('waypointsPayload', '').splitlines():
             waypointID, waypointX, waypointY = waypointString.split()
             waypoint = Waypoint.objects.get(id=int(waypointID))
             waypoint.geometry.set_x(float(waypointX))
             waypoint.geometry.set_y(float(waypointY))
             waypoint.save()
-        return HttpResponse('ok')
+        return HttpResponse(simplejson.dumps(dict(isOk=1)), mimetype='application/json')
 
 
 Test
@@ -628,7 +573,7 @@ Run development server.
 
     python manage.py runserver
 
-Go to http://localhost:8000, drag a waypoint to a new location and save.
+Go to http://localhost:8000, drag a waypoint to a new location and click *Save*.  Refresh the page to verify that changes were saved.
 
 .. image:: images/geodjango-googlemaps-waypoints-save.png
 
@@ -646,7 +591,7 @@ Add *search* to ``waypoints/urls.py``.
     from django.conf.urls.defaults import *
 
 
-    urlpatterns = patterns('application.waypoints.views',
+    urlpatterns = patterns('googlemaps.waypoints.views',
         url(r'^$', 'index', name='waypoints-index'),
         url(r'^save$', 'save', name='waypoints-save'),
         url(r'^search$', 'search', name='waypoints-search'),
@@ -658,42 +603,64 @@ Modify template
 Add a geocoder to ``templates/waypoints/index.html``.
 ::
 
-    var map, marker, geocoder, current_object;
+    var map;
+    var geocoder;
         
     function initialize() {
-        if (GBrowserIsCompatible()) {
-            map = new GMap2(document.getElementById('map'));
-            map.setCenter(new GLatLng(41.879535, -87.624333), 5);
-            map.setUIToDefault();
-            geocoder = new GClientGeocoder();
-        }
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 5,
+            center: new google.maps.LatLng(41.879535, -87.624333),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        geocoder = new google.maps.Geocoder();
+    }
 
 Insert the following code within jQuery's ``$(document).ready()`` construct.
 ::
 
-    $('#button_search').click(function () {
-        var searchString = $('#input_search').val();
-        geocoder.getLatLng(searchString, function(result) {
-            if (!result) {
-                alert("Could not find geocoordinates for your address query");
-            } else {
-                $.get("{% url waypoints-search %}", 
-                    {lat: result.lat(), lng: result.lng()}, function (data) {
+    function searchWaypoints() {
+        geocoder.geocode({
+            'address': $('#address').val()
+        }, function(results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                var position = results[0].geometry.location;
+                $.get("{% url waypoints-search %}", {
+                    lat: position.lat(), 
+                    lng: position.lng()
+                }, function (data) {
+                    if (data.isOk) {
                         $('#waypoints').html(data.content);
                         waypointByID = data.waypointByID;
-                        activate_waypoints();
-                    }, 'json');
+                        activateWaypoints();
+                    } else {
+                        alert(data.message);
+                    }
+                }, 'json');
+            } else {
+                alert('Could not find geocoordinates for the following reason: ' + status);
             }
         });
+    }
+    $('#searchWaypoints').click(searchWaypoints);
+    $('#address').keydown(function(e) {
+        if (e.keyCode == 13) searchWaypoints();
     });
 
 Add a *search* button to the body after the *save* button.
 ::
 
-    <input id=input_search value="Chicago, IL"> 
-    <input type=button 
-        value='Rank waypoints by distance from address' 
-        id=button_search>
+    <body onload='initialize()'>
+        <div id=map></div>
+        <div id=waypoints>
+            {{content}}
+        </div>
+        <input id=saveWaypoints type=button value=Save disabled=disabled>
+        <br>
+        <br>
+        <br>
+        <input id=address value='Chicago, IL'> 
+        <input id=searchWaypoints type=button value='Rank waypoints by distance from address'>
+    </body>
 
 
 Create view
@@ -701,27 +668,33 @@ Create view
 Add *search* to ``waypoints/views.py``.
 ::
 
+    # Import django modules
     from django.contrib.gis.geos import Point
+    # Import system modules
     import simplejson
 
+
     def search(request):
+        'Search waypoints'
         # Build searchPoint
-        searchPoint = Point(float(request.GET['lng']), float(request.GET['lat']))
+        try:
+            searchPoint = Point(float(request.GET.get('lng')), float(request.GET.get('lat')))
+        except:
+            return HttpResponse(simplejson.dumps(dict(isOk=0, message='Could not parse search point')))
         # Search database
         waypoints = Waypoint.objects.distance(searchPoint).order_by('distance')
-        waypointByID = dict((x.id, {
-            'name': x.name, 
-            'lat': x.geometry.y, 
-            'lng': x.geometry.x
-        }) for x in waypoints)
-        json = {
-            'content': render_to_string('waypoints/waypoints.html', {
+        # Return
+        return HttpResponse(simplejson.dumps(dict(
+            isOk=1,
+            content=render_to_string('waypoints/waypoints.html', {
                 'waypoints': waypoints
             }),
-            'waypointByID': waypointByID,
-        }
-        # Return
-        return HttpResponse(simplejson.dumps(json))
+            waypointByID=dict((x.id, {
+                'name': x.name,
+                'lat': x.geometry.y, 
+                'lng': x.geometry.x,
+            }) for x in waypoints),
+        )), mimetype='application/json')
 
 
 Test
@@ -749,20 +722,21 @@ Add *upload* to ``waypoints/urls.py``.
     from django.conf.urls.defaults import *
 
 
-    urlpatterns = patterns('application.waypoints.views',
+    urlpatterns = patterns('googlemaps.waypoints.views',
         url(r'^$', 'index', name='waypoints-index'),
         url(r'^save$', 'save', name='waypoints-save'),
-        url(r'^search$', 'search', name='waypoints-search')
+        url(r'^search$', 'search', name='waypoints-search'),
         url(r'^upload$', 'upload', name='waypoints-upload'),
     )
 
 
 Create template
 """""""""""""""
-Add the *upload* form above the map in ``templates/waypoints/index.html``.
+Add the *upload* form above the map in ``templates/waypoints/index.html``.  The ``csrf_token`` is required by Django for security reasons; see `Cross Site Request Forgery Protection <http://docs.djangoproject.com/en/dev/ref/contrib/csrf>`_.
 ::
 
     <form enctype="multipart/form-data" method=post action="{% url waypoints-upload %}">
+        {% csrf_token %}
         <input type=file name=gpx>
         <input type=submit value='Upload GPX'>
     </form>
@@ -770,19 +744,33 @@ Add the *upload* form above the map in ``templates/waypoints/index.html``.
 
 Create view
 """""""""""
-Add *upload* view in ``waypoints/views.py``.
+Modify *index* view to specify ``RequestContext`` and add *upload* view in ``waypoints/views.py``.  The ``RequestContext`` is required by Django for security reasons; see `Cross Site Request Forgery Protection <http://docs.djangoproject.com/en/dev/ref/contrib/csrf>`_.
 ::
     
+    # Import django modules
     from django.http import HttpResponseRedirect
+    from django.template import RequestContext
     from django.contrib.gis.gdal import DataSource
     from django.core.urlresolvers import reverse
+    # Import system modules
     import itertools
     import tempfile
     import os
-    from application.waypoints.models import Waypoint
-    from application import settings
+    # Import custom modules
+    from googlemaps.waypoints.models import Waypoint
+    from googlemaps import settings
+
+
+    def index(request):
+        'Display map'
+        waypoints = Waypoint.objects.order_by('name')
+        return render_to_response('waypoints/index.html', {
+            'waypoints': waypoints,
+            'content': render_to_string('waypoints/waypoints.html', {'waypoints': waypoints}),
+        }, context_instance=RequestContext(request))
 
     def upload(request):
+        'Upload waypoints'
         # If the form contains an upload,
         if 'gpx' in request.FILES:
             # Get
@@ -814,7 +802,7 @@ Run development server.
 
     python manage.py runserver
 
-Go to http://localhost:8000 and upload a GPX file such as the `New Zealand Tourist Waypoints <http://www.esnips.com/web/GPSStuff>`_
+Go to http://localhost:8000 and upload a GPX file such as the `New Zealand Tourist Waypoints <http://www.esnips.com/web/GPSStuff>`_.
 
 .. image:: images/geodjango-googlemaps-waypoints-upload.png
 

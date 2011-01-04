@@ -9,10 +9,6 @@ Here you will install GeoDjango, a framework for building web-based mapping appl
 
 Walkthrough for Fedora
 ----------------------
-Become the superuser
-::
-    
-    su
 
 
 Install Django
@@ -20,9 +16,10 @@ Install Django
 Download and install the latest version of `Django <http://www.djangoproject.com>`_.
 ::
 
-    svn co http://code.djangoproject.com/svn/django/trunk/ django
-    cd django
-    python setup.py install
+    su
+        svn co http://code.djangoproject.com/svn/django/trunk/ django
+        python django/setup.py install
+        rm -Rf django
 
 
 Install geospatial libraries
@@ -30,7 +27,8 @@ Install geospatial libraries
 Install through the graphical interface or the command line.
 ::
 
-    yum install gdal gdal-python geos proj
+    su
+        yum -y install gdal gdal-python geos proj
 
 
 Install PostGIS
@@ -40,4 +38,4 @@ See :doc:`postgresql-postgis-install`
 
 Start project
 ^^^^^^^^^^^^^
-You can now start working through the `GeoDjango tutorial <http://geodjango.org/docs/tutorial.html>`_.
+You can now start working through the `GeoDjango tutorial <http://docs.djangoproject.com/en/dev/ref/contrib/gis/tutorial/>`_.

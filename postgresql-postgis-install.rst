@@ -81,10 +81,10 @@ A more secure option is *ident sameuser* authentication, in which the PostgreSQL
 
 Manage PostgreSQL users
 ^^^^^^^^^^^^^^^^^^^^^^^
-Create a PostgreSQL user.
+Create a PostgreSQL user with limited privileges.
 ::
 
-    createuser -U postgres SET-USERNAME-HERE
+    createuser -U postgres SET-USERNAME-HERE -S -D -R
     psql -U postgres -c "alter role SET-USERNAME-HERE with password 'SET-PASSWORD-HERE';"
 
 Drop a PostgreSQL user.
