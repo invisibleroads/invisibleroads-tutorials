@@ -9,7 +9,7 @@ Install packages through the graphical interface or the command line, then initi
 ::
 
     su
-        yum -y install postgresql postgresql-devel postgresql-server python-psycopg2 postgis
+        yum -y install postgresql postgresql-devel postgresql-server python-psycopg2 proj-epsg proj-nad postgis
         service postgresql initdb
         service postgresql start
 
