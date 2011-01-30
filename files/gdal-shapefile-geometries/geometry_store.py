@@ -77,7 +77,7 @@ def load(sourcePath):
     'Load proj4, shapelyGeometries, fields'
     # Initialize
     shapelyGeometries, fieldPacks, fieldDefinitions = [], [], []
-    # Load 
+    # Prepare
     dataSource = ogr.Open(sourcePath)
     layer = dataSource.GetLayer()
     featureDefinition = layer.GetLayerDefn()
@@ -93,8 +93,11 @@ def load(sourcePath):
         fieldPacks.append([feature.GetField(x) for x in fieldIndices])
         # Get the next feature
         feature = layer.GetNextFeature()
+    # Load
+    spatialReference = layer.GetSpatialRef()
+    proj4 = spatialReference.ExportToProj4() if spatialReference else ''
     # Return
-    return layer.GetSpatialRef().ExportToProj4(), shapelyGeometries, fieldPacks, fieldDefinitions
+    return proj4, shapelyGeometries, fieldPacks, fieldDefinitions
 
 def getTransformPoint(sourceProj4, targetProj4=proj4LL):
     'Return a function that transforms coordinates from one spatial reference to another'
