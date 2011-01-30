@@ -22,7 +22,7 @@ If a computer does not have an IP address, you must assign one.  In the followin
     su
         ifconfig eth0 192.168.10.10 netmask 255.255.255.0 up
 
-You can have a computer assign itself a static IP through the NetworkManager applet.
+You can have a computer assign itself a static IP through the NetworkManager applet.  This is useful if the computer you are preparing might not have a monitor or keyboard attached to it in the future.
 ::
 
     Edit Connections 
@@ -65,3 +65,8 @@ Here we SSH into the computer with IP address 192.168.10.10 with agent key and t
 ::
 
     ssh -A -Y 192.168.10.10
+
+
+Troubleshooting
+---------------
+If you want to SSH remotely into a host computer that is behind a router, you might need to enable port forwarding on the router to port 22 of the local IP address of your host computer.  Router configuration settings are usually accessible at http://192.168.1.1.  You can tell when your computer is behind a router if your internal IP address as returned by ``ipconfig`` is different from your external IP address as returned by IP lookup websites.
