@@ -13,6 +13,7 @@ Live fully
     life-goals-reach
     life-resources-diversify
     life-enrich
+    life-dance
     life-skills-train
     life-workshops-run
     life-engineers-collaborate
@@ -65,3 +66,11 @@ Automate Windows applications with win32com
     skype-call-win32com
     notes-mail-read-win32com
     pdf-convert-acrobat-win32com
+
+
+Configure Fedora Linux
+----------------------
+.. toctree::
+    :maxdepth: 1
+
+    fedora-ethernet-connect
