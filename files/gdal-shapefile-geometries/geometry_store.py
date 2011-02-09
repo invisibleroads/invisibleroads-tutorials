@@ -46,11 +46,17 @@ def save(targetPath, proj4, shapelyGeometries, fieldPacks=None, fieldDefinitions
     geometryTypes = list(set(type(x) for x in shapelyGeometries))
     geometryType = ogr.wkbUnknown if len(geometryTypes) > 1 else {
         geometry.Point: ogr.wkbPoint,
+        geometry.point.PointAdapter: ogr.wkbPoint,
         geometry.LineString: ogr.wkbLineString,
+        geometry.linestring.LineStringAdapter: ogr.wkbLineString,
         geometry.Polygon: ogr.wkbPolygon,
+        geometry.polygon.PolygonAdapter: ogr.wkbPolygon,
         geometry.MultiPoint: ogr.wkbMultiPoint,
+        geometry.multipoint.MultiPointAdapter: ogr.wkbMultiPoint,
         geometry.MultiLineString: ogr.wkbMultiLineString,
+        geometry.multilinestring.MultiLineStringAdapter: ogr.wkbMultiLineString,
         geometry.MultiPolygon: ogr.wkbMultiPolygon,
+        geometry.multipolygon.MultiPolygonAdapter: ogr.wkbMultiPolygon,
     }[geometryTypes[0]]
     # Create layer
     spatialReference = osr.SpatialReference()

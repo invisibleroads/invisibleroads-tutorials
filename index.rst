@@ -17,6 +17,7 @@ Live fully
     life-dance
     life-skills-train
     life-workshops-run
+    life-presentations-give
     life-engineers-collaborate
 
 

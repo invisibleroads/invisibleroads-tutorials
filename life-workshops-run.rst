@@ -3,7 +3,9 @@ Run a hands-on technical workshop
 
 
 Prepare
----------
+-------
+
+
 Modularize content
 ^^^^^^^^^^^^^^^^^^
 Break content into short, self-contained modules.  It is easier to retain small chunks.  Each module is a fresh opportunity for students to learn something new, even if they did not completely understand the previous module.  [#EntrepreneurPress]_
@@ -29,7 +31,9 @@ Decide on a time and place convenient to the people who have registered.  Make s
 
 
 Market
----------
+------
+
+
 Promote with real content
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Publish the detailed content online to improve the credibility of your tutorial.  Answer questions on technical mailing lists with a signature describing your upcoming workshop at the bottom.
@@ -51,7 +55,9 @@ Make sure that people at the front desk know how to direct people where to go.  
 
 
 Teach
----------
+-----
+
+
 Meet expectations
 ^^^^^^^^^^^^^^^^^
 Ask each student how he or she expects to apply the skills learned, preferably before the day of the workshop.  Then you can tailor content to specific applications, emphasize relevant points and strategize on how to best solve his or her problem during the workshop.  Students are more likely to leave feeling they have learned what they needed.
@@ -84,6 +90,8 @@ Give opportunities for students to perform.  For the most part, students will lo
 
 Follow-up
 ---------
+
+
 Ask for feedback one-on-one
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 People are more likely to be honest with their feedback in a one-on-one setting.
