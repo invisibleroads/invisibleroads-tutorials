@@ -61,20 +61,23 @@ def save(targetPath, proj4, shapelyGeometries, fieldPacks=None, fieldDefinitions
     # Create layer
     spatialReference = osr.SpatialReference()
     spatialReference.ImportFromProj4(proj4)
-    layer = dataSource.CreateLayer(os.path.splitext(os.path.basename(targetPath))[0], spatialReference, geometryType)
+    layerName = os.path.splitext(os.path.basename(targetPath))[0]
+    layer = dataSource.CreateLayer(layerName, spatialReference, geometryType)
     # Create fields
     for fieldName, fieldType in fieldDefinitions:
         layer.CreateField(ogr.FieldDefn(fieldName, fieldType))
+    # Prepare
     featureDefinition = layer.GetLayerDefn()
     # For each geometry,
     for shapelyGeometry, fieldPack in itertools.izip(shapelyGeometries, fieldPacks) if fieldPacks else ((x, []) for x in shapelyGeometries):
-        # Create feature
+        # Prepare feature
         feature = ogr.Feature(featureDefinition)
         feature.SetGeometry(ogr.CreateGeometryFromWkb(shapelyGeometry.wkb))
         for fieldIndex, fieldValue in enumerate(fieldPack):
             feature.SetField(fieldIndex, fieldValue)
         # Save feature
         layer.CreateFeature(feature)
+        # Clean up
         feature.Destroy()
     # Return
     return targetPath
