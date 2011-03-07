@@ -36,12 +36,12 @@ Import modules.
     # Import custom modules
     import geometry_store
 
-Use shortcut to save points in GPX format for GPS devices using the longitude and latitude spatial reference.
+Save points to a GPX file using the longitude and latitude spatial reference.
 ::
 
-    geometry_store.savePoints('villages.gpx', geometry_store.proj4LL, [(0, 0), (1, 1)], driverName='GPX')
+    geometry_store.save_points('communities.gpx', geometry_store.proj4LL, [(0, 0), (1, 1)], driverName='GPX')
 
-Save lines with fields as a KML file using the Spherical Mercator spatial reference.
+Save lines with fields to a KML file using the Spherical Mercator spatial reference.
 ::
 
     geometry_store.save('roads.kml', geometry_store.proj4SM, [
@@ -57,27 +57,21 @@ Save lines with fields as a KML file using the Spherical Mercator spatial refere
         ('Year', osgeo.ogr.OFTInteger),
     ], driverName='KML')
 
-Save polygons with fields.
+Save polygons as a compressed ESRI shapefile transformed to the spherical mercator spatial reference.
 ::
 
-    geometry_store.save('geometries.shp', geometry_store.proj4LL, [
+    geometry_store.save('geometries.shp.zip', geometry_store.proj4LL, [
         shapely.geometry.Polygon([(0, 0), (0, 1), (1, 1), (1, 0), (0, 0)]),
         shapely.geometry.MultiPolygon([
             (((0, 0), (0, 3), (3, 3), (3, 0)), [((0, 0), (0, 2), (2, 2), (2, 0))]),
         ]),
-    ], [
-        ('Area depicted by Polygon', 10000),
-        ('Areas depicted by MultiPolygon', 20000),
-    ], [
-        ('Summary', osgeo.ogr.OFTString),
-        ('Cost', osgeo.ogr.OFTReal),
-    ])
+    ], targetProj4=geometry_store.proj4SM)
 
-Load geometries with fields.
+Load geometries with fields from a compressed ESRI shapefile transformed to the longitude and latitude spatial reference.
 ::
 
     # Load
-    proj4, shapelyGeometries, fieldPacks, fieldDefinitions = geometry_store.load('geometries.shp')
+    proj4, shapelyGeometries, fieldPacks, fieldDefinitions = geometry_store.load('geometries.shp.zip', targetProj4=geometry_store.proj4LL)
     # Display
     for shapelyGeometry, fieldPack in itertools.izip(shapelyGeometries, fieldPacks):
         print
@@ -88,6 +82,8 @@ Load geometries with fields.
 
 Code
 ----
+.. literalinclude:: files/gdal-shapefile-geometries/test_geometry_store.py
+
 .. literalinclude:: files/gdal-shapefile-geometries/geometry_store.py
 
-.. literalinclude:: files/gdal-shapefile-geometries/test_geometry_store.py
+.. literalinclude:: files/gdal-shapefile-geometries/zip_store.py
