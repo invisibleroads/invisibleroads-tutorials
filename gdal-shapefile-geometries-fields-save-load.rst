@@ -39,7 +39,10 @@ Import modules.
 Save points to a GPX file using the longitude and latitude spatial reference.
 ::
 
-    geometry_store.save_points('communities.gpx', geometry_store.proj4LL, [(0, 0), (1, 1)], driverName='GPX')
+    geometry_store.save_points('communities.gpx', geometry_store.proj4LL, [
+        (0, 0), 
+        (1, 1),
+    ], driverName='GPX')
 
 Save lines with fields to a KML file using the Spherical Mercator spatial reference.
 ::
@@ -71,7 +74,8 @@ Load geometries with fields from a compressed ESRI shapefile transformed to the 
 ::
 
     # Load
-    proj4, shapelyGeometries, fieldPacks, fieldDefinitions = geometry_store.load('geometries.shp.zip', targetProj4=geometry_store.proj4LL)
+    proj4, shapelyGeometries, fieldPacks, fieldDefinitions = geometry_store.load('geometries.shp.zip', 
+        targetProj4=geometry_store.proj4LL)
     # Display
     for shapelyGeometry, fieldPack in itertools.izip(shapelyGeometries, fieldPacks):
         print
