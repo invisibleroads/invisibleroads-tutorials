@@ -14,7 +14,6 @@ Requirements
 
 Walkthrough
 -----------
-
 Locate satellite images
 ^^^^^^^^^^^^^^^^^^^^^^^
 First locate your images.  Below are the typical contents of satellite data acquired from the QuickBird satellite.

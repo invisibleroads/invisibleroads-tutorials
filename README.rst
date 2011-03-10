@@ -17,5 +17,4 @@ The tutorials are written in `reStructuredText <http://docutils.sourceforge.net/
 3. View
 ::
 
-    cd _build/html
-    ls
+    firefox _build/html/index.html &

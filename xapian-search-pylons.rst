@@ -17,8 +17,6 @@ Requirements
 
 Command-line experimentation
 ----------------------------
-
-
 Install Xapian
 ^^^^^^^^^^^^^^
 Xapian is available on most platforms including Linux, Mac OS X and Windows.

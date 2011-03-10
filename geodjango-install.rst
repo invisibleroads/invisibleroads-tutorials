@@ -9,8 +9,6 @@ Here you will install GeoDjango, a framework for building web-based mapping appl
 
 Walkthrough for Fedora
 ----------------------
-
-
 Install Django
 ^^^^^^^^^^^^^^
 Download and install the latest version of `Django <http://www.djangoproject.com>`_.

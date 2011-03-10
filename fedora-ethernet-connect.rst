@@ -1,7 +1,5 @@
 Connect two computers running Fedora Linux via ethernet
 =======================================================
-
-
 Connect the computers
 ---------------------
 Option 1: Plug the computers into the same router.
@@ -82,8 +80,6 @@ You might want to write a Bash script to automate the client-side connection, as
 
 Troubleshooting
 ---------------
-
-
 SSH to a remote computer behind a router
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you want to SSH remotely into a host computer that is behind a router, you might need to enable port forwarding on the router to port 22 of the local IP address of your host computer.  Router configuration settings are usually accessible at http://192.168.1.1.  You can tell when your computer is behind a router if your internal IP address as returned by ``ipconfig`` is different from your external IP address as returned by IP lookup websites.
