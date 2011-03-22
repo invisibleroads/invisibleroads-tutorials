@@ -204,6 +204,12 @@ Yoruba is spoken in Nigeria
     fish = ah'-pah-tah
 
 
+.. _hau-sah':
+
+Hau-sah' is spoken in Nigeria
+-----------------------------
+
+
 .. _pidgin:
 
 Pidgin is spoken in West Africa
@@ -212,6 +218,54 @@ Pidgin is spoken in West Africa
 
     a skilled athlete who just scored a goal = dem warrior mahn
     expensive = dyah
+
+
+.. _q'anjob'al:
+
+Q'anjob'al is spoken near Huehuetenango in Guatemala
+----------------------------------------------------
+::
+
+    gracias = yooq-wahl-dios'
+    hombre = wee-nahk'
+    mujer = ish
+    bowl = sehkk
+
+
+.. _kaqchikel:
+
+Kaqchikel is spoken near Lake Atitlan in Guatemala
+--------------------------------------------------
+::
+
+    gracias = mah-tiosh'
+    hola = pah'-na
+    adios = pah'-na
+    hasta mañana = chwah-chik'
+
+
+.. _mam:
+
+Mam is spoken near Quetzaltenango in Guatemala
+----------------------------------------------
+
+
+.. _tz'utujil:
+
+Tz'utujil is spoken near Lake Atitlan in Guatemala
+--------------------------------------------------
+::
+
+    hola = oot-sah-watch'
+
+
+.. _cantonese::
+
+Cantonese is spoken in Hong Kong
+--------------------------------
+::
+
+    dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
 
 
 .. _dutch:

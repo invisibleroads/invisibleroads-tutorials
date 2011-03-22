@@ -66,16 +66,17 @@ Live fully
 .. toctree::
     :maxdepth: 1
 
-    life-reminders-list
     life-goals-reach
+    life-troubleshoot
+    life-presentations-give
+    life-workshops-run
+    life-skills-train
+    life-engineers-collaborate
     life-resources-diversify
     life-enrich
-    life-languages-communicate
     life-dance
-    life-skills-train
-    life-workshops-run
-    life-presentations-give
-    life-engineers-collaborate
+    life-languages-communicate
+    life-reminders-list
 
 
 Indices and tables
