@@ -1,7 +1,5 @@
 Dance
 =====
-
-
 Salsa
 -----
 Thanks to `Salsa International <http://salsainternational.net/>`_.
@@ -9,8 +7,6 @@ Thanks to `Salsa International <http://salsainternational.net/>`_.
 
 Basic
 ^^^^^
-
-
 Left half turn
 """"""""""""""
 On left forward step, push off left foot to swivel left.
@@ -18,8 +14,6 @@ On left forward step, push off left foot to swivel left.
 
 Level I
 ^^^^^^^
-
-
 Drag turn, inside turn, swim crossbody
 """"""""""""""""""""""""""""""""""""""
 - Basic

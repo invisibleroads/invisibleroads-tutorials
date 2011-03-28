@@ -15,7 +15,7 @@ Write one goal and do it.  By choosing your course of action one at a time, you 
 
 Sprint
 ------
-Concentrate on your task and do not allow yourself to be distracted for ten minutes.  Then take a rest.
+Concentrate on your task and do not allow yourself to be distracted for ten minutes.
 
 
 Plan

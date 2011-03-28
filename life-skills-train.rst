@@ -1,7 +1,5 @@
 Train local talent with new skills
 ==================================
-
-
 Start an business incubator
 ---------------------------
 Create a shared space that businesses can rent, cooperate and hire local people.

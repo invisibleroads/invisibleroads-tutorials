@@ -1,6 +1,5 @@
 Socialize to diversify resources
 ================================
-
 The purpose of socializing is to diversify your access to resources that can replenish and enrich your life.  The more people you have on your side, the less likely you will be left wanting for some unfulfilled need and the more likely your family will be able to thrive.
 
 The idea is to gather your own pile of stones, so that people have a reason to socialize with you and so that you have some bargaining power.  Eventually if you have enough of these resources -- be them people, skills, money, products, entertainment, pleasure -- people will come to you.  Women have the intrinsic value advantage.

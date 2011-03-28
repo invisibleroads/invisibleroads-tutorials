@@ -1,6 +1,3 @@
-.. use updated django in code
-.. test that the downloadable code still works
-
 Build a simple GIS web application using GeoDjango and Google Maps
 ==================================================================
 By the end of this tutorial you will have built a simple GIS web application for viewing, editing, searching and uploading GIS data.  We first presented this tutorial as part of a three-hour session on `Working with Geographic Information Systems in Python <http://us.pycon.org/2009/tutorials/schedule/1PM4/>`_ during the `2009 Python Conference <http://us.pycon.org/2009/>`_ in Chicago, Illinois.
@@ -63,8 +60,6 @@ Requirements
 
 Walkthrough
 -----------
-
-
 Create spatial database
 ^^^^^^^^^^^^^^^^^^^^^^^
 Create a spatial database using the template from :doc:`postgresql-postgis-install`.
@@ -152,7 +147,6 @@ Create tables.
     python manage.py syncdb
 
 
-
 Configure urls
 """"""""""""""
 Edit ``urls.py``.  
@@ -206,8 +200,6 @@ Go to http://localhost:8000 in your browser.
 
 View map
 ^^^^^^^^
-
-
 Create url
 """"""""""
 Make sure that ``waypoints/urls.py`` has an index.
@@ -280,8 +272,6 @@ Go to http://localhost:8000
 
 View waypoints
 ^^^^^^^^^^^^^^
-
-
 Modify template
 """""""""""""""
 Add a script link to the `jQuery <http://jquery.com>`_ library below the script link to the Google Maps API in ``templates/waypoints/index.html``.
@@ -461,8 +451,6 @@ Go to http://localhost:8000 and click on a waypoint in the content box
 
 Edit waypoints
 ^^^^^^^^^^^^^^
-
-
 Create url
 """"""""""
 Add *save* to ``waypoints/urls.py``.
@@ -580,8 +568,6 @@ Go to http://localhost:8000, drag a waypoint to a new location and click *Save*.
 
 Rank waypoints by distance from address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
 Create url
 """"""""""
 Add *search* to ``waypoints/urls.py``.
@@ -711,8 +697,6 @@ Go to http://localhost:8000, type an address and rank by distance from address.
 
 Upload waypoints from GPX file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
 Create url
 """"""""""
 Add *upload* to ``waypoints/urls.py``.
@@ -809,12 +793,8 @@ Go to http://localhost:8000 and upload a GPX file such as the `New Zealand Touri
 
 Troubleshooting
 ---------------
-
-
 Google Maps
 ^^^^^^^^^^^
-
-
 Google Maps hangs
 """""""""""""""""
 Google Maps occasionally hangs after a redirect when Firebug is enabled.  Disabling Firebug or restarting your browser will resolve this problem.

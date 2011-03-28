@@ -44,7 +44,7 @@ Save points to a GPX file using the longitude and latitude spatial reference.
         (1, 1),
     ], driverName='GPX')
 
-Save lines with fields to a KML file using the Spherical Mercator spatial reference.
+Save lines with fields to a KML file using the spherical mercator spatial reference.
 ::
 
     geometry_store.save('roads.kml', geometry_store.proj4SM, [

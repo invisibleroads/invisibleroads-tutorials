@@ -35,7 +35,7 @@ Teach others what you have learned.
 
 Learn
 -----
-Experience cultures firsthand.  Learn a language.
+Experience cultures firsthand.  Learn new languages.
 
 
 Meet new people

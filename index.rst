@@ -4,39 +4,13 @@ Tutorials
 - For projects, please see http://github.com/invisibleroads
 
 
-Live fully
-----------
-.. toctree::
-    :maxdepth: 1
-
-    life-reminders-list
-    life-goals-reach
-    life-resources-diversify
-    life-enrich
-    life-languages-communicate
-    life-dance
-    life-skills-train
-    life-workshops-run
-    life-presentations-give
-    life-engineers-collaborate
-
-
 Use our products
 ----------------
-* `Manage your goals using invisibleroads.com <http://invisibleroads.com/docs>`_
+- `Manage your goals using invisibleroads.com <http://invisibleroads.com/docs>`_
 
 
-Find objects in satellite images
---------------------------------
-.. toctree::
-    :maxdepth: 1
-
-    image-classify-convolutional-neural-network
-    envi-image-orthorectify
-
-
-Design geographic information systems
--------------------------------------
+Build geospatial web applications
+---------------------------------
 .. toctree::
     :maxdepth: 1
 
@@ -50,6 +24,15 @@ Design geographic information systems
     geodjango-install
     geoserver-install
     gis-software-list
+
+
+Find objects in satellite images
+--------------------------------
+.. toctree::
+    :maxdepth: 1
+
+    image-classify-convolutional-neural-network
+    envi-image-orthorectify
 
 
 Automate office functions
@@ -76,3 +59,29 @@ Configure Fedora Linux
     :maxdepth: 1
 
     fedora-ethernet-connect
+
+
+Live fully
+----------
+.. toctree::
+    :maxdepth: 1
+
+    life-goals-reach
+    life-troubleshoot
+    life-presentations-give
+    life-workshops-run
+    life-skills-train
+    life-engineers-collaborate
+    life-resources-diversify
+    life-enrich
+    life-dance
+    life-languages-communicate
+    life-reminders-list
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
