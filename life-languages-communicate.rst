@@ -208,6 +208,9 @@ Yoruba is spoken in Nigeria
 
 Hau-sah' is spoken in Nigeria
 -----------------------------
+::
+
+    thank you = nah'-goh-dey
 
 
 .. _pidgin:
@@ -226,10 +229,30 @@ Q'anjob'al is spoken near Huehuetenango in Guatemala
 ----------------------------------------------------
 ::
 
-    gracias = yooq-wahl-dios'
-    hombre = wee-nahk'
-    mujer = ish
+    thank you = yooq-wahl-dios'
+    what is this? = seh-tahl-hoon-tih'?
+    what is that? = seh-tahl-hoon-tooh'?
+    how much is it? = hhahn'-tahh toh'-hhol?
+    water = ah-eh'
+    boy = nahh-oo-nin'
+    girl = ish-oo-nin'
+    knock knock = choo!
+    how are you? = tse'-tshi oowatch mi-ah-cul?
+    I'm well = watch gkhal (guttural gkh moving adam's apple)
+    bye = hi-lah'
+    baby chick = kahsh-lan'
+    man = wee-nahk'
+    woman = ish
     bowl = sehkk
+    food = ee-tahh' (breathy hh)
+    popcorn = ee-yehn'
+    I'm full = mi noh' in cul'
+    eat = loh wee'
+    one = hoon
+    two = kkapp
+    three = oh shepp
+    four = kah-nep
+    five = oh-yehp'
 
 
 .. _kaqchikel:
@@ -238,16 +261,25 @@ Kaqchikel is spoken near Lake Atitlan in Guatemala
 --------------------------------------------------
 ::
 
-    gracias = mah-tiosh'
-    hola = pah'-na
-    adios = pah'-na
-    hasta mañana = chwah-chik'
+    thank you = mah-tiosh'
+    hi = pah'-na
+    bye = pah'-na
+    see you tomorrow = chwah-chik'
 
 
 .. _mam:
 
-Mam is spoken near Quetzaltenango in Guatemala
-----------------------------------------------
+Mam is spoken near Quetzaltenango and Todos Santos in Guatemala
+---------------------------------------------------------------
+::
+
+    tortilla = gwahp
+    see you soon = mh-tchih'-ah
+    who knows? = tih-lah-tey'
+    thank you = chohn-tah-tey'
+    rich flavor = tchi'-al
+    chicken = ayt
+    rooster = gkoh
 
 
 .. _tz'utujil:
@@ -256,7 +288,7 @@ Tz'utujil is spoken near Lake Atitlan in Guatemala
 --------------------------------------------------
 ::
 
-    hola = oot-sah-watch'
+    hi = oot-sah-watch'
 
 
 .. _cantonese::
@@ -265,7 +297,7 @@ Cantonese is spoken in Hong Kong
 --------------------------------
 ::
 
-    dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
+    thank you = dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
 
 
 .. _dutch:

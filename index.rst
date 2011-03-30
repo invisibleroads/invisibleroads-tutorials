@@ -41,6 +41,7 @@ Automate office functions
     :maxdepth: 1
 
     xapian-search-pylons
+    vim-code-edit
 
 
 Automate Windows applications with win32com
