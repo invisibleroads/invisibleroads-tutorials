@@ -326,7 +326,7 @@ Reach around pull, two-handed inside turn enchufla, outside turn, two-handed out
 - Man lift left hand clockwise around and behind man's head so that man's back and woman's back face each other
 - Man break with left foot back with both partners still back to back
 - Man bring his right hand behind his head so woman continues turning clockwise until man and forward face each other in basic two hand open position
-- Man left step forward
+- Woman bends knees and moves hips up in slow upward circular motion while man steps forward
 
 
 .. [#SalsaInternational] Thanks to `Salsa International <http://salsainternational.net/>`_ of New York, NY, USA.
