@@ -212,6 +212,17 @@ Yo-yo spin, side lean [#SalsaRosa]_
 - Man left steps forward
 
 
+Dip [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^
+- Basic
+- Man breaks with left foot back, releases left hand and flings left hand back while woman flings right hand back
+- Man flings right hand to right and woman spins counterclockwise
+- Man catches her back with his right hand and her head with his left hand
+- Man bends left leg while keeping posture firm
+- Man straightens left left, pulls right hand and woman spins clockwise
+- Man left steps forward
+
+
 Hip push spin, two-handed right half turn embrace, left half turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Man puts right hand on woman's left hip
