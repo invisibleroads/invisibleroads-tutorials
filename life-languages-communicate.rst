@@ -291,7 +291,7 @@ Tz'utujil is spoken near Lake Atitlan in Guatemala
     hi = oot-sah-watch'
 
 
-.. _cantonese::
+.. _cantonese:
 
 Cantonese is spoken in Hong Kong
 --------------------------------

@@ -43,4 +43,9 @@ Meet new people
 Change your routine and explore new locations and schedules.  Do something social during the week in new and different social circles.
 
 
+Negotiate to meet your needs
+----------------------------
+Anticipate how you will react to what the other person might say or do.  Thinking through your reaction strategy in advance helps you make decisions more quickly in the moment.
+
+
 .. [#JoseSaramago] Credit to Jose Saramago from the *Year of the Death of Ricardo Reis*

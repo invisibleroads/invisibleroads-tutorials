@@ -68,7 +68,6 @@ Live fully
     :maxdepth: 1
 
     life-goals-reach
-    life-troubleshoot
     life-presentations-give
     life-workshops-run
     life-skills-train
