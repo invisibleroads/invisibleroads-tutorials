@@ -4,6 +4,23 @@ Tutorials
 - For projects, please see http://github.com/invisibleroads
 
 
+Live fully
+----------
+.. toctree::
+    :maxdepth: 1
+
+    life-goals-reach
+    life-presentations-give
+    life-workshops-run
+    life-skills-train
+    life-engineers-collaborate
+    life-resources-diversify
+    life-enrich
+    life-dance
+    life-languages-communicate
+    life-reminders-list
+
+
 Use our products
 ----------------
 - `Manage your goals using invisibleroads.com <http://invisibleroads.com/docs>`_
@@ -60,23 +77,6 @@ Configure Fedora Linux
     :maxdepth: 1
 
     fedora-ethernet-connect
-
-
-Live fully
-----------
-.. toctree::
-    :maxdepth: 1
-
-    life-goals-reach
-    life-presentations-give
-    life-workshops-run
-    life-skills-train
-    life-engineers-collaborate
-    life-resources-diversify
-    life-enrich
-    life-dance
-    life-languages-communicate
-    life-reminders-list
 
 
 Indices and tables
