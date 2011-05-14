@@ -5,6 +5,7 @@ Salsa
 - Directions are from a bird's eye point of view, so that if a woman turns to her right, she is turning clockwise.
 - All steps involve shifting weight onto the moving foot.
 - Alternate feet even when not moving, to stay in beat.
+- If the woman and man turn or spin at the same time, the woman spins or turns first, then the man spins or turns but must finish before she does so that he can signal the next lead.
 
 
 Right turn
@@ -340,5 +341,67 @@ Reach around pull, two-handed inside turn enchufla, outside turn, two-handed out
 - Woman bends knees and moves hips up in slow upward circular motion while man steps forward
 
 
-.. [#SalsaInternational] Thanks to `Salsa International <http://salsainternational.net/>`_ of New York, NY, USA.
+Woman left turn, man change hands, woman inside spin, man inside spin, woman shoulder guided inside turn, shoulder check, twin barrel turn [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand position
+- Man pulls right hand back and left hand forward on right step back
+- Man pushes right hand forward and signals turn with left hand for woman left turn
+- Man changes hands from left to right
+- Man tosses the hand he is holding in his right hand and grasps woman's left wrist
+- Man signals woman to walk across with short pull, then pushes her wrist to right so that she spins counter clockwise while man steps with left, right, left
+- Man steps forward with left and turns right, looking over his right shoulder before last step to see where the woman is
+- Man connects his right arm under her left shoulder and back in crossbody hold, then pulls her slightly forward with his left hand waiting to reach her right shoulder
+- Man side steps left, woman walks into his hand, man steps back with right hand while pulling woman's shoulder to signal inside turn
+- Man keeps hand connected to her shoulder through inside turn and stops her while she is facing away from him
+- Man steps back
+- Man pulls woman's right shoulder back to signal twin barrel turn where woman turns counterclockwise and man turns in mirror direction
+- Man finishes his turn before woman, places his hand under her elbow so that their hands reconnect when she finishes her turn
+
+
+Tango
+-----
+- Man moves chest a split-second ahead of the legs to signal intent
+- Dancers maintain support grounded in one leg while keeping the torso elevated
+
+
+Woman back ocho, woman front ocho, woman front ocho, parada, sandwich, recenter, parada [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man and woman shift slowly in closed position from side to side until support is on man's right foot
+- Man guides side step to left
+- Man shifts weight to right foot, twists torso clockwise and steps with left foot diagonally to his left forward to signal woman's back ocho so that woman steps diagonally to her right backward with her left foot
+- Man twists torso back clockwise while woman is on her left foot and steps diagonally to his right slightly backward to signal woman's forward ocho to her left
+- Man side steps to left to signal woman's forward ocho to her right
+- Man shifts weight to his right foot, steps back with his left foot bringing the woman to his side and puts his foot parallel to her extended foot to signal a parada
+- Man places his left foot to the other side of her extended foot to form a sandwich
+- Man places his right foot directly behind him and plants the heel on the ground
+- Man twists torso clockwise bringing woman with him
+- Man collects his feet
+- Man twists torso to left to signal back ocho, but places left foot parallel to woman's extended foot to signal parada
+
+
+Swing
+-----
+Basic
+^^^^^
+- Man triple steps to left, woman mirrors
+- Man triple steps to right, woman mirrors
+- Man rock steps back with left foot, woman mirrors
+
+Enchufla counterclockwise [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand position, ending with man's signal of moving his left hand across his torso to the right and lifting it
+- Man triple steps into crossbody stance while woman counterclockwise turns under his left arm in front of him
+- Man triple steps to align his torso with the woman
+- Man rock steps back with left foot, woman mirrors
+
+Enchufla clockwise [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand position, ending with man's signal of moving his left hand outward to left
+- Man triple steps into right-hand crossbody stance while woman clockwise turns under his left arm in front of him
+- Man triple steps to align his torso with the woman
+- Man rock steps back with left foot, woman mirrors
+
+
+.. [#SalsaInternational] Thanks to `Salsa International <http://salsainternational.net>`_ of New York, NY, USA.
 .. [#SalsaRosa] Thanks to `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ of Xela, Quetzaltenango, Guatemala.
+.. [#DardoGalletto] Thanks to `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ of New York, NY, USA.
