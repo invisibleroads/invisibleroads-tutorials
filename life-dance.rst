@@ -364,6 +364,17 @@ Tango
 - Dancers maintain support grounded in one leg while keeping the torso elevated
 
 
+Woman back ocho, woman front ocho, woman front ocho, parada, pivot [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man and woman shift slowly in closed position from side to side until support is on man's right foot
+- Man guides side step to left
+- Man shifts weight to right foot, twists torso clockwise and steps with left foot diagonally to his left forward to signal woman's back ocho so that woman steps diagonally to her right backward with her left foot
+- Man twists torso back clockwise while woman is on her left foot and steps diagonally to his right slightly backward to signal woman's forward ocho to her left
+- Man side steps to left to signal woman's forward ocho to her right
+- Man shifts weight to his right foot, steps back with his left foot bringing the woman to his side and puts his right foot parallel to her extended foot to signal a parada
+- Man continues twisting to his right, woman over his right foot, man pivots around woman until his torso is square with hers
+
+
 Woman back ocho, woman front ocho, woman front ocho, parada, sandwich, recenter, parada [#DardoGalletto]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Man and woman shift slowly in closed position from side to side until support is on man's right foot
@@ -371,7 +382,7 @@ Woman back ocho, woman front ocho, woman front ocho, parada, sandwich, recenter,
 - Man shifts weight to right foot, twists torso clockwise and steps with left foot diagonally to his left forward to signal woman's back ocho so that woman steps diagonally to her right backward with her left foot
 - Man twists torso back clockwise while woman is on her left foot and steps diagonally to his right slightly backward to signal woman's forward ocho to her left
 - Man side steps to left to signal woman's forward ocho to her right
-- Man shifts weight to his right foot, steps back with his left foot bringing the woman to his side and puts his foot parallel to her extended foot to signal a parada
+- Man shifts weight to his right foot, steps back with his left foot bringing the woman to his side and puts his right foot parallel to her extended foot to signal a parada
 - Man places his left foot to the other side of her extended foot to form a sandwich
 - Man places his right foot directly behind him and plants the heel on the ground
 - Man twists torso clockwise bringing woman with him
