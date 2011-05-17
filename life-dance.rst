@@ -364,8 +364,20 @@ Tango
 - Dancers maintain support grounded in one leg while keeping the torso elevated
 
 
-Woman back ocho, woman front ocho, woman front ocho, parada, pivot [#DardoGalletto]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Inner pivot [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man and woman shift slowly in closed position from side to side until support is on man's right foot
+- Man guides side step to left
+- Man switches weight to right foot
+- Man left steps forward into woman between her feet
+- Man twists torso counterclockwise to his left so that the woman pirouettes in an upright position on one leg
+- Man swings right foot around to meet his left foot
+- Man steps back with his right foot as woman steps forward with her left
+- Man guides side step to left
+
+
+Woman back ocho, woman front ocho, woman front ocho, parada, outer pivot [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Man and woman shift slowly in closed position from side to side until support is on man's right foot
 - Man guides side step to left
 - Man shifts weight to right foot, twists torso clockwise and steps with left foot diagonally to his left forward to signal woman's back ocho so that woman steps diagonally to her right backward with her left foot
