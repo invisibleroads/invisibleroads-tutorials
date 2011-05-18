@@ -1,6 +1,5 @@
 Communicate with people in other languages
 ==========================================
-The Akan people of Ghana speak three types of Chvi: :ref:`Ashanti <chvi-ashanti>`, :ref:`Efanti <chvi-efanti>`, Equapi.
 
 
 .. _chvi-ashanti:
@@ -298,6 +297,26 @@ Cantonese is spoken in Hong Kong
 ::
 
     thank you = dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
+
+
+.. _russian:
+
+Russian
+-------
+::
+
+    thank you = cpah-cee'-bah
+    good = hha-rdoh'-sheh
+
+
+.. _finnish:
+
+Finnish
+-------
+::
+
+    thank you = ki'-dos (first syllable has higher pitch than second syllable)
+    bye bye = hey-hey (first syllable has higher pitch than second syllable)
 
 
 .. _dutch:
