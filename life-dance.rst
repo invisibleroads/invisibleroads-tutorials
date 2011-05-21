@@ -1,5 +1,8 @@
 Dance
 =====
+The most important thing about dancing is to make sure you and your partner have a good time.  Be aware of where your partner is in relation to you.  
+
+
 Salsa
 -----
 - Directions are from a bird's eye point of view, so that if a woman turns to her right, she is turning clockwise.
@@ -358,15 +361,37 @@ Woman left turn, man change hands, woman inside spin, man inside spin, woman sho
 - Man finishes his turn before woman, places his hand under her elbow so that their hands reconnect when she finishes her turn
 
 
+Half crossbody spin, scoop barrel turn [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in closed position
+- Man guides woman through crossbody, but instead of turning to face her, remains in side position with his left hand connected, right steps forward and changes hands, swivels 270 degrees under his right arm to left step forward toward partner and swivels 180 degrees to right step with back facing partner with his connected right hand resting palm upwards on his right shoulder
+- Man brings arm to his right to guide woman through a right turn, then when she is about to finish, man pivots counterclockwise to face woman
+- Man connects his left hand to woman's left hand under his connected right hand, which combs up and around woman's head to support her back
+- Man guides woman through crossbody but scoops his guiding left hand down, behind and around to guide woman through barrel turn
+- Man turns clockwise with woman's hand tracing his back and returns to closed position
+
+
 Tango
 -----
-- Man moves chest a split-second ahead of the legs to signal intent
-- Dancers maintain support grounded in one leg while keeping the torso elevated
+- The walk is the most important part of the dance.
+- Man moves belly a split-second ahead of the legs to signal intent.
+- Dancers maintain support grounded in one leg while keeping the torso elevated.
+- Before moving, the dancers slowly shift weight from side to side to negotiate which foot is grounded.
+
+
+Rock step exercise [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man left steps forward
+- Man right steps forward
+- Man left rock steps forward, collects and side-steps to the left in double time
+- Man right steps forward to his outer left
+- Man left rock steps forward and left steps back in double time
+- Man brings right foot back, shifts weight to left and steps back with his right in double time
+- Man brings left foot back, left rock steps to the side, collects and left steps forward in double time
 
 
 Inner pivot [#DardoGalletto]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man and woman shift slowly in closed position from side to side until support is on man's right foot
 - Man guides side step to left
 - Man switches weight to right foot
 - Man left steps forward into woman between her feet
@@ -376,9 +401,19 @@ Inner pivot [#DardoGalletto]_
 - Man guides side step to left
 
 
+Molinete [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man guides side step to left
+- Man left steps forward to the woman's outer left
+- Man right steps forward and elevates the woman's frame slightly while twisting to the left to signal a cross
+- Man shifts weight to his left foot
+- Man makes a small step back with his right foot and plants the heel into the ground while bringing the woman to his left by twisting his torso
+- Man continues twisting counterclockwise with his left leg twisted in front of his planted right leg while the woman performs front ochos, side steps and back ochos around the man
+- At the moment the woman's right leg is free, man left steps forward and side steps right
+
+
 Woman back ocho, woman front ocho, woman front ocho, parada, outer pivot [#DardoGalletto]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man and woman shift slowly in closed position from side to side until support is on man's right foot
 - Man guides side step to left
 - Man shifts weight to right foot, twists torso clockwise and steps with left foot diagonally to his left forward to signal woman's back ocho so that woman steps diagonally to her right backward with her left foot
 - Man twists torso back clockwise while woman is on her left foot and steps diagonally to his right slightly backward to signal woman's forward ocho to her left
@@ -425,6 +460,6 @@ Enchufla clockwise [#DardoGalletto]_
 - Man rock steps back with left foot, woman mirrors
 
 
-.. [#SalsaInternational] Thanks to `Salsa International <http://salsainternational.net>`_ of New York, NY, USA.
-.. [#SalsaRosa] Thanks to `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ of Xela, Quetzaltenango, Guatemala.
-.. [#DardoGalletto] Thanks to `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ of New York, NY, USA.
+.. [#SalsaInternational] Thanks to `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
+.. [#SalsaRosa] Thanks to `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
+.. [#DardoGalletto] Thanks to Dardo Galletto, Karina Romero, Mariana Fresno, Amanda Luken, Philip Haymon, Akemi Kinukawa of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
