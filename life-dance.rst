@@ -9,6 +9,7 @@ Salsa
 - All steps involve shifting weight onto the moving foot.
 - Alternate feet even when not moving, to stay in beat.
 - If the woman and man turn or spin at the same time, the woman spins or turns first, then the man spins or turns but must finish before she does so that he can signal the next lead.
+- Man keeps head steady throughout his movement with eyes focused on partner.
 
 
 Right turn
