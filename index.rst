@@ -17,6 +17,7 @@ Live fully
     life-resources-diversify
     life-enrich
     life-dance
+    life-exercise
     life-languages-communicate
     life-reminders-list
 

@@ -1,6 +1,6 @@
 Dance
 =====
-The most important thing about dancing is to make sure you and your partner have a good time.  Be aware of where your partner is in relation to you.  
+The most important thing about dancing is to make sure you and your partner are having a good time.
 
 
 Salsa
