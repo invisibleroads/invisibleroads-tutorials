@@ -1,6 +1,6 @@
 Dance
 =====
-The most important thing about dancing is to make sure you and your partner are having a good time.
+Having fun is more important than doing a lot of combinations.
 
 
 Salsa
@@ -48,6 +48,11 @@ Crossbody from open position by pulling both hands close to hips while going thr
 Swim crossbody
 ^^^^^^^^^^^^^^
 Man signals crossbody but lifts his left hand and pushes woman with his right hand to continue passing on his left while he turns and swims his right hand under and back to basic closed position.
+
+
+Two hand release
+^^^^^^^^^^^^^^^^
+In left hand over right or right hand over left hold, raise hands over and release behind woman's head so that her hands trickle over her head like water, then crossbody.
 
 
 Woman right turn, man right turn, woman right turn, crossbody [#SalsaInternational]_
@@ -143,8 +148,8 @@ Fling catch left, push side turn right [#SalsaInternational]_
 - Crossbody
 
 
-Crossbody into open break, man toss left, man spin right, man change hands [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Two arm push pull, man toss left, man spin right, man change hands [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Crossbody into two hand open position
 - Man left step forward while pushing forward with left hand
 - Man return to basic stance while pushing forward with right hand
@@ -207,7 +212,7 @@ Break, fling catch left, push catch right, push side turn left, man change hands
 Yo-yo spin, side lean [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Basic
-- Man breaks with left foot back, releases left hand and flings left hand back while woman flings right hand back
+- Man breaks with left foot back, releases left hand and flings left hand back while woman flings right hand back so that both partners are facing outward and back
 - Man tugs lightly with right hand and woman spins counterclockwise into man
 - Man stops woman's shoulder with his left hand
 - Man leans slowly to left by bending left leg with woman leaning on him
@@ -220,7 +225,7 @@ Yo-yo spin, side lean [#SalsaRosa]_
 Dip [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^
 - Basic
-- Man breaks with left foot back, releases left hand and flings left hand back while woman flings right hand back
+- Man breaks with left foot back, releases left hand and flings left hand back while woman flings right hand back so that both partners are facing outward and back
 - Man flings right hand to right and woman spins counterclockwise
 - Man catches her back with his right hand and her head with his left hand
 - Man bends left leg while keeping posture firm
@@ -239,6 +244,54 @@ Hip push spin, two-handed right half turn embrace, left half turn [#SalsaInterna
 - Man pushes right hand while stepping forward so woman spins counterclockwise as man traces his right hand from her right shoulder to her left shoulder while she is spinning
 - Man catches woman with right hand behind her left shoulder for closed position
 - Crossbody
+
+
+Left hand lift with right hand cross and enchufla spin hair pull turn [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic
+- On woman's forward step, man lifts left hand and brings right hand across to left
+- Open break with man's left leg back
+- Man lifts left arm and turns enchufla while facing the inside of the circle
+- Man lifts right hand over head and spins full circle counterclockwise while keeping hands connected
+- Man ends spin with left step forward and his left arm behind him holding the woman's hand
+- Man raises his right hand over to left of the woman's head so that it is resting against her right neck
+- On man's forward step, man signals pull with his right hand from her neck and grasps with his left hand's thumb and forefinger to pull her behind him as he turns counterclockwise to face her
+- Man raises left hand and stirs counterclockwise in a tight circle with palm flat to signal woman's spin
+
+
+Left hand lift with right hand cross and back to back hand change pull turn catch reverse turn [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic
+- On woman's forward step, man lifts left hand and brings right hand across to left, then man brings left hand across and behind man's head
+- Open break with man's left leg back
+- Man and woman switch places back to back, but man lets go of his left hand that traces her back until it switches to her other hand
+- Open break with man's left leg back
+- Man pulls his left hand that is connected to her left hand during open break again and turns woman counterclockwise while he goes into crossbody position
+- Man catches woman's left shoulder with his right hand in the middle of her turn when she is facing to his left, then pushes her back to reverse turn clockwise
+- Man ends combo with left step forward
+
+
+Left hand over right crossbody titanic [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man brushes his connected right hand behind his head to switch into left hand over right hand hold
+- While holding hands, crossbody and man stirs left hand counterclockwise and brings hand strongly down so that woman is facing outward from you with hands outstretched at her sides
+- Man brings left and right hands together above her head and spins her clockwise and brings hands down to return to left hand over right hand hold
+
+
+Right hand over left crossbody two hand spin [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man brushes left hand behind his head to switch into right hand over left hand hold
+- While holding hands, crossbody and stir both hands clockwise over woman's head in a tight circle and brings hands strongly down to end in left hand over right hand hold
+
+
+Two hand crossbody left hand lift with right hand cross [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Through crossbody, man signals inside turn while his right hand is connected to her right hand to end resting near her waist
+- On back step, lift both hands to spin her clockwise and down
+- Toss hands to resolve hand tangle
 
 
 Enchufla doble [#SalsaInternational]_
