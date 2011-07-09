@@ -290,6 +290,18 @@ Tz'utujil is spoken near Lake Atitlan in Guatemala
     hi = oot-sah-watch'
 
 
+.. _spanish_guatemala:
+
+Guatemalan slang
+^^^^^^^^^^^^^^^^
+::
+
+    cucarachas que sí = hell yeah
+    abuelitas que sí = hell yeah
+    qué putas = what's happening?
+    qué onda = what's happening?
+
+
 .. _cantonese:
 
 Cantonese is spoken in Hong Kong
