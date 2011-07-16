@@ -1,6 +1,6 @@
 Dance
 =====
-Having fun is more important than doing a lot of combinations.
+Having fun is more important than doing a lot of combos.
 
 
 Salsa
@@ -163,27 +163,113 @@ Make a J right, fling catch left, push catch right, push catch left, woman right
 - Crossbody
 
 
-Fling catch left, push side turn right [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Man breaks with left foot back
-- Man flings left hand to left
-- Man catches woman's left hand with his left hand before she can spin while side-stepping to left
-- Man counts beats
-- Man pushes his left hand to right into a man right side turn and woman mirror left side turn
-- Man returns to basic stance
-- Crossbody
-
-
 Two arm push pull, man toss left, man spin right, man change hands [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Man left step forward while pushing forward with left hand
+- Crossbody into two hand open position with palms touching, hands grasping but fingers pointed upward
+- Man left steps forward while pushing strongly forward with left hand
 - Man return to basic stance while pushing forward with right hand
 - Man toss hands to left to signal woman clockwise spin while man places right toe behind him and spins clockwise
 - Man changes hands while turning right
 - Man lifts left hand for woman right turn while stepping back with right foot
 - Crossbody
+
+
+Hip push spin, two-handed right half turn embrace, left half turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man puts right hand on woman's left hip
+- Man pushes woman's left hip forward while stepping forward with his left foot so woman spins counterclockwise
+- Man catches woman with right hand behind her left shoulder for closed position
+- Crossbody into two hand open position
+- Man guides right hand clockwise behind woman's head into embrace and rests his right hand on her right shoulder with her back facing him
+- Man counts beats
+- Man pushes right hand while stepping forward so woman spins counterclockwise as man traces his right hand from her right shoulder to her left shoulder while she is spinning
+- Man catches woman with right hand behind her left shoulder for closed position
+- Crossbody
+
+
+Left hand over right crossbody titanic [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man brushes his connected right hand behind his head to switch into left hand over right hand hold
+- While holding hands, man signals crossbody and stirs left hand counterclockwise and brings hand strongly down so that woman is facing outward from you with hands outstretched at her sides
+- Man brings left and right hands together above her head and spins her clockwise and brings hands down to return to left hand over right hand hold
+
+
+Right hand over left crossbody two hand spin [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man brushes left hand behind his head to switch into right hand over left hand hold
+- While holding hands, man signals crossbody and stirs both hands clockwise over woman's head in a tight circle and brings hands strongly down to end in left hand over right hand hold
+
+
+Right hand over left crossbody into reverse cuatro [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man brushes left hand behind his head to switch into right hand over left hand hold
+- While holding hands, man signals crossbody and stirs right hand up and counter clockwise so she ends with her right arm held behind her back
+- On man's back step, man signals woman unravel turn into basic
+- Man left steps forward
+
+
+Right hand over left crossbody titanic [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man brushes left hand behind his head to switch into right hand over left hand hold
+- While holding hands, man signals crossbody but lets go of her hands and his right hand grasps her left wrist which he pulls forward and tosses out right to signal woman clockwise spin
+- Man left steps forward
+
+
+Two hand crossbody left hand lift with right hand cross [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Through crossbody, man signals inside turn while his right hand is connected to her right hand to end resting near her waist
+- On back step, lift both hands to spin her clockwise and down
+- Toss hands to resolve hand tangle
+
+
+Drag turn, inside turn, swim crossbody [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic
+- Crossbody
+- Man does left half turn and left full turn while dragging woman's right hand under his left elbow
+- Man left steps forward on six
+- Man lifts left hand for woman right turn while stepping back with right foot
+- Man changes hands while turning right
+- Man lifts left hand for woman right turn while stepping back with right foot
+- Crossbody
+- Man guides woman left inside turn
+- Man lifts left hand for woman right turn while side stepping right and spin turning left
+- Man left steps forward on six
+- Crossbody
+- Man lifts entire left arm while left stepping forward and swim turn right so right hand returns behind her left shoulder
+- Crossbody
+
+
+Woman left turn, man change hands, woman inside spin, man inside spin, woman shoulder guided inside turn, shoulder check, twin barrel turn [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand position
+- Man pulls right hand back and left hand forward on right step back
+- Man pushes right hand forward and signals turn with left hand for woman left turn
+- Man changes hands from left to right
+- Man tosses the hand he is holding in his right hand and grasps woman's left wrist
+- Man signals woman to walk across with short pull, then pushes her wrist to right so that she spins counter clockwise while man steps with left, right, left
+- Man steps forward with left and turns right, looking over his right shoulder before last step to see where the woman is
+- Man connects his right arm under her left shoulder and back in crossbody hold, then pulls her slightly forward with his left hand waiting to reach her right shoulder
+- Man side steps left, woman walks into his hand, man steps back with right hand while pulling woman's shoulder to signal inside turn
+- Man keeps hand connected to her shoulder through inside turn and stops her while she is facing away from him
+- Man steps back
+- Man pulls woman's right shoulder back to signal twin barrel turn where woman turns counterclockwise and man turns in mirror direction
+- Man finishes his turn before woman, places his hand under her elbow so that their hands reconnect when she finishes her turn
+
+
+Half crossbody spin, scoop barrel turn [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in closed position
+- Man guides woman through crossbody, but instead of turning to face her, remains in side position with his left hand connected, right steps forward and changes hands, swivels 270 degrees under his right arm to left step forward toward partner and swivels 180 degrees to right step with back facing partner with his connected right hand resting palm upwards on his right shoulder
+- Man brings arm to his right to guide woman through a right turn, then when she is about to finish, man pivots counterclockwise to face woman
+- Man connects his left hand to woman's left hand under his connected right hand, which combs up and around woman's head to support her back
+- Man guides woman through crossbody but scoops his guiding left hand down, behind and around to guide woman through barrel turn
+- Man turns clockwise with woman's hand tracing his back and returns to closed position
 
 
 Woman inside turn, man left turn, woman right turn, man spin left, woman arm spin [#SalsaInternational]_
@@ -196,6 +282,18 @@ Woman inside turn, man left turn, woman right turn, man spin left, woman arm spi
 - Man breaks with left foot back and keeps left arm straight holding her right arm while returning forward
 - Man uses his left arm to push her right arm for woman clockwise spin
 - Man returns to basic stance
+
+
+Fling catch left, push side turn right [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Man breaks with left foot back
+- Man flings left hand to left
+- Man catches woman's left hand with his left hand before she can spin while side-stepping to left
+- Man counts beats
+- Man pushes his left hand to right into a man right side turn and woman mirror left side turn
+- Man returns to basic stance
+- Crossbody
 
 
 Copa, man change hands, woman right turn [#SalsaInternational]_
@@ -241,7 +339,6 @@ Rotating flare [#SalsaRosa]_
 
 Break, fling catch left, push catch right, push side turn left, man change hands, woman inside turn, copa [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic
 - Crossbody
 - Man breaks with left foot back
 - Man flings left hand to left and catches woman's left hand with his left hand while stepping back with his right foot
@@ -281,24 +378,11 @@ Dip [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^
 - Basic
 - Man breaks with left foot back, releases left hand and flings left hand back while woman flings right hand back so that both partners are facing outward and back
-- Man flings right hand to right and woman spins counterclockwise
+- Man pulls his right hand that is connected to her left hand so that the woman starts moving toward man, then he flings his right hand to the right so the woman spins counterclockwise
 - Man catches her back with his right hand and her head with his left hand
 - Man bends left leg while keeping posture firm
 - Man straightens left leg, pulls right hand and woman spins clockwise
 - Man left steps forward
-
-
-Hip push spin, two-handed right half turn embrace, left half turn [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man puts right hand on woman's left hip
-- Man pushes woman's left hip forward while stepping forward with his left foot so woman spins counterclockwise
-- Man catches woman with right hand behind her left shoulder for closed position
-- Crossbody into two hand open position
-- Man guides right hand clockwise behind woman's head into embrace and rests his right hand on her right shoulder with her back facing him
-- Man counts beats
-- Man pushes right hand while stepping forward so woman spins counterclockwise as man traces his right hand from her right shoulder to her left shoulder while she is spinning
-- Man catches woman with right hand behind her left shoulder for closed position
-- Crossbody
 
 
 Backward walk flare [#SalsaRosa]_
@@ -347,46 +431,6 @@ Cuatro, enchufla, copa [#SalsaRosa]_
 - Man continues momentum by stirring his left hand for woman counterclockwise spin
 
 
-Left hand over right crossbody titanic [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Man brushes his connected right hand behind his head to switch into left hand over right hand hold
-- While holding hands, man signals crossbody and stirs left hand counterclockwise and brings hand strongly down so that woman is facing outward from you with hands outstretched at her sides
-- Man brings left and right hands together above her head and spins her clockwise and brings hands down to return to left hand over right hand hold
-
-
-Right hand over left crossbody two hand spin [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Man brushes left hand behind his head to switch into right hand over left hand hold
-- While holding hands, man signals crossbody and stirs both hands clockwise over woman's head in a tight circle and brings hands strongly down to end in left hand over right hand hold
-
-
-Right hand over left crossbody into reverse cuatro [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Man brushes left hand behind his head to switch into right hand over left hand hold
-- While holding hands, man signals crossbody and stirs right hand up and counter clockwise so she ends with her right arm held behind her back
-- On man's back step, man signals woman unravel turn into basic
-- Man left steps forward
-
-
-Right hand over left crossbody titanic [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Man brushes left hand behind his head to switch into right hand over left hand hold
-- While holding hands, man signals crossbody but lets go of her hands and his right hand grasps her left wrist which he pulls forward and tosses out right to signal woman clockwise spin
-- Man left steps forward
-
-
-Two hand crossbody left hand lift with right hand cross [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody into two hand open position
-- Through crossbody, man signals inside turn while his right hand is connected to her right hand to end resting near her waist
-- On back step, lift both hands to spin her clockwise and down
-- Toss hands to resolve hand tangle
-
-
 Enchufla doble [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Crossbody
@@ -414,24 +458,6 @@ Enchufla doble, hip push spin, two-handed right half turn embrace, left half tur
 - Man counts beats
 - Man pushes right hand while stepping forward so woman spins counterclockwise as man traces his right hand from her right shoulder to her left shoulder while she is spinning
 - Man catches woman with right hand behind her left shoulder for closed position
-- Crossbody
-
-
-Drag turn, inside turn, swim crossbody [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic
-- Crossbody
-- Man does left half turn and left full turn while dragging woman's right hand under his left elbow
-- Man left steps forward on six
-- Man lifts left hand for woman right turn while stepping back with right foot
-- Man changes hands while turning right
-- Man lifts left hand for woman right turn while stepping back with right foot
-- Crossbody
-- Man guides woman left inside turn
-- Man lifts left hand for woman right turn while side stepping right and spin turning left
-- Man left steps forward on six
-- Crossbody
-- Man lifts entire left arm while left stepping forward and swim turn right so right hand returns behind her left shoulder
 - Crossbody
 
 
@@ -491,31 +517,33 @@ Reach around pull, two-handed inside turn enchufla, outside turn, two-handed out
 - Woman bends knees and moves hips up in slow upward circular motion while man steps forward
 
 
-Woman left turn, man change hands, woman inside spin, man inside spin, woman shoulder guided inside turn, shoulder check, twin barrel turn [#DardoGalletto]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic in two hand position
-- Man pulls right hand back and left hand forward on right step back
-- Man pushes right hand forward and signals turn with left hand for woman left turn
-- Man changes hands from left to right
-- Man tosses the hand he is holding in his right hand and grasps woman's left wrist
-- Man signals woman to walk across with short pull, then pushes her wrist to right so that she spins counter clockwise while man steps with left, right, left
-- Man steps forward with left and turns right, looking over his right shoulder before last step to see where the woman is
-- Man connects his right arm under her left shoulder and back in crossbody hold, then pulls her slightly forward with his left hand waiting to reach her right shoulder
-- Man side steps left, woman walks into his hand, man steps back with right hand while pulling woman's shoulder to signal inside turn
-- Man keeps hand connected to her shoulder through inside turn and stops her while she is facing away from him
-- Man steps back
-- Man pulls woman's right shoulder back to signal twin barrel turn where woman turns counterclockwise and man turns in mirror direction
-- Man finishes his turn before woman, places his hand under her elbow so that their hands reconnect when she finishes her turn
+Cuatro pasos [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand open position
+- Man breaks with left foot back
+- Man lifts left hand to signal woman right turn while he performs enchufla by turning around woman while facing inward toward her
+- After woman finishes turn, man breaks with left foot back and turns clockwise with his left hand at his waist and regrasps woman's right hand with his left hand
+- Man lifts left hand to signal woman right turn while he performs enchufla by turning around woman while facing inward toward her
+- After woman finishes turn, man breaks with left foot back and turns clockwise with his left hand at his neck and regrasps woman's right hand with his left hand
+- Man lifts left hand to signal woman right turn while he performs enchufla by turning around woman while facing inward toward her
+- After woman finishes turn, man breaks with left foot back and turns clockwise while changing hands from left to right
+- Man signals woman right turn with his right hand
+- Man steps forward with his left foot
 
 
-Half crossbody spin, scoop barrel turn [#DardoGalletto]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic in closed position
-- Man guides woman through crossbody, but instead of turning to face her, remains in side position with his left hand connected, right steps forward and changes hands, swivels 270 degrees under his right arm to left step forward toward partner and swivels 180 degrees to right step with back facing partner with his connected right hand resting palm upwards on his right shoulder
-- Man brings arm to his right to guide woman through a right turn, then when she is about to finish, man pivots counterclockwise to face woman
-- Man connects his left hand to woman's left hand under his connected right hand, which combs up and around woman's head to support her back
-- Man guides woman through crossbody but scoops his guiding left hand down, behind and around to guide woman through barrel turn
-- Man turns clockwise with woman's hand tracing his back and returns to closed position
+Cuatro pasos, copa [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand open position
+- Man breaks with left foot back
+- Man lifts left hand to signal woman right turn while he performs enchufla by turning around woman while facing inward toward her
+- After woman finishes turn, man breaks with left foot back and turns clockwise with his left hand at his waist and regrasps woman's right hand with his left hand
+- Man lifts left hand to signal woman right turn while he performs enchufla by turning around woman while facing inward toward her
+- After woman finishes turn, man breaks with left foot back and turns clockwise with his left hand at his neck and regrasps woman's right hand with his left hand
+- Man lifts left hand to signal woman right turn while he performs enchufla by turning around woman while facing inward toward her
+- After woman finishes turn, man breaks with left foot back and lifts his left hand to signal woman right turn while keeping his right hand connected for copa
+- Man pulls his left hand in and pushes woman forward with his right shoulder to spin woman counterclockwise and forward
+- Man twirls left hand up and around and down to continue woman counterclockwise spin
+- Man steps forward with his left foot
 
 
 Tango
