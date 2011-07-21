@@ -407,6 +407,19 @@ Cuatro, enchufla spin hair pull turn [#SalsaRosa]_
 - Man raises left hand and stirs counterclockwise in a tight circle with palm flat to signal woman's spin
 
 
+Cuatro, enchufla doble, side-by-side embrace turn, twin spin [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic in two hand open position
+- On woman's forward step, man lifts left hand and brings right hand across to left
+- Open break with man's left leg back
+- Man lifts left arm and turns enchufla while facing the inside of the circle and changing hands so that his left hand is holding her hand
+- Man lifts left arm to signal woman right turn while he turns enchufla under his arm so that man and woman have switched positions
+- Man breaks with left foot back and lifts his left hand to signal second woman right turn while he turns enchufla
+- Man puts his left hand behind his neck while it is connected to her left hand and embraces woman side-by-side with his right arm around her waist
+- Man turns with woman so they switch places
+- Man pulls his right arm inward so that woman spins clockwise while he spins counterclockwise
+
+
 Cuatro, back to back hand change pull turn catch reverse turn [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Basic in two hand open position
