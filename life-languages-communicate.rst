@@ -300,6 +300,8 @@ Guatemalan slang
     abuelitas que sí = hell yeah
     qué putas = what's happening?
     qué onda = what's happening?
+    tener pilas = have skills
+    tener pilas en salsa = have skills in salsa
 
 
 .. _cantonese:

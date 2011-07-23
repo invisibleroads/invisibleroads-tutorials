@@ -32,11 +32,6 @@ Left half turn, right half turn
 On left forward step, push off left foot to swivel left into crossbody stance, then continue swivelling left until you are facing backwards and right step forward, push off right foot to swivel right into basic stance.
 
 
-Two hand release
-^^^^^^^^^^^^^^^^
-In left hand over right or right hand over left hold, raise hands over and release behind woman's head so that her hands trickle over her head like water, then crossbody.
-
-
 Crossbody
 ^^^^^^^^^
 - Man left steps forward
@@ -63,6 +58,36 @@ Man begins crossbody but man steps with his right foot in front of his left foot
 Man change hands via right turn duck [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 On man's forward left step, man turns right and continues turning by ducking under his left arm whereupon he releases his left hand and lets woman's right hand drop to his right hand.
+
+
+Two hand release
+^^^^^^^^^^^^^^^^
+In left hand over right or right hand over left hold, raise hands over and release behind woman's head so that her hands trickle over her head like water, then crossbody.
+
+
+Two hand hand transition [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From a hand over hand hold, the man lifts his connected hands up, over and behind his head while keeping his head erect.  The woman's hands glide into his open palms that are facing diagonally outward from his body.
+
+
+Hairbrush hand transition [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From the two hand open hold, the man lifts his right forearm up, over and behind his head so that his armpit is exposed while placing the woman's left hand on his left shoulder.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while his right hand waits over or under his left hand according to the desired hold.
+
+
+Ventana hand transition [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From the two hand open hold, the man lifts his right forearm in front of and to the left of his face so that the connected arms form a window through which the couple can make eye contact.  With his right forearm to the left of his face, he lifts his right hand up, over and behind his head.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while his right hand waits over or under his left hand according to the desired hold.
+
+
+Turn grasp hand transition [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From the two hand open hold, the man turns clockwise while left stepping forward and transfers both the woman's hands to his left hand as he turns.  Using his left hand, he lifts the woman's hands up, over and behind his head while keeping his head erect and stepping forward, placing his right hand behind the woman's left shoulder for the closed position.
+
+
+Turn ventana hand transition [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From the two hand open hold, the man turns clockwise while left stepping forward and lowers his connected hands while right stepping back.  While left stepping forward, he lifts his connected right hand in front of and to the left of his face so that the connected arms form a window through which the couple can make eye contact.  With his right forearm to the left of his face, he lifts his right hand up, over and behind his head.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while placing his right hand behind the woman's left shoulder for the closed position.
 
 
 Woman right turn, man mirror spin [#SalsaInternational]_
@@ -621,8 +646,14 @@ Man gancho spin [#SalsaRosa]_
 - Man releases woman
 - Man kicks his left foot out and crosses it in front of his right thigh so that his foot is at his waist
 - Man puts his left foot down behind his right foot and spins clockwise
-- Man juts his two foot out in a wide saddle stance while stepping two beats
+- Man steps his left foot out to side with leg straight
+- Man steps his right foot out to side with leg straight to complete stance
 - Man left steps forward
+
+
+Side step double spin [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
 
 
 Tango
