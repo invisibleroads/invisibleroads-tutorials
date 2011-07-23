@@ -81,13 +81,13 @@ Ventana hand transition [#SalsaRosa]_
 From the two hand open hold, the man lifts his right forearm in front of and to the left of his face so that the connected arms form a window through which the couple can make eye contact.  With his right forearm to the left of his face, he lifts his right hand up, over and behind his head.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while his right hand waits over or under his left hand according to the desired hold.
 
 
-Turn grasp hand transition [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Turn grasp hand transition [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 From the two hand open hold, the man turns clockwise while left stepping forward and transfers both the woman's hands to his left hand as he turns.  Using his left hand, he lifts the woman's hands up, over and behind his head while keeping his head erect and stepping forward, placing his right hand behind the woman's left shoulder for the closed position.
 
 
-Turn ventana hand transition [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Turn ventana hand transition [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 From the two hand open hold, the man turns clockwise while left stepping forward and lowers his connected hands while right stepping back.  While left stepping forward, he lifts his connected right hand in front of and to the left of his face so that the connected arms form a window through which the couple can make eye contact.  With his right forearm to the left of his face, he lifts his right hand up, over and behind his head.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while placing his right hand behind the woman's left shoulder for the closed position.
 
 
