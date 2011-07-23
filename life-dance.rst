@@ -2,14 +2,15 @@ Dance
 =====
 Having fun is more important than doing a lot of moves.
 
+Directions are from a bird's eye point of view, so that if a woman turns to her right, she is turning clockwise.
+
 
 Salsa
 -----
-- Directions are from a bird's eye point of view, so that if a woman turns to her right, she is turning clockwise.
-- All steps involve shifting weight onto the moving foot.
-- Alternate feet even when not moving, to stay in beat.
-- If the woman and man turn or spin at the same time, the woman spins or turns first, then the man spins or turns but must finish before she does so that he can signal the next lead.
-- Man keeps head steady throughout his movement with eyes focused on partner.
+- Shift weight onto the moving foot.
+- Shift weight even when not moving, to stay in beat.
+- Keep your eyes focused on your partner.
+- If the woman and man turn or spin at the same time, the woman spins or turns first, then the man spins or turns but must finish before her so that he can signal the next lead.
 
 
 Right turn
