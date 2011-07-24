@@ -10,6 +10,7 @@ Salsa
 - Shift weight onto the moving foot.
 - Shift weight even when not moving, to stay in beat.
 - Keep your eyes focused on your partner.
+- Stagger feet with your partner for a close embrace.
 - If the woman and man turn or spin at the same time, the woman spins or turns first, then the man spins or turns but must finish before her so that he can signal the next lead.
 
 
