@@ -7,26 +7,22 @@ Directions are from a bird's eye point of view, so that if a woman turns to her 
 
 Salsa
 -----
+- Listen for the downbeat.  In the basic step, the man uses his left leg to step forward and his right leg to step backward.  For NY style on 2 timing with a partner, the man steps with his left foot back on the downbeat, steps his right foot further back, steps his left foot in place, pauses, steps his right foot forward, steps his left foot further forward, steps his right foot in place, pauses.  For LA style on 1 timing with a partner, the man steps with his left foot forward on the downbeat, steps his right foot in place, returns his left foot to standing position, pauses, steps his right foot back, steps his left foot in place, return his right foot to standing position, pauses.
 - Shift weight onto the moving foot.
 - Shift weight even when not moving, to stay in beat.
 - Keep your eyes focused on your partner.
 - Stagger feet with your partner for a close embrace.
-- If the woman and man turn or spin at the same time, the woman spins or turns first, then the man spins or turns but must finish before her so that he can signal the next lead.
+- If the woman and man turn or spin at the same time, the man signals the woman to spin or turn first, then the man spins or turns but must finish before she does so that he can signal the next lead.
 
 
 Right turn
 ^^^^^^^^^^
-Step forward with left foot, turn clockwise 180 degrees, step forward with left foot, turn clockwise 180 degrees.
+Step forward with left foot, turn clockwise 180 degrees, step forward with left foot, turn clockwise 180 degrees, step back with right foot.
 
 
 Right half turn, left half turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Step forward with left foot, turn clockwise 180 degrees, step forward with right foot, turn counterclockwise 180 degrees.
-
-
-Left half turn
-^^^^^^^^^^^^^^
-On left forward step, push off left foot to swivel left into crossbody stance.
 
 
 Left half turn, right half turn
@@ -123,28 +119,8 @@ Woman right turn, man drop change hands [#EddieTorres]_
 - Basic
 - Man lifts left hand for woman right turn while stepping back with right foot
 - Man turns left so that woman is facing his back while wrapping his left arm over his right shoulder
-- Man drops woman's hand from his left hand over his right shouler down to his right hand
+- Man drops woman's hand from his left hand over his right shoulder down to his right hand
 - Man stirs right hand clockwise to signal woman's clockwise turn
-
-
-Woman inside turn, man change hands [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic
-- Man moves into crossbody stance
-- Man guides his left hand to other side while turning woman clockwise
-- Man returns right foot to basic stance
-- Man changes hands while turning right
-- Man lifts left hand for woman right turn while stepping back with right foot
-- Crossbody
-
-
-Woman outside turn [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic
-- Man drops left hand while stepping back with right foot
-- Man puts left hand on woman's right shoulder while stepping forward with left foot
-- Man pulls woman's right shoulder for woman left outside turn
-- Man catches woman's left shoulder with right hand and returns to basic stance
 
 
 Make a J right, make a J left, woman right turn, man change hands [#SalsaInternational]_
@@ -187,6 +163,24 @@ Make a J right, fling catch left, push catch right, push catch left, woman right
 - Man pushes hand back to left but catches woman's left hand with his left hand before she spins
 - Man lifts left hand for woman right turn while stepping back with right foot
 - Man changes hands while turning right
+- Crossbody
+
+
+Shoulder inside turn, make a J, left fling, right fling, man change hands, inside turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Basic
+- Man moves into crossbody stance
+- Man guides his left hand to other side while turning woman clockwise
+- Man returns right foot to basic stance
+- Man changes hands while turning right
+- Man lifts left hand for woman right turn while stepping back with right foot
+- Crossbody
+- Man flings left hand to left and spins left while woman mirror spins right
+- Man catches woman's left hand with his right hand
+- Man flings right hand to the right and spins right while woman mirror spins left
+- On his left forward step, man turn right while transferring the woman's right hand from his left hand to his right hand
+- Man lifts left hand to signal a woman right turn while stepping back with his right foot
+- Man signals a woman inside turn by first pulling forward with his left hand, then swirling his left hand clockwise above the woman's head to the other side while his right hand traces her back
 - Crossbody
 
 
@@ -656,6 +650,32 @@ Man gancho spin [#SalsaRosa]_
 Side step double spin [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
+
+
+Rueda de Casino
+^^^^^^^^^^^^^^^
+Rueda is a form of circular group dancing that originated in Cuba.  Its patterns are beautiful to watch.
+
+
+Guapea [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+His left hand holds her right hand.  On the downbeat, the man steps back with his left foot, steps in place with his right foot, returns his leftfoot to standing position, pauses, steps with his right foot forward while meeting his right hand with her left hand, steps in place with his left foot, returns his right foot to standing position, pauses.
+
+
+Dile que non [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Enchufla [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Enchufla doble [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dame otra [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+El uno [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+El kentucky [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vacilala [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Tango
