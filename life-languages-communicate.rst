@@ -313,6 +313,15 @@ Cantonese is spoken in Hong Kong
     thank you = dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
 
 
+.. _romanian:
+
+Romanian is spoken in Romania
+-----------------------------
+::
+
+    thank you = moo-too-meh'-sk
+
+
 .. _russian:
 
 Russian
