@@ -360,12 +360,12 @@ Hip copa, man change hands, woman right turn [#SalsaInternational]_
 - Crossbody
 
 
-Break, fling catch left, push catch right, push side turn left, man change hands, woman inside turn, copa [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Fling catch left, push catch right, push side turn left, man change hands, woman inside turn, copa [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Crossbody
 - Man breaks with his left foot back
-- Man flings left hand to left and catches woman's left hand with his left hand while stepping back with his right foot
-- Man pushes left hand to right and catches woman's right hand with his right hand while stepping back with his left foot
+- Man flings left hand to left and catches woman's left hand with his left hand with palm open fingers up while stepping back with his right foot
+- Man pushes left hand to right and catches woman's right hand with his right hand with palm open fingers up while stepping back with his left foot
 - Man pushes his right hand to left and side step counterclockwise turn to her left as woman mirrors him with a side step clockwise turn to her right
 - On his left forward step, man turns right while transferring the woman's right hand from his left hand to his right hand
 - Man lifts left hand for woman right turn while stepping back with right foot
@@ -381,6 +381,18 @@ Break, fling catch left, push catch right, push side turn left, man change hands
 - Man left steps forward with her as she completes her left turn
 - On his left forward step, man turns right while transferring the woman's right hand from his left hand to his right hand
 - Man lifts left hand for woman right turn while stepping back with right foot
+- Crossbody
+
+
+Fling catch left, push catch right, woman right turn, pull spin crossbody [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody
+- Man breaks with his left foot back
+- Man flings left hand to left and catches woman's left hand with his left hand while stepping back with his right foot
+- Man pushes left hand to right and catches woman's right hand with his right hand with palm open fingers up while stepping back with his left foot
+- Man raises right hand with light clockwise swirl to signal woman right turn
+- Crossbody into two hand open position
+- Man grasps woman's left hand with his right hand, steps to his right out of the woman's way, pulls his connected right hand to his left to guide the woman across and then flings it out so that the woman spins counterclockwise
 - Crossbody
 
 
@@ -687,7 +699,8 @@ El uno [#SalsaInternational]_
 - He moves to her left and he back steps with his right foot to his left
 - He moves to right and he back steps with his left foot to his right
 - Partners repeat until leader yells, "se fue!"
-- He moves to her left and he back steps with his right foot to his left and lifts his right hand over and behind head while he lifts his left hand over and behind his head for sombrero hold
+- While lifting his connecting right hand over the woman's head, he moves to her left and he back steps with his right foot to his left
+- He lifts his right hand over and behind head while he lifts his left hand over and behind his head for sombrero hold
 - Dile que non
 
 
