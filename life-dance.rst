@@ -131,18 +131,17 @@ On his left forward step, man guides his connected left hand and his left foot t
 
 Make a J right, make a J left
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- On his left forward step, man guides his connected left hand and his left foot to face 90 degrees to his right
+- :ref:`make-a-j-right`
 - Man returns his left foot to basic stance and transfers her right hand from his left hand to his right hand
 - Man guides his connected right hand and his right foot to face 90 degrees to his left
 
 
 Make a J right, make a J left, woman right turn, man change hands, woman right turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`crossbody`
 - :ref:`make-a-j-right-make-a-j-left`
 - :ref:`woman-right-turn-via-left`
 - :ref:`man-change-hands`
-- :ref:`woman-right-turn-via-left`
+- :ref:`woman-right-turn-via-right`
 - :ref:`crossbody`
 
 
