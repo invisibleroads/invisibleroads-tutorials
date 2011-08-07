@@ -37,14 +37,14 @@ Left half turn, right half turn
 On left forward step, push off left foot to swivel counterclockwise 90 degrees into crossbody stance, then continue swivelling left until you are facing backwards and right step forward, push off right foot to swivel clockwise 90 degrees into basic stance.
 
 
-.. _crossbody:
+.. _Crossbody:
 
 Crossbody
 ^^^^^^^^^
-- Man left steps forward
-- Man turns chest left 90 degrees while keeping arms in constant closed frame and his left foot moves into crossbody stance
-- Man shifts weight to his right foot in crossbody stance with feet parallel and firmly planted
-- Man turns chest left 90 degrees while keeping arms in constant closed frame and his right foot returns to basic stance
+- Man left steps forward.
+- Man turns his chest left 90 degrees while keeping arms in constant closed frame and his left foot moves into crossbody stance.
+- Man shifts weight to his right foot in crossbody stance with feet parallel and firmly planted.
+- Man turns his chest left 90 degrees while keeping arms in constant closed frame and his right foot returns to basic stance.
 
 
 Hip crossbody
@@ -62,21 +62,14 @@ Crossbody slide [#SalsaRosa]_
 Man begins crossbody but steps with his right foot in front of and past his left foot, then takes a long left step and slowly slides right foot to close.
 
 
-.. _woman-right-turn-via-left:
+.. _Woman right turn:
 
-Woman right turn via his left arm
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Before she starts walking forward, he lifts his left arm and his right hand lightly pulls woman's left shoulder so that she turns clockwise under his left arm while he steps back with his right foot.
-
-
-.. _woman-right-turn-via-right:
-
-Woman right turn via his right arm
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Before she starts walking forward, he lifts his right arm and swirls it in a small clockwise circle above her head so that she turns clockwise under his right arm while he steps back with his right foot.
+Woman right turn
+^^^^^^^^^^^^^^^^
+Before her left forward step, he lifts his connected arm and guides it in a small clockwise circle above her head while his free hand guides the woman's left shoulder so that she turns clockwise under his arm while he steps back with his right foot.
 
 
-.. _man-right-turn:
+.. _Man right turn:
 
 Man right turn
 ^^^^^^^^^^^^^^
@@ -85,96 +78,100 @@ On his left forward step, man turns under his left arm while stepping forward wi
 
 Woman right turn, man right turn, woman right turn, crossbody [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`woman-right-turn-via-left`
-- :ref:`man-right-turn`
-- :ref:`woman-right-turn-via-left`
-- :ref:`crossbody`
+- :ref:`Woman right turn`
+- :ref:`Man right turn`
+- :ref:`Woman right turn`
+- :ref:`Crossbody`
 
 
-.. _man-change-hands:
+.. _Man change hands:
 
 Man change hands
 ^^^^^^^^^^^^^^^^
 On his left forward step, man turns right while transferring her right hand from his left hand to his right hand.
 
 
-Woman right turn, man change hands [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`woman-right-turn-via-left`
-- :ref:`man-change-hands`
-- :ref:`woman-right-turn-via-right`
-- :ref:`crossbody`
+.. _Man change hands, woman right turn:
+
+Man change hands, woman right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Man change hands`
+- :ref:`Woman right turn`
+
+
+.. _Woman right turn, man change hands, woman right turn:
+
+Woman right turn, man change hands, woman right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman right turn`
+- :ref:`Man change hands, woman right turn`
+- :ref:`Crossbody`
 
 
 Woman right turn, man drop change hands [#EddieTorres]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`woman-right-turn-via-left`
-- Man turns left so that woman is facing his back while wrapping his left arm over his right shoulder
-- Man drops woman's hand from his left hand over his right shoulder down to his right hand
-- :ref:`woman-right-turn-via-right`
+- :ref:`Woman right turn`
+- Man turns 180 degrees to his left so that woman is facing his back while he puts his connected left hand on his right shoulder.
+- Man drops her hand from his left hand behind him over his right shoulder down to his right hand
+- :ref:`Woman right turn`
 
 
 Woman right turn, man mirror spin [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`woman-right-turn-via-left`
-- Before she completes her turn, man side steps to the right and spin turns to his left
+- :ref:`Woman right turn`
+- Before she completes her turn, man side steps to his right and spin turns to his left.
 
 
-.. _make-a-j-right:
+.. _Make a J right:
 
 Make a J right
 ^^^^^^^^^^^^^^
 On his left forward step, man guides his connected left hand and his left foot to face 90 degrees to his right.
 
 
-.. _make-a-j-right-make-a-j-left:
+.. _Make a J right, make a J left:
 
 Make a J right, make a J left
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`make-a-j-right`
-- Man returns his left foot to basic stance and transfers her right hand from his left hand to his right hand
-- Man guides his connected right hand and his right foot to face 90 degrees to his left
+- :ref:`Make a J right`
+- Man returns his left foot to basic stance and transfers her right hand from his left hand to his right hand.
+- Man guides his connected right hand and his right foot to face 90 degrees to his left.
 
 
 Make a J right, make a J left, woman right turn, man change hands, woman right turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`make-a-j-right-make-a-j-left`
-- :ref:`woman-right-turn-via-left`
-- :ref:`man-change-hands`
-- :ref:`woman-right-turn-via-right`
-- :ref:`crossbody`
+- :ref:`Make a J right, make a J left`
+- :ref:`Woman right turn, man change hands, woman right turn`
+
+
+.. _Make a J right, fling spin left:
+
+Make a J right, fling spin left
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Make a J right`
+- Man flings his connected left hand to his left so that woman spins clockwise while he mirror spins counterclockwise.
 
 
 Make a J right, fling spin left, fling spin right [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody
-- Man guides his left foot and his left hand to face 90 degrees right to make a J
-- Man flings his left hand to left and spins left while woman mirror spins right
-- Man catches woman's left hand with his right hand
-- Man flings his right hand to the right and spins right while woman mirror spins left
-- Crossbody
+- :ref:`Make a J right, fling spin left`
+- Man catches woman's right hand with his right hand.
+- Man flings his right hand to his right so that woman spins counterclockwise while he mirror spins clockwise.
 
 
-Make a J right, fling spin left, man change hands [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody
-- Man guides his left foot and his left hand to face 90 degrees right to make a J
-- Man flings his left hand to left and spins left while woman mirror spins right
-- On his left forward step, man turns right while transferring the woman's right hand from his left hand to his right hand
-- Man lifts his left hand for woman right turn while stepping back with his right foot
-- Crossbody
+Make a J right, fling spin left, man change hands, woman right turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Make a J right, fling spin left`
+- :ref:`Man change hands, woman right turn`
 
 
-Make a J right, fling catch left, push catch right, push catch left, woman right turn, man change hands [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody
-- Man guides his left foot and his left hand to face 90 degrees right to make a J
-- Man flings his left hand to left but catches woman's left hand with his left hand before she spins
-- Man pushes his left hand back to right but catches woman's right hand with his right hand before she spins
-- Man pushes his right hand back to left but catches woman's left hand with his left hand before she spins
-- Man lifts his left hand for woman right turn while stepping back with his right foot
-- On his left forward step, man turns right while transferring the woman's right hand from his left hand to his right hand
-- Crossbody
+Make a J right, fling catch left, push catch right, push catch left, woman right turn, man change hands, woman right turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Make a J right`
+- Man flings his left hand to his left but catches her left hand with his left hand before she spins.
+- Man pushes his left hand back to his right but catches her right hand with his right hand before she spins.
+- Man pushes his right hand back to his left but catches her left hand with his left hand before she spins.
+- :ref:`Man change hands, woman right turn`
 
 
 Inside turn [#SalsaInternational]_
@@ -728,7 +725,7 @@ Woman bends knees and moves hips back in slow upward circular motion
 Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
 
 
-Rueda de Casino
+Rueda de casino
 ---------------
 Rueda is a form of circular group dancing that originated in Cuba.  Its patterns are beautiful to watch.
 
