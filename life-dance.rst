@@ -62,11 +62,18 @@ Crossbody slide [#SalsaRosa]_
 Man begins crossbody but steps with his right foot in front of and past his left foot, then takes a long left step and slowly slides right foot to close.
 
 
-.. _Woman right turn:
+.. _Woman right turn via left arm:
 
-Woman right turn
-^^^^^^^^^^^^^^^^
-Before her left forward step, he lifts his connected arm and guides it in a small clockwise circle above her head while his free hand guides the woman's left shoulder so that she turns clockwise under his arm while he steps back with his right foot.
+Woman right turn via left arm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Before her left forward step, he lifts his connected left arm while his right hand guides the woman's left shoulder so that she turns clockwise under his left arm while he steps back with his right foot.  He lowers his connected left arm to end the turn.
+
+
+.. _Woman right turn via right arm:
+
+Woman right turn via right arm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Before her left forward step, he lifts his connected right arm and guides it in a small clockwise circle above her head so that she turns clockwise under his right arm while he steps back with his right foot.  He lowers his connected right arm to end the turn.
 
 
 .. _Man right turn:
@@ -78,9 +85,9 @@ On his left forward step, man turns under his left arm while stepping forward wi
 
 Woman right turn, man right turn, woman right turn, crossbody [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via left arm`
 - :ref:`Man right turn`
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via left arm`
 - :ref:`Crossbody`
 
 
@@ -96,29 +103,29 @@ On his left forward step, man turns right while transferring her right hand from
 Man change hands, woman right turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Man change hands`
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via right arm`
 
 
 .. _Woman right turn, man change hands, woman right turn:
 
 Woman right turn, man change hands, woman right turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via left arm`
 - :ref:`Man change hands, woman right turn`
 - :ref:`Crossbody`
 
 
 Woman right turn, man drop change hands [#EddieTorres]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via left arm`
 - Man turns 180 degrees to his left so that woman is facing his back while he puts his connected left hand on his right shoulder.
 - Man drops her hand from his left hand behind him over his right shoulder down to his right hand
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via right arm`
 
 
 Woman right turn, man mirror spin [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn`
+- :ref:`Woman right turn via left arm`
 - Before she completes her turn, man side steps to his right and spin turns to his left.
 
 
@@ -517,12 +524,13 @@ Cuatro, enchufla, copa [#SalsaRosa]_
 - Man continues momentum by stirring his left hand for woman counterclockwise spin
 
 
-Push turn switch [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Basic in two hand open position
-- Man breaks with his left foot back
-- Man steps forward with left foot while his right hand releases her left hand and pushes woman's outstretched right arm forward so that woman spins clockwise as man turns enchufla around and facing the woman so that man and woman have switched positions
-- Man left steps forward
+.. _Elbow push spin switch:
+
+Elbow push spin switch
+^^^^^^^^^^^^^^^^^^^^^^
+- Man breaks with his left foot back and his left hand connected to her right hand.
+- Man left steps forward with his connected left hand outstretched to the left while his right hand pushes her outstretched right arm at the elbow so that woman spins clockwise as man turns counterclockwise enchufla around and facing the woman so that man and woman have switched positions.
+- Man left steps forward.
 
 
 Enchufla check [#SalsaInternational]_
@@ -576,6 +584,16 @@ Cuban turn, enchufla, side-by-side embrace turn, barrel spin [#SalsaRosa]_
 - Man puts his left hand behind his neck while it is connected to her left hand and embraces woman side-by-side with his right arm around her waist
 - Man rotates clockwise with woman so they switch places
 - Man pulls his right arm inward so that woman spins clockwise while he mirror spins counterclockwise
+
+
+Man half turn, side step, half spin [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position.
+- :ref:`Woman right turn via right arm`
+- As his right foot starts returning to standing position, he turns counterclockwise 180 degrees so that his back faces the woman and places his connected right hand on his right shoulder.
+- He side-steps to his right and pushes his right hand back to signal a woman clockwise turn while he immediately spins counterclockwise to face her with his right hand still connected to her left hand.
+- :ref:`Crossbody`
+- :ref:`Elbow push spin switch`
 
 
 Man mirror right turn, woman turn left, woman arm push spin, woman outside turn [#SalsaInternational]_
@@ -730,8 +748,10 @@ Rueda de casino
 Rueda is a form of circular group dancing that originated in Cuba.  Its patterns are beautiful to watch.
 
 
-Guapea [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Guapea:
+
+Guapea
+^^^^^^
 - His left hand holds her right hand.
 - Man swings his left arm down and steps back with his left foot while raising his forward right foot and woman mirrors him
 - Man swings his left arm up and returns left foot forward to standing position
@@ -739,8 +759,24 @@ Guapea [#SalsaInternational]_
 - Man releases his right hand and returns his right foot back to standing position
 
 
-Dile que non [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Tap stance via left arm:
+
+Tap stance via left arm
+^^^^^^^^^^^^^^^^^^^^^^^
+His weight is supported on his right leg, his left toe is touching the floor and his left arm is extended and connected to her right hand.
+
+
+.. _Tap stance via right arm:
+
+Tap stance via right arm
+^^^^^^^^^^^^^^^^^^^^^^^^
+His weight is supported on his right leg, his left toe is touching the floor and his right arm is extended and connected to her right hand.
+
+
+.. _Dile que non:
+
+Dile que non
+^^^^^^^^^^^^
 His left hand is free and his right arm holds the woman on his right.  On the downbeat, the man left steps forward.  On his right back step, the man uses his right arm to guide woman around in front of him and to his left.
 
 
@@ -749,10 +785,13 @@ Dame otra [#SalsaInternational]_
 His left hand is free and his right arm holds the woman on his right.  On the downbeat, the man left steps forward.  As he returns to basic stance, his pushes the woman to his left and he moves forward in the circle to catch the next woman with his right arm.
 
 
-Enchufla [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- He breaks with his left foot back and his left hand connected
-- He lifts his left hand to signal woman right turn as he encircles enchufla around and facing woman until he reaches the other side
+.. _Enchufla:
+
+Enchufla
+^^^^^^^^
+- He breaks with his left foot back and his left hand connected.
+- He lifts his left hand to signal woman right turn as he encircles enchufla around and facing woman until he reaches the other side.
+- He walks counterclockwise toward and passes his first woman on his right to face the next woman.
 
 
 Enchufla doble [#SalsaInternational]_
@@ -791,13 +830,60 @@ El kentucky [#SalsaInternational]_
 
 Vacilala [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Guapea
-- Enter tap stance with his left leg tapping the floor, with his weight support on his right leg and his left arm extended and connected to the woman's right hand
+- :ref:`Tap stance via left arm`
 - He pulls his left hand in and tosses it to the right to signal woman right turn while shifting his weight to his left foot
 - He crosses his right foot in front and to the left of his left foot
 - He steps his left foot further left past his right foot
 - He catches woman after she finishes her turn
 - Dile que non
+
+
+Siete [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Tap stance via left arm`
+- His connected left hand pulls the woman so that she turns clockwise toward the center of the circle with his left arm wrapped around her as he moves behind her near the center of the circle and places his right hand behind her right shoulder blade.
+- He taps once with his left toe and pushes her with his right hand so that she unravels.
+- :ref:`Guapea`
+
+
+Sombrero [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Tap stance via right arm`
+- His right hand holds her right hand and his left hand holds her left hand underneath his right hand.
+- He pulls the woman so that she turns clockwise as he moves counterclockwise around her to end on her left.
+- He raises his connected right arm over and behind her head and his connected left arm over and behind his head.
+
+
+Man huddle [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Enchufla`
+- Instead of walking to the next woman, men huddle in the center.
+- Men back step to the left.
+- Men back step to the right.
+- Men spin counterclockwise over their left shoulder to the next woman.
+- :ref:`Dile que non`
+
+
+Candado [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Guapea`
+- Man breaks with his left foot back.
+- He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
+- He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
+- Man breaks with his left foot back.
+- He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
+- He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
+- Man breaks with his left foot back.
+- He raises both connected hands over her head while walking to her left but rests his connected right hand on his left shoulder and rests his connected left hand on his right shoulder.
+- They walk forward counterclockwise.
+- He turns clockwise into closed position.
+- They walk forward clockwise.
+- His left hand continues holding onto his first woman's right hand as he walks under her right arm to the second woman.
+- They walk forward clockwise.
+- His left hand continues holding onto his first woman's right hand as he walks under her right arm to the third woman.
+- They walk forward clockwise.
+- Men squat in the center of the circle as women walk counterclockwise with each man's left hand still connected to his first woman's right hand.
+- Men return to closed position with first woman.
 
 
 Tango
