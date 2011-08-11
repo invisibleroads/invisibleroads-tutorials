@@ -625,7 +625,7 @@ Molino [#SalsaRosa]_
 - Man left steps forward
 
 
-Fling left catch, push right, man mirror right turn, molino [#SalsaInternational]_
+Fling catch left, push right, man mirror right turn, molino [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Crossbody into two hand open position
 - Man breaks with his left foot back
@@ -719,6 +719,23 @@ Guapea, inside turn, bridge [#SalsaInternational]_
 - Man puts his right hand on top of her left shoulder, raises his left arm and pulls his right hand lightly forward to signal her to move forward under the left arm bridge while he moves into crossbody stance to get out of her way as she walks under his left arm to get to the other side and the man and woman have switched positions
 
 
+Woman half right turn embrace, make a J, man change hands, woman rightt turn, hip push spin, woman right turn, inside turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into two hand open position
+- Before the woman's forward step, the man keeps his left hand connected to her right hand and swirls his connected right hand in a small circle above the woman's head so that the woman turns clockwise 180 degrees and he rests his connected right hand on the woman's right shoulder as her back faces him.
+- On the man's forward step, his right hand pushes the woman's right shoulder so that she turns counterclockwise 180 degrees.
+- Crossbody
+- :ref:`Make a J right`
+- He flings his connected left hand to his left
+- :ref:`Man change hands, woman right turn`
+- On his right back step, man puts right hand on woman's left hip.
+- On his left forward step, man pushes woman's left hip forward while stepping forward with his left foot so woman spins counterclockwise
+- :ref:`Woman right turn via left arm`
+- Man catches woman with right hand behind her left shoulder for closed position
+- Man signals a woman inside turn by first pulling forward with his left hand, then swirling his left hand clockwise above the woman's head to the other side while his right hand traces her back for stability
+- Crossbody
+
+
 [Shine] Man clockwise toe slide, flare [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man drags his right toe in a clockwise circle on the floor in front of him, then hop flares his left leg out with the toe pointed diagonally right
@@ -757,6 +774,11 @@ Guapea
 - Man swings his left arm up and returns left foot forward to standing position
 - Man steps forward with his right foot while raising his back left foot, meeting his right hand with the woman's left hand palm-to-palm fingers up
 - Man releases his right hand and returns his right foot back to standing position
+
+
+Un abuya
+^^^^^^^^
+- Men and woman stomp on the forward step.
 
 
 .. _Tap stance via left arm:
@@ -828,8 +850,8 @@ El kentucky [#SalsaInternational]_
 - Dile que non
 
 
-Vacilala [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vacila [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via left arm`
 - He pulls his left hand in and tosses it to the right to signal woman right turn while shifting his weight to his left foot
 - He crosses his right foot in front and to the left of his left foot
@@ -846,6 +868,14 @@ Siete [#SalsaInternational]_
 - :ref:`Guapea`
 
 
+Siete con coca cola [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Tap stance via left arm`
+- His connected left hand pulls the woman so that she turns clockwise toward the center of the circle with his left arm wrapped around her as he moves behind her near the center of the circle and places his right hand behind her right shoulder blade.
+- He taps once with his left toe and pushes her with his right hand so that she turns counterclockwise as he encircles her counterclockwise.
+- :ref:`Dile que non`
+
+
 Sombrero [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via right arm`
@@ -854,8 +884,8 @@ Sombrero [#SalsaInternational]_
 - He raises his connected right arm over and behind her head and his connected left arm over and behind his head.
 
 
-Man huddle [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Enchufla pati [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Enchufla`
 - Instead of walking to the next woman, men huddle in the center.
 - Men back step to the left.
@@ -864,8 +894,8 @@ Man huddle [#SalsaInternational]_
 - :ref:`Dile que non`
 
 
-Candado [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Candado, tiempo españa, taro con mano [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Guapea`
 - Man breaks with his left foot back.
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
