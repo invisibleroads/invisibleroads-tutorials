@@ -524,8 +524,8 @@ Cuatro, enchufla, copa [#SalsaRosa]_
 - Man continues momentum by stirring his left hand for woman counterclockwise spin
 
 
-Cuatro, turn crossbody, inside turn, fling catch left, woman left turn, wrap crossbody, guapea, woman rigt turn [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cuatro, turn crossbody, inside turn, fling catch left, woman left turn, wrap crossbody, guapea, woman right turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Crossbody into cuatro hold
 - Man breaks with his left foot back
 - Man moves into crossbody stance and pulls lightly with his connected right hand to guide woman through a one and a half counterclockwise turning crossbody
