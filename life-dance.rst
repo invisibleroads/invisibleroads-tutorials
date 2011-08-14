@@ -524,6 +524,23 @@ Cuatro, enchufla, copa [#SalsaRosa]_
 - Man continues momentum by stirring his left hand for woman counterclockwise spin
 
 
+Cuatro, turn crossbody, inside turn, fling catch left, woman left turn, wrap crossbody, guapea, woman rigt turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody into cuatro hold
+- Man breaks with his left foot back
+- Man moves into crossbody stance and pulls lightly with his connected right hand to guide woman through a one and a half counterclockwise turning crossbody
+- Inside turn
+- Crossbody
+- Man breaks with his left foot back
+- Fling catch left
+- Woman left turn
+- Before woman finishes turning, man moves into crossbody stance and wraps her left arm behind his neck
+- Crossbody
+- Man breaks with his left foot back
+- Guapea
+- Woman right turn
+
+
 .. _Elbow push spin switch:
 
 Elbow push spin switch
@@ -578,9 +595,9 @@ Enchufla doble, hip push spin, two-handed right half turn embrace, left half tur
 
 Cuban turn, enchufla, side-by-side embrace turn, barrel spin [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man breaks with his left foot back and releases his right hand so his left hand holds her right hand
-- Man lifts his left arm to signal woman right turn while he walks under his left arm and turns counterclockwise to face the woman
-- Man breaks with his left foot back and lifts his left hand to signal second woman right turn while he encircles enchufla around and facing the woman so that man and woman have switched positions
+- Man breaks with his left foot back with his left hand connected to her left hand
+- Man lifts his left arm to signal woman counterclockwise turn while he walks under his left arm and turns counterclockwise to face the woman
+- Man breaks with his left foot back and lifts his left hand to signal woman clockwise turn while he encircles enchufla around and facing the woman so that man and woman have switched positions
 - Man puts his left hand behind his neck while it is connected to her left hand and embraces woman side-by-side with his right arm around her waist
 - Man rotates clockwise with woman so they switch places
 - Man pulls his right arm inward so that woman spins clockwise while he mirror spins counterclockwise
@@ -758,6 +775,11 @@ Woman bends knees and moves hips back in slow upward circular motion
 [Shine] Side step double spin [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
+
+
+[Shine] Wobble
+^^^^^^^^^^^^^^
+After left stepping forward or right stepping back, splay knees outward briefly.
 
 
 Rueda de casino
