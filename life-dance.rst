@@ -736,8 +736,8 @@ Guapea, inside turn, bridge [#SalsaInternational]_
 - Man puts his right hand on top of her left shoulder, raises his left arm and pulls his right hand lightly forward to signal her to move forward under the left arm bridge while he moves into crossbody stance to get out of her way as she walks under his left arm to get to the other side and the man and woman have switched positions
 
 
-Woman half right turn embrace, make a J, man change hands, woman rightt turn, hip push spin, woman right turn, inside turn [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman half right turn embrace, make a J, man change hands, woman right turn, hip push spin, woman right turn, inside turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Crossbody into two hand open position
 - Before the woman's forward step, the man keeps his left hand connected to her right hand and swirls his connected right hand in a small circle above the woman's head so that the woman turns clockwise 180 degrees and he rests his connected right hand on the woman's right shoulder as her back faces him.
 - On the man's forward step, his right hand pushes the woman's right shoulder so that she turns counterclockwise 180 degrees.
@@ -902,7 +902,7 @@ Sombrero [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via right arm`
 - His right hand holds her right hand and his left hand holds her left hand underneath his right hand.
-- He pulls the woman so that she turns clockwise as he moves counterclockwise around her to end on her left.
+- He pulls the woman so that she turns clockwise one and a half times as he moves counterclockwise around her to end on her left.
 - He raises his connected right arm over and behind her head and his connected left arm over and behind his head.
 
 
