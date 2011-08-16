@@ -54,7 +54,7 @@ Man signals crossbody from open position by pulling both hands close to hips and
 
 Swim crossbody
 ^^^^^^^^^^^^^^
-Man signals crossbody but lifts his left hand and pushes woman with his right hand to continue passing on his left while he turns and swims his right hand under and back to basic closed position.
+Man moves into crossbody stance but raises his unconnected left hand and pushes woman with his right hand to pass in front of him to his left while he turns and swims his right hand under and back to basic closed position.
 
 
 Crossbody slide [#SalsaRosa]_
@@ -753,6 +753,27 @@ Woman half right turn embrace, make a J, man change hands, woman right turn, hip
 - Crossbody
 
 
+Inside turn, man right turn, man side step, woman right turn, man counterclockwise spin, swim crossbody, push elbow spin [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^_
+- Inside turn
+- On his left forward step, man turns clockwise under his raised left arm
+- Man side steps to his right
+- Man signals a woman right turn
+- Before woman finishes her turn, man spins counterclockwise to his left under his raised left arm
+- Crossbody
+- Swim crossbody
+- Push elbow spin
+
+
+Enchufla, hook spin, dile que non, guapea [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Guapea
+- Enchufla
+- Man hook spin clockwise
+- Dile que non
+- Guapea
+
+
 [Shine] Man clockwise toe slide, flare [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man drags his right toe in a clockwise circle on the floor in front of him, then hop flares his left leg out with the toe pointed diagonally right
@@ -936,6 +957,38 @@ Candado, tiempo españa, taro con mano [#SalsaInternational]_
 - They walk forward clockwise.
 - Men squat in the center of the circle as women walk counterclockwise with each man's left hand still connected to his first woman's right hand.
 - Men return to closed position with first woman.
+
+
+Pelota de cuatro
+^^^^^^^^^^^^^^^^
+- Enchufla
+- With the next partner, stomp four times, then clap four times while rotating
+- Dile que non
+
+
+Chisme
+^^^^^^
+- Kentucky hold
+- Wrap enchufla left
+- Man unravels woman with his right hand so that she spins clockwise to his right as he performs a standard enchufla with the woman on his left
+
+
+Dedo
+^^^^
+- Tap stance with his right hand connected to her right hand
+- Man guides a spinning enchufla with the woman spinning clockwise across
+- Enchufla, man hook spin clockwise
+- His right hand holds her right hand in an arm wrestling hold
+- Dile que non
+
+
+Montaña
+^^^^^^^
+- Tap stance with his right hand connected to her right hand and his left hand connected under his right hand
+- Man guides a spinning enchufla with the woman spinning clockwise across
+- Enchufla, man hook spin clockwise
+- Sombrero
+- Dile que non
 
 
 Tango
