@@ -562,13 +562,29 @@ Reverse enchufla check, shoulder inside turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Man lifts his left arm to signal woman right turn and his right hand switches to hold her right hand
 - Man breaks with his left foot back
-- Man pulls and lifts his right arm to signal woman right turn forward as he steps into crossbody stance, but he uses his left hand to catch her left shoulder
+- Man pulls and lifts his right arm to signal woman right turn forward as he steps into crossbody stance, but he uses his left hand to catch her left shoulder halfway through her turn
 - Man pushes woman's left shoulder for woman reverse counterclockwise turn
 - Man breaks with his left foot back
 - Man pulls and lifts his right arm to signal woman right turn forward as he steps into crossbody stance, but he uses his left hand to catch her left shoulder
 - Man pushes woman's left shoulder for woman reverse counterclockwise turn and places his left hand on woman's right shoulder
 - Man pulls woman's right shoulder with his left hand to guide woman inside turn
 - Man catches woman's left shoulder with his right hand
+
+
+Reverse enchufla check, man change hands, hip push, woman right turn, man change hands [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Crossbody
+- His right hand holds her right hand
+- Man breaks with his left foot back
+- Man pulls and lifts his right arm to signal woman right turn forward as he steps into crossbody stance, but he uses his left hand to catch her left shoulder halfway through her turn
+- Man pushes woman's left shoulder for woman reverse counterclockwise turn
+- Man breaks with his left foot back
+- Man pulls and lifts his right arm to signal woman right turn forward as he encircles clockwise around her so that man and woman have switched positions
+- Man change hands, woman right turn
+- Crossbody
+- Hip push with immediate woman right turn
+- Man change hands, woman right turn
+- Crossbody
 
 
 Enchufla doble, hip push spin, two-handed right half turn embrace, left half turn [#SalsaInternational]_
@@ -774,6 +790,18 @@ Enchufla, hook spin, dile que non, guapea [#SalsaInternational]_
 - Guapea
 
 
+Guapea, el uno, enchufla hook spin, exhibela [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Guapea
+- His right hand holds her right hand
+- Man encircles clockwise behind woman so that she ends on his right with her connected right hand wrapped behind her
+- Man breaks with his left foot back
+- Man encircles counterclockwise behind woman so that she ends on his left
+- Man hook spin clockwise
+- Man raises his connected right hand for a woman right turn where she walks across from right to left in front of him and back instead of toward and away from him
+- Dile que non
+
+
 [Shine] Man clockwise toe slide, flare [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man drags his right toe in a clockwise circle on the floor in front of him, then hop flares his left leg out with the toe pointed diagonally right
@@ -919,6 +947,11 @@ Siete con coca cola [#SalsaInternational]_
 - :ref:`Dile que non`
 
 
+Coca cola [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From closed position, man guides woman through an inside turn as he walks counterclockwise around her, then performs a dile que non with his left foot facing the center of the circle.
+
+
 Sombrero [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via right arm`
@@ -988,6 +1021,17 @@ Montaña
 - Man guides a spinning enchufla with the woman spinning clockwise across
 - Enchufla, man hook spin clockwise
 - Sombrero
+- Dile que non
+
+
+Toca la leche
+^^^^^^^^^^^^^
+- Tap stance with his left hand connected to her right hand
+- Man signals a vacila with his connected right hand so that the woman spins counterclockwise to his right as he walks to her left so that man and woman have switched positions
+- Man steps in places for three beats and places his right hand on her left shoulder
+- Man signals an enchufla but keeps his right hand on her left shoulder so that she wraps counterclockwise into him
+- His right hand grasps her right wrist
+- He pulls his connected right hand so that she unravels clockwise as he turns counterclockwise over his left shoulder to change her right hand from his right hand to his left hand
 - Dile que non
 
 
