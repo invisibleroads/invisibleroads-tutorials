@@ -48,7 +48,7 @@ Crossbody
 
 Hip crossbody
 ^^^^^^^^^^^^^
-Man signals crossbody from open position by pulling both hands close to hips and rotating on back step.
+Man signals crossbody from open position by pulling both connected hands close to his hips and rotating on his back step.
 
 
 .. _Swim crossbody:
@@ -56,6 +56,15 @@ Man signals crossbody from open position by pulling both hands close to hips and
 Swim crossbody
 ^^^^^^^^^^^^^^
 Man moves into crossbody stance but raises his unconnected left hand and pushes woman with his right hand to pass in front of him to his left while he turns and swims his right hand under and back to basic closed position.
+
+
+.. _Whip crossbody:
+
+Whip crossbody
+^^^^^^^^^^^^^^
+- Man grasps woman's left hand with his right hand and steps into crossbody stance to move out of her way.
+- Man pulls his connected right hand to his left to guide the woman across from his right to his left.
+- Man flings his right hand to his right so that the woman spins counterclockwise as she is walking across.
 
 
 Crossbody slide [#SalsaRosa]_
@@ -175,13 +184,35 @@ Make a J right, fling spin left, man change hands, woman right turn [#SalsaInter
 - :ref:`Man change hands, woman right turn`
 
 
+.. _Fling catch left:
+
+Fling catch left
+^^^^^^^^^^^^^^^^
+- Man breaks with his left foot back.
+- Man flings his left hand to his left but catches her left hand with his upward pointing left palm before she spins.
+
+
+.. _Fling catch left, push catch right:
+
+Fling catch left, push catch right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Fling catch left`
+- Man pushes his left hand back to his right but catches her right hand with his upward pointing right palm before she spins.
+
+
+.. _Fling catch left, push catch right, push catch left:
+
+Fling catch left, push catch right, push catch left
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Fling catch left, push catch right`
+- Man pushes his right hand back to his left but catches her left hand with his upward pointing left palm before she spins.
+
+
 Make a J right, fling catch left, push catch right, push catch left, woman right turn, man change hands, woman right turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Make a J right`
-- Man flings his left hand to his left but catches her left hand with his left hand before she spins.
-- Man pushes his left hand back to his right but catches her right hand with his right hand before she spins.
-- Man pushes his right hand back to his left but catches her left hand with his left hand before she spins.
-- :ref:`Man change hands, woman right turn`
+- :ref:`Fling catch left, push catch right, push catch left`
+- :ref:`Woman right turn, man change hands, woman right turn`
 
 
 .. _Inside turn:
@@ -430,16 +461,12 @@ Hip copa, man change hands, woman right turn [#SalsaInternational]_
 
 Fling catch left, push catch right, push side turn left, man change hands, woman inside turn, copa [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody
-- Man breaks with his left foot back
-- Man flings left hand to left and catches woman's left hand with his left hand with palm open fingers up while stepping back with his right foot
-- Man pushes left hand to right and catches woman's right hand with his right hand with palm open fingers up while stepping back with his left foot
-- Man pushes his right hand to left and side step counterclockwise turn to her left as woman mirrors him with a side step clockwise turn to her right
-- On his left forward step, man turns right while transferring the woman's right hand from his left hand to his right hand
-- Man lifts left hand for woman right turn while stepping back with right foot
-- Crossbody
-- Man guides woman left inside turn
-- Crossbody
+- :ref:`Fling catch left, push catch right`
+- Man pushes his right hand to left and side step counterclockwise turns to his left as woman mirrors him with a side step clockwise turn to her right
+- :ref:`Man change hands, woman right turn`
+- :ref:`Crossbody`
+- :ref:`Inside turn`
+- :ref:`Crossbody`
 - Man breaks with his left foot back
 - Man lifts left hand for woman right turn while stepping back with right foot
 - Man breaks with his left foot back
@@ -452,20 +479,16 @@ Fling catch left, push catch right, push side turn left, man change hands, woman
 - Crossbody
 
 
-Fling catch left, push catch right, woman right turn, pull spin crossbody [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Crossbody
-- Man breaks with his left foot back
-- Man flings left hand to left and catches woman's left hand with his left hand while stepping back with his right foot
-- Man pushes left hand to right and catches woman's right hand with his right hand with palm open fingers up while stepping back with his left foot
-- Man raises right hand with light clockwise swirl to signal woman right turn
-- Crossbody into two hand open position
-- Man grasps woman's left hand with his right hand, steps to his right out of the woman's way, pulls his connected right hand to his left to guide the woman across and then flings it out so that the woman spins counterclockwise
-- Crossbody
+Fling catch left, push catch right, woman right turn, wrip crossbody [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Fling catch left, push catch right`
+- :ref:`Woman right turn via right arm`
+- :ref:`Crossbody` into two hand position
+- :ref:`Whip crossbody`
 
 
-Yo-yo spin, side lean [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Side lean [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^
 - Basic
 - Man breaks with his left foot back, releases his left hand and flings his left hand back while woman flings right hand back so that both partners are facing outward and back
 - Man tugs lightly with his right hand and woman spins counterclockwise into man
@@ -605,11 +628,19 @@ Cuban turn, enchufla, side-by-side embrace turn, barrel spin [#SalsaRosa]_
 Basket
 ^^^^^^
 - Man breaks with his left foot back and with both hands connected.
-- With both hands connected, man moves counterclockwise behind and around woman so she ends on his right.
+- With both hands connected, man moves counterclockwise behind and around woman so she ends on his right.  The man's steps are right foot diagonally forward to his left, left foot side steps to his left, right foot crosses behind his left foot to his left as he is behind the woman, left foot steps in front of woman, right foot returns to standing position.
 
 
-Woman right turn, man left half turn, man half spin, man spin, basket, reverse enchufla check, outside turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Basket, counterclockwise enchufla [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Basket`
+- Man breaks with his left foot back while his right hand reaches over to his left hand and transfers her right hand to his left hand so that the fingertips of his right hand and her right hand touch.
+- Man raises his connected right hand and walks under it, passing the woman on his left.
+- Man turns clockwise to face the woman as the woman turns clockwise to face him.  The turn is easier if he is not actually holding her hand, only keeping a connection through the fingertips of his right hand.
+
+
+Woman right turn, man swoop left half turn, man half spin, man spin, basket, reverse enchufla check, outside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`
 - :ref:`Woman right turn via right arm`
 - As she finishes her turn, man swoops his connected right hand down as he turns counterclockwise 180 degrees so that his back faces the woman and places his connected right hand over his head and on his left shoulder.
