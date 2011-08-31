@@ -22,6 +22,17 @@ Live fully
     life-reminders-list
 
 
+Dance
+-----
+.. toctree::
+    :maxdepth: 1
+
+    dance-salsa
+    dance-rueda
+    dance-tango
+    dance-swing
+
+
 Use our products
 ----------------
 - `Manage your goals using invisibleroads.com <http://invisibleroads.com/docs>`_

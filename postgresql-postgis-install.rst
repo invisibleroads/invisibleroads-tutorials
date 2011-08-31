@@ -95,12 +95,12 @@ Drop a PostgreSQL user.
 Grant database privileges (not necessary if the user is the database owner).
 ::
 
-    psql -c "grant all on database SET-DATABASE-HERE to SET-USERNAME-HERE;"
+    psql -U postgres -c "grant all on database SET-DATABASE-HERE to SET-USERNAME-HERE;"
 
 Revoke database privileges.
 ::
 
-    psql -c "revoke all on database SET-DATABASE-HERE from SET-USERNAME-HERE;"
+    psql -U postgres -c "revoke all on database SET-DATABASE-HERE from SET-USERNAME-HERE;"
 
 
 Manage PostgreSQL databases
