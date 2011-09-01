@@ -27,6 +27,13 @@ Dile que non
 His right arm holds the woman on his right.  On the downbeat, the man left steps forward.  On his right back step, the man uses his right arm to guide her counterclockwise in front of him and to his left.
 
 
+.. _Exhibela:
+
+Exhibela
+^^^^^^^^
+Man pulls his connected left arm to his left and pushes her left shoulder to his left so that the woman turns clockwise from right to left in front of him.
+
+
 .. _Tap stance via left arm:
 
 Tap stance via left arm
@@ -75,39 +82,42 @@ Enchufla pati [#SalsaInternational]_
 - :ref:`Dile que non`
 
 
-El uno [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- On his left forward step, man switches to a single right hand to right hand hold
-- He breaks with his left foot back
-- He pulls the woman forward as he moves behind her in crossbody stance so that her back is facing him and his left hand grasps her left hand
-- He moves to her left and he back steps with his right foot to his left
-- He moves to right and he back steps with his left foot to his right
-- He moves to her left and he back steps with his right foot to his left
-- He moves to right and he back steps with his left foot to his right
-- Partners repeat until leader yells, "se fue!"
-- While lifting his connecting right hand over the woman's head, he moves to her left and he back steps with his right foot to his left
-- He lifts his right hand over and behind head while he lifts his left hand over and behind his head for sombrero hold
-- Dile que non
+.. _El uno:
+
+El uno
+^^^^^^
+- On his left forward step, man switches to a single right hand to right hand hold.
+- He breaks with his left foot back.
+- He pulls the woman forward as he moves behind her in crossbody stance so that her back is facing him and his left hand grasps her left hand.
+- He moves to her left and he back steps with his right foot to his left.
+- He moves to right and he back steps with his left foot to his right.
+- He moves to her left and he back steps with his right foot to his left.
+- He moves to right and he back steps with his left foot to his right.
+- While lifting his connected right hand over the woman's head, he moves to her left and he back steps with his right foot to his left.
+- He lifts his right hand over and behind her head while he lifts his left hand over and behind his head for sombrero hold.
+- :ref:`Dile que non`
 
 
 El kentucky [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Partners are in two hand open position
-- He breaks with his left foot back
-- He raises his left arm over woman's head to rest his connected left hand on her left shoulder as he moves to her left
-- He moves back to her right but keeps his left hand in place on the woman's left shoulder
-- He moves to her left and turns right under his arms into closed embrace hold
-- Dile que non
+- Partners are in two hand open position with his right hand above her left hand and his left hand under her right hand.
+- He breaks with his left foot back.
+- :ref:`Clockwise wrap enchufla`
+- He moves back to her right but keeps his left hand in place on her left shoulder.
+- He moves to her left, places his connected left hand on his right shoulder and turns clockwise into closed position.
+- :ref:`Dile que non`
 
 
-Vacila [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Vacila:
+
+Vacila
+^^^^^^
 - :ref:`Tap stance via left arm`
-- He pulls his left hand in and tosses it to the right to signal woman right turn while shifting his weight to his left foot
-- He crosses his right foot in front and to the left of his left foot
-- He steps his left foot further left past his right foot
-- He catches woman after she finishes her turn
-- Dile que non
+- He pulls his left hand in and tosses it to the right to signal woman right turn while shifting his weight to his left foot.
+- He crosses his right foot in front and to the left of his left foot.
+- He steps his left foot further left past his right foot.
+- He catches woman after she finishes her turn.
+- :ref:`Dile que non`
 
 
 Coca cola [#SalsaInternational]_
@@ -142,83 +152,84 @@ Sombrero [#SalsaInternational]_
 Candado, tiempo españa, taro con mano [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Guapea`
-- Man breaks with his left foot back.
+- :ref:`Two hand break`
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
 - He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
-- Man breaks with his left foot back.
+- :ref:`Two hand break`
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
 - He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
-- Man breaks with his left foot back.
+- :ref:`Two hand break`
 - He raises both connected hands over her head while walking to her left but rests his connected right hand on his left shoulder and rests his connected left hand on his right shoulder.
-- They walk forward counterclockwise.
+- Couples walk forward counterclockwise.
 - He turns clockwise into closed position.
-- They walk forward clockwise.
+- Couples walk forward clockwise.
 - His left hand continues holding onto his first woman's right hand as he walks under her right arm to the second woman.
-- They walk forward clockwise.
+- Couples walk forward clockwise.
 - His left hand continues holding onto his first woman's right hand as he walks under her right arm to the third woman.
-- They walk forward clockwise.
+- Couples walk forward clockwise.
 - Men squat in the center of the circle as women walk counterclockwise with each man's left hand still connected to his first woman's right hand.
-- Men return to closed position with first woman.
+- Men return to closed position with their first woman.
 
 
-Pelota de cuatro
-^^^^^^^^^^^^^^^^
-- Enchufla
-- With the next partner, stomp four times, then clap four times while rotating
-- Dile que non
+Pelota de cuatro [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Enchufla`
+- With the next partner, couples stomp four times, then individually rotate in place while clapping four times.
+- :ref:`Dile que non`
 
 
-Chisme
-^^^^^^
-- Kentucky hold
-- Wrap enchufla left
-- Man unravels woman with his right hand so that she spins clockwise to his right as he performs a standard enchufla with the woman on his left
+Chisme [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Partners are in two hand open position with his right hand above her left hand and his left hand under her right hand.
+- He breaks with his left foot back.
+- :ref:`Clockwise wrap enchufla`
+- Man unravels woman with his right hand so that she spins clockwise to his right as he performs a standard :ref:`Enchufla` with the woman on his left.
 
 
-Dedo
-^^^^
-- Tap stance with his right hand connected to her right hand
-- Man guides a spinning enchufla with the woman spinning clockwise across
-- Enchufla, man hook spin clockwise
-- His right hand holds her right hand in an arm wrestling hold
-- Dile que non
+Dedo [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Tap stance via right arm`
+- Man walks to his left and raises his connected right arm so that the woman turns clockwise across from his left to his right.
+- :ref:`Clockwise enchufla, man hook spin`
+- His right hand holds her right hand in an arm wrestling grip.
+- :ref:`Dile que non`
 
 
-Montaña
-^^^^^^^
-- Tap stance with his right hand connected to her right hand and his left hand connected under his right hand
-- Man guides a spinning enchufla with the woman spinning clockwise across
-- Enchufla, man hook spin clockwise
-- Sombrero
-- Dile que non
+Montaña [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Tap stance via right arm` and his left hand is connected under his right hand.
+- Man walks to his left and raises his connected right arm so that the woman turns clockwise across from his left to his right.
+- :ref:`Clockwise enchufla, man hook spin`
+- He lifts his right hand over and behind her head while he lifts his left hand over and behind his head for sombrero hold.
+- :ref:`Dile que non`
 
 
-Toca la leche
-^^^^^^^^^^^^^
-- Tap stance with his left hand connected to her right hand
-- Man signals a vacila with his connected right hand so that the woman spins counterclockwise to his right as he walks to her left so that man and woman have switched positions
-- Man steps in places for three beats and places his right hand on her left shoulder
-- Man signals an enchufla but keeps his right hand on her left shoulder so that she wraps counterclockwise into him
-- His right hand grasps her right wrist
-- He pulls his connected right hand so that she unravels clockwise as he turns counterclockwise over his left shoulder to change her right hand from his right hand to his left hand
-- Dile que non
+Toca la leche [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Tap stance via right arm`
+- Man signals a :ref:`Vacila` with his connected right hand so that the woman spins counterclockwise to his right as he walks to her left so that man and woman have switched positions.
+- Man steps in places for three beats and places his right hand on her left shoulder.
+- Man signals a :ref:`Clockwise enchufla` but keeps his right hand on her left shoulder so that she wraps counterclockwise into him.
+- His right hand grasps her right wrist.
+- He pulls his connected right hand so that she unravels clockwise as he turns counterclockwise over his left shoulder to change her right hand from his right hand to his left hand.
+- :ref:`Dile que non`
 
 
-Paseala
-^^^^^^^
+Paseala [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Dile que non`
 - Man pulls his connected left hand behind him as he side steps to his left and transfers her right hand from his left hand to his right hand.
 - Man pulls his connected right hand in front of him as he side steps to his right and transfers her right hand from his right hand to his left hand.
 
 
-Setenta
-^^^^^^^
+Setenta [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via left arm`
-- Man signals vacila with his left hand and signals for her to hold his right hand
-- Man and woman switch positions clockwise while facing each other with both hands connected
-- Man signals standard enchufla
-- Man goes under his right arm for a man enchufla
-- Man signals standard enchufla
+- Man signals a :ref:`Vacila` with his left hand while his right hand signals under his left hand for her left hand.
+- After the woman finishes her turn, man and woman switch positions clockwise while looking at each other with torsos facing opposite directions and both hands connected.
+- :ref:`Clockwise enchufla`
+- Man walks under his connected right arm, passing the woman on his right.
+- :ref:`Clockwise enchufla`
 - :ref:`Dile que non`
 
 
