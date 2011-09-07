@@ -59,15 +59,15 @@ His left hand is free and his right arm holds the woman on his right.  On the do
 
 Enchufla
 ^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Clockwise enchufla`
-- :ref:`Left break`
+- :ref:`Left open break`
 - He walks toward and passes her on his right to face the next woman.
 
 
 Enchufla doble [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Clockwise enchufla check`
 - :ref:`Enchufla`
 
@@ -86,8 +86,7 @@ Enchufla pati [#SalsaInternational]_
 
 El uno
 ^^^^^^
-- On his left forward step, man switches to a single right hand to right hand hold.
-- He breaks with his left foot back.
+- :ref:`Right cross break`
 - He pulls the woman forward as he moves behind her in crossbody stance so that her back is facing him and his left hand grasps her left hand.
 - He moves to her left and he back steps with his right foot to his left.
 - He moves to right and he back steps with his left foot to his right.
@@ -100,8 +99,7 @@ El uno
 
 El kentucky [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Partners are in two hand open position with his right hand above her left hand and his left hand under her right hand.
-- He breaks with his left foot back.
+- :ref:`Two hand open break` with his right hand above her left hand and his left hand under her right hand.
 - :ref:`Clockwise wrap enchufla`
 - He moves back to her right but keeps his left hand in place on her left shoulder.
 - He moves to her left, places his connected left hand on his right shoulder and turns clockwise into closed position.
@@ -152,13 +150,13 @@ Sombrero [#SalsaInternational]_
 Candado, tiempo españa, taro con mano [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Guapea`
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
 - He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
 - He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - He raises both connected hands over her head while walking to her left but rests his connected right hand on his left shoulder and rests his connected left hand on his right shoulder.
 - Couples walk forward counterclockwise.
 - He turns clockwise into closed position.
@@ -180,8 +178,7 @@ Pelota de cuatro [#SalsaInternational]_
 
 Chisme [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Partners are in two hand open position with his right hand above her left hand and his left hand under her right hand.
-- He breaks with his left foot back.
+- :ref:`Two hand open break` with his right hand above her left hand and his left hand under her right hand.
 - :ref:`Clockwise wrap enchufla`
 - Man unravels woman with his right hand so that she spins clockwise to his right as he performs a standard :ref:`Enchufla` with the woman on his left.
 

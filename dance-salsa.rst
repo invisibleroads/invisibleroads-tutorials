@@ -80,7 +80,7 @@ Woman right turn via right arm
 
 Woman right turn via both arms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man is in right hand over left hand hold.  Before his left forward step, he lifts his connected hands and guides them in a clockwise circle around and behind her head so that she turns clockwise while he steps back with his right foot.
+- Man is in right hand over left hand hold.  Before his left forward step, he lifts his connected hands, keeping her wrists together, and guides them in a clockwise circle around and behind her head so that she turns clockwise while he steps back with his right foot.
 - He lowers his connected right arm to end the turn.
 - Man left steps forward.
 
@@ -365,28 +365,28 @@ Two hand push pull, push pull
 - Man returns to basic stance while pushing forward with his right hand and pulling back with his left hand
 
 
-.. _Left break:
+.. _Left open break:
 
-Left break
-^^^^^^^^^^
+Left open break
+^^^^^^^^^^^^^^^
 - His left hand is connected to her right hand.
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arm bent at the elbow for tension.
 
 
-.. _Right break:
+.. _Right open break:
 
-Right break
-^^^^^^^^^^^
-- His right hand is connected to her right hand.
+Right open break
+^^^^^^^^^^^^^^^^
+- His right hand is connected to her left hand.
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arm bent at the elbow for tension.
 
 
-.. _Two hand break:
+.. _Crossbody, right open break:
 
-Two hand break
-^^^^^^^^^^^^^^
-- His right hand is connected to her left hand and his left hand is connected to her right hand.
-- After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
+Crossbody, right open break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man guides a :ref:`Crossbody` and glides his right fingers under her left forearm for right open hold.
+- :ref:`Right open break`
 
 
 .. _Fling break:
@@ -397,11 +397,35 @@ Fling break
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back while flinging his left arm and torso backward.
 
 
+.. _Right cross break:
+
+Right cross break
+^^^^^^^^^^^^^^^^^
+- His right hand is connected to her right hand.
+- After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arm bent at the elbow for tension.
+
+
+.. _Two hand open break:
+
+Two hand open break
+^^^^^^^^^^^^^^^^^^^
+- His right hand is connected to her left hand and his left hand is connected to her right hand.
+- After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
+
+
+.. _Left over right break:
+
+Left over right break
+^^^^^^^^^^^^^^^^^^^^^
+- The connected left hands are above the connected right hands.
+- After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
+
+
 .. _Reach around into reverse cuatro:
 
 Reach around into reverse cuatro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - His connected left hand reaches behind her waist and transfers her right hand to his right hand.
 - His left hand holds her left hand in reverse cuatro position.
 
@@ -429,7 +453,7 @@ Reach around into reverse cuatro, outside turn, woman right turn, wedge crossbod
 
 Reach around switch
 ^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - He moves into reverse crossbody stance as his left hand pulls her forward so that she starts walking from his left to his right.
 - His connected left hand reaches behind her waist and transfers her right hand to his right hand.
 - Man exits crossbody stance to face the woman.
@@ -439,7 +463,7 @@ Reach around switch
 
 Elbow push switch
 ^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - Man left steps forward with his connected left hand outstretched to the left while his right hand pushes her outstretched right arm at the elbow so that the woman spins clockwise as man turns clockwise enchufla around and facing the woman so that man and woman have switched positions.
 - Man left steps forward.
 
@@ -531,15 +555,15 @@ Bridge
 
 Cuatro pasos [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Clockwise enchufla`
-- :ref:`Left break`
+- :ref:`Left open break`
 - Man turns clockwise while his left hand releases and regrasps her right hand near his waist over his right hip.
 - :ref:`Clockwise enchufla`
-- :ref:`Left break`
+- :ref:`Left open break`
 - Man turns clockwise while his left hand releases and regrasps her right hand near his neck over his right shoulder.
 - :ref:`Clockwise enchufla`
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Man change hands, woman right turn`
 - Man left steps forward.
 
@@ -623,6 +647,14 @@ Two hand inside turn
 From two hand open position, man signals `Inside turn` with his left hand but keeps his right hand connected to her left hand near hear waist.
 
 
+Two hand inside turn, woman clockwise spin [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody` into two hand open position
+- :ref:`Two hand inside turn`
+- On his right back step, he lifts both hands to spin her clockwise and brings his hands down so that she stops spinning.
+- Man tosses hands upward to escape hand tangle.
+
+
 .. _Scoop inside turn:
 
 Scoop inside turn
@@ -630,12 +662,14 @@ Scoop inside turn
 Man guides woman through crossbody but scoops his guiding left hand down, behind and around so that the woman turns counterclockwise until she reaches the other side.
 
 
-Two hand inside turn, woman clockwise spin [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Crossbody` into two hand open position
-- :ref:`Two hand inside turn`
-- On his right back step, he lifts both hands to spin her clockwise and brings his hands down so that she stops spinning.
-- Man tosses hands upward to escape hand tangle.
+.. _Bridge inside turn:
+
+Bridge inside turn
+^^^^^^^^^^^^^^^^^^
+- :ref:`Right open break`
+- Man left steps diagonally forward to his right under his connected right arm to move out of her way.
+- Man pivots 180 degrees clockwise on both feet and pulls his connected right arm in front of him so that the woman starts walking forward.
+- Man pulls and tosses his connected right arm over his head as he turns counterclockwise 360 degrees so that the woman performs an :ref:`Inside turn` to the other side and man and woman have switched positions.
 
 
 .. _Guapea, woman right turn:
@@ -729,7 +763,7 @@ Drag turn
 
 Basket
 ^^^^^^
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - With both hands connected, man moves clockwise behind and around woman so she ends on his right.  The man's steps are right foot diagonally forward to his left, left foot side steps to his left, right foot crosses behind his left foot to his left as he is behind the woman, left foot steps in front of woman, right foot returns to standing position.
 
 
@@ -738,7 +772,7 @@ Basket
 Basket, counterclockwise bridge enchufla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Basket`
-- :ref:`Left break` while his right hand reaches over to his left hand transfers her right hand to his left hand so that the fingertips of his right hand and her right hand touch.
+- :ref:`Left open break` while his right hand reaches over to his left hand transfers her right hand to his left hand so that the fingertips of his right hand and her right hand touch.
 - :ref:`Counterclockwise bridge enchufla`
 
 
@@ -748,7 +782,7 @@ Molino
 ^^^^^^
 - His left hand holds her left hand.
 - :ref:`Woman right turn via left arm`
-- :ref:`Left break` but instead of pulling, he pushes his left hand forward to make the subsequent pull signal clear.
+- :ref:`Left open break` but instead of pulling, he pushes his left hand forward to make the subsequent pull signal clear.
 - Man pulls his left hand toward his right and guides it clockwise above his head so that the woman walks around him.
 - Before she completes her walk, man brings his connected left hand down, behind and around diagonally to his left so that she turns clockwise to face him.
 - Man left steps forward.
@@ -758,7 +792,7 @@ Molino
 
 Copa
 ^^^^
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - Man signals a `Woman right turn via left arm` while moving into reverse crossbody stance with his right hand still connected so that woman is in a two handed embrace with her back facing the man.
 - Man pulls his left hand to his left while pushing with his right chest so the woman unravels counterclockwise.
 - Man continues her momentum by stirring his left hand for a woman counterclockwise spin.
@@ -768,16 +802,17 @@ Copa
 
 Hip copa
 ^^^^^^^^
-- :ref:`Two hand break`
-- Man signals a `Woman right turn via left arm` while moving into reverse crossbody stance.
-- His right hand rests on her right hip to stop the woman so that her back faces him.
-- Man pulls his left hand to his left and pushes her right hip counterclockwise to his left so that the woman reverse turns into basic position.
+- :ref:`Two hand open break` or :ref:`Left over right break`
+- Man signals a `Woman right turn via left arm` but he stops her halfway through her turn with his right hand on her right hand so that her back faces him.
+- Man pulls his left hand forward and pushes her right hip forward so that the woman reverse turns into basic position.
+- His connected left hand continues giving power to her spin.
+- :ref:`Hairbrush hand transition` from his connected left hand.
 - Man left steps forward.
 
 
 Rotating copa [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - Man holds top of woman's left shoulder with his right hand and rotates counterclockwise with her 270 degrees until he is in crossbody stance.
 - Man releases woman's left shoulder so she continues turning into copa embrace and he grasps her left hand in front of her with his right hand.
 - Man pulls his left hand to his left while pushing with his right chest so the woman unravels counterclockwise.
@@ -786,7 +821,7 @@ Rotating copa [#SalsaRosa]_
 
 Rotating flare [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - Man holds woman with his right hand at her waist and turns counter clockwise 180 degrees until they are both facing the same direction.
 - Man flares his left foot diagonally to his left, woman flares his right foot diagonally to his right.
 - Man guides woman counterclockwise in front of him.
@@ -795,7 +830,7 @@ Rotating flare [#SalsaRosa]_
 
 Backward walk flare [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - Man wraps his left hand up and counterclockwise around the woman so she is in a two-handed embrace on the man's right.
 - Man steps back with his right foot, his left foot, his right foot as the woman mirrors him
 - Man flares his left foot diagonally to his left, woman mirrors him.
@@ -813,7 +848,7 @@ Cuatro
 Cuatro, clockwise enchufla, man two hand spin, hair pull switch [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Cuatro`
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - :ref:`Clockwise enchufla`
 - Man lifts his connected right hand over his head and spins counterclockwise 360 degrees while keeping both hands connected.
 - Man left steps forward with his left arm behind him holding the woman's hand.
@@ -825,11 +860,11 @@ Cuatro, clockwise enchufla, man two hand spin, hair pull switch [#SalsaRosa]_
 Cuatro, back to back hand change, clockwise enchufla check [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Cuatro`
-- :ref:`Two hand break` while he places his connected left hand above and behind his head.
+- :ref:`Two hand open break` while he places his connected left hand above and behind his head.
 - His connected left hand pulls the woman behind him as he walks forward so that man and woman are back to back.
 - While back to back, he transfers her right hand from his right hand to his left hand.
 - Man turns counterclockwise to face the woman.
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Clockwise enchufla check`
 - Man left steps forward
 
@@ -837,7 +872,7 @@ Cuatro, back to back hand change, clockwise enchufla check [#SalsaRosa]_
 Cuatro, enchufla, copa [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Cuatro`
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - Man breaks with his left foot back
 - Man encircles clockwise facing the woman until he reaches the other side.
 - :ref:`Copa`
@@ -860,8 +895,10 @@ Cuatro outside turn
 - While she is finishing her turn, man finishes his crossbody by moving to his left and turning to face the woman.
 
 
-Two hand release [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Hairbrush release:
+
+Hairbrush release
+^^^^^^^^^^^^^^^^^
 The man raises and releases the woman's hands behind her head so that her hands trickle over her head like water.
 
 
@@ -870,9 +907,11 @@ Two hand hand transition [#SalsaRosa]_
 The man lifts his connected hands up, over and behind his head while keeping his head erect.  The woman's hands glide into his open palms that are facing diagonally outward from his body.
 
 
-Hairbrush hand transition [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-From the two hand open hold, the man lifts his right forearm up, over and behind his head so that his right armpit is exposed while placing the woman's left hand on his left shoulder.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while his right hand waits over or under his left hand according to the desired hold.
+.. _Hairbrush hand transition:
+
+Hairbrush hand transition
+^^^^^^^^^^^^^^^^^^^^^^^^^
+From the two hand open hold, the man lifts his connected hand up, over and behind his head so that his armpit is exposed while placing the woman's connected hand on his other shoulder.  His free hand touches the woman's forearm so that her hand glides into his free hand, while his newly free hand waits over or under his newly connected hand according to the desired hold.
 
 
 Ventana hand transition [#SalsaRosa]_
@@ -904,7 +943,7 @@ Hollandesa from right hand over left hold [#SalsaRosa]_
 
 Hollandesa from two hand open hold [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Two hand break`
+- :ref:`Two hand open break`
 - Man lifts his left hand up and counterclockwise over woman's head while he walks clockwise in a great circle behind the woman so that man and woman end in two hand embrace with woman facing outward.
 - With both hands connected, man pulls woman diagonally backward to his right so she is locked in hollandesa.
 - Man signals slash by strongly pushing his left hand out diagonally left forward while pulling his right hand diagonally back and flaring his left leg out diagonally left and toe pointing to his right.
@@ -920,8 +959,8 @@ Woman double right
 ^^^^^^^^^^^^^^^^^^
 - His right hand holds her right hand.
 - After his right foot returns to standing position, his left foot taps behind his right foot while he brings his connected right hand to his right at eye level so that the woman prepares for the spin.
-- Man pauses until the woman is ready.
-- Man guides his connected right fingers counterclockwise around the woman's head as the woman spins twice.
+- Man makes eye contact and pauses until the woman is ready.
+- Man strongly pushes his connected right fingers counterclockwise around the woman's head as the woman spins twice, using his shoulders to power her spin.
 
 
 .. _Half crossbody, man clockwise spin:
@@ -1011,7 +1050,7 @@ Cuatro outside turn, inside turn, fling catch left, woman left turn, wrap crossb
 - :ref:`Cuatro outside turn`
 - :ref:`Inside turn`
 - :ref:`Crossbody`
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Fling catch left, woman left turn`
 - :ref:`Wrap crossbody`
 - :ref:`Guapea, woman right turn`
@@ -1037,7 +1076,7 @@ El uno, clockwise enchufla, man hook spin, exhibela, dile que non [#SalsaInterna
 Woman right turn, clockwise enchufla check, shoulder inside turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman right turn via right arm`
-- :ref:`Right break`
+- :ref:`Right open break`
 - :ref:`Clockwise enchufla check`
 - :ref:`Shoulder inside turn`
 
@@ -1051,7 +1090,7 @@ Hip push, woman right half turn, woman left half turn [#SalsaInternational]_
 
 Counterclockwise enchufla check, man change hands, woman right turn, hip push, woman right turn, man change hands, woman right turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Counterclockwise enchufla check`
 - :ref:`Man change hands, woman right turn`
 - :ref:`Crossbody`
@@ -1072,7 +1111,7 @@ Woman right half turn, woman left half turn, make a J right, fling spin left, ma
 
 Counterclockwise enchufla check, man change hands, woman right turn, hip push, woman right half turn, woman left half turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Counterclockwise enchufla check`
 - :ref:`Man change hands, woman right turn`
 - :ref:`Crossbody`
@@ -1083,7 +1122,7 @@ Counterclockwise enchufla check, man change hands, woman right turn, hip push, w
 
 Counterclockwise bridge enchufla, counterclockwise enchufla, wrap crossbody, barrel spin [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Counterclockwise bridge enchufla`
 - :ref:`Counterclockwise enchufla`
 - :ref:`Wrap crossbody, barrel spin`
@@ -1127,7 +1166,7 @@ Inside turn, man right turn, woman right turn, man mirror spin, swim crossbody, 
 
 Fling catch left, push turn right, molino, man change hands, woman right turn [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Fling catch left, push turn right`
 - :ref:`Crossbody`
 - :ref:`Molino`
@@ -1163,7 +1202,7 @@ Fling catch left, push catch right, push turn left, man change hands, woman righ
 - :ref:`Fling catch left, push catch right, push turn left`
 - :ref:`Man change hands, woman right turn`
 - :ref:`Crossbody`
-- :ref:`Left break`
+- :ref:`Left open break`
 - :ref:`Woman right turn via left arm`
 - :ref:`Hip copa`
 - :ref:`Man change hands, woman right turn`
@@ -1173,7 +1212,7 @@ Half crossbody, man clockwise spin, man left half turn, man right half spin, sco
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Half crossbody, man clockwise spin`
 - :ref:`Man left half turn, man right half spin`
-- His right hand releases her right hand in a hairbush above and behind her head while his left hand connects to her left hand.
+- :ref:`Hairbrush hand transition` from his connected right hand while his left hand connects to her left hand.
 - :ref:`Scoop inside turn`
 - :ref:`Man right turn`
 
@@ -1182,7 +1221,7 @@ Woman right turn via both arms, push inside turn [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman right turn via both arms`
 - Man lowers his hands and releases his left hand to return to right hand over left hand hold.
-- Man raises his connected right hand and releases it in a hairbrush behind the woman's head.
+- :ref:`Hairbrush release`
 - :ref:`Push inside turn`
 
 
@@ -1192,14 +1231,14 @@ Woman right turn, man swoop left half turn, man right half spin, man spin change
 - :ref:`Crossbody`
 - :ref:`Basket`
 - :ref:`Crossbody`
-- :ref:`Right break`
+- :ref:`Right open break`
 - :ref:`Clockwise enchufla check` but instead of pushing the woman back after the check, he guides an :ref:`Outside turn`
 
 
 Woman double right, push inside turn check, push inside turn, basket, counterclockwise bridge enchufla, woman right turn, man swoop left half turn, man right half spin [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman double right`
-- His right hand releases her right hand in a hairbrush behind her head.
+- :ref:`Hairbrush release`
 - :ref:`Push inside turn check`
 - :ref:`Push inside turn`
 - :ref:`Basket, counterclockwise bridge enchufla`
@@ -1215,6 +1254,25 @@ Two hand push pull, woman left turn, man change hands, whip crossbody, man right
 - :ref:`Whip crossbody`
 - :ref:`Man right turn`
 - :ref:`Shoulder inside turn check, man mirror spin`
+
+
+Woman right turn, hip copa [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody`
+- :ref:`Woman right turn via both arms`
+- :ref:`Left over right break`
+- :ref:`Hip copa`
+
+
+Woman double right, hip copa, shoulder inside turn, bridge inside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody`
+- Man starts a :ref:`Woman double right` and raises his unconnected left hand with the fingers pointed to his right to signal for her left hand.
+- :ref:`Left over right break`
+- :ref:`Hip copa`
+- :ref:`Shoulder inside turn`
+- :ref:`Crossbody, right open break`
+- :ref:`Bridge inside turn`
 
 
 Shines
