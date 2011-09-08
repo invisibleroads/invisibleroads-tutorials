@@ -55,6 +55,20 @@ Dame
 His left hand is free and his right arm holds the woman on his right.  On the downbeat, the man left steps forward.  As he returns to basic stance, he pushes the woman to his left and he moves forward in the circle to catch the next woman with his right arm.
 
 
+.. _Dame dos:
+
+Dame dos
+^^^^^^^^
+His left hand is free and his right arm holds the woman on his right.  On the downbeat, the man left steps forward.  As he returns to basic stance, he pushes the woman to his left and he moves forward in the circle, skips the next woman and catches the subsequent woman with his right arm.
+
+
+.. _Arriba:
+
+Arriba
+^^^^^^
+His left hand is free and his right arm holds the woman on his right.  On the downbeat, the man left steps forward.  As he returns to basic stance, he pushes the woman to his left but moves backward in the circle and catches the previous woman with his right arm.
+
+
 .. _Enchufla:
 
 Enchufla
@@ -79,6 +93,14 @@ Enchufla pati [#SalsaInternational]_
 - Men back step to the left.
 - Men back step to the right.
 - Men spin counterclockwise over their left shoulder to the next woman.
+- :ref:`Dile que non`
+
+
+Adios con la hermana [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- On his forward step, man holds woman in closed position and rotates with her clockwise 180 degrees.
+- Man walks under his connected left arm, passing the woman on his right.
+- :ref:`Clockwise enchufla`
 - :ref:`Dile que non`
 
 
@@ -230,4 +252,5 @@ Setenta [#SalsaInternational]_
 - :ref:`Dile que non`
 
 
-.. [#SalsaInternational] Thanks to Evelyn Ramirez and Eduardo Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
+.. [#SalsaInternational] Thanks to Evelyn Ramirez, Eduardo Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
+.. [#PielCanela] Thanks to Alejandro Bouza of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.

@@ -459,6 +459,15 @@ Reach around switch
 - Man exits crossbody stance to face the woman.
 
 
+.. _Reach around switch, man hook spin:
+
+Reach around switch, man hook spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Reach around switch`
+- For his right backstep, he places his right foot behind his left foot and spins clockwise 360 degrees while she is finishing her turn.
+- Man left steps forward.
+
+
 .. _Elbow push switch:
 
 Elbow push switch
@@ -487,6 +496,16 @@ Dip [#SalsaRosa]_
 - Man bends his left leg while keeping his torso perpendicular to the ground.
 - Man straightens his left leg, pulls his right hand so that the woman reverse spins clockwise.
 - Man left steps forward.
+
+
+.. _Bridge:
+
+Bridge
+^^^^^^
+- Man places his right hand on her left shoulder.
+- Man raises his connected left arm and steps into crossbody stance.
+- His right hand pulls her left shoulder to his left so that she walks across from his right to his left under his connected left arm bridge.
+- Man turns to face the woman.
 
 
 .. _Clockwise enchufla:
@@ -543,14 +562,15 @@ Counterclockwise bridge enchufla
 - Man turns clockwise to face the woman as the woman turns clockwise to face him.  The turn is easier if he is not actually holding her hand, only keeping a connection through the fingertips.
 
 
-.. _Bridge:
+.. _Matador:
 
-Bridge
-^^^^^^
-- Man places his right hand on her left shoulder.
-- Man raises his connected left arm and steps into crossbody stance.
-- His right hand pulls her left shoulder to his left so that she walks across from his right to his left under his connected left arm bridge.
-- Man turns to face the woman.
+Matador
+^^^^^^^
+- :ref:`Right cross break`
+- Man left steps forward to his left, raising his connected right arm and passing the woman on his right.
+- Man crosses his left foot in front of his right foot to prepare for a counterclockwise spin.
+- Man tosses his connected right arm diagonally forward to his right so that the woman turns clockwise.
+- Man spins counterclockwise to face the woman.
 
 
 Cuatro pasos [#SalsaRosa]_
@@ -701,41 +721,42 @@ Woman right half turn, woman left half turn
 - Man catches woman with his right hand behind her left shoulder for closed position.
 
 
-.. _Woman right turn, man right half turn, man right half spin:
+.. _Man right half turn, woman blind turn:
 
-Woman right turn, man right half turn, man right half spin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn via right arm`
-- On his left forward step, he turns counterclockwise 180 degrees to end with his back facing her and raises his connected right hand over his head and on his right shoulder.
+Man right half turn, woman blind turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- His right hand holds her right hand.
+- On his left forward step, he turns clockwise 180 degrees to end with his back facing her and raises his connected right hand over his head and on his right shoulder.
 - He side steps to his right and pushes his connected right hand back to signal a woman clockwise turn while he spins counterclockwise to face her with his right hand still connected to her left hand.
 - Man left steps forward.
 
 
-.. _Man left half turn, man right half spin:
+.. _Man left half turn, woman blind turn:
 
-Man left half turn, man right half spin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man left half turn, woman blind turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- His right hand holds her right hand.
 - Man pivots on his left foot counterclockwise 180 degrees so that his back faces the woman.
 - He raises his connected right hand over his head and places it on his left shoulder as his left foot taps behind his right foot.
 - He raises his connected right hand over his head and places it on his right shoulder as he shifts his weight to his left foot in standing position and angles his body to his right to prepare to spin.
 - He pushes his connected right hand back to signal a woman clockwise turn.
-- With his right hand still connected to her left hand, man pivots counterclockwise to face her.
+- With his right hand still connected to her left hand, man spins counterclockwise to face her.
 
 
-.. _Woman right turn, man swoop left half turn, man right half spin:
+.. _Woman right turn, man left half turn, woman blind turn:
 
-Woman right turn, man swoop left half turn, man right half spin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman right turn, man left half turn, woman blind turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman right turn via right arm`
 - As she finishes her turn, man swoops his connected right hand down from right to left.
-- :ref:`Man left half turn, man right half spin`
+- :ref:`Man left half turn, woman blind turn`
 
 
-.. _Woman right turn, man swoop left half turn, man right half spin, man spin change hands:
+.. _Woman right turn, man left half turn, woman blind turn, man spin change hands:
 
-Woman right turn, man swoop left half turn, man right half spin, man spin change hands
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn, man swoop left half turn, man right half spin`
+Woman right turn, man left half turn, woman blind turn, man spin change hands
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman right turn, man left half turn, woman blind turn`
 - Man keeps his connected hand at his waist so that the woman does not move as he continues spinning counterclockwise while transferring her left hand from his right hand to his left hand.
 
 
@@ -958,9 +979,10 @@ Hollandesa from two hand open hold [#SalsaRosa]_
 Woman double right
 ^^^^^^^^^^^^^^^^^^
 - His right hand holds her right hand.
-- After his right foot returns to standing position, his left foot taps behind his right foot while he brings his connected right hand to his right at eye level so that the woman prepares for the spin.
-- Man makes eye contact and pauses until the woman is ready.
-- Man strongly pushes his connected right fingers counterclockwise around the woman's head as the woman spins twice, using his shoulders to power her spin.
+- His right foot side steps to his right and his left foot taps behind his right foot while he brings his connected right hand to his right at eye level so that the woman prepares for the spin.
+- Man makes eye contact to make sure she is ready.
+- His left foot side steps to his left and his right foot taps behind his left foot while he strongly pushes his connected right fingers counterclockwise around her head so that the woman spins twice, using his shoulders to power her spin.
+- Man left steps forward.
 
 
 .. _Half crossbody, man clockwise spin:
@@ -1181,13 +1203,14 @@ Drag turn, inside turn, man right turn, woman right turn, man mirror spin, swim 
 - :ref:`Swim crossbody`
 
 
-Inside turn, drag turn, shoulder inside turn, man right turn, woman right turn, man mirror spin, woman right turn, man right half turn, man right half spin, elbow push switch [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Inside turn, drag turn, shoulder inside turn, man right turn, woman right turn, man mirror spin, man right half turn, woman blind turn, elbow push switch [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Inside turn`
 - :ref:`Drag turn`
 - :ref:`Shoulder inside turn`
 - :ref:`Man right turn, woman right turn, man mirror spin`
-- :ref:`Woman right turn, man right half turn, man right half spin`
+- :ref:`Woman right turn via right arm`
+- :ref:`Man right half turn, woman blind turn`
 - :ref:`Elbow push switch`
 
 
@@ -1208,10 +1231,10 @@ Fling catch left, push catch right, push turn left, man change hands, woman righ
 - :ref:`Man change hands, woman right turn`
 
 
-Half crossbody, man clockwise spin, man left half turn, man right half spin, scoop barrel turn, man right turn [#DardoGalletto]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Half crossbody, man clockwise spin, man left half turn, woman blind turn, scoop barrel turn, man right turn [#DardoGalletto]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Half crossbody, man clockwise spin`
-- :ref:`Man left half turn, man right half spin`
+- :ref:`Man left half turn, woman blind turn`
 - :ref:`Hairbrush hand transition` from his connected right hand while his left hand connects to her left hand.
 - :ref:`Scoop inside turn`
 - :ref:`Man right turn`
@@ -1225,9 +1248,9 @@ Woman right turn via both arms, push inside turn [#PielCanela]_
 - :ref:`Push inside turn`
 
 
-Woman right turn, man swoop left half turn, man right half spin, man spin change hands, basket, clockwise enchufla check, outside turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn, man swoop left half turn, man right half spin, man spin change hands`
+Woman right turn, man left half turn, woman blind turn, man spin change hands, basket, clockwise enchufla check, outside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman right turn, man left half turn, woman blind turn, man spin change hands`
 - :ref:`Crossbody`
 - :ref:`Basket`
 - :ref:`Crossbody`
@@ -1235,15 +1258,15 @@ Woman right turn, man swoop left half turn, man right half spin, man spin change
 - :ref:`Clockwise enchufla check` but instead of pushing the woman back after the check, he guides an :ref:`Outside turn`
 
 
-Woman double right, push inside turn check, push inside turn, basket, counterclockwise bridge enchufla, woman right turn, man swoop left half turn, man right half spin [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman double right, push inside turn check, push inside turn, basket, counterclockwise bridge enchufla, woman right turn, man left half turn, woman blind turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman double right`
 - :ref:`Hairbrush release`
 - :ref:`Push inside turn check`
 - :ref:`Push inside turn`
 - :ref:`Basket, counterclockwise bridge enchufla`
 - :ref:`Crossbody`
-- :ref:`Woman right turn, man swoop left half turn, man right half spin`
+- :ref:`Woman right turn, man left half turn, woman blind turn`
 
 
 Two hand push pull, woman left turn, man change hands, whip crossbody, man right turn, shoulder inside turn check, man mirror spin [#DardoGalletto]_
@@ -1273,6 +1296,18 @@ Woman double right, hip copa, shoulder inside turn, bridge inside turn [#PielCan
 - :ref:`Shoulder inside turn`
 - :ref:`Crossbody, right open break`
 - :ref:`Bridge inside turn`
+
+
+Reach around switch, man hook spin, matador, basket, inside turn, man change hands, woman right turn, man left half turn, woman blind turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Reach around switch, man hook spin`
+- :ref:`Crossbody`
+- :ref:`Matador`
+- :ref:`Crossbody`
+- :ref:`Basket`
+- :ref:`Inside turn`
+- :ref:`Man change hands`
+- :ref:`Woman right turn, man left half turn, woman blind turn`
 
 
 Shines
@@ -1310,6 +1345,6 @@ Man or woman side steps to the left, side steps to the right, then cranks upper 
 
 .. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
 .. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
-.. [#PielCanela] Thanks to Joe Burgos, Jose Negron of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
+.. [#PielCanela] Thanks to Joe Burgos, Jose Negron, Jonathan Rodriguez of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
 .. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
 .. [#EddieTorres] Thanks to Eddie Torres, Maria Torres `Eddie Torres Latin Dance Studio <http://www.eddietorres.com>`_ in New York, NY, USA.
