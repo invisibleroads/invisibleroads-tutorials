@@ -738,7 +738,7 @@ Man left half turn, woman blind turn
 - His right hand holds her right hand.
 - Man pivots on his left foot counterclockwise 180 degrees so that his back faces the woman.
 - He raises his connected right hand over his head and places it on his left shoulder as his left foot taps behind his right foot.
-- He raises his connected right hand over his head and places it on his right shoulder as he shifts his weight to his left foot in standing position and angles his body to his right to prepare to spin.
+- He raises his connected right hand over his head and places it on his right shoulder as he shifts his weight to his left foot in standing position, places his right foot in front of his left foot and angles his body to his right to prepare to spin counterclockwise.
 - He pushes his connected right hand back to signal a woman clockwise turn.
 - With his right hand still connected to her left hand, man spins counterclockwise to face her.
 
