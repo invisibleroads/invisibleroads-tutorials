@@ -619,6 +619,14 @@ Push inside turn check
 - Before his right back step, he rotates the woman clockwise into a free spin.
 
 
+.. _Push inside turn check, man right turn:
+
+Push inside turn check, man right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Push inside turn check` but he turns the woman clockwise one and a half times to face him without releasing her left hand.
+- On his left forward step, as she is finishing her turn, man turns clockwise 360 degrees and returns his right arm to support the woman's frame.
+
+
 .. _Shoulder inside turn:
 
 Shoulder inside turn
@@ -1308,6 +1316,21 @@ Reach around switch, man hook spin, matador, basket, inside turn, man change han
 - :ref:`Inside turn`
 - :ref:`Man change hands`
 - :ref:`Woman right turn, man left half turn, woman blind turn`
+
+
+Woman double right, push inside turn check, man right turn, woman double right, man left half turn, woman blind turn, man right turn, right cross break, outside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody`
+- :ref:`Woman double right`
+- :ref:`Hairbrush release` from his connected right hand.
+- :ref:`Push inside turn check, man right turn`
+- :ref:`Crossbody`
+- :ref:`Woman double right`
+- :ref:`Man left half turn, woman blind turn`
+- :ref:`Crossbody`
+- :ref:`Man right turn`
+- :ref:`Right cross break`
+- :ref:`Outside turn`
 
 
 Shines
