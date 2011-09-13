@@ -44,18 +44,28 @@ Patterns
 
 On 2 basic
 ^^^^^^^^^^
-- He steps with his left foot back on the downbeat.
-- He steps his right foot further back as he raises his forward left foot.
-- He steps his right foot forward.
-- He steps his left foot further forward as he raises his back right foot.  
+- His left foot steps back on the downbeat.
+- His right foot steps further back as he raises his forward left foot.
+- His right foot steps forward.
+- His left foot steps further forward as he raises his back right foot.  
 
 
 On 1 basic
 ^^^^^^^^^^
-- He steps with his left foot forward on the downbeat as he raises his right foot.
-- He returns his left foot to standing position.
-- He steps his right foot back as he raises his left foot.
-- He returns his right foot to standing position.
+- His left foot steps forward on the downbeat as he raises his right foot.
+- His left foot returns to standing position.
+- His right foot steps back as he raises his left foot.
+- His right foot returns to standing position.
+
+
+.. _Side basic:
+
+Side basic
+^^^^^^^^^^
+- His left foot steps behind his right foot as he raises his right foot.
+- His left foot returns to standing position.
+- His right foot steps behind his left foot as he raises his left foot.
+- His right foot returns to standing position.
 
 
 .. _Woman right turn via left arm:
@@ -611,19 +621,29 @@ Push inside turn
 - His right hand rests behind her left shoulder blade as she completes her turn.
 
 
-.. _Push inside turn check:
+.. _Push inside turn check, free spin:
 
-Push inside turn check
-^^^^^^^^^^^^^^^^^^^^^^
+Push inside turn check, free spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Man signals :ref:`Push inside turn` but stops the woman in the middle of her turn while she is facing away from him with his hands on her shoulders.
-- Before his right back step, he rotates the woman clockwise into a free spin.
+- His left foot performs a :ref:`Side basic` to the right so that the woman prepares for her spin.
+- He spins the woman clockwise and releases his hands.
 
 
-.. _Push inside turn check, man right turn:
+.. _Push inside turn check, guided spin:
 
-Push inside turn check, man right turn
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Push inside turn check` but he turns the woman clockwise one and a half times to face him without releasing her left hand.
+Push inside turn check, guided spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man signals :ref:`Push inside turn` but his left hand stays connected to her left hand while his right hand stops her in the middle of her turn so that she is facing away from him.
+- His left foot performs a :ref:`Side basic` to the right so that the woman prepares for her spin.
+- His right hand pulls her right shoulder towards him and his left hand spins the woman clockwise one and a half times to face him.
+
+
+.. _Push inside turn check, guided spin, man right turn:
+
+Push inside turn check, guided spin, man right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Push inside turn check, guided spin`
 - On his left forward step, as she is finishing her turn, man turns clockwise 360 degrees and returns his right arm to support the woman's frame.
 
 
@@ -928,7 +948,7 @@ Cuatro outside turn
 
 Hairbrush release
 ^^^^^^^^^^^^^^^^^
-The man raises and releases the woman's hands behind her head so that her hands trickle over her head like water.
+His connected right hand raises and releases her right right hand behind her head.
 
 
 Two hand hand transition [#SalsaRosa]_
@@ -941,6 +961,13 @@ The man lifts his connected hands up, over and behind his head while keeping his
 Hairbrush hand transition
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 From the two hand open hold, the man lifts his connected hand up, over and behind his head so that his armpit is exposed while placing the woman's connected hand on his other shoulder.  His free hand touches the woman's forearm so that her hand glides into his free hand, while his newly free hand waits over or under his newly connected hand according to the desired hold.
+
+
+.. _Cut hand transition:
+
+Cut hand transition
+^^^^^^^^^^^^^^^^^^^
+From hand over hand hold, his connected upper hand starts moving down and releases and reconnects under his other hand.
 
 
 Ventana hand transition [#SalsaRosa]_
@@ -1251,9 +1278,20 @@ Half crossbody, man clockwise spin, man left half turn, woman blind turn, scoop 
 Woman right turn via both arms, push inside turn [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman right turn via both arms`
-- Man lowers his hands and releases his left hand to return to right hand over left hand hold.
-- :ref:`Hairbrush release`
+- :ref:`Cut hand transition` to right hand over left hand hold.
+- :ref:`Hairbrush release` while his left hand remains connected.
 - :ref:`Push inside turn`
+
+
+Woman right turn via both arms, push inside turn check, guided spin [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody`
+- :ref:`Woman right turn via both arms`
+- :ref:`Cut hand transition` to right hand over left hand hold.
+- :ref:`Hairbrush release` while his left hand remains connected.
+- :ref:`Push inside turn check, guided spin`
+- :ref:`Hairbrush hand transition` into closed position.
+- :ref:`Crossbody`
 
 
 Woman right turn, man left half turn, woman blind turn, man spin change hands, basket, clockwise enchufla check, outside turn [#PielCanela]_
@@ -1266,11 +1304,11 @@ Woman right turn, man left half turn, woman blind turn, man spin change hands, b
 - :ref:`Clockwise enchufla check` but instead of pushing the woman back after the check, he guides an :ref:`Outside turn`
 
 
-Woman double right, push inside turn check, push inside turn, basket, counterclockwise bridge enchufla, woman right turn, man left half turn, woman blind turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman double right, push inside turn check, free spin, push inside turn, basket, counterclockwise bridge enchufla, woman right turn, man left half turn, woman blind turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman double right`
-- :ref:`Hairbrush release`
-- :ref:`Push inside turn check`
+- :ref:`Hairbrush release` while his left hand remains connected.
+- :ref:`Push inside turn check, free spin`
 - :ref:`Push inside turn`
 - :ref:`Basket, counterclockwise bridge enchufla`
 - :ref:`Crossbody`
@@ -1318,12 +1356,12 @@ Reach around switch, man hook spin, matador, basket, inside turn, man change han
 - :ref:`Woman right turn, man left half turn, woman blind turn`
 
 
-Woman double right, push inside turn check, man right turn, woman double right, man left half turn, woman blind turn, man right turn, right cross break, outside turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman double right, push inside turn check, guided spin, man right turn, woman double right, man left half turn, woman blind turn, man right turn, right cross break, outside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`
 - :ref:`Woman double right`
-- :ref:`Hairbrush release` from his connected right hand.
-- :ref:`Push inside turn check, man right turn`
+- :ref:`Hairbrush release` while his left hand remains connected.
+- :ref:`Push inside turn check, guided spin, man right turn`
 - :ref:`Crossbody`
 - :ref:`Woman double right`
 - :ref:`Man left half turn, woman blind turn`
