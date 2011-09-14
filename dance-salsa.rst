@@ -212,6 +212,16 @@ Wrap crossbody, barrel spin
 - Once they have switched places, man pulls his right arm so that the woman spins clockwise while he mirror spins counterclockwise.
 
 
+.. _Man cuatro crossbody, hidden hip copa:
+
+Man cuatro crossbody, hidden hip copa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Her right hand holds his left middle finger, which is pointed to his right.
+- He signals a :ref:`Crossbody` with the the frame of his right arm and then immediately turns clockwise 180 degrees to make eye contact, with his left hand still connected behind his back to her right hand.  The woman should be in front of him to his right.
+- With his left hand connected behind his back to her right hand, instead of left stepping forward, he left steps back as the woman right steps back and twists his connected left hand clockwise and releases her right hand so that the woman starts a right turn.
+- As his left foot returns to standing position, his left palm, having not moved since releasing her right hand, pushes her right hip to complete the copa.
+
+
 Crossbody slide [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man begins crossbody but steps with his right foot in front of and past his left foot, then takes a long left step and slowly slides his right foot to close.
@@ -609,6 +619,15 @@ Inside turn
 - His right hand rests behind her left shoulder blade as she completes her turn.
 
 
+.. _Inside turn reachover hip check, unravel man right turn:
+
+Inside turn reachover hip check, unravel man right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man signals an :ref:`Inside turn` but keeps his right hand connected to her right hip, which he uses to stop her while she is facing away from him.
+- His left foot performs a :ref:`Side basic` to the right so that the woman prepares for her spin.
+- Man signals the woman to unravel clockwise while he turns clockwise quickly.
+
+
 .. _Push inside turn:
 
 Push inside turn
@@ -868,6 +887,14 @@ Rotating copa [#SalsaRosa]_
 - Man continues momentum by stirring his left hand for woman counterclockwise spin
 
 
+.. _Backhand copa:
+
+Backhand copa
+^^^^^^^^^^^^^
+- :ref:`Right cross break` as he raises his connected right hand so that the woman starts turning clockwise.
+- Man steps forward and uses the back of his left hand to check and push her forward so that she continues turning clockwise.
+
+
 Rotating flare [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Two hand open break`
@@ -1015,7 +1042,7 @@ Woman double right
 ^^^^^^^^^^^^^^^^^^
 - His right hand holds her right hand.
 - His right foot side steps to his right and his left foot taps behind his right foot while he brings his connected right hand to his right at eye level so that the woman prepares for the spin.
-- Man makes eye contact to make sure she is ready.
+- Man makes eye contact to make sure she is ready while her right hand holds his right middle finger, which is pointed downward.
 - His left foot side steps to his left and his right foot taps behind his left foot while he strongly pushes his connected right fingers counterclockwise around her head so that the woman spins twice, using his shoulders to power her spin.
 - Man left steps forward.
 
@@ -1342,6 +1369,19 @@ Woman double right, hip copa, shoulder inside turn, bridge inside turn [#PielCan
 - :ref:`Shoulder inside turn`
 - :ref:`Crossbody, right open break`
 - :ref:`Bridge inside turn`
+
+
+Woman double right, hip copa, man cuatro crossbody, hidden hip copa, shoulder inside turn, inside turn reachover hip check, unravel man right turn, right cross break, backhand copa, man right turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody`
+- Man starts a :ref:`Woman double right` and raises his unconnected left hand with the fingers pointed to his right to signal for her left hand.
+- :ref:`Left over right break`
+- :ref:`Hip copa`
+- :ref:`Man cuatro crossbody, hidden hip copa`
+- :ref:`Shoulder inside turn`
+- :ref:`Inside turn reachover hip check, unravel man right turn`
+- :ref:`Backhand copa`
+- :ref:`Man right turn`
 
 
 Reach around switch, man hook spin, matador, basket, inside turn, man change hands, woman right turn, man left half turn, woman blind turn [#PielCanela]_
