@@ -9,6 +9,17 @@ Patterns
 --------
 
 
+.. _Al medio:
+
+Al medio
+^^^^^^^^
+- Man and woman are in closed position, with his left shoulder toward the center of the circle.
+- His right foot taps toward his left foot.
+- His right foot returns to standing position.
+- His left foot taps toward his right foot.
+- His left foot returns to standing position.
+
+
 .. _Guapea:
 
 Guapea
@@ -86,8 +97,17 @@ Enchufla doble [#SalsaInternational]_
 - :ref:`Enchufla`
 
 
-Enchufla pati [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pa' ti, pa' mi [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Left open break`
+- :ref:`Clockwise enchufla`
+- :ref:`Clockwise enchufla, man backward six-pack`
+- :ref:`Clockwise enchufla`
+- :ref:`Dile que non`
+
+
+Enchufla patín [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Enchufla`
 - Instead of walking to the next woman, men huddle in the center.
 - Men back step to the left.
@@ -110,13 +130,26 @@ El uno
 ^^^^^^
 - :ref:`Right cross break`
 - He pulls the woman forward as he moves behind her in crossbody stance so that her back is facing him and his left hand grasps her left hand.
-- He moves to her left and he back steps with his right foot to his left.
-- He moves to right and he back steps with his left foot to his right.
-- He moves to her left and he back steps with his right foot to his left.
-- He moves to right and he back steps with his left foot to his right.
-- While lifting his connected right hand over the woman's head, he moves to her left and he back steps with his right foot to his left.
+- He bachata steps behind her to her left and makes eye contact.
+- He bachata steps behind her to her right and makes eye contact.
+- He bachata steps behind her to her left and makes eye contact.
+- He bachata steps behind her to her right and makes eye contact.
+- While lifting his connected right hand over the woman's head, he bachata steps behind her to her left.
 - He lifts his right hand over and behind her head while he lifts his left hand over and behind his head for sombrero hold.
 - :ref:`Dile que non`
+
+
+.. _El dos:
+
+El dos
+^^^^^^
+- :ref:`Left open break`
+- :ref:`Clockwise enchufla`
+- On his forward step, he transfers her right hand from his left hand to his right hand as he rotates 90 degrees counterclockwise so that his back is facing the woman.
+- His left hand holds her left hand as he taps his left foot next to his right foot.
+- He bachata steps in front of her to her left and makes eye contact.
+- While lifting his connected right hand over his head, he bachata steps in front of her to her right and rotates 90 degrees counterclockwise so that he is facing the woman.
+- :ref:`Sombrero`
 
 
 El kentucky [#SalsaInternational]_
@@ -161,12 +194,15 @@ Siete con coca cola [#SalsaInternational]_
 - :ref:`Dile que non`
 
 
-Sombrero [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Sombrero:
+
+Sombrero
+^^^^^^^^
 - :ref:`Tap stance via right arm`
 - His right hand holds her right hand and his left hand holds her left hand underneath his right hand.
 - He pulls the woman so that she turns clockwise one and a half times as he moves counterclockwise around her to end on her left.
 - He raises his connected right arm over and behind her head and his connected left arm over and behind his head.
+- :ref:`Dile que non`
 
 
 Candado, tiempo españa, taro con mano [#SalsaInternational]_

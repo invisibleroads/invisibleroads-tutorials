@@ -551,6 +551,14 @@ Clockwise enchufla, man hook spin
 - He places his right foot behind his left foot, places his connected hand on his right shoulder and spins clockwise 360 degrees.
 
 
+.. _Clockwise enchufla, man backward six-pack:
+
+Clockwise enchufla, man backward six-pack
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Clockwise enchufla`
+- Man keeps his connected left hand at his abdomen as he walks forward, around and backward while facing the same direction, as his left hand reconnects with her right hand.
+
+
 .. _Clockwise wrap enchufla:
 
 Clockwise wrap enchufla
