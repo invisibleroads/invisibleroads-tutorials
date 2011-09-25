@@ -108,3 +108,9 @@ no no no
 | not yes yes yes
 | so that your loved one doesn't tell you
 | even the dog thinks you're her bitch
+
+
+being social
+------------
+| 9/25/2011
+| Half of being social is taking good care of yourself.

@@ -1404,6 +1404,15 @@ Reach around switch, man hook spin, matador, basket, inside turn, man change han
 - :ref:`Woman right turn, man left half turn, woman blind turn`
 
 
+Reach around switch, hairbrush release, push inside turn check, guided spin, hairbrush hand transition [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Reach around switch`
+- :ref:`Hairbrush release` while his left hand remains connected.
+- :ref:`Push inside turn check, guided spin`
+- :ref:`Hairbrush hand transition` from his connected left hand.
+- :ref:`Crossbody`
+
+
 Woman double right, push inside turn check, guided spin, man right turn, woman double right, man left half turn, woman blind turn, man right turn, right cross break, outside turn [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`

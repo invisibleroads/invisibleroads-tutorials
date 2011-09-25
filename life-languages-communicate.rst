@@ -198,7 +198,7 @@ Yoruba is spoken in Nigeria
 ::
 
     welcome to you = eh-kah'-boh
-    thank you = eh-shay'
+    thank you = eh-shih'
     you = eh
     fish = ah'-pah-tah
 
