@@ -421,7 +421,7 @@ Fling break
 
 Right cross break
 ^^^^^^^^^^^^^^^^^
-- His right hand is connected to her right hand.
+- His right hand is connected to her right hand, i.e. handshake hold.
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arm bent at the elbow for tension.
 
 
@@ -446,7 +446,7 @@ Left over right break
 Reach around into reverse cuatro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Left open break`
-- His connected left hand reaches behind her waist and transfers her right hand to his right hand.
+- His connected left hand reaches behind her waist and tosses her right hand to his right hand behind her back.
 - His left hand holds her left hand in reverse cuatro position.
 
 
@@ -475,7 +475,7 @@ Reach around switch
 ^^^^^^^^^^^^^^^^^^^
 - :ref:`Left open break`
 - He moves into reverse crossbody stance as his left hand pulls her forward so that she starts walking from his left to his right.
-- His connected left hand reaches behind her waist and transfers her right hand to his right hand.
+- His connected left hand reaches behind her waist and tosses her right hand to his right hand behind her back.
 - Man exits crossbody stance to face the woman.
 
 
@@ -824,6 +824,13 @@ Roundabout
 - Man left steps forward.
 
 
+.. _Roundabout, man left spin:
+
+Roundabout, man left spin
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Man starts :ref:`Roundabout`, but spins counterclockwise on his left foot as soon as he has returned the woman to her original position so that he is able to left step forward in time.
+
+
 .. _Drag turn:
 
 Drag turn
@@ -975,8 +982,16 @@ Outside turn
 Cuatro outside turn
 ^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody cuatro`
-- Man pulls lightly with both hands to signal an :ref:`Outside turn`
+- Man pulls lightly with both hands to signal an :ref:`Outside turn`.
 - While she is finishing her turn, man finishes his crossbody by moving to his left and turning to face the woman.
+
+
+.. _Right cross outside turn:
+
+Right cross outside turn
+^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Right cross break`
+- Man pulls his connected right hand and moves out of her way to signal an :ref:`Outside turn`.
 
 
 .. _Hairbrush release:
@@ -1426,6 +1441,20 @@ Woman double right, push inside turn check, guided spin, man right turn, woman d
 - :ref:`Man right turn`
 - :ref:`Right cross break`
 - :ref:`Outside turn`
+
+
+Reach around switch, man change hands, woman right turn, right cross outside turn, make a J right, fling spin left, roundabout, man left spin, woman double right [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Reach around switch`
+- :ref:`Man change hands, woman right turn`
+- :ref:`Crossbody` as he right hand signals for her right hand
+- :ref:`Right cross outside turn`
+- :ref:`Make a J right, fling spin left`
+- Man continues spinning counterclockwise.
+- :ref:`Crossbody`
+- :ref:`Left open break`
+- :ref:`Roundabout, man left spin`
+- :ref:`Woman double right`
 
 
 Shines
