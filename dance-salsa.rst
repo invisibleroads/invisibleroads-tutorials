@@ -1035,8 +1035,8 @@ Turn ventana hand transition [#SalsaRosa]_
 From the two hand open hold, the man turns clockwise while left stepping forward and lowers his connected hands while right stepping back.  While left stepping forward, he lifts his connected right hand in front of and to the left of his face so that the connected arms form a window through which the couple can make eye contact.  With his right forearm to the left of his face, he lifts his right hand up, over and behind his head.  His left hand touches the woman's left forearm so that her left hand glides into his left hand, while placing his right hand behind the woman's left shoulder for the closed position.
 
 
-Hollandesa from right hand over left hold [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Holandesa from right hand over left hold [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From right hand over left hand hold, man breaks with his left foot back.
 - Man brings his right hand in a sweeping clockwise motion over woman's head so that she turns facing outward from the man.
 - With both hands connected, man pulls woman diagonally backward to his right so she is locked in hollandesa.
@@ -1047,8 +1047,8 @@ Hollandesa from right hand over left hold [#SalsaRosa]_
 - Man left steps forward.
 
 
-Hollandesa from two hand open hold [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Holandesa from two hand open hold [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Two hand open break`
 - Man lifts his left hand up and counterclockwise over woman's head while he walks clockwise in a great circle behind the woman so that man and woman end in two hand embrace with woman facing outward.
 - With both hands connected, man pulls woman diagonally backward to his right so she is locked in hollandesa.

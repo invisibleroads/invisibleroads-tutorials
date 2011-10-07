@@ -114,3 +114,9 @@ being social
 ------------
 | 9/25/2011
 | Half of being social is taking good care of yourself.
+
+
+guardian
+--------
+| 10/1/2011
+| Take good care of yourself so that the world receives what you will give to it.
