@@ -885,8 +885,8 @@ Copa
 
 Hip copa
 ^^^^^^^^
-- :ref:`Two hand open break` or :ref:`Left over right break`
-- Man signals a `Woman right turn via left arm` but he stops her halfway through her turn with his right hand on her right hand so that her back faces him.
+- :ref:`Two hand open break` or :ref:`Left over right break` or :ref:`Right cross break`
+- Man signals a `Woman right turn via left arm` or a `Woman right turn via right arm` but he stops her halfway through her turn with his right hand on her right hip so that her back faces him.
 - Man pulls his left hand forward and pushes her right hip forward so that the woman reverse turns into basic position.
 - His connected left hand continues giving power to her spin.
 - :ref:`Hairbrush hand transition` from his connected left hand.
@@ -1455,6 +1455,33 @@ Reach around switch, man change hands, woman right turn, right cross outside tur
 - :ref:`Left open break`
 - :ref:`Roundabout, man left spin`
 - :ref:`Woman double right`
+
+
+Inside turn, barrel turn, woman right turn, crossover turn, hip copa, back push hip catch [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Inside turn`
+- With his right hand connected to her left hand, man half turns clockwise to face away from his partner and places his connected right hand on his right shoulder, with the palm facing upward and the elbow pointing forward.
+- Man pulls his connected arm forward, down and around from front to back and over her head so that the woman spins counterclockwise to end in front of him.
+- :ref:`Crossbody`
+- :ref:`Woman right turn via both arms`
+- On his left forward step, man half turns counterclockwise to face away from his partner with his connected right hand at his waist and his connected left hand extended to his left at chest level.
+- Man continues turning counterclockwise to face the woman and brings his connected left hand down to his left so that the woman steps toward him to his left, then lifts his connected left hand up and around her head to signal a woman left turn.
+- :ref:`Crossbody`
+- :ref:`Right cross break`
+- :ref:`Hip copa` but man walks forward to her right and catches the small of her back with his left hand so that she walks forward.
+- Man turns clockwise and stops her left hip so that she turns counterclockwise to face him.
+
+
+Inside turn, man right turn, toss change hands, inside turn, man right turn, woman blind turn, drop change hands, copa check [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Inside turn`
+- Man immediately executes :ref:`Man right turn` under his connected left hand.
+- Man moves into crossbody stance and tosses his connected left hand forward to his left so that the woman turns clockwise, but he immediately places his left hand in front of her at chest level to catch her left palm.
+- Man signals :ref:`Inside turn` with his connected left palm.
+- On his left forward step, man transfers her left hand to his right hand by scooping his right hand from underneath her left hand as he turns clockwise to face away from the woman.
+- On her forward step, man pushes his connected right hand behind him to signal a :ref:`Woman right turn via right arm`.
+- Man releases her right hand from his right shoulder down to his left hand.
+- Man pushes his connected left hand to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
 
 
 Shines
