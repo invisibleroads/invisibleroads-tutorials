@@ -300,6 +300,7 @@ Guatemalan slang
     abuelitas que sí = hell yeah
     qué putas = what's happening?
     qué onda = what's happening?
+    qué chulo! = how cute!
     tener pilas = have skills
     tener pilas en salsa = have skills in salsa
 
@@ -315,11 +316,22 @@ Cantonese is spoken in Hong Kong
 
 .. _romanian:
 
-Romanian is spoken in Romania
------------------------------
+Romanian
+--------
 ::
 
     thank you = moo-too-meh'-sk
+
+
+.. _polish:
+
+Polish
+------
+::
+
+    thank you = djen-koo'-yah
+    how are you = yak-sheh-mash'
+    good = dohb-zhah'
 
 
 .. _russian:
