@@ -305,6 +305,16 @@ Guatemalan slang
     tener pilas en salsa = have skills in salsa
 
 
+.. _arabic_moroccan:
+
+Moroccan Arabic
+---------------
+::
+
+    lamb = hhow'-li
+    two = zjooj
+
+
 .. _nepali:
 
 Nepali
