@@ -305,6 +305,15 @@ Guatemalan slang
     tener pilas en salsa = have skills in salsa
 
 
+.. _nepali:
+
+Nepali
+------
+::
+
+    thank you = dahn'-deh-bah
+
+
 .. _cantonese:
 
 Cantonese is spoken in Hong Kong
