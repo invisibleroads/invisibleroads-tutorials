@@ -747,6 +747,23 @@ Bridge inside turn
 - Man pulls and tosses his connected right arm over his head as he turns counterclockwise 360 degrees so that the woman performs an :ref:`Inside turn` to the other side and man and woman have switched positions.
 
 
+.. _Toss inside turn via left palm:
+
+Toss inside turn via left palm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- His left hand tosses her right hand to his left.
+- His left palm connects to her extended left hand at eye level.
+- On her forward step, his connected left palm pushes her counterclockwise to signal an :ref:`Inside turn` as he steps out of her way to his right.
+
+
+.. _Toss inside turn via right hand:
+
+Toss inside turn via right hand
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- His right hand tosses her right hand to his left.
+- His right hand pulls her extended left forearm to signal an :ref:`Inside turn` as he steps out of her way to his right.
+
+
 .. _Guapea, woman right turn:
 
 Guapea, woman right turn
@@ -859,6 +876,14 @@ Basket, counterclockwise bridge enchufla
 - :ref:`Counterclockwise bridge enchufla`
 
 
+.. _Man basket:
+
+Man basket
+^^^^^^^^^^
+- Man signals an :ref:`Inside turn` but his right hand catches her tummy as she faces away from him so that she walks backward as he circles counterclockwise to her right.
+- He goes under his connected left arm as he continues moving counterclockwise around her while still facing forward.
+
+
 .. _Molino:
 
 Molino
@@ -891,6 +916,13 @@ Hip copa
 - His connected left hand continues giving power to her spin.
 - :ref:`Hairbrush hand transition` from his connected left hand.
 - Man left steps forward.
+
+
+.. _Shoulder copa:
+
+Shoulder copa
+^^^^^^^^^^^^^
+Man signals a :ref:`Hip copa`, but his right hand checks her shoulder instead of her hip.
 
 
 Rotating copa [#SalsaRosa]_
@@ -1482,6 +1514,18 @@ Inside turn, man right turn, toss change hands, inside turn, man right turn, wom
 - On her forward step, man pushes his connected right hand behind him to signal a :ref:`Woman right turn via right arm`.
 - Man releases her right hand from his right shoulder down to his left hand.
 - Man pushes his connected left hand to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
+
+
+Man basket, shoulder copa, woman right turn, man hook spin, toss inside turn, shoulder inside turn check [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Man basket`
+- :ref:`Left open break`
+- :ref:`Shoulder copa`
+- :ref:`Crossbody`
+- :ref:`Woman right turn via left arm`, man hook spin
+- :ref:`Right cross break`.
+- :ref:`Toss inside turn via right hand`
+- :ref:`Shoulder inside turn check`
 
 
 Shines
