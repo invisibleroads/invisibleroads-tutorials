@@ -95,6 +95,15 @@ Woman right turn via both arms
 - Man left steps forward.
 
 
+.. _Man spaghetti drop change hands:
+
+Man spaghetti drop change hands
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man is in two hand open position.
+- On his left forward step, man keeps both hands connected, half turns right, places his connected right hand over his head and on his left shoulder, places his connected left hand over his head and on his right shoulder.
+- His right hand catches her hands behind his waist.
+
+
 .. _Woman right turn, man mirror spin:
 
 Woman right turn, man mirror spin
@@ -433,6 +442,14 @@ Two hand open break
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
 
 
+.. _Right over left break:
+
+Right over left break
+^^^^^^^^^^^^^^^^^^^^^
+- The connected right hands are above the connected left hands.
+- After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
+
+
 .. _Left over right break:
 
 Left over right break
@@ -441,26 +458,26 @@ Left over right break
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
 
 
-.. _Reach around into reverse cuatro:
+.. _Venetian into reverse cuatro:
 
-Reach around into reverse cuatro
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Venetian into reverse cuatro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Left open break`
-- His connected left hand reaches behind her waist and tosses her right hand to his right hand behind her back.
+- His left hand tosses her right hand behind her back and his right hand catches her right hand.
 - His left hand holds her left hand in reverse cuatro position.
 
 
-.. _Reach around into reverse cuatro, outside turn:
+.. _Venetian into reverse cuatro, outside turn:
 
-Reach around into reverse cuatro, outside turn
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Reach around into reverse cuatro`
+Venetian into reverse cuatro, outside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Venetian into reverse cuatro`
 - On man's right back step, man unravels the woman with an :ref:`Outside turn`.
 
 
-Reach around into reverse cuatro, outside turn, woman right turn, wedge crossbody, woman right turn, back to back, woman right turn [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Reach around into reverse cuatro, outside turn`
+Venetian into reverse cuatro, outside turn, woman right turn, wedge crossbody, woman right turn, back to back, woman right turn [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Venetian into reverse cuatro, outside turn`
 - Man right steps back while lifting his left hand connected to her left hand behind his head and lifting his right hand clockwise around and behind woman's head so she continues turning clockwise.
 - :ref:`Wedge crossbody`
 - From right hand over left hand hold, man signals a woman right turn.
@@ -469,21 +486,20 @@ Reach around into reverse cuatro, outside turn, woman right turn, wedge crossbod
 - Man brings his right hand behind his head so woman continues turning clockwise until man and forward face each other in basic two hand open position.
 
 
-.. _Reach around switch:
+.. _Venetian switch:
 
-Reach around switch
-^^^^^^^^^^^^^^^^^^^
+Venetian switch
+^^^^^^^^^^^^^^^
 - :ref:`Left open break`
-- He moves into reverse crossbody stance as his left hand pulls her forward so that she starts walking from his left to his right.
-- His connected left hand reaches behind her waist and tosses her right hand to his right hand behind her back.
-- Man exits crossbody stance to face the woman.
+- As he moves towards her to his left into reverse crossbody stance, his left hand tosses her right hand behind her back and his right hand catches her right hand.
+- As he exits reverse crossbody stance, his right hand pulls her right hand so that she unravels to face him.
 
 
-.. _Reach around switch, man hook spin:
+.. _Venetian switch, man hook spin:
 
-Reach around switch, man hook spin
+Venetian switch, man hook spin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Reach around switch`
+- :ref:`Venetian switch`
 - For his right backstep, he places his right foot behind his left foot and spins clockwise 360 degrees while she is finishing her turn.
 - Man left steps forward.
 
@@ -822,6 +838,13 @@ Roundabout
 - On his left forward step in closed position, man pulls woman closer to him while maintaining his frame of pulling inward with his right arm and pushing outward with his left arm.
 - His right foot steps behind him and the partners rotate clockwise 360 degrees around the partners' center.
 - Man left steps forward.
+
+
+.. _Roundabout sweep:
+
+Roundabout sweep
+^^^^^^^^^^^^^^^^
+:ref:`Roundabout` and the woman bends her left leg and sweeps her right toe clockwise on the floor in front of her as the man bends his right leg and sweeps his left toe clockwise on the floor in front of him.
 
 
 .. _Roundabout, man left spin:
@@ -1407,9 +1430,9 @@ Woman double right, hip copa, man cuatro crossbody, hidden hip copa, shoulder in
 - :ref:`Man right turn`
 
 
-Reach around switch, man hook spin, matador, basket, inside turn, man change hands, woman right turn, man left half turn, woman blind turn [#PielCanela]_
+Venetian switch, man hook spin, matador, basket, inside turn, man change hands, woman right turn, man left half turn, woman blind turn [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Reach around switch, man hook spin`
+- :ref:`Venetian switch, man hook spin`
 - :ref:`Crossbody`
 - :ref:`Matador`
 - :ref:`Crossbody`
@@ -1419,9 +1442,9 @@ Reach around switch, man hook spin, matador, basket, inside turn, man change han
 - :ref:`Woman right turn, man left half turn, woman blind turn`
 
 
-Reach around switch, hairbrush release, push inside turn check, guided spin, hairbrush hand transition [#PielCanela]_
+Venetian switch, hairbrush release, push inside turn check, guided spin, hairbrush hand transition [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Reach around switch`
+- :ref:`Venetian switch`
 - :ref:`Hairbrush release` while his left hand remains connected.
 - :ref:`Push inside turn check, guided spin`
 - :ref:`Hairbrush hand transition` from his connected left hand.
@@ -1443,14 +1466,14 @@ Woman double right, push inside turn check, guided spin, man right turn, woman d
 - :ref:`Outside turn`
 
 
-Reach around switch, man change hands, woman right turn, right cross outside turn, make a J right, fling spin left, roundabout, man left spin, woman double right [#SalsaInternational]_
+Venetian switch, man change hands, woman right turn, right cross outside turn, make a J right, fling spin left, roundabout, man left spin, woman double right [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Reach around switch`
+- :ref:`Venetian switch`
 - :ref:`Man change hands, woman right turn`
 - :ref:`Crossbody` as he right hand signals for her right hand
 - :ref:`Right cross outside turn`
 - :ref:`Make a J right, fling spin left`
-- Man continues spinning counterclockwise.
+- Man continues spinning counterclockwise while standing on his left leg.
 - :ref:`Crossbody`
 - :ref:`Left open break`
 - :ref:`Roundabout, man left spin`
@@ -1482,6 +1505,22 @@ Inside turn, man right turn, toss change hands, inside turn, man right turn, wom
 - On her forward step, man pushes his connected right hand behind him to signal a :ref:`Woman right turn via right arm`.
 - Man releases her right hand from his right shoulder down to his left hand.
 - Man pushes his connected left hand to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
+
+
+Venetian switch, right cross outside turn, make a J right, fling spin left, man spin, whip crossbody, woman right turn via both arms, man spaghetti drop change hands, woman right turn, roundabout sweep [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Left open break`
+- :ref:`Venetian switch`
+- :ref:`Right cross outside turn`
+- :ref:`Make a J right, fling spin left`
+- Man continues spinning counterclockwise while standing on his left leg.
+- :ref:`Whip crossbody`
+- :ref:`Right over left break`
+- :ref:`Woman right turn via both arms`
+- :ref:`Man spaghetti drop change hands`
+- :ref:`Woman right turn via right arm`
+- :ref:`Crossbody`
+- :ref:`Roundabout sweep`
 
 
 Shines
