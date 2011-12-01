@@ -293,16 +293,47 @@ Tz'utujil is spoken near Lake Atitlan in Guatemala
 .. _spanish_guatemala:
 
 Guatemalan slang
-^^^^^^^^^^^^^^^^
+----------------
 ::
 
-    cucarachas que sí = hell yeah
-    abuelitas que sí = hell yeah
-    qué putas = what's happening?
-    qué onda = what's happening?
-    qué chulo! = how cute!
-    tener pilas = have skills
-    tener pilas en salsa = have skills in salsa
+    hell yeah = cucarachas que sí
+    hell yeah = abuelitas que sí
+    what's happening? = qué putas
+    what's happening? = qué onda
+    how cute! = qué chulo!
+    have skills = tener pilas
+    have skills in salsa = tener pilas en salsa
+
+
+.. _arabic_moroccan:
+
+Moroccan Arabic
+---------------
+::
+
+    lamb = hhow'-li (guttural h)
+    two = zjooj
+
+
+.. _arabic:
+
+Arabic
+------
+::
+
+    thank you = shoo'-krrahn
+    lamb = hhah'-rroof (guttural h)
+    two = ith-nehn'
+    a little = shwai'-yah
+
+
+.. _nepali:
+
+Nepali
+------
+::
+
+    thank you = dahn'-deh-bah
 
 
 .. _cantonese:
@@ -312,6 +343,71 @@ Cantonese is spoken in Hong Kong
 ::
 
     thank you = dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
+
+
+.. _taiwanese:
+
+Taiwanese is spoken in Taiwan
+-----------------------------
+::
+
+    hello = ni'-huh
+    thank you = ddwoh-shyah'
+
+
+.. _mandarin:
+
+Mandarin is spoken in China and Taiwan
+--------------------------------------
+::
+
+    thank you = sheh-sheh'
+    yes = ssheh
+    yeah = dtuay
+    no = mai
+    a little = ih-dien'-dien
+    tzeh = it
+    what = sheh-moh'
+    what is this? = tzeh'-sseh-sheh-moh'?
+    it is good = hao'-tzeh
+    it is good? = hao'-tzeh-mah
+    hello (you good?) = ni'-hao
+    hi = wei
+    good = hao
+    money = shien
+    how much money? = ddwoh'-sha-shien (tone rises highly through tdoh, drops lowly through ssaow and returns to baseline for zchien)
+    where = shi
+    where's the bathroom? = shi-ssow-chen?
+    come = lah-ih'
+    don't come = mai-lah-ih'
+    me = wwo
+    we = wwo'-men
+    you = ni
+    you (plural) = ni'-men
+    he / she / it = dtah
+    they = dtah'-men
+    guava = pah-lah'
+    kiwi = chih'-guoh
+    green bean cake = lleu'-dtoh-kaow
+    rice cake = loh-poh'-kaow
+    egg = tahn'
+    egg cake = tahn'-kaow
+    egg pancake = tahn'-bping
+    crab = shi'
+    fish = uh-ah' (tone rises highly on ah)
+    fish market = uh-ah'-ggahng
+    oyster omelet = uh-ah'-tsehn
+    pig kidney soup = yao'-tzeh-tang
+
+
+.. _korean:
+
+Korean
+------
+::
+
+    wolf = nk'-ddae
+    fox = yuh'-oo
 
 
 .. _romanian:

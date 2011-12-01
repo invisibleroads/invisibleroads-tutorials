@@ -763,6 +763,23 @@ Bridge inside turn
 - Man pulls and tosses his connected right arm over his head as he turns counterclockwise 360 degrees so that the woman performs an :ref:`Inside turn` to the other side and man and woman have switched positions.
 
 
+.. _Toss inside turn via left palm:
+
+Toss inside turn via left palm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- His left hand tosses her right hand to his left.
+- His left palm connects to her extended left hand at eye level.
+- On her forward step, his connected left palm pushes her counterclockwise to signal an :ref:`Inside turn` as he steps out of her way to his right.
+
+
+.. _Toss inside turn via right hand:
+
+Toss inside turn via right hand
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- His right hand tosses her right hand to his left.
+- His right hand pulls her extended left forearm to signal an :ref:`Inside turn` as he steps out of her way to his right.
+
+
 .. _Guapea, woman right turn:
 
 Guapea, woman right turn
@@ -882,6 +899,14 @@ Basket, counterclockwise bridge enchufla
 - :ref:`Counterclockwise bridge enchufla`
 
 
+.. _Man basket:
+
+Man basket
+^^^^^^^^^^
+- Man signals an :ref:`Inside turn` but his right hand catches her tummy as she faces away from him so that she walks backward as he circles counterclockwise to her right.
+- He goes under his connected left arm as he continues moving counterclockwise around her while still facing forward.
+
+
 .. _Molino:
 
 Molino
@@ -914,6 +939,13 @@ Hip copa
 - His connected left hand continues giving power to her spin.
 - :ref:`Hairbrush hand transition` from his connected left hand.
 - Man left steps forward.
+
+
+.. _Shoulder copa:
+
+Shoulder copa
+^^^^^^^^^^^^^
+Man signals a :ref:`Hip copa`, but his right hand checks her shoulder instead of her hip.
 
 
 Rotating copa [#SalsaRosa]_
@@ -1480,6 +1512,22 @@ Venetian switch, man change hands, woman right turn, right cross outside turn, m
 - :ref:`Woman double right`
 
 
+Venetian switch, right cross outside turn, make a J right, fling spin left, man spin, whip crossbody, woman right turn via both arms, man spaghetti drop change hands, woman right turn, roundabout sweep [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Left open break`
+- :ref:`Venetian switch`
+- :ref:`Right cross outside turn`
+- :ref:`Make a J right, fling spin left`
+- Man continues spinning counterclockwise while standing on his left leg.
+- :ref:`Whip crossbody`
+- :ref:`Right over left break`
+- :ref:`Woman right turn via both arms`
+- :ref:`Man spaghetti drop change hands`
+- :ref:`Woman right turn via right arm`
+- :ref:`Crossbody`
+- :ref:`Roundabout sweep`
+
+
 Inside turn, barrel turn, woman right turn, crossover turn, hip copa, back push hip catch [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Inside turn`
@@ -1507,20 +1555,16 @@ Inside turn, man right turn, toss change hands, inside turn, man right turn, wom
 - Man pushes his connected left hand to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
 
 
-Venetian switch, right cross outside turn, make a J right, fling spin left, man spin, whip crossbody, woman right turn via both arms, man spaghetti drop change hands, woman right turn, roundabout sweep [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man basket, shoulder copa, woman right turn, man hook spin, toss inside turn, shoulder inside turn check [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Man basket`
 - :ref:`Left open break`
-- :ref:`Venetian switch`
-- :ref:`Right cross outside turn`
-- :ref:`Make a J right, fling spin left`
-- Man continues spinning counterclockwise while standing on his left leg.
-- :ref:`Whip crossbody`
-- :ref:`Right over left break`
-- :ref:`Woman right turn via both arms`
-- :ref:`Man spaghetti drop change hands`
-- :ref:`Woman right turn via right arm`
+- :ref:`Shoulder copa`
 - :ref:`Crossbody`
-- :ref:`Roundabout sweep`
+- :ref:`Woman right turn via left arm`, man hook spin
+- :ref:`Right cross break`.
+- :ref:`Toss inside turn via right hand`
+- :ref:`Shoulder inside turn check`
 
 
 Shines
