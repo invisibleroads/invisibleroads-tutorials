@@ -120,3 +120,19 @@ guardian
 --------
 | 10/1/2011
 | Take good care of yourself so that the world receives what you will give to it.
+
+
+take action
+-----------
+| 12/15/2011
+| As long as you are alive, you can take action.
+
+
+a woman needs to feel safe
+--------------------------
+| 12/19/2011
+| A passenger can sit comfortably if she trusts the ability of the driver.
+| She might overtake the steering wheel in an emergency, but does not like to do this all the time.
+| It is not enough for the driver to behave as though he knows what he is doing, for the passenger can sense whether they are headed in the right direction.
+| A person becomes a better driver through experience.
+| Experienced drivers easily gain the trust of their passengers.
