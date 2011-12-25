@@ -10,8 +10,8 @@ Make sure your partner is having fun.
 - Shift weight onto the moving foot.
 - Shift weight even when not moving, to stay in beat.
 - Keep your eyes focused on your partner.
-- Adjust your dance according to the level of your follower.
-- Beware of making your follower dizzy with too many consecutive turns and spins.
+- Adjust your dance according to the level of your partner.
+- Beware of making your partner dizzy with too many consecutive turns and spins.
 
 
 Exercises
@@ -95,15 +95,6 @@ Woman right turn via both arms
 - Man left steps forward.
 
 
-.. _Man spaghetti drop change hands:
-
-Man spaghetti drop change hands
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man is in two hand open position.
-- On his left forward step, man keeps both hands connected, half turns right, places his connected right hand over his head and on his left shoulder, places his connected left hand over his head and on his right shoulder.
-- His right hand catches her hands behind his waist.
-
-
 .. _Woman right turn, man mirror spin:
 
 Woman right turn, man mirror spin
@@ -135,15 +126,56 @@ Man change hands
 On his left forward step with his left hand connected, man turns right while transferring her connected hand from his left hand to his right hand.
 
 
-Man duck change hands [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Duck change hands [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 On his left forward step with his left hand connected, man turns right and continues turning by ducking under his connected left arm whereupon he releases her connected hand over his back from his left hand to his right hand.
 
 
-Man drop change hands [#EddieTorres]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Scoop change hands, man half right turn, woman blind turn:
+
+Scoop change hands, man half right turn, woman blind turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- On his left forward step, man transfers her left hand to his right hand by scooping his right hand from underneath her left hand as he turns clockwise to face away from the woman.
+- On her forward step, man pushes his connected right hand behind his head to signal a :ref:`Woman right turn via right arm`.
+
+
+.. _Drop change hands:
+
+Drop change hands
+^^^^^^^^^^^^^^^^^
 - After his left forward step, man half turns left so that his back faces the woman while he puts his connected left hand on his right shoulder.
-- Man drops her connected hand from his left hand behind him over his right shoulder down to his right hand.
+- Man drops her connected hand from his left hand behind him over his right shoulder down to his upward facing right hand or left hand at waist level.
+
+
+.. _Double drop change hands:
+
+Double drop change hands
+^^^^^^^^^^^^^^^^^^^^^^^^
+- Man is in two hand open position.
+- On his left forward step, man keeps both hands connected, half turns right, places his connected right hand over his head and on his left shoulder, places his connected left hand over his head and on his right shoulder.
+- His right hand catches her hands behind his waist.
+
+
+.. _T drop change hands:
+
+T drop change hands
+^^^^^^^^^^^^^^^^^^^
+As soon as the woman starts turning, the man spins clockwise until he is perpendicular to the woman so that she is on his right and he is facing the side in crossbody stance, placing her connected right hand on his right shoulder so that it slides down to his right hand that is facing upward.
+
+
+.. _Toss change hands:
+
+Toss change hands
+^^^^^^^^^^^^^^^^^
+Man moves into crossbody stance and tosses his connected left hand forward to his left so that the woman turns clockwise, but he immediately places his left hand in front of her at chest level to catch her left palm.
+
+
+.. _Toss change hands, inside turn:
+
+Toss change hands, inside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Toss change hands`
+- Man signals :ref:`Inside turn` with his connected left palm.
 
 
 .. _Man change hands, woman right turn:
@@ -172,6 +204,13 @@ Crossbody
 - Man turns his chest left 90 degrees while keeping arms in constant closed frame and his right foot returns to basic stance.
 
 
+.. _Crossbody into right cross hold:
+
+Crossbody into right cross hold
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Crossbody` while his left hand transfers her right hand to his right hand.
+
+
 .. _Hip crossbody:
 
 Hip crossbody
@@ -193,6 +232,13 @@ Whip crossbody
 - Man grasps woman's left hand with his right hand and steps into crossbody stance to move out of her way.
 - Man pulls his connected right hand to his left to guide the woman across from his right to his left.
 - Man flings his right hand to his right so that the woman spins counterclockwise as she is walking across.
+
+
+.. _Push crossbody:
+
+Push crossbody
+^^^^^^^^^^^^^^
+From closed position, his right hand moves behind her back and pushes her right shoulder as he moves out of her way so that she spins counterclockwise to the other side while the man matches her spin in the same counterclockwise direction to face her.
 
 
 .. _Wedge crossbody:
@@ -219,6 +265,23 @@ Wrap crossbody, barrel spin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Wrap crossbody` with his right hand behind her waist
 - Once they have switched places, man pulls his right arm so that the woman spins clockwise while he mirror spins counterclockwise.
+
+
+.. _Scoop crossbody:
+
+Scoop crossbody
+^^^^^^^^^^^^^^^
+- Man and woman are in two hand open hold.
+- His left foot steps forward, but he keeps his weight on his right foot to pivot turn clockwise so that he faces in the same direction as the woman.
+- He scoops his connected right hand down and to his left so that the woman performs a barrel inside turn to the other side.
+
+
+.. _Scoop crossbody, woman double right:
+
+Scoop crossbody, woman double right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man signals a :ref:`Scoop crossbody`, but he stops her while she is facing away from him with his connected right hand in front of her chest.
+- Man signals a :ref:`Woman double right`
 
 
 .. _Man cuatro crossbody, hidden hip copa:
@@ -643,6 +706,14 @@ Inside turn
 - His right hand rests behind her left shoulder blade as she completes her turn.
 
 
+.. _Inside turn, man right turn:
+
+Inside turn, man right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Inside turn`
+- Man immediately executes :ref:`Man right turn` under his connected left hand.
+
+
 .. _Inside turn reachover hip check, unravel man right turn:
 
 Inside turn reachover hip check, unravel man right turn
@@ -809,6 +880,14 @@ Woman right half turn, woman left half turn
 - Man catches woman with his right hand behind her left shoulder for closed position.
 
 
+.. _Man right half turn, scoop crossbody:
+
+Man right half turn, scoop crossbody
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From two hand open position, man half turns clockwise to face away from his partner and places his connected right hand on his right shoulder, with the palm facing upward and the elbow pointing forward.
+- Man pulls his connected arm forward, down and around from front to back and over her head so that the woman spins counterclockwise to end in front of him.
+
+
 .. _Man right half turn, woman blind turn:
 
 Man right half turn, woman blind turn
@@ -829,6 +908,14 @@ Man left half turn, woman blind turn
 - He raises his connected right hand over his head and places it on his right shoulder as he shifts his weight to his left foot in standing position, places his right foot in front of his left foot and angles his body to his right to prepare to spin counterclockwise.
 - He pushes his connected right hand back to signal a woman clockwise turn.
 - With his right hand still connected to her left hand, man spins counterclockwise to face her.
+
+
+.. _Man left half turn, scoop left turn:
+
+Man left half turn, scoop left turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- On his left forward step, man half turns counterclockwise to face away from his partner with his connected right hand at his waist and his connected left hand extended to his left at chest level.
+- Man continues turning counterclockwise to face the woman and brings his connected left hand down to his left so that the woman steps toward him to his left, then lifts his connected left hand up and around her head to signal a woman left turn.
 
 
 .. _Woman right turn, man left half turn, woman blind turn:
@@ -939,6 +1026,23 @@ Hip copa
 - His connected left hand continues giving power to her spin.
 - :ref:`Hairbrush hand transition` from his connected left hand.
 - Man left steps forward.
+
+
+.. _Hip copa check:
+
+Hip copa check
+^^^^^^^^^^^^^^
+- Man signals a :ref:`Hip copa` but walks forward to her right to catch the small of her back with his left hand so that she walks forward.
+- Man turns clockwise and stops her left hip while she is walking so that she turns counterclockwise to face him.
+
+
+.. _Blind copa check:
+
+Blind copa check
+^^^^^^^^^^^^^^^^
+- He is facing the same direction as the woman, with his back turned to her.
+- His left hand is connected to her right hand.
+- Man pushes his connected left hand while she is walking forward to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
 
 
 .. _Shoulder copa:
@@ -1512,8 +1616,8 @@ Venetian switch, man change hands, woman right turn, right cross outside turn, m
 - :ref:`Woman double right`
 
 
-Venetian switch, right cross outside turn, make a J right, fling spin left, man spin, whip crossbody, woman right turn via both arms, man spaghetti drop change hands, woman right turn, roundabout sweep [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Venetian switch, right cross outside turn, make a J right, fling spin left, man spin, whip crossbody, woman right turn via both arms, double drop change hands, woman right turn, roundabout sweep [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Left open break`
 - :ref:`Venetian switch`
 - :ref:`Right cross outside turn`
@@ -1522,37 +1626,31 @@ Venetian switch, right cross outside turn, make a J right, fling spin left, man 
 - :ref:`Whip crossbody`
 - :ref:`Right over left break`
 - :ref:`Woman right turn via both arms`
-- :ref:`Man spaghetti drop change hands`
+- :ref:`Double drop change hands`
 - :ref:`Woman right turn via right arm`
 - :ref:`Crossbody`
 - :ref:`Roundabout sweep`
 
 
-Inside turn, barrel turn, woman right turn, crossover turn, hip copa, back push hip catch [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Inside turn, man right half turn, scoop crossbody, woman right turn, man left half turn, scoop left turn, hip copa check [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Inside turn`
-- With his right hand connected to her left hand, man half turns clockwise to face away from his partner and places his connected right hand on his right shoulder, with the palm facing upward and the elbow pointing forward.
-- Man pulls his connected arm forward, down and around from front to back and over her head so that the woman spins counterclockwise to end in front of him.
+- :ref:`Man right half turn, scoop crossbody`
 - :ref:`Crossbody`
 - :ref:`Woman right turn via both arms`
-- On his left forward step, man half turns counterclockwise to face away from his partner with his connected right hand at his waist and his connected left hand extended to his left at chest level.
-- Man continues turning counterclockwise to face the woman and brings his connected left hand down to his left so that the woman steps toward him to his left, then lifts his connected left hand up and around her head to signal a woman left turn.
+- :ref:`Man left half turn, scoop left turn`
 - :ref:`Crossbody`
 - :ref:`Right cross break`
-- :ref:`Hip copa` but man walks forward to her right and catches the small of her back with his left hand so that she walks forward.
-- Man turns clockwise and stops her left hip so that she turns counterclockwise to face him.
+- :ref:`Hip copa check`
 
 
-Inside turn, man right turn, toss change hands, inside turn, man right turn, woman blind turn, drop change hands, copa check [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Inside turn`
-- Man immediately executes :ref:`Man right turn` under his connected left hand.
-- Man moves into crossbody stance and tosses his connected left hand forward to his left so that the woman turns clockwise, but he immediately places his left hand in front of her at chest level to catch her left palm.
-- Man signals :ref:`Inside turn` with his connected left palm.
-- On his left forward step, man transfers her left hand to his right hand by scooping his right hand from underneath her left hand as he turns clockwise to face away from the woman.
-- On her forward step, man pushes his connected right hand behind him to signal a :ref:`Woman right turn via right arm`.
-- Man releases her right hand from his right shoulder down to his left hand.
-- Man pushes his connected left hand to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
+Inside turn, man right turn, toss change hands, inside turn, scoop change hands, man half right turn, woman blind turn, drop change hands, blind copa check [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Inside turn, man right turn`
+- :ref:`Toss change hands, inside turn`
+- :ref:`Scoop change hands, man half right turn, woman blind turn`
+- :ref:`Drop change hands` to his left hand
+- :ref:`Blind copa check`
 
 
 Man basket, shoulder copa, woman right turn, man hook spin, toss inside turn, shoulder inside turn check [#SalsaInternational]_
@@ -1565,6 +1663,19 @@ Man basket, shoulder copa, woman right turn, man hook spin, toss inside turn, sh
 - :ref:`Right cross break`.
 - :ref:`Toss inside turn via right hand`
 - :ref:`Shoulder inside turn check`
+
+
+Push crossbody, barrel scoop crossboy, barrel scoop crossbody, woman double right, woman right turn, T drop change hands, woman double right [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody`
+- :ref:`Push crossbody`
+- :ref:`Crossbody`
+- :ref:`Scoop crossbody`
+- :ref:`Scoop crossbody, woman double right`
+- :ref:`Crossbody into right cross hold`
+- :ref:`Woman right turn via right arm`
+- :ref:`T drop change hands`
+- :ref:`Woman double right`
 
 
 Shines
@@ -1604,4 +1715,3 @@ Man or woman side steps to the left, side steps to the right, then cranks upper 
 .. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
 .. [#PielCanela] Thanks to Joe Burgos, Jose Negron, Jonathan Rodriguez of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
 .. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
-.. [#EddieTorres] Thanks to Eddie Torres, Maria Torres `Eddie Torres Latin Dance Studio <http://www.eddietorres.com>`_ in New York, NY, USA.
