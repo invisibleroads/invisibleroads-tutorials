@@ -122,6 +122,12 @@ guardian
 | Take good care of yourself so that the world receives what you will give to it.
 
 
+internal compass
+----------------
+| 11/17/2011
+| What will I do next?  Choose the action that will bring the most worth to the most number of people important to you.  The worth of an action is how much benefit it brings to a person, summed over all people and weighted by the importance of each person to you.
+
+
 take action
 -----------
 | 12/15/2011
