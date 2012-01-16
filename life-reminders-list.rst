@@ -142,3 +142,11 @@ a woman needs to feel safe
 | It is not enough for the driver to behave as though he knows what he is doing, for the passenger can sense whether they are headed in the right direction.
 | A person becomes a better driver through experience.
 | Experienced drivers easily gain the trust of their passengers.
+
+
+proactive
+---------
+| 1/16/2012
+| How do we move forward?
+| See what needs to be done.
+| Make it happen.

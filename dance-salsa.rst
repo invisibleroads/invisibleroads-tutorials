@@ -238,7 +238,21 @@ Whip crossbody
 
 Push crossbody
 ^^^^^^^^^^^^^^
-From closed position, his right hand moves behind her back and pushes her right shoulder as he moves out of her way so that she spins counterclockwise to the other side while the man matches her spin in the same counterclockwise direction to face her.
+From closed position, his right hand moves behind her back and pushes her right shoulder as he moves out of her way so that she spins counterclockwise to the other side.
+
+
+.. _Push crossbody, man matching spin:
+
+Push crossbody, man matching spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man signals :ref:`Push crossbody` and immediately matches her spin in the same counterclockwise direction to face her.
+
+
+.. _Push crossbody, man opposite spin:
+
+Push crossbody, man opposite spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man signals :ref:`Push crossbody` and immediately matches her spin in the same counterclockwise direction to face her.
 
 
 .. _Wedge crossbody:
@@ -849,6 +863,17 @@ Toss inside turn via right hand
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - His right hand tosses her right hand to his left.
 - His right hand pulls her extended left forearm to signal an :ref:`Inside turn` as he steps out of her way to his right.
+
+
+.. _Ventana inside turn:
+
+Ventana inside turn
+^^^^^^^^^^^^^^^^^^^
+- His right hand is connected to her right hand
+- He creates a ventana with his connected right arm so that his right palm faces up and frames her face so that his right arm is the left border and her right arm is the right border and the two are looking at each other through the frame
+- His right hand releases her right hand in a hairbrush behind her head 
+- His right hand rests on her right shoulder
+- On his forward step, his right hand pushes and pulls her shoulder to signal an :ref:`Inside turn` as he steps to his left to get out of her way
 
 
 .. _Guapea, woman right turn:
@@ -1665,10 +1690,10 @@ Man basket, shoulder copa, woman right turn, man hook spin, toss inside turn, sh
 - :ref:`Shoulder inside turn check`
 
 
-Push crossbody, barrel scoop crossboy, barrel scoop crossbody, woman double right, woman right turn, T drop change hands, woman double right [#SalsaInternational]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Push crossbody, man matching spin, barrel scoop crossboy, barrel scoop crossbody, woman double right, woman right turn, T drop change hands, woman double right [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`
-- :ref:`Push crossbody`
+- :ref:`Push crossbody, man matching spin`
 - :ref:`Crossbody`
 - :ref:`Scoop crossbody`
 - :ref:`Scoop crossbody, woman double right`
@@ -1676,6 +1701,17 @@ Push crossbody, barrel scoop crossboy, barrel scoop crossbody, woman double righ
 - :ref:`Woman right turn via right arm`
 - :ref:`T drop change hands`
 - :ref:`Woman double right`
+
+
+Inside turn, woman right turn, ventana inside turn, push crossbody, man opposite spin, hip copa [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man signals :ref:`Inside turn` and switches to right cross basic so that his right hand holds her right hand in basic step
+- :ref:`Woman right turn via right arm`
+- :ref:`Ventana inside turn`
+- :ref:`Push crossbody, man opposite spin`
+- His right hand hovers in front of her face to signal for her right hand
+- :ref:`Right cross break`
+- :ref:`Hip copa`
 
 
 Shines
