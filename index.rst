@@ -13,6 +13,7 @@ Live
     life-goals-reach
     life-enrich
     life-exercise
+    life-workshops-run
     life-resources-diversify
     life-languages-communicate
 
