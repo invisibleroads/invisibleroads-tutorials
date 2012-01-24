@@ -155,4 +155,4 @@ proactive
 active optimism
 ---------------
 | 1/23/2012
-| If love is about negotiating a way to fulfill both people's needs, then maybe friendship is about sharing experiences and showing interest in the lives of others.  It is natural to lose connection with people, no matter how close was the bond.  Replenishing and cultivating your garden of friends is a lifelong activity.  Remind yourself that it is worth the effort and that it is never too late as long as you are alive.  Think good thoughts about others.
+| If love is about negotiating a way to fulfill both people's needs, then maybe friendship is about sharing experiences and showing interest in the lives of others.  It is natural to lose connection with people, no matter how close was the bond.  Replenishing and cultivating your garden of friends are lifelong activities.  Remind yourself that it is worth the effort and that it is never too late as long as you are alive.  Think good thoughts about others.  Work with what you have, even if it is imperfect.  Moving forward does not mean you have to start over.
