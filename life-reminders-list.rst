@@ -150,3 +150,9 @@ proactive
 | How do we move forward?
 | See what needs to be done.
 | Make it happen.
+
+
+active optimism
+---------------
+| 1/23/2012
+| If love is about negotiating a way to fulfill both people's needs, then maybe friendship is about sharing experiences and showing interest in the lives of others.  It is natural to lose connection with people, no matter how close was the bond.  Replenishing and cultivating your garden of friends is a lifelong activity.  Remind yourself that it is worth the effort and that it is never too late as long as you are alive.  Think good thoughts about others.
