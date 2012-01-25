@@ -13,6 +13,11 @@ Mark
 Mark selected tasks as crucial to your mission.  Finish crucial tasks first.
 
 
+Talk
+----
+Find or create a `coworking space <http://en.wikipedia.org/wiki/Coworking>`_ where you can talk and work next to like-minded individuals.
+
+
 Walk
 ----
 Write one task and do it.  By choosing your action one at a time, you can decide what to do next using the most current information.
