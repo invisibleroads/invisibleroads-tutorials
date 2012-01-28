@@ -1,6 +1,6 @@
 Tutorials
 =========
-- For updates, please see http://twitter.com/crosscompute
+- For updates, please see http://twitter.com/invisibleroads
 - For projects, please see http://github.com/invisibleroads
 
 
