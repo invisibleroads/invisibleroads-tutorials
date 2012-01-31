@@ -362,6 +362,7 @@ Mandarin is spoken in China and Taiwan
 ::
 
     thank you = sheh-sheh'
+    you're welcome = boo'-kuh-shi
     yes = ssheh
     yeah = dtuay
     no = mai
@@ -438,6 +439,10 @@ Russian
 
     thank you = cpah-cee'-bah
     good = hha-rdoh'-sheh
+    one = oh-deen'
+    two = dvah
+    three = tdree
+    four = djeh-tee'-rah
 
 
 .. _finnish:
