@@ -144,14 +144,6 @@ a woman needs to feel safe
 | Experienced drivers easily gain the trust of their passengers.
 
 
-proactive
----------
-| 1/16/2012
-| How do we move forward?
-| See what needs to be done.
-| Make it happen.
-
-
 active optimism
 ---------------
 | 1/23/2012
