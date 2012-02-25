@@ -1938,7 +1938,7 @@ Side step double spin [#SalsaInternational]_
 Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
 
 
-.. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
+.. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski, Mike Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
 .. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
 .. [#PielCanela] Thanks to Joe Burgos, Jose Negron, Jonathan Rodriguez of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
 .. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
