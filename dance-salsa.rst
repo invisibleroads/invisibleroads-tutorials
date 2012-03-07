@@ -144,6 +144,13 @@ Man right turn
 On his left forward step, man turns under his connected arm while stepping forward with his left foot.  After he finishes turning, he steps back with his right foot.
 
 
+.. _Man right turn, whip crossbody:
+
+Man right turn, whip crossbody
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+From two hand open position, man turns clockwise under his connected right arm, then signals a :ref:`Whip crossbody`.
+
+
 .. _Man right turn, woman right turn, man mirror spin:
 
 Man right turn, woman right turn, man mirror spin
@@ -178,6 +185,16 @@ Drop change hands
 ^^^^^^^^^^^^^^^^^
 - After his left forward step, man half turns left so that his back faces the woman while he puts his connected left hand on his right shoulder.
 - Man drops her connected hand from his left hand behind him over his right shoulder down to his upward facing right hand or left hand at waist level.
+
+
+.. _Woman right turn, drop change hands, toss, push inside turn:
+
+Woman right turn, drop change hands, toss, push inside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman right turn via left arm`
+- :ref:`Drop change hands` as he side steps to his left while facing away from her.
+- His connected right hand tosses her left hand up so that she brings her left hand forward.
+- :ref:`Push inside turn`
 
 
 .. _Double drop change hands:
@@ -510,6 +527,29 @@ Fling catch left, woman left turn
 - :ref:`Woman left turn`
 
 
+.. _Sombrero close:
+
+Sombrero close
+^^^^^^^^^^^^^^
+From left hand over right hand hold, he raises and lowers his connected right hand behind her head and his connected left hand behind his head.
+
+
+.. _Sombrero close, head roll crossbody:
+
+Sombrero close, head roll crossbody
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Sombrero close`
+- His right arm is behind her head, touching behind her right shoulder.
+- His right hand pulls her right shoulder as he gets out of the way to signal an :ref:`Crossbody`.
+
+
+Head roll inside turn
+^^^^^^^^^^^^^^^^^^^^^
+- His right arm is behind her head and 
+
+
+
+
 Left hand over right crossbody, titanic uno [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From left hand over right hand hold, man signals crossbody and stirs left hand counterclockwise and brings hand strongly down so that woman is facing outward from man with his hands outstretched at her sides as man left steps forward
@@ -744,6 +784,16 @@ Clockwise enchufla, man backward six-pack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Clockwise enchufla`
 - Man keeps his connected left hand at his abdomen as he walks forward, around and backward while facing the same direction, as his left hand reconnects with her right hand.
+
+
+.. _Clockwise enchufla, counterclockwise enchufla, man counterclockwise turn enchufla:
+
+Clockwise enchufla, counterclockwise enchufla, man counterclockwise turn enchufla
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Right cross break`
+- His left hand signals for her left hand as he walks behind her in a :ref:`Clockwise enchufla`, then his right foot steps back while both hands are connected.
+- He walks behind her to the other side in a :ref:`Counterclockwise enchufla`, then his left foot steps back while both hands are connected.
+- Man turns counterclockwise to the other side under his connected fingertips that are touching but not grasping her hands.
 
 
 .. _Clockwise wrap enchufla:
@@ -1518,6 +1568,15 @@ Woman right turn, clockwise enchufla check, shoulder inside turn [#SalsaInternat
 - :ref:`Right open break`
 - :ref:`Clockwise enchufla check`
 - :ref:`Shoulder inside turn`
+
+
+Right cross outside turn, right cross outside turn, clockwise enchufla, counterclockwise enchufla, man counterclockwise turn enchufla, sombrero close, head roll crossbody, woman right turn, drop change hands, toss, push inside turn [#SalsaInternational]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man signals :ref:`Right cross outside turn` so that the woman turns counterclockwise one and a half times, then returns her right hand to his left hand.
+- Man signals :ref:`Right cross outside turn` so that the woman turns counterclockwise two and a half times, then returns her right hand to his left hand.
+- :ref:`Clockwise enchufla, counterclockwise enchufla, man counterclockwise turn enchufla`
+- :ref:`Sombrero close, head roll crossbody`
+- :ref:`Woman right turn, drop change hands, toss, push inside turn`
 
 
 Hip push, woman right half turn, woman left half turn [#SalsaInternational]_

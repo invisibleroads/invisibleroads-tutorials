@@ -327,6 +327,25 @@ Arabic
     a little = shwai'-yah
 
 
+.. _hindi:
+
+Hindi
+-----
+::
+    
+    thank you = shoo'-krree-ah
+    water = bpah'-nee
+
+
+.. _bengali:
+
+Bengali
+-------
+::
+
+    thank you = ddohn'-oh-bahd
+
+
 .. _nepali:
 
 Nepali
