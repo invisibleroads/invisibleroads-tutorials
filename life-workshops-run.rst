@@ -1,7 +1,16 @@
-Run a hands-on technical workshop
-=================================
+Run workshops
+=============
+
+
 Prepare
 -------
+
+
+Be consistent
+^^^^^^^^^^^^^
+To nurture a community, it is important to be consistent.  Designate a regular schedule i.e. weekly, biweekly, monthly and stick to it.  Frequent cancellations will scare off attendees.  Plan activities and speakers for the next several sessions in advance.  [#CommunityOrganizers]_
+
+
 Modularize content
 ^^^^^^^^^^^^^^^^^^
 Break content into short, self-contained modules.  It is easier to retain small chunks.  Each module is a fresh opportunity for students to learn something new, even if they did not completely understand the previous module.  [#EntrepreneurPress]_
@@ -28,6 +37,8 @@ Decide on a time and place convenient to the people who have registered.  Make s
 
 Market
 ------
+
+
 Promote with real content
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Publish the detailed content online to improve the credibility of your tutorial.  Answer questions on technical mailing lists with a signature describing your upcoming workshop at the bottom.
@@ -36,6 +47,11 @@ Publish the detailed content online to improve the credibility of your tutorial.
 Promote early
 ^^^^^^^^^^^^^
 Prepare your content and promote at least one month in advance.  [#CathaleenKayoorawongs]_  
+
+
+Go to other events
+^^^^^^^^^^^^^^^^^^
+Go to other group meetings and announce your event.  [#CommunityOrganizers]_
 
 
 Collect payment early
@@ -50,6 +66,8 @@ Make sure that people at the front desk know how to direct people where to go.  
 
 Teach
 -----
+
+
 Meet expectations
 ^^^^^^^^^^^^^^^^^
 Ask each student how he or she expects to apply the skills learned, preferably before the day of the workshop.  Then you can tailor content to specific applications, emphasize relevant points and strategize on how to best solve his or her problem during the workshop.  Students are more likely to leave feeling they have learned what they needed.
@@ -97,3 +115,4 @@ It is the only way you will learn how to improve.
 .. [#CathaleenKayoorawongs] Credit to Cathaleen Kaiyoorawongs.
 .. [#BrandonLevi] Credit to Brandon Levi and his Muay Thai class at `Evolution Muay Thai <http://evolutionmuaythai.com>`_.
 .. [#EntrepreneurPress] *Start Your Own Seminar Production Business*. Entrepreneur Magazine, 2008.
+.. [#CommunityOrganizers] Credit to the Community Organizers BOF at PyCon.

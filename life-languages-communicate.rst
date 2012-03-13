@@ -2,8 +2,6 @@ Communicate with people in other languages
 ==========================================
 
 
-.. _chvi-ashanti:
-
 Chvi Ashanti is spoken in Kumasi and Accra of Ghana
 ---------------------------------------------------
 ::
@@ -148,8 +146,6 @@ Chvi Ashanti is spoken in Kumasi and Accra of Ghana
     I see = meh-hoo'
 
 
-.. _chvi-efanti:
-
 Chvi Enfanti is spoken in Ghana
 -------------------------------
 ::
@@ -158,8 +154,6 @@ Chvi Enfanti is spoken in Ghana
     eight = ah-wotchi'
     nine = ah-kom'
 
-
-.. _gah:
 
 Gah is spoken in Accra of Ghana
 -------------------------------
@@ -172,8 +166,6 @@ Gah is spoken in Accra of Ghana
     how are you = toh-oh-ya-tehh'
 
 
-.. _ewe:
-
 Ewe is spoken in Southeast Ghana and Togo
 -----------------------------------------
 ::
@@ -182,16 +174,12 @@ Ewe is spoken in Southeast Ghana and Togo
     thank you = ahk-bwuey' (Togo)
 
 
-.. _moorit:
-
 Moorit is spoken in Burkina Faso
 --------------------------------
 ::
     
     thank you = au-roh-wah'
 
-
-.. _yoruba:
 
 Yoruba is spoken in Nigeria
 ---------------------------
@@ -203,16 +191,12 @@ Yoruba is spoken in Nigeria
     fish = ah'-pah-tah
 
 
-.. _hau-sah':
-
 Hau-sah' is spoken in Nigeria
 -----------------------------
 ::
 
     thank you = nah'-goh-dey
 
-
-.. _pidgin:
 
 Pidgin is spoken in West Africa
 -------------------------------
@@ -222,7 +206,151 @@ Pidgin is spoken in West Africa
     expensive = dyah
 
 
-.. _q'anjob'al:
+Aramic
+------
+::
+
+    thank you = bah'-see-mah
+    one = hah
+    two = dtreh
+    three = lah
+    four = arr'-ba-ah
+    five = hahm'-sha
+
+
+Arabic
+------
+::
+
+    thank you = shoo'-krrahn
+    lamb = hhah'-rroof (guttural h)
+    two = ith-nehn'
+    a little = shwai'-yah
+
+
+Moroccan Arabic
+---------------
+::
+
+    lamb = hhow'-li (guttural h)
+    two = zjooj
+
+
+Hebrew
+------
+::
+
+    children = yeh-lah-dim'
+    cool = si-bah'-bah
+
+
+Turkish
+-------
+::
+
+    thank you = teh-sheh-koor'
+    good = ee'-ah
+    good = goo-zeh'
+    stick = choo-book'
+
+
+Greek
+-----
+::
+
+    thank you = alf-hah-ris-toh'
+    please = pah'-rah cah-lah'-oh
+    how are you = tee-kah'-nis
+
+
+Hindi
+-----
+::
+    
+    thank you = shoo'-krree-ah
+    water = bpah'-nee
+
+
+Bengali
+-------
+::
+
+    thank you = ddohn'-oh-bahd
+
+
+Nepali
+------
+::
+
+    thank you = dahn'-deh-bah
+
+
+Mandarin is spoken in China and Taiwan
+--------------------------------------
+::
+
+    thank you = sheh-sheh'
+    you're welcome = boo'-kuh-shi
+    yes = ssheh
+    yeah = dtuay
+    no = mai
+    a little = ih-dien'-dien
+    tzeh = it
+    what = sheh-moh'
+    what is this? = tzeh'-sseh-sheh-moh'?
+    it is good = hao'-tzeh
+    it is good? = hao'-tzeh-mah
+    hello (you good?) = ni'-hao
+    hi = wei
+    good = hao
+    money = shien
+    how much money? = ddwoh'-sha-shien (ddwoh slides up, sha is low and shien is baseline)
+    where = shi
+    where's the bathroom? = shi-ssow-chen?
+    come = lah-ih'
+    don't come = mai-lah-ih'
+    me = wwo
+    we = wwo'-men
+    you = ni
+    you (plural) = ni'-men
+    he / she / it = dtah
+    they = dtah'-men
+    guava = pah-lah'
+    kiwi = chih'-guoh
+    green bean cake = lleu'-dtoh-kaow
+    rice cake = loh-poh'-kaow
+    egg = tahn'
+    egg cake = tahn'-kaow
+    egg pancake = tahn'-bping
+    crab = shi'
+    fish = uh-ah' (tone rises highly on ah)
+    fish market = uh-ah'-ggahng
+    oyster omelet = uh-ah'-tsehn
+    pig kidney soup = yao'-tzeh-tang
+
+
+Taiwanese is spoken in Taiwan
+-----------------------------
+::
+
+    hello = ni'-huh
+    thank you = ddwoh-shyah'
+
+
+Cantonese is spoken in Hong Kong
+--------------------------------
+::
+
+    thank you = dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
+
+
+Korean
+------
+::
+
+    wolf = nuhk'-ddae
+    fox = yuh'-oo
+
 
 Q'anjob'al is spoken near Huehuetenango in Guatemala
 ----------------------------------------------------
@@ -254,8 +382,6 @@ Q'anjob'al is spoken near Huehuetenango in Guatemala
     five = oh-yehp'
 
 
-.. _kaqchikel:
-
 Kaqchikel is spoken near Lake Atitlan in Guatemala
 --------------------------------------------------
 ::
@@ -265,8 +391,6 @@ Kaqchikel is spoken near Lake Atitlan in Guatemala
     bye = pah'-na
     see you tomorrow = chwah-chik'
 
-
-.. _mam:
 
 Mam is spoken near Quetzaltenango and Todos Santos in Guatemala
 ---------------------------------------------------------------
@@ -281,16 +405,12 @@ Mam is spoken near Quetzaltenango and Todos Santos in Guatemala
     rooster = gkoh
 
 
-.. _tz'utujil:
-
 Tz'utujil is spoken near Lake Atitlan in Guatemala
 --------------------------------------------------
 ::
 
     hi = oot-sah-watch'
 
-
-.. _spanish_guatemala:
 
 Guatemalan slang
 ----------------
@@ -305,132 +425,19 @@ Guatemalan slang
     have skills in salsa = tener pilas en salsa
 
 
-.. _arabic_moroccan:
-
-Moroccan Arabic
----------------
-::
-
-    lamb = hhow'-li (guttural h)
-    two = zjooj
-
-
-.. _arabic:
-
-Arabic
-------
-::
-
-    thank you = shoo'-krrahn
-    lamb = hhah'-rroof (guttural h)
-    two = ith-nehn'
-    a little = shwai'-yah
-
-
-.. _hindi:
-
-Hindi
+Dutch
 -----
 ::
-    
-    thank you = shoo'-krree-ah
-    water = bpah'-nee
+
+    thank you = dahn'-kyeh vehll
 
 
-.. _bengali:
-
-Bengali
--------
+Luxembourgish
+-------------
 ::
 
-    thank you = ddohn'-oh-bahd
+    hi = mwah'-yen
 
-
-.. _nepali:
-
-Nepali
-------
-::
-
-    thank you = dahn'-deh-bah
-
-
-.. _cantonese:
-
-Cantonese is spoken in Hong Kong
---------------------------------
-::
-
-    thank you = dtoh'-jeh (dtoh pitch dips up, jeh pitch dips down)
-
-
-.. _taiwanese:
-
-Taiwanese is spoken in Taiwan
------------------------------
-::
-
-    hello = ni'-huh
-    thank you = ddwoh-shyah'
-
-
-.. _mandarin:
-
-Mandarin is spoken in China and Taiwan
---------------------------------------
-::
-
-    thank you = sheh-sheh'
-    you're welcome = boo'-kuh-shi
-    yes = ssheh
-    yeah = dtuay
-    no = mai
-    a little = ih-dien'-dien
-    tzeh = it
-    what = sheh-moh'
-    what is this? = tzeh'-sseh-sheh-moh'?
-    it is good = hao'-tzeh
-    it is good? = hao'-tzeh-mah
-    hello (you good?) = ni'-hao
-    hi = wei
-    good = hao
-    money = shien
-    how much money? = ddwoh'-sha-shien (tone rises highly through tdoh, drops lowly through ssaow and returns to baseline for zchien)
-    where = shi
-    where's the bathroom? = shi-ssow-chen?
-    come = lah-ih'
-    don't come = mai-lah-ih'
-    me = wwo
-    we = wwo'-men
-    you = ni
-    you (plural) = ni'-men
-    he / she / it = dtah
-    they = dtah'-men
-    guava = pah-lah'
-    kiwi = chih'-guoh
-    green bean cake = lleu'-dtoh-kaow
-    rice cake = loh-poh'-kaow
-    egg = tahn'
-    egg cake = tahn'-kaow
-    egg pancake = tahn'-bping
-    crab = shi'
-    fish = uh-ah' (tone rises highly on ah)
-    fish market = uh-ah'-ggahng
-    oyster omelet = uh-ah'-tsehn
-    pig kidney soup = yao'-tzeh-tang
-
-
-.. _korean:
-
-Korean
-------
-::
-
-    wolf = nk'-ddae
-    fox = yuh'-oo
-
-
-.. _romanian:
 
 Romanian
 --------
@@ -438,8 +445,6 @@ Romanian
 
     thank you = moo-too-meh'-sk
 
-
-.. _polish:
 
 Polish
 ------
@@ -449,8 +454,6 @@ Polish
     how are you = yak-sheh-mash'
     good = dohb-zhah'
 
-
-.. _russian:
 
 Russian
 -------
@@ -464,7 +467,12 @@ Russian
     four = djeh-tee'-rah
 
 
-.. _finnish:
+Norwegian
+---------
+::
+
+    cheesy = hah'-reh
+
 
 Finnish
 -------
@@ -472,12 +480,3 @@ Finnish
 
     thank you = ki'-dos (first syllable has higher pitch than second syllable)
     bye bye = hey-hey (first syllable has higher pitch than second syllable)
-
-
-.. _dutch:
-
-Dutch
------
-::
-
-    thank you = dahn'-kyeh vehll
