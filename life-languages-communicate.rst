@@ -254,6 +254,14 @@ Turkish
     stick = choo-book'
 
 
+Farsi
+-----
+::
+
+    thank you = mer-see'
+    hi = sah-lohm'
+
+
 Greek
 -----
 ::
