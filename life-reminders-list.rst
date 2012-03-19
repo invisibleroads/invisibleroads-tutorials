@@ -154,3 +154,9 @@ make your own options
 ---------------------
 | 2/17/2012
 | If you ask a taxi driver at the airport how to get to the city, he will tell you there are no buses.
+
+
+share what I have learned
+-------------------------
+| 3/19/2012
+| Everyday I would like to learn something new and share what I have learned, in a way that other people can use.

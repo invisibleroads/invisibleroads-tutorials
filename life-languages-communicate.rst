@@ -479,7 +479,10 @@ Norwegian
 ---------
 ::
 
-    cheesy = hah'-reh
+    cheesy = hah'-reh (said very fast)
+    ball = bahl
+    hest = horse
+    pickup artist = bahl'-hest
 
 
 Finnish
