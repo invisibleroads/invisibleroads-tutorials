@@ -260,6 +260,11 @@ Farsi
 
     thank you = mer-see'
     hi = sah-lohm'
+    new = noh
+    day = rooz
+    new day = noh rooz (special festival to mark beginning of spring)
+    rainy = bah-rah'-nee
+    rainy day = rooz buh-rah'-nee
 
 
 Greek
@@ -433,11 +438,30 @@ Guatemalan slang
     have skills in salsa = tener pilas en salsa
 
 
+Spanish
+-------
+::
+
+    octopus = pulpo
+
+
+French
+------
+::
+
+    women = les meufs
+
+
 Dutch
 -----
 ::
 
     thank you = dahn'-kyeh vehll
+    how = ooh
+    much = vehll
+    is = es
+    that = dot
+    how much is that = ooh vehll es dot
 
 
 Luxembourgish
