@@ -471,6 +471,13 @@ Luxembourgish
     hi = mwah'-yen
 
 
+Georgian
+--------
+::
+
+    thank you = mahd-loh'-bah
+
+
 Romanian
 --------
 ::

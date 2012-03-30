@@ -692,8 +692,8 @@ Venetian into reverse cuatro, outside turn, woman right turn, wedge crossbody, w
 Venetian switch
 ^^^^^^^^^^^^^^^
 - :ref:`Left open break`
-- As he moves towards her to his left into reverse crossbody stance, his left hand tosses her right hand behind her back and his right hand catches her right hand.
-- As he exits reverse crossbody stance, his right hand pulls her right hand so that she unravels to face him.
+- As he moves towards her to his left into reverse crossbody stance, his left hand tosses her right hand down behind her back and his right hand catches her right hand.
+- As he exits reverse crossbody stance, his right hand pulls her right hand down so that she unravels to face him.
 
 
 .. _Venetian switch, man hook spin:
@@ -848,9 +848,10 @@ Cuatro pasos [#SalsaRosa]_
 - :ref:`Left open break`
 - Man turns clockwise while his left hand releases and regrasps her right hand near his neck over his right shoulder.
 - :ref:`Clockwise enchufla`
+- His right hand catches her left shoulder for a left back step :ref:`Side basic`, then pushes her to his left.
+- His left hand catches her right hand for a right back step :ref:`Side basic`, then pushes her to his right.
 - :ref:`Left open break`
-- :ref:`Man change hands, woman right turn`
-- Man left steps forward.
+- :ref:`Clockwise enchufla check`
 
 
 .. _Inside turn:
@@ -950,7 +951,7 @@ Shoulder inside turn
 
 Shoulder inside turn check
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man signals :ref:`Shoulder inside turn` but stops the woman in the middle of her turn while she is facing away from him with his hands on her shoulders.
+- Man signals :ref:`Shoulder inside turn` but stops the woman in the middle of her turn while she is facing away from him with either both his hands on her shoulders, or his right arm across her back with his right hand on her right shoulder.
 - Before his right back step, he rotates the woman clockwise into a free spin.
 
 
@@ -986,7 +987,7 @@ From two hand open position, man signals `Inside turn` with his left hand but ke
 
 Two hand inside turn, woman clockwise spin [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Crossbody` into two hand open position
+- :ref:`Crossbody` into two hand open position.
 - :ref:`Two hand inside turn`
 - On his right back step, he lifts both hands to spin her clockwise and brings his hands down so that she stops spinning.
 - Man tosses hands upward to escape hand tangle.
@@ -1079,7 +1080,7 @@ Man right half turn, scoop crossbody
 Man right half turn, woman blind turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - His right hand holds her right hand.
-- On his left forward step, he turns clockwise 180 degrees to end with his back facing her and raises his connected right hand over his head and on his right shoulder.
+- On his left forward step, he turns clockwise 180 degrees under his connected right hand to end with his back facing her.
 - He side steps to his right and pushes his connected right hand back to signal a woman clockwise turn while he spins counterclockwise to face her with his right hand still connected to her left hand.
 - Man left steps forward.
 
@@ -1718,23 +1719,23 @@ Half crossbody, man clockwise spin, man left half turn, woman blind turn, scoop 
 - :ref:`Man right turn`
 
 
-Woman right turn via both arms, push inside turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Woman right turn via both arms`
-- :ref:`Cut hand transition` to right hand over left hand hold.
-- :ref:`Hairbrush release` while his left hand remains connected.
-- :ref:`Push inside turn`
-
-
 Woman right turn via both arms, push inside turn check, guided spin [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Crossbody`
+- :ref:`Crossbody` into right hand over left hand hold.
 - :ref:`Woman right turn via both arms`
 - :ref:`Cut hand transition` to right hand over left hand hold.
 - :ref:`Hairbrush release` while his left hand remains connected.
 - :ref:`Push inside turn check, guided spin`
 - :ref:`Hairbrush hand transition` into closed position.
 - :ref:`Crossbody`
+
+
+Man right half turn, woman blind turn, matador, venetian switch [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Man right half turn, woman blind turn`
+- :ref:`Matador`
+- :ref:`Crossbody`
+- :ref:`Venetian switch`
 
 
 Woman right turn, man left half turn, woman blind turn, man spin change hands, basket, clockwise enchufla check, outside turn [#PielCanela]_
