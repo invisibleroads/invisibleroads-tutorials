@@ -159,4 +159,4 @@ make your own options
 share what I have learned
 -------------------------
 | 3/19/2012
-| Everyday, I would like to learn and share what I have learned, in a way that other people can use.
+| Each day, I would like to learn and share what I have learned, in a way that other people can use.
