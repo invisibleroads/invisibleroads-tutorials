@@ -543,13 +543,6 @@ Sombrero close, head roll crossbody
 - His right hand pulls her right shoulder as he gets out of the way to signal an :ref:`Crossbody`.
 
 
-Head roll inside turn
-^^^^^^^^^^^^^^^^^^^^^
-- His right arm is behind her head and 
-
-
-
-
 Left hand over right crossbody, titanic uno [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From left hand over right hand hold, man signals crossbody and stirs left hand counterclockwise and brings hand strongly down so that woman is facing outward from man with his hands outstretched at her sides as man left steps forward
