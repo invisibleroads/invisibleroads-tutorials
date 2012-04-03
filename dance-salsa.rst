@@ -111,6 +111,14 @@ Woman right turn, immediate man right spin
 As soon as the man signals a :ref:`Woman right turn via left arm` or :ref:`Woman right turn via right arm`, he spins clockwise and left steps forward.
 
 
+.. _Woman right turn via both arms, sombrero close:
+
+Woman right turn via both arms, sombrero close
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman right turn via both arms`
+- :ref:`Sombrero close`
+
+
 .. _Woman right turn via both arms, man toss left turn:
 
 Woman right turn via both arms, man toss left turn
@@ -316,18 +324,18 @@ Wedge crossbody
 - As he turns counterclockwise to face her, he raises his connected left hand so that she turns clockwise to face him.
 
 
-.. _Wrap crossbody:
+.. _Sombrero crossbody:
 
-Wrap crossbody
-^^^^^^^^^^^^^^
+Sombrero crossbody
+^^^^^^^^^^^^^^^^^^
 From a left hand to left hand hold, man moves into crossbody stance, wraps her left arm behind his neck and his right arm behind her left shoulder and completes the :ref:`Crossbody`.
 
 
-.. _Wrap crossbody, barrel spin:
+.. _Sombrero crossbody, barrel spin:
 
-Wrap crossbody, barrel spin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Wrap crossbody` with his right hand behind her waist
+Sombrero crossbody, barrel spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Sombrero crossbody` with his right hand behind her waist
 - Once they have switched places, man pulls his right arm so that the woman spins clockwise while he mirror spins counterclockwise.
 
 
@@ -531,7 +539,7 @@ Fling catch left, woman left turn
 
 Sombrero close
 ^^^^^^^^^^^^^^
-From left hand over right hand hold, he raises and lowers his connected right hand behind her head and his connected left hand behind his head.
+From left hand over right hand hold, he raises and lowers his connected right elbow behind her left shoulder and his connected left hand behind his head.
 
 
 .. _Sombrero close, head roll crossbody:
@@ -1186,25 +1194,34 @@ Molino
 - Man left steps forward.
 
 
-.. _Copa:
+.. _Wrap copa:
 
-Copa
-^^^^
+Wrap copa
+^^^^^^^^^
 - :ref:`Two hand open break`
-- Man signals a `Woman right turn via left arm` while moving into reverse crossbody stance with his right hand still connected so that woman is in a two handed embrace with her back facing the man.
+- His connected right arm pulls her forward and twists her connected arm clockwise so that she starts turning counterclockwise while his right foot steps backward in a second break back and his connected left arm wraps over her head so that she is in a two-handed embrace with her back facing the man.
 - Man pulls his left hand to his left while pushing with his right chest so the woman unravels counterclockwise.
 - Man continues her momentum by stirring his left hand for a woman counterclockwise spin.
 
+
+.. _Guided hip copa:
+
+Guided hip copa
+^^^^^^^^^^^^^^^
+- :ref:`Left over right break`
+- His connected right arm pulls her forward and twists her connected arm clockwise so that she starts turning counterclockwise while his right foot steps backward in a second break back and his connected left hand is in front of her head.
+- His right hand pushes her right hip forward so that the woman spins counterclockwise to face him.
+- His connected left arm gives power to her spin by pushing counterclockwise around her head.
+- :ref:`Hairbrush hand transition` from his connected left hand.
+  
 
 .. _Hip copa:
 
 Hip copa
 ^^^^^^^^
-- :ref:`Two hand open break` or :ref:`Left over right break` or :ref:`Right cross break`
-- Man signals a `Woman right turn via left arm` or a `Woman right turn via right arm` but he stops her halfway through her turn with his right hand on her right hip so that her back faces him.
-- Man pulls his left hand forward and pushes her right hip forward so that the woman reverse turns into basic position.
-- His connected left hand continues giving power to her spin.
-- :ref:`Hairbrush hand transition` from his connected left hand.
+- :ref:`Right cross break`
+- His connected right arm pulls her forward and twists her connected arm clockwise so that she starts turning counterclockwise while his right foot steps backward in a second break back.
+- His right hand pushes her right hip forward so that the woman spins counterclockwise to face him.
 - Man left steps forward.
 
 
@@ -1326,13 +1343,13 @@ Cuatro, back to back hand change, clockwise enchufla check [#SalsaRosa]_
 - Man left steps forward
 
 
-Cuatro, enchufla, copa [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cuatro, enchufla, wrap copa [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Cuatro`
 - :ref:`Two hand open break`
 - Man breaks with his left foot back
 - Man encircles clockwise facing the woman until he reaches the other side.
-- :ref:`Copa`
+- :ref:`Wrap copa`
 
 
 .. _Outside turn:
@@ -1433,6 +1450,7 @@ Woman double right
 - His right foot side steps to his right and his left foot taps behind his right foot while he brings his connected right hand to his right at eye level so that the woman prepares for the spin.
 - Man makes eye contact to make sure she is ready while her right hand holds his right middle finger, which is pointed downward.
 - His left foot side steps to his left and his right foot taps behind his left foot while he strongly pushes his connected right fingers counterclockwise around her head so that the woman spins twice, using his shoulders to power her spin.
+- His connected right hand continues to power her spin in a counterclockwise motion around her head.
 - Man left steps forward.
 
 
@@ -1525,7 +1543,7 @@ Cuatro outside turn, inside turn, fling catch left, woman left turn, wrap crossb
 - :ref:`Crossbody`
 - :ref:`Left open break`
 - :ref:`Fling catch left, woman left turn`
-- :ref:`Wrap crossbody`
+- :ref:`Sombrero crossbody`
 - :ref:`Guapea, woman right turn`
 
 
@@ -1617,7 +1635,7 @@ Counterclockwise bridge enchufla, counterclockwise enchufla, wrap crossbody, bar
 - :ref:`Left open break`
 - :ref:`Counterclockwise bridge enchufla`
 - :ref:`Counterclockwise enchufla`
-- :ref:`Wrap crossbody, barrel spin`
+- :ref:`Sombrero crossbody, barrel spin`
 
 
 Roundabout, inside turn, shoulder inside turn check, cuatro outside turn [#SalsaInternational]_
@@ -1762,31 +1780,30 @@ Two hand push pull, woman left turn, man change hands, whip crossbody, man right
 - :ref:`Shoulder inside turn check, man mirror spin`
 
 
-Woman right turn, hip copa [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman right turn, guided hip copa [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`
 - :ref:`Woman right turn via both arms`
-- :ref:`Left over right break`
-- :ref:`Hip copa`
+- :ref:`Guided hip copa`
 
 
-Woman double right, hip copa, shoulder inside turn, bridge inside turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman double right, guided hip copa, shoulder inside turn, bridge inside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`
 - Man starts a :ref:`Woman double right` and raises his unconnected left hand with the fingers pointed to his right to signal for her left hand.
 - :ref:`Left over right break`
-- :ref:`Hip copa`
+- :ref:`Guided hip copa`
 - :ref:`Shoulder inside turn`
 - :ref:`Crossbody, right open break`
 - :ref:`Bridge inside turn`
 
 
-Woman double right, hip copa, man cuatro crossbody, hidden hip copa, shoulder inside turn, inside turn reachover hip check, unravel man right turn, right cross break, backhand copa, man right turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Woman double right, guided hip copa, man cuatro crossbody, hidden hip copa, shoulder inside turn, inside turn reachover hip check, unravel man right turn, right cross break, backhand copa, man right turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Crossbody`
 - Man starts a :ref:`Woman double right` and raises his unconnected left hand with the fingers pointed to his right to signal for her left hand.
 - :ref:`Left over right break`
-- :ref:`Hip copa`
+- :ref:`Guided hip copa`
 - :ref:`Man cuatro crossbody, hidden hip copa`
 - :ref:`Shoulder inside turn`
 - :ref:`Inside turn reachover hip check, unravel man right turn`
