@@ -866,6 +866,17 @@ Inside turn
 - His right hand rests behind her left shoulder blade as she completes her turn.
 
 
+.. _Inside turn, man half right, man half left:
+
+Inside turn, man half right, man half left
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Inside turn`
+- He turns to face her, but immediately turns clockwise 180 degrees, lifting his connected right hand over his head so that it is close to his right hip.
+- He side-steps to his right.
+- He pushes off his right foot to turn counterclockwise 180 degrees.
+- His left foot steps forward.
+
+
 .. _Inside turn, immediate man right spin:
 
 Inside turn, immediate man right spin
@@ -965,18 +976,24 @@ Shoulder inside turn check, man mirror spin
 - Man finishes his turn before she does and places his left hand under her right elbow so that their hands reconnect when she finishes her turn.
 
 
-Shoulder inside turn catch, ping pong [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Man signals :ref:`Shoulder inside turn` but instead of turning to face her, he catches the small of her back with his left hand and pulls her forward so that she passes him on his right.
+.. _Shoulder inside turn catch, ping pong, hip turn:
+
+Shoulder inside turn catch, ping pong, hip turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Man signals :ref:`Shoulder inside turn` but instead of turning to face her, he moves into reverse crossbody stance.
+- His left hand catches and pulls the small of her back as he side steps to the right with his left foot behind his right foot so that she walks forward behind him from his left to his right.
+- His right hand catches her belly as side steps to his left with his right foot behind his left foot so that she walks backward behind him from his right to his left.
+- His left hand catches and pulls the small of her back as he side steps to the right with his left foot behind his right foot so that she walks forward behind him from his left to his right.
 - His right hand blocks her left hip so that she turns counterclockwise to face him.
-- Man moves into reverse crossbody stance.
-- Man catches the small of her back with his left hand as he side steps to his left with his right foot behind his left foot.
-- His left hand pulls her forward.
-- Man catches her belly with his right hand as side steps to his right with his left foot behind his right foot.
-- His right hand pulls her backward.
-- Man catches the small of her back with his left hand as he side steps to his left with his right foot behind his left foot.
-- His left hand pulls her forward.
-- His right hand blocks her left hip so that she turns counterclockwise to face him.
+
+
+.. _Shoulder inside turn catch, ping pong, hip turn check, man hook turn:
+
+Shoulder inside turn catch, ping pong, hip turn check, man hook turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Shoulder inside turn catch, ping pong, hip turn` but his right hand catches her right hip and his left hand catches her left shoulder before she completes her turn when she is facing away from him.
+- His right hand pulls her into a clockwise spin.
+- His right foot steps behind his left foot and pushes him into a fast clockwise spin so that he ends his spin at the same time she ends her spin.
 
 
 .. _Two hand inside turn:
@@ -1973,6 +1990,15 @@ Woman right turn, counterclockwise turn into man left wrap, swing crossbody, cou
 - :ref:`Man counterclockwise turn into man left wrap`
 - Man signals a :ref:`Swing crossbody` while both hands are still connected.
 - Man pulls his connected right hand to swing her forward but releases his left hand to signal a :ref:`Whip crossbody`.
+
+
+Shoulder inside turn catch, ping pong, hip turn check, man hook turn, basket, inside turn, man half right, man half left, inside turn, woman double right [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Shoulder inside turn catch, ping pong, hip turn check, man hook turn`
+- :ref:`Basket`
+- :ref:`Inside turn, man half right, man half left`
+- :ref:`Inside turn`
+- :ref:`Woman double right`
 
 
 Shines
