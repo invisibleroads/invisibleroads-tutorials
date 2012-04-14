@@ -697,13 +697,23 @@ Venetian switch
 - As he exits reverse crossbody stance, his right hand pulls her right hand down so that she unravels to face him.
 
 
-.. _Venetian switch, man hook spin:
+.. _Venetian switch, man hook turn:
 
-Venetian switch, man hook spin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Venetian switch, man hook turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Venetian switch`
-- For his right backstep, he places his right foot behind his left foot and spins clockwise 360 degrees while she is finishing her turn.
+- As soon as he walks to the other side, he places his right foot behind his left foot and turns clockwise 180 degrees while she is finishing her turn.
 - Man left steps forward.
+
+
+.. _Venetian switch, man hook spin, bowling ball:
+
+Venetian switch, man hook spin, bowling ball
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Venetian switch`
+- As soon as he walks to the other side, he places his right foot behind his left foot and spins clockwise 360 degrees until he faces away from her again.
+- With his right hand connected behind his waist to her right hand, he right steps forward and left steps forward in basic step.
+- He moves to his left out of her way and raises his connected right hand as she walks forward, then pulls it clockwise, down and forward as though he were throwing a bowling ball, so that she spins clockwise.
 
 
 .. _Elbow push switch:
@@ -832,11 +842,19 @@ Counterclockwise bridge enchufla
 
 Matador
 ^^^^^^^
-- :ref:`Right cross break`
+- :ref:`Left open break` but his right hand moves across left to grab her right hand
 - Man left steps forward to his left, raising his connected right arm and passing the woman on his right.
-- Man crosses his left foot in front of his right foot to prepare for a counterclockwise spin.
-- Man tosses his connected right arm diagonally forward to his right so that the woman turns clockwise.
-- Man spins counterclockwise to face the woman.
+- Man side steps to his right and pushes his raised connected right hand back to signal a woman blind clockwise turn.
+- Man crosses his left foot in front of his right foot to prepare for a clockwise spin.
+- Man spins clockwise to face the woman.
+
+
+.. _Matador, drop change hands, outside turn:
+
+Matador, drop change hands, outside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Matador` but after signalling the woman blind turn, he keeps his back turned and places her connected right hand on his right shoulder, then right steps forward and left steps forward so that her right hand falls into his right hand waiting near his waist.
+- As the woman walks forward, the man lifts and guides his connected right arm clockwise for a woman outside turn.
 
 
 Cuatro pasos [#SalsaRosa]_
@@ -1828,15 +1846,28 @@ Woman double right, guided hip copa, man cuatro crossbody, hidden hip copa, shou
 - :ref:`Man right turn`
 
 
-Venetian switch, man hook spin, matador, basket, inside turn, man change hands, woman right turn, man left half turn, woman blind turn [#PielCanela]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Venetian switch, man hook spin`
+Venetian switch, man hook turn, matador, basket, inside turn, man change hands, woman right turn, man left half turn, woman blind turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Venetian switch, man hook turn`
 - :ref:`Crossbody`
 - :ref:`Matador`
 - :ref:`Crossbody`
 - :ref:`Basket`
 - :ref:`Inside turn`
 - :ref:`Man change hands`
+- :ref:`Woman right turn, man left half turn, woman blind turn`
+
+
+Matador, drop change hands, outside turn, venetian switch, man hook spin, bowling ball, woman double right, push inside turn check, guided spin, woman right turn, man left half turn, woman blind turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Matador, drop change hands, outside turn`
+- :ref:`Crossbody`
+- :ref:`Venetian switch, man hook spin, bowling ball`
+- :ref:`Crossbody`
+- :ref:`Woman double right`
+- :ref:`Hairbrush release` while his left hand remains connected.
+- :ref:`Push inside turn check, guided spin`
+- :ref:`Sombrero close`
 - :ref:`Woman right turn, man left half turn, woman blind turn`
 
 
@@ -2036,6 +2067,6 @@ Man or woman side steps to the left, side steps to the right, then cranks upper 
 
 .. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski, Mike Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
 .. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
-.. [#PielCanela] Thanks to Joe Burgos, Jose Negron, Jonathan Rodriguez of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
+.. [#PielCanela] Thanks to Joe Burgos, Jonathan Rodriguez, Jose Negron of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
 .. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
 .. [#YouShouldBeDancing] Thanks to Frankie Martinez of `You Should Be Dancing <http://www.youshouldbedancing.net>`_ in New York, NY, USA.
