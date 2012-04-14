@@ -184,7 +184,7 @@ On his left forward step with his left hand connected, man turns right and conti
 Scoop change hands, man half right turn, woman blind turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - On his left forward step, man transfers her left hand to his right hand by scooping his right hand from underneath her left hand as he turns clockwise to face away from the woman.
-- On her forward step, man pushes his connected right hand behind his head to signal a :ref:`Woman right turn via right arm`.
+- On her forward step, man pushes his raised connected right hand back to his right (so that you don't poke her in the eye) to signal a :ref:`Woman right turn via right arm`.
 
 
 .. _Drop change hands:
@@ -1117,7 +1117,7 @@ Man right half turn, woman blind turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - His right hand holds her right hand.
 - On his left forward step, he turns clockwise 180 degrees under his connected right hand to end with his back facing her.
-- He side steps to his right and pushes his connected right hand back to signal a woman clockwise turn while he spins counterclockwise to face her with his right hand still connected to her left hand.
+- He side steps to his right and pushes his raised connected right hand back to his right (so that you don't poke her in the eye) to signal a woman clockwise turn while he spins counterclockwise to face her with his right hand still connected to her left hand.
 - Man left steps forward.
 
 
@@ -1129,7 +1129,7 @@ Man left half turn, woman blind turn
 - Man pivots on his left foot counterclockwise 180 degrees so that his back faces the woman.
 - He raises his connected right hand over his head and places it on his left shoulder as his left foot taps behind his right foot.
 - He raises his connected right hand over his head and places it on his right shoulder as he shifts his weight to his left foot in standing position, places his right foot in front of his left foot and angles his body to his right to prepare to spin counterclockwise.
-- He pushes his connected right hand back to signal a woman clockwise turn.
+- He pushes his raised connected right hand back to his right (so that you don't poke her in the eye) to signal a woman clockwise turn.
 - With his right hand still connected to her left hand, man spins counterclockwise to face her.
 
 
