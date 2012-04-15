@@ -14,6 +14,11 @@ Make sure your partner is having fun.
 - Beware of making your partner dizzy with too many consecutive turns and spins.
 
 
+.. raw:: html
+    
+    <input id=randomize type=button value='Jump to a random move every 60 seconds'>
+
+
 Exercises
 ---------
 
@@ -2070,3 +2075,19 @@ Man or woman side steps to the left, side steps to the right, then cranks upper 
 .. [#PielCanela] Thanks to Joe Burgos, Jonathan Rodriguez, Jose Negron of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
 .. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
 .. [#YouShouldBeDancing] Thanks to Frankie Martinez of `You Should Be Dancing <http://www.youshouldbedancing.net>`_ in New York, NY, USA.
+
+
+.. raw:: html
+    
+    <script>
+    var $headers = $('.headerlink');
+    var headerCount = $headers.length;
+    function jump_to_random_move() {
+        var headerIndex = Math.floor(Math.random() * headerCount);
+        window.location.hash = $headers[headerIndex].hash;
+        setTimeout(jump_to_random_move, 30 * 1000);
+    }
+    $('#randomize').click(function() {
+        jump_to_random_move();
+    });
+    </script>
