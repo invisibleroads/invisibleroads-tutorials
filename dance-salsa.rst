@@ -2085,7 +2085,7 @@ Man or woman side steps to the left, side steps to the right, then cranks upper 
     function jump_to_random_move() {
         var headerIndex = Math.floor(Math.random() * headerCount);
         window.location.hash = $headers[headerIndex].hash;
-        setTimeout(jump_to_random_move, 30 * 1000);
+        setTimeout(jump_to_random_move, 60 * 1000);
     }
     $('#randomize').click(function() {
         jump_to_random_move();
