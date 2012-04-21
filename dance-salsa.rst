@@ -143,6 +143,13 @@ Woman right turn via both arms, man left turn, woman right turn via both arms
 - :ref:`Woman right turn via both arms`
 
 
+Woman right turn via both arms, windmill change hands, woman right turn via both arms
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman right turn via both arms`
+- His raised left arm tosses her right hand to his right, down and to his left so that she rotates her arm like a windmill.
+- His right palm catches her right hand as it falls.
+
+
 .. _Woman right turn into cuatro:
 
 Woman right turn into cuatro
