@@ -10,7 +10,7 @@ If I can reach only one goal today, which one will take me closest to where I wa
 
 Rank
 ----
-Suppose I accomplish A but not B, how would I feel?  Make decisions quickly by ranking goals in advance.
+Suppose I accomplish A but not B, how would I feel?  Rank goals in advance to make decisions quickly.
 
 
 Mark
