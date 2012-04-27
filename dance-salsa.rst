@@ -672,6 +672,14 @@ Left over right break
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
 
 
+.. _Cuatro break:
+
+Cuatro break
+^^^^^^^^^^^^
+- She is in cuatro position, with her hand connected to his hand behind her waist near her hip.
+- After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arm bent at the elbow for tension.
+
+
 .. _Venetian into reverse cuatro:
 
 Venetian into reverse cuatro
@@ -1309,8 +1317,8 @@ Shoulder copa, backward walk, man clockwise pivot, man counterclockwise pivot
 
 .. _Man counterclockwise turn into man right wrap, backward walk under her arms, woman double right:
 
-Man counterclockwise turn into man right wrap, backward walk under her arm, woman double rights
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man counterclockwise turn into man right wrap, backward walk under her arm, woman double right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Two hand open break`
 - Man raises connected right hand and turns counterclockwise to be in her embrace on her right and he walks backward under her arms with both hands still connected.
 - He swings his connected hands left and clockwise up with enough momentum so that she spins clockwise twice.
@@ -1495,10 +1503,23 @@ Woman double right
 ^^^^^^^^^^^^^^^^^^
 - His right hand holds her right hand.
 - His right foot side steps to his right and his left foot taps behind his right foot while he brings his connected right hand to his right at eye level so that the woman prepares for the spin.
-- Man makes eye contact to make sure she is ready while her right hand holds his right middle finger, which is pointed downward.
+- Man makes eye contact to make sure she is ready while her right hand holds his right fingers, which are pointed downward.
 - His left foot side steps to his left and his right foot taps behind his left foot while he strongly pushes his connected right fingers counterclockwise around her head so that the woman spins twice, using his shoulders to power her spin.
 - His connected right hand continues to power her spin in a counterclockwise motion around her head.
 - Man left steps forward.
+
+
+.. _Woman double right into cuatro break:
+
+Woman double right into cuatro break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Both hands are connected in open position.
+- His right foot side steps to his right and his left foot taps behind his right foot while he brings both connected hands to his right at eye level so that the woman prepares for the spin.
+- Man makes eye contact to make sure she is ready while her right hand holds his left fingers, which are pointed downward.
+- His left foot side steps to his left and his right foot taps behind his left foot while he strongly pushes his connected left fingers counterclockwise around her head so that the woman spins twice, using his shoulders to power her spin.
+- His connected right hand crosses down to his left near her waist to signal a cuatro.
+- His connected left hand continues to power her spin in a counterclockwise motion around her head.
+- :ref:`Cuatro break`
 
 
 .. _Half crossbody, man clockwise spin:
@@ -2042,6 +2063,21 @@ Shoulder inside turn catch, ping pong, hip turn check, man hook turn, basket, in
 - :ref:`Inside turn, man half right, man half left`
 - :ref:`Inside turn`
 - :ref:`Woman double right`
+
+
+Woman double right into cuatro break, crossbody into reverse cuatro break, man half right, man half left into woman wrap, guided walk, yo-yo outside turn, push inside turn check, guided spin into man wrap, whip crossbody [#PielCanela]_
+&&&^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman double right into cuatro break`
+- :ref:`Crossbody` while he raises his connected right hand and lowers his connected left so that she enters reverse cuatro stance.
+- :ref:`Cuatro break`
+- He steps under his connected right hand with a half right turn and brings his connected right hand down in front of him so that she starts walking forward.
+- He turns left under his connected right hand and moves behind the woman while she turns counterclockwise to end in a woman wrap embrace with his connected hands at her hips.
+- He guides her through a side-step to the right, side-step to the left and side-step to the right.
+- His right shoulder pushes her forward into a :ref:`Right open break`
+- :ref:`Outside turn`
+- :ref:`Push inside turn check, guided spin` but man right turns into her connected right arm to enter a man wrap embrace.
+- His right arm moves up, behind and around her left arm to grab her left forearm.
+- :ref:`Whip crossbody`
 
 
 Shines

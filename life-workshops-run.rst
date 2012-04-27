@@ -112,7 +112,7 @@ It is the only way you will learn how to improve.
 
 .. rubric:: Footnotes
 
-.. [#CathaleenKayoorawongs] Credit to Cathaleen Kaiyoorawongs.
-.. [#BrandonLevi] Credit to Brandon Levi and his Muay Thai class at `Evolution Muay Thai <http://evolutionmuaythai.com>`_.
+.. [#CathaleenKayoorawongs] Thanks to Cathaleen Kaiyoorawongs.
+.. [#BrandonLevi] Thanks to Brandon Levi and his Muay Thai class, formerly at `FightHouse <http://www.fighthouse.com>`_ and now at `Evolution Muay Thai <http://evolutionmuaythai.com>`_.
 .. [#EntrepreneurPress] *Start Your Own Seminar Production Business*. Entrepreneur Magazine, 2008.
-.. [#CommunityOrganizers] Credit to the Community Organizers BOF at PyCon.
+.. [#CommunityOrganizers] Thanks to the Community Organizers BOF at PyCon.
