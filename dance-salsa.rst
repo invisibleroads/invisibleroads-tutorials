@@ -149,6 +149,19 @@ Woman right turn via both arms, windmill change hands, woman right turn via both
 - His raised left arm tosses her right hand to his right, down and to his left so that she rotates her arm like a windmill.
 - His right palm catches her right hand as it falls.
 
+.. _Woman right turn via both arms, catapult toss into two hand open position:
+
+Woman right turn via both arms, catapult toss into two hand open position
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man signals a :ref:`Woman right turn via both arms` and immediately guides her connected left arm so that it rests over her right bicep, pulls his connected left hand to his left, tosses his connected left hand to his right and reconnects to end in two hand open position.
+
+
+.. _Woman right turn via both arms, forearm throw down, guided hip spin:
+
+Woman right turn via both arms, forearm throw down, guided hip spin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man signals a :ref:`Woman right turn via both arms` and immediately throws her forearms down, then guides her hips into a counterclockwise spin.
+
 
 .. _Woman right turn into cuatro:
 
@@ -279,6 +292,14 @@ Crossbody
 Crossbody into right cross hold
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 :ref:`Crossbody` while his left hand transfers her right hand to his right hand.
+
+
+.. _Crossbody into reverse cuatro break:
+
+Crossbody into reverse cuatro break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody` while he raises his connected right hand and lowers his connected left so that she enters reverse cuatro hold.
+- :ref:`Cuatro break`
 
 
 .. _Hip crossbody:
@@ -422,7 +443,7 @@ Man begins crossbody but steps with his right foot in front of and past his left
 Crossbody cuatro
 ^^^^^^^^^^^^^^^^
 - From a two handed hold, man moves into crossbody stance.
-- Man guides the woman to walk in front of him from his right to his left with both hands connected so that she ends in cuatro stance with her left hand behind her connected to his right hand at her waist and her right hand raised above her head.
+- Man guides the woman to walk in front of him from his right to his left with both hands connected so that she ends in cuatro hold with her left hand behind her connected to his right hand at her waist and her right hand raised above her head.
 
 
 .. _Crossbody pivot:
@@ -678,6 +699,42 @@ Cuatro break
 ^^^^^^^^^^^^
 - She is in cuatro position, with her hand connected to his hand behind her waist near her hip.
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arm bent at the elbow for tension.
+
+
+.. _Man half right crossbody:
+
+Man half right crossbody
+^^^^^^^^^^^^^^^^^^^^^^^^
+- His right hand holds her right hand while his left hand must be free.
+- Man turns 180 degrees clockwise under his connected right hand and brings his connected right hand down in front of him so that she starts walking forward.
+
+
+.. _Man half right crossbody into woman wrap, guided clockwise spin into cuatro break:
+
+Man half right crossbody into woman wrap, guided clockwise spin into cuatro break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Man half right crossbody`
+- When she is in front of him, he pushes his connected right hand to his left so that the woman enters a wrap embrace with her right arm over her left arm.
+- His left hand connects to her right hand and he guides a clockwise spin while his right hand stays connected to her left hand to end in cuatro hold.
+- :ref:`Cuatro break`
+
+
+.. _Man half right crossbody into windmill, man left turn change hands, whip crossbody:
+
+Man half right crossbody into windmill, man left turn change hands, whip crossbody
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Man half right crossbody`
+- As she reaches the other side, man raises and lowers his connected right hand in a large forward counterclockwise circular arc while he turns counterclockwise and transfers her left hand to his left hand.
+- Man continues turning until he facing the same direction as the woman.
+- He transfers her left hand to his right hand and signals a :ref:`Whip crossbody`.
+
+
+.. _Airplane into reverse cuatro break:
+
+Airplane into reverse cuatro break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From cuatro stance with his right hand connected at her right hip to her left arm wrapped behind her back, man signals a :ref:`Crossbody` while raising his right hand and lowering his left hand to enter reverse cuatro stance.
+- :ref:`Cuatro break`
 
 
 .. _Venetian into reverse cuatro:
@@ -2066,11 +2123,10 @@ Shoulder inside turn catch, ping pong, hip turn check, man hook turn, basket, in
 
 
 Woman double right into cuatro break, crossbody into reverse cuatro break, man half right, man half left into woman wrap, guided walk, yo-yo outside turn, push inside turn check, guided spin into man wrap, whip crossbody [#PielCanela]_
-&&&^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman double right into cuatro break`
-- :ref:`Crossbody` while he raises his connected right hand and lowers his connected left so that she enters reverse cuatro stance.
-- :ref:`Cuatro break`
-- He steps under his connected right hand with a half right turn and brings his connected right hand down in front of him so that she starts walking forward.
+- :ref:`Crossbody into reverse cuatro break`
+- :ref:`Man half right crossbody`
 - He turns left under his connected right hand and moves behind the woman while she turns counterclockwise to end in a woman wrap embrace with his connected hands at her hips.
 - He guides her through a side-step to the right, side-step to the left and side-step to the right.
 - His right shoulder pushes her forward into a :ref:`Right open break`
@@ -2078,6 +2134,21 @@ Woman double right into cuatro break, crossbody into reverse cuatro break, man h
 - :ref:`Push inside turn check, guided spin` but man right turns into her connected right arm to enter a man wrap embrace.
 - His right arm moves up, behind and around her left arm to grab her left forearm.
 - :ref:`Whip crossbody`
+
+
+Crossbody into reverse cuatro break, man half right crossbody into woman wrap, guided clockwise spin into cuatro break, airplane into reverse cuatro break, man half right crossbody into windmill, man left turn change hands, whip crossbody, woman right turn via both arms, catapult toss into two hand open position, woman right turn via both arms, forearm throw down, guided hip spin, woman double right, man double left [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Crossbody into reverse cuatro break`
+- :ref:`Man half right crossbody into woman wrap, guided clockwise spin into cuatro break`
+- :ref:`Airplane into reverse cuatro break`
+- :ref:`Man half right crossbody into windmill, man left turn change hands, whip crossbody`
+- :ref:`Crossbody`
+- :ref:`Woman right turn via both arms, catapult toss into two hand open position`
+- :ref:`Woman right turn via both arms, forearm throw down, guided hip spin`
+- :ref:`Crossbody`
+- :ref:`Woman double right`
+- :ref:`Crossbody`
+- :ref:`Man double left`
 
 
 Shines
@@ -2111,6 +2182,16 @@ Woman bends her knees and moves her hips back in a slow upward circular motion.
 Side step double spin [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
+
+
+.. _Man double left:
+
+Man double left
+^^^^^^^^^^^^^^^
+- He extends his right foot and twists his waist clockwise forty-five degrees.
+- He raises his arms to chest level as if resting them on armrests.
+- He unravels his waist counterclockwise while keeping both ankles close together.
+- He spots his partner as he spins
 
 
 .. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski, Mike Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
