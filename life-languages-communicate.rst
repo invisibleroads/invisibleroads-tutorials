@@ -224,8 +224,10 @@ Arabic
 
     thank you = shoo'-krrahn
     lamb = hhah'-rroof (guttural h)
+    chicken = djahj
     two = ith-nehn'
     a little = shwai'-yah
+    I do not know = lah ah'-rif
 
 
 Moroccan Arabic
@@ -252,6 +254,13 @@ Turkish
     good = ee'-ah
     good = goo-zeh'
     stick = choo-book'
+
+
+Hungarian
+---------
+::
+
+    thank you = kuh'-suh-num
 
 
 Farsi
@@ -514,6 +523,7 @@ Norwegian
     ball = bahl
     hest = horse
     pickup artist = bahl'-hest
+    uh-oh = oof'-tah
 
 
 Finnish

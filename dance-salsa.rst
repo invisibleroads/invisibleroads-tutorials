@@ -660,26 +660,26 @@ Left over right break
 - After he right steps back and returns to standing position, instead of left stepping forward, he left steps back as the woman right steps back with his connected arms bent at the elbow for tension.
 
 
-.. _Venetian into reverse cuatro:
+.. _Reverse cuatro:
 
-Venetian into reverse cuatro
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Reverse cuatro
+^^^^^^^^^^^^^^
 - :ref:`Left open break`
 - His left hand tosses her right hand behind her back and his right hand catches her right hand.
-- His left hand holds her left hand in reverse cuatro position.
+- His left hand holds her left hand above her head and his right hand holds her right hand behind her left hip in reverse cuatro position.
 
 
-.. _Venetian into reverse cuatro, outside turn:
+.. _Reverse cuatro, outside turn:
 
-Venetian into reverse cuatro, outside turn
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Venetian into reverse cuatro`
+Reverse cuatro, outside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Reverse cuatro`
 - On man's right back step, man unravels the woman with an :ref:`Outside turn`.
 
 
-Venetian into reverse cuatro, outside turn, woman right turn, wedge crossbody, woman right turn, back to back, woman right turn [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Venetian into reverse cuatro, outside turn`
+Reverse cuatro, outside turn, woman right turn, wedge crossbody, woman right turn, back to back, woman right turn [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Reverse cuatro, outside turn`
 - Man right steps back while lifting his left hand connected to her left hand behind his head and lifting his right hand clockwise around and behind woman's head so she continues turning clockwise.
 - :ref:`Wedge crossbody`
 - From right hand over left hand hold, man signals a woman right turn.
@@ -700,7 +700,7 @@ Venetian switch
 .. _Venetian switch, man hook spin:
 
 Venetian switch, man hook spin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Venetian switch`
 - For his right backstep, he places his right foot behind his left foot and spins clockwise 360 degrees while she is finishing her turn.
 - Man left steps forward.
@@ -833,7 +833,7 @@ Counterclockwise bridge enchufla
 Matador
 ^^^^^^^
 - :ref:`Right cross break`
-- Man left steps forward to his left, raising his connected right arm and passing the woman on his right.
+- Man left steps forward to his left, raising his connected right arm from his left to his right as though he were swinging a cape and passing the woman on his right.
 - Man crosses his left foot in front of his right foot to prepare for a counterclockwise spin.
 - Man tosses his connected right arm diagonally forward to his right so that the woman turns clockwise.
 - Man spins counterclockwise to face the woman.
@@ -1259,6 +1259,13 @@ Blind copa check
 - Man pushes his connected left hand while she is walking forward to signal a :ref:`Woman right turn via left arm` as he turns clockwise to face her, but he catches her while she is facing away from him and he pushes her back counterclockwise.
 
 
+Reverse copa
+^^^^^^^^^^^^
+- He turns clockwise while his left hand is connected to her left hand and stops so that his right hip faces her.
+- He breaks back with his left hand connected behind his waist.
+- He catches her hip with his left hand behind his waist and pushes her forward for a copa.
+
+
 .. _Shoulder copa:
 
 Shoulder copa
@@ -1279,8 +1286,8 @@ Shoulder copa, backward walk, man clockwise pivot, man counterclockwise pivot
 
 .. _Man counterclockwise turn into man right wrap, backward walk under her arms, woman double right:
 
-Man counterclockwise turn into man right wrap, backward walk under her arm, woman double rights
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Man counterclockwise turn into man right wrap, backward walk under her arm, woman double right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Two hand open break`
 - Man raises connected right hand and turns counterclockwise to be in her embrace on her right and he walks backward under her arms with both hands still connected.
 - He swings his connected hands left and clockwise up with enough momentum so that she spins clockwise twice.
