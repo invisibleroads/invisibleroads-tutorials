@@ -20,3 +20,11 @@ Start in squat position with both feet flat on the ground.  Jump and land in squ
 Jumping lunge
 -------------
 Start in lunge position with one knee close to the ground.  Jump and land in lunge position again.
+
+
+Robots [#BrandonLevi]_
+----------------------
+Start in pushup position on both hands, lower yourself onto your left forearm, lower yourself on both forearms, raise yourself on your left hand, then raise yourself on your right hand to return to pushup position.  This exercise will strengthen your core.
+
+
+.. [#BrandonLevi] Thanks to Brandon Levi and his Muay Thai class, formerly at `FightHouse <http://www.fighthouse.com>`_ and now at `Evolution Muay Thai <http://evolutionmuaythai.com>`_.

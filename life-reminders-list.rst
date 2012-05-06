@@ -160,3 +160,9 @@ share what I have learned
 -------------------------
 | 3/19/2012
 | Each day, I would like to learn and share what I have learned, in a way that other people can use.
+
+
+save the future
+---------------
+| 4/26/2012
+| Only you will care as much about your children to teach them the skills you believe are necessary to thrive.
