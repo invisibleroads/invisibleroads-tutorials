@@ -1361,6 +1361,37 @@ Reverse copa
 - He catches her hip with his left hand behind his waist and pushes her forward for a copa.
 
 
+Pullback copa
+^^^^^^^^^^^^^
+- He signals a standard :ref:`Guided hip copa` but she faces away from him, his right hand pulls her right hip backward while his connected left hand pushes her backward.
+- He walks forward to his left and switches her left hand from his left hand to his right hand behind his waist.
+- On her forward step, his connected right hand pushes her counterclockwise into an :ref:`Inside turn`.
+
+
+Slingshot
+^^^^^^^^^
+- From right cross hold, he moves out of her way and his connected right hand swings her counterclockwise.
+- When she faces away from him, his left hand stops her left shoulder.
+- His left hand pushes her forward and he raises his connected right hand to guide an :ref:`Outside turn`.
+- :ref:`Hip copa`
+
+
+Double slingshot
+^^^^^^^^^^^^^^^^
+- From right cross hold, he moves out of her way and his connected right hand swings her counterclockwise with extra energy.
+- His connected right hand guides an extra counterclockwise turn.
+- When she faces away from him, his left hand stops her left shoulder.
+- His left hand pushes her forward and he raises his connected right hand to guide an :ref:`Outside turn`.
+- :ref:`Hip copa`
+
+
+Around slingshot
+^^^^^^^^^^^^^^^^
+- From right cross hold, he moves out of her way and his connected right hand swings her counterclockwise.
+- He travels counterclockwise with her so that she ends up facing in the same direction with his right arm wrapped behind her neck.
+- He walks forward with her, then his chest pushes her out into an :ref:`Outside turn`.
+
+
 .. _Shoulder copa:
 
 Shoulder copa

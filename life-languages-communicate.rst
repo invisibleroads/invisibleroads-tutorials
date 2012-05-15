@@ -228,6 +228,7 @@ Arabic
     two = ith-nehn'
     a little = shwai'-yah
     I do not know = lah ah'-rif
+    fork = shao'-gkah
 
 
 Moroccan Arabic
@@ -236,6 +237,7 @@ Moroccan Arabic
 
     lamb = hhow'-li (guttural h)
     two = zjooj
+    fork = four-chette'
 
 
 Hebrew
