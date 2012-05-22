@@ -15,6 +15,7 @@ Live
     life-exercise
     life-sports-play
     life-workshops-run
+    life-presentations-give
     life-resources-diversify
     life-languages-communicate
 
