@@ -6,4 +6,5 @@ How to prepare to give a talk, tutorial or presentation
 - Rehearse instead of worrying.
 - Practice covering the main points in one minute and five minutes.
 - Practice giving the talk without visual aids.
-- Iteratively rehearse for ten minutes, prepare for twenty minutes, rehearse for ten minutes, prepare for twenty minutes.
+- Iteratively rehearse for five minutes, prepare for ten minutes, rehearse for five minutes, prepare for ten minutes.
+- Work on another topic after two iterations.
