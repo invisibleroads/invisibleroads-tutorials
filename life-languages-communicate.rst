@@ -309,6 +309,35 @@ Nepali
     thank you = dahn'-deh-bah
 
 
+Thai
+----
+::
+
+    where is it? = yoo-tih'-nai?
+
+
+Burmese is spoken in Myanmar
+----------------------------
+::
+
+    thank you = tjeh-zoo' tih-pah'-deh
+
+
+Malay
+-----
+::
+
+    thank you = tah-ree'-mah kah'-sehy
+    welcome = sah-lah-mah dah-tahng'
+
+
+Indonesian
+----------
+::
+
+    thank you = tah-ree'-mah kah'-sehy
+
+
 Mandarin is spoken in China and Taiwan
 --------------------------------------
 ::
