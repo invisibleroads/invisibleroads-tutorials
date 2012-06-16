@@ -327,7 +327,7 @@ Malay
 -----
 ::
 
-    thank you = tah-ree'-mah kah'-sehy
+    thank you = teh-ree'-mah kah'-see
     welcome = sah-lah-mah dah-tahng'
 
 
@@ -335,7 +335,244 @@ Indonesian
 ----------
 ::
 
-    thank you = tah-ree'-mah kah'-sehy
+    thank you = teh-ree'-mah kah'-see
+    you're welcome = ssah'-mah ssah'-mah
+    where is ___? = dtih mah'-nah ___?
+    where is the bathroom? = dtih mah'-nah cah-marr' mahn-dee'?
+    what is this? = ee-nee' ah'-pah?
+    how much is the price? = brrah'-pah harr'-gah?
+
+    good morning = seh-lah'-mah pah'-gee
+    good afternoon = seh-lah'-mah ssee-ahng'
+    good night = seh-lah-mah'-mah mah-lahm'
+    how are you? = ah-pah' kah-barr'
+    fine = bah'-eek
+
+    yes = yah
+    no = tee'-dahk
+    please = dtoh'-llong
+    sorry = mah-afh'
+    
+    what will you eat? = ahn'-tah mah-hoo' mah'-kahn ah'-pah?
+    eat what? = mah'-kan ah'-pah?
+    I'm full = sah-yah' gkuh-yahng'
+    I will go to the bathroom = sah-yah' mah-hoo' kkh cah-marr' mahn-dee'
+    I will take my money = sah-yah' mah-hoo' ahm-bee'-ll wahng sah-yah'
+    I like ___ = sah'-yah soo-kah' ___
+    I apologize = sah'-yah meen-dtah' mah-afh'
+    what is your name? = see ah'-pah nah-mah' cah-moo'
+    my name is Siska = nah-mah-koo' ah'-deh-leh Siska
+    how old are you? = brrah'-pah oh-moor' ahn'-tah
+
+    why? = men-gah'-pah
+    I do not know = sah-yah' tee-dahk' tah-woo'
+
+    what = ah'-pah
+    this = ee-nee'
+    and = dteh
+    to = kkh
+
+    good = eh-nah'
+    healthy = muh-nyeh-haht'-khan
+    lots = bahn'-yahk
+    little = ss'-dee-keet
+    sick = sah-geet'
+    small = kuh-chee'-ll (tongue sticks behind front teeth)
+    cold = ding-yin'
+    hot = pah'-nahs
+    fast = jah-paht'
+    long = pahng'-jahng
+    mixed = jjahm-pboh' / gah'-doh gah'-doh
+    plain = pee-ah'-sah
+    fried = go-rehng'
+    spicy = peh'-dahs
+    sweet = mah-nees'
+    closed = dtoo-dtoo
+    open = boo-gah'
+    ready = ssee'-ahp
+    same = sah'-mah
+    used = seh-gkoohn'
+    forbidden = dee-lah-rrahng'
+    hungry = lah'-parr
+    happy = seh-nahng'
+    safe = ah'-mahn
+    south = seh-lah-tahn'
+    north = oo-tah-rrah'
+    far = jah-oh'
+    handsome (masculine) = gahnn-dtahng'
+    beautiful (feminine) = jtan-tik'
+    expensive = mah-hahl'
+    rich = cah-yah'
+    strong = pboh'-haht
+
+    I = sah-yah' / ah-koo'
+    you = cah'-moo
+    you (formal) = ahn'-tah
+    he / she = dee-ah'
+
+    eat = mah'-kahn
+    sleep = tee-durr'
+    go = perr-gee'
+    go ahead = teh-roos'
+    take = ahm-bee'-ll
+    want = ing-ing'
+    be = ah'-deh-leh
+    read = leh'-gerr
+    see = meh-lee-hadd'
+    I see = ah-koo lee-hadd'
+    make = mam-bang-oon'
+    pay = oon-dhk'
+
+    age = oh-moor'
+    name = nah-mah'
+    my name = nah-mah' sah-yah'
+    price = harr'-gah
+    money = wahng
+    smell = bah'-woo
+    rain = hoo'-jjuhn
+    rainwater = ahy'-rr hoo'-jjuhn
+    bag = dtahs
+    book = boo'-gkoo
+
+    entrance = mah-ssook'
+    exit = keh-loo-arr'
+    bus = bis
+    bus station = terr-mee-nahll' bis
+    bike cart = beh-chah'
+    train station = stah-cion crehy'-tah ah'-pee
+    car = moh-beell'
+    fast car = moh-beell' jah-paht'
+    used car = moh-beell' seh-gkoohn'
+    airplane = pah-sah-waht' terr-pahn'
+    traffic = mah'-tzer
+    road = jah'-lahn
+    country road = jah'-lahn gkahm'-poong
+    long road = jah'-lahn pahng'-jahng
+    uphill road = jah'-lahn na'-ee
+    gasoline = behn'-zeen
+    electricity = lees-tdreek'
+
+    man = lah'-kee lah'-kee
+    woman = peh-rrehm' boh-ahn'
+    child = ah-nak'
+    children = ah-nak' ah-nak'
+    many children = ah-nak' ah-nak' bahn-yak'
+    father = ah-yah' / bah'-bahk
+    mother = eh-boo'
+    wife = ee-stree'
+    older sibling = kah-kah'
+    older brother = kah-kah' lah'-kee lah'-kee
+    younger sibling = ah-tik'
+    younger sister = ah-tik' peh-rrehm' boh-ahn'
+    person = oh-rrahng'
+    foreigner = oh-rrahng' ah-sih'
+    rich person = oh-rrahng' cah-yah'
+    mister = pah
+    mister ahsahdi = pah ahsahdi
+    teacher = kkoo-rroo'
+    army = tahn-dah'-rrah
+    king = rah'-jah
+    business = boo-her-jah'
+    make money = jah'-ree wahng
+
+    school = skoh'-lah
+    elementary school = skoh'-lah deh-serr'
+    hospital = roo-mah' sah-geet'
+    house = roo-mah'
+    temple = chahn'-dih 
+    market = pah'-sahrr
+    eatery = wah-rrohng'
+    street eatery = wah-rrohng' ping-girr' jah-lahn'
+    restaurant = roo'-mah mah'-kahn
+    pharmacy / apothecary = ah-poh-tek'
+    room = cah-marr'
+    bathroom = cah-marr' mahn-dee'
+    shop = ddohk'-gkoh
+    factory = fah-breek'
+    car repair shop = kah-roh-seh-ree'
+
+    countryside = gkahm'-poong
+    dog = ahn-jeeng'
+    cat = kkoo-ching'
+    mountain = gh'-ng
+    big mountain = gh'-ng beh-sarr'
+    tree = bpoh-huhn'
+    wood = gkah-yoo'
+    smoke = ah-ssahp'
+    flowers = pboong-ah'
+    mosquitos = nyah-mook'
+    sugar cane = dtah-pboo'
+    rice patty = boh-huhn' nah-see'
+    earthquake = km'-pbah
+    city = gkoh'-tdoh
+
+    water = ahy'-rr
+    ice = ehss
+    egg = teh'-loo-rr
+    meatball = bpahk-ssoh'
+    vegetables = sah-yoo-rrah'
+    orange = jeh'-rrak
+    bitter melon = beh'-lee
+    chicken = ah-yahm'
+    fried chicken = ah-yahm' go-rehng'
+    boiled chicken = ah-yahm' sahn-tahn'
+    chicken soup = soh'-toh ah-yahm'
+    crispy treat = kkrroo-pook'
+    fried soybean crunch = tehm'-peh goh-reng'
+    rice = nah-see'
+    tofu = tah'-hoo
+    coconut = keh-lah'-pah
+    refined sugar = goo'-lah
+    cow = sah-pee' / dah-geeng'
+    fish = eegk-khan'
+    (type of fish) = leh'-leh
+    duck = beh-behk'
+    frog = goh-doh' / kah'-tah
+
+    zero = koh-sohng'
+    one = sah-dtoh'
+    two = doo'-wah
+    three = dtih-gkah'
+    four = um-paht'
+    five = lee'-mah
+    six = uh-nahm'
+    seven = dtoo-joo'
+    eight = dhlah-pahn'
+    nine = ssahm-bi-lahn'
+    ten = ssahm-boo-loo'
+    eleven = ssah buh-lehss'
+    fifteen = lee'-mah buh-lehss'
+    twenty = doo-wah' boo-loo'
+    twenty five = doo-wah' boo-loo' lee'-mah
+    one hundred = ssah rrah-toos'
+    five hundred = lee-mah' rrah-toos'
+    one thousand = sah rree-boo'
+    one thousand five hundred = sah rree-boo' lee-mah' rah-toos'
+    five thousand = lee-mah' rree-boo'
+    ten thousand = sah boo-loo' rree-boo'
+    one million = sah jjoo'-dah
+    five million = lee-mah' joo'-dah
+    twenty seven thousand = doo'-wah boo-loo' dtoo-joo' rree-boo'
+    approximately = kee'-rah kee'-rah
+    time = jjahm-jjahm
+    eight o'clock = jjahm dhlah-pahn'
+    eight hours = dhlah-pahn' jjahm
+    yesterday = kah-mah'-reen
+    today = ss-kah-rrahng'
+    tomorrow = beh'-ssoh
+    ten hours left = seh boo-loo' jjam lah'-kee
+    day = ssee-ahng'
+    month = booh-lahn'
+    year = tah-hoon'
+    not yet = bah-loon'
+    two times three = doo'-wah kah-rree' dtih-gkah'
+
+    (name of a volcano) = mahrr-ah'-pee
+    (name of a mountain) = mahrr-bah'-boo
+    (name of a city) = sah-lah-tee'-gh
+    (name of a city) = mah-glahn'
+    (name of a film) = laskar pelangi
+    (name of islands) = karimunjawa
 
 
 Mandarin is spoken in China and Taiwan
