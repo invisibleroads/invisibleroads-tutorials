@@ -642,6 +642,27 @@ Korean
     fox = yuh'-oo
 
 
+Japanese
+--------
+::
+
+    thank you = ah-rree-gah'-toh
+    where is ___? = doh'-goh ___?
+    where is the bathroom? = doh'-goh deh-skah'?
+    zero = zero
+    one = ee'-jee
+    two = nee'
+    three = ssahn
+    four = yong
+    five = goh
+    six = loh-kh'
+    seven = nah'-nah
+    eight = hah'-zjih
+    nine = queue
+    one thousand = ssehn
+    three thousand = ssahn ssehn
+
+
 Q'anjob'al is spoken near Huehuetenango in Guatemala
 ----------------------------------------------------
 ::
