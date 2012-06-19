@@ -307,6 +307,10 @@ Nepali
 ::
 
     thank you = dahn'-deh-bah
+    what is this? = yoh-keh'-ho?
+    what is that? = tyoh-keh'-ho?
+    what is your name? = dtah pah'-ee-koh nahm key'-ho?
+    my name is ___ = mee'-roo nahm ___ ho
 
 
 Thai
@@ -412,6 +416,7 @@ Indonesian
 
     eat = mah'-kahn
     sleep = tee-durr'
+    walk = jah'-lahn jah'-lahn
     go = perr-gee'
     go ahead = teh-roos'
     take = ahm-bee'-ll
@@ -647,8 +652,15 @@ Japanese
 ::
 
     thank you = ah-rree-gah'-toh
-    where is ___? = doh'-goh ___?
-    where is the bathroom? = doh'-goh deh-skah'?
+    yes = hai
+    no = ee'-yeh
+    good = oy'-shee
+
+    where is ___? = ___ doh'-goh deh-skah'?
+    how much? = ee-gkoo-rrah' deh-skah'?
+    when? = ee'-tsh deh-skah'?
+    what is it? = ssoh-rreh' wah nah'-ni deh-skah'?
+
     zero = zero
     one = ee'-jee
     two = nee'
@@ -659,8 +671,31 @@ Japanese
     seven = nah'-nah
     eight = hah'-zjih
     nine = queue
+    ten = zjoo
+    fifty = goh'-zjoo
+    eighty = hah-zjih'-zjoo
+    one hundred = hyah-kh'
+    six hundred = loh-pyah'-kh
+    eight hundred = hah-pyah'-kh
     one thousand = ssehn
     three thousand = ssahn ssehn
+
+    what = nah'-ni
+    it = soh-reh'
+
+    child = goh-doh-moh'
+    children = goh-doh-moh' dtah'-chee
+    person = hee-tdoh'-ree
+    train = dayn'-shah
+
+    beer = choo nah'-mah
+    chicken = tdoh-ree'
+    beef = gyoo
+    rice = meh'-shi
+    egg = tah'-mah-goh
+    cold water = mee-zh'
+
+    eat = tah-beh'-roo
 
 
 Q'anjob'al is spoken near Huehuetenango in Guatemala
@@ -820,4 +855,4 @@ Finnish
 ::
 
     thank you = ki'-dos (first syllable has higher pitch than second syllable)
-    bye bye = hey-hey (first syllable has higher pitch than second syllable)
+    bye bye = hey'-hey (first syllable has higher pitch than second syllable)
