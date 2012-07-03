@@ -655,6 +655,7 @@ Japanese
     yes = hai
     no = ee'-yeh
     good = oy'-shee
+    finished = oh-kai'-kehy
 
     where is ___? = ___ doh'-goh deh-skah'?
     how much? = ee-gkoo-rrah' deh-skah'?
@@ -694,6 +695,8 @@ Japanese
     rice = meh'-shi
     egg = tah'-mah-goh
     cold water = mee-zh'
+    (type of fish) = ah'-jee
+    (type of fish) = sah'-bah
 
     eat = tah-beh'-roo
 
@@ -797,6 +800,13 @@ Dutch
     how much is that = ooh vehll es dot
 
 
+German
+------
+::
+
+    what is this? = shah'-oo mod?
+
+
 Luxembourgish
 -------------
 ::
@@ -843,7 +853,10 @@ Norwegian
 ---------
 ::
 
-    cheesy = hah'-reh (said very fast)
+    cheesy = hah'-rreh (said very fast)
+    what is that? = vah ah'-rreh?
+    where is the bathroom? = vohrr ah'-rreh doo-wahn'?
+    water = vahnn
     ball = bahl
     hest = horse
     pickup artist = bahl'-hest

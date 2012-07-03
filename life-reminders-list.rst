@@ -166,3 +166,9 @@ save the future
 ---------------
 | 4/26/2012
 | Only you will care as much about your children to teach them the skills you believe are necessary to thrive.
+
+
+guard your time
+---------------
+| 7/27/2012
+| You are the guardian of your own time.  Choose how you spend it.  Don't let others control your time.  Don't trust others to spend your time in a way that is meaningful to you.
