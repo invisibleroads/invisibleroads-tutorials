@@ -180,3 +180,11 @@ dominance
 | How does a person, group or country submit to the will of another?
 | Do the friendly lose?
 | Do the aggressive win?
+
+
+iterate
+-------
+| 7/8/2012
+| Start with something simple but complete
+| Improve it
+| Repeat
