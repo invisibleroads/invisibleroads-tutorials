@@ -170,5 +170,21 @@ save the future
 
 guard your time
 ---------------
-| 7/27/2012
+| 6/27/2012
 | You are the guardian of your own time.  Choose how you spend it.  Don't let others control your time.  Don't trust others to spend your time in a way that is meaningful to you.
+
+
+dominance
+---------
+| 7/6/2012
+| How does a person, group or country submit to the will of another?
+| Do the friendly lose?
+| Do the aggressive win?
+
+
+iterate
+-------
+| 7/8/2012
+| Start with something simple but complete
+| Improve it
+| Repeat
