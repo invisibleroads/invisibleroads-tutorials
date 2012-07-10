@@ -804,7 +804,8 @@ German
 ------
 ::
 
-    what is this? = shah'-oo mod?
+    what is this? = shah'-oo mahl?
+    what is this? = shah'-oo mod? (dialect)
 
 
 Luxembourgish
@@ -826,6 +827,7 @@ Romanian
 ::
 
     thank you = moo-too-meh'-sk
+    good day = boo'-nah zee'-wah
 
 
 Polish
