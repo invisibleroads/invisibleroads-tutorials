@@ -804,8 +804,8 @@ German
 ------
 ::
 
-    what is this? = shah'-oo mahl?
-    what is this? = shah'-oo mod? (dialect)
+    what is this? = shao'-mahl?
+    what is this? = shao'-mod? (dialect)
 
 
 Luxembourgish
@@ -822,8 +822,15 @@ Georgian
     thank you = mahd-loh'-bah
 
 
-Romanian
+Croatian
 --------
+::
+
+    thank you = hwah'-lah
+
+
+Romanian is spoken in Romania and Moldova
+-----------------------------------------
 ::
 
     thank you = moo-too-meh'-sk
