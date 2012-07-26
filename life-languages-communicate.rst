@@ -223,6 +223,7 @@ Arabic
 ::
 
     thank you = shoo'-krrahn
+    grateful = rrahk'-mahd
     lamb = hhah'-rroof (guttural h)
     chicken = djahj
     two = ith-nehn'
@@ -856,6 +857,7 @@ Russian
     two = dvah
     three = tdree
     four = djeh-tee'-rah
+    five = pbeht
 
 
 Norwegian
