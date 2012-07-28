@@ -188,3 +188,9 @@ iterate
 | Start with something simple but complete
 | Improve it
 | Repeat
+
+
+beware loyalty
+--------------
+| 7/28/2012
+| Beware loyalty to a person rather than a cause.
