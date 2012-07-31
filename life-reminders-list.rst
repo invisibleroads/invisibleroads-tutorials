@@ -194,3 +194,10 @@ beware loyalty
 --------------
 | 7/28/2012
 | Beware loyalty to a person rather than a cause.
+
+
+apart
+-----
+| 7/31/2012
+| Every moment that we spend apart
+| is a moment that we did not spend together.
