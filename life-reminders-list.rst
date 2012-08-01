@@ -194,6 +194,7 @@ beware loyalty
 --------------
 | 7/28/2012
 | Beware loyalty to a person rather than a cause.
+| Being too loyal makes it easy for others to take advantage of you.
 
 
 apart
