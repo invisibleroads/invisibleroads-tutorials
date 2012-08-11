@@ -197,8 +197,14 @@ beware loyalty
 | Being too loyal makes it easy for others to take advantage of you.
 
 
-apart
------
-| 7/31/2012
-| Every moment that we spend apart
-| is a moment that we did not spend together.
+how to choose a path
+--------------------
+| 8/1/2012
+| Before embarking on a long and arduous project, it is practical to imagine exactly what story you want to be able to tell upon its successful completion.
+
+
+productive rhythm
+-----------------
+| 8/11/2012
+| Working is like sex.
+| To be productive, you have to find the right rhythm.
