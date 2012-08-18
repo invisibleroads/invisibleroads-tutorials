@@ -203,7 +203,7 @@ how to choose a path
 | Before embarking on a long and arduous project, it is practical to imagine exactly what story you want to be able to tell upon its successful completion.
 
 
-working is like sex
--------------------
-| 8/11/2012
-| Find the right rhythm to be productive.
+be supportive
+-------------
+| 8/17/2012
+| Being less critical of myself made me feel better.
