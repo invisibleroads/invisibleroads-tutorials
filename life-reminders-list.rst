@@ -207,3 +207,15 @@ be supportive
 -------------
 | 8/17/2012
 | Being less critical of myself made me feel better.
+
+
+desires and limits
+------------------
+| 8/24/2012
+| Communicate clearly our desires and limits so that we don't regret actions that we take or do not take.
+
+
+work socially
+-------------
+| 8/25/2012
+| It is important to work with and in the company of other people.
