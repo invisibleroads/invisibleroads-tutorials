@@ -247,6 +247,10 @@ Hebrew
 
     children = yeh-lah-dim'
     cool = si-bah'-bah
+    year = shah'-nah
+    good = toe-vah'
+    happy new year = shah'-nah toe-vah'
+    good children = yeh-lah-dim' toe-vah'
 
 
 Turkish
