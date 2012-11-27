@@ -37,3 +37,7 @@ Write one task and do it.  By choosing my action one at a time, I can decide wha
 Sprint
 ^^^^^^
 Start a timer with an alarm for ten minutes, then work against the clock.  It really works!
+
+Finish
+^^^^^^
+Estimate how long a task will take, then record how long it actually took.  Your ability to estimate completion time will improve dramatically.
