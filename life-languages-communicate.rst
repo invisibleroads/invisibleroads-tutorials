@@ -783,7 +783,32 @@ Spanish
 -------
 ::
 
+    what (respectfully) = mande
+
+    cool = chido
+    gluttonous = cuzco
+    mature = madurito
+    stupid = wei
+
+    to cry = chazar
+    to chat = platicar
+    to store = almacenar
+    to improve = superar
+
+    asshole = cabrón
+    badass = chingón
+    idiot = pendejo
+    ass-kisser = mamón
+    peasant = paisano
+    entrepreneur = emprendedor
+    feeling = sentido
     octopus = pulpo
+    small goal = golecito
+    super goal = golazo
+    warehouse = bodega
+
+    if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
+    leave the water alone if you can't drink it = agua que no has de beber déjala correr
 
 
 French
