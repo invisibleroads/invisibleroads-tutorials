@@ -1325,6 +1325,14 @@ Guided hip copa
 - His right hand pushes her right hip forward so that the woman spins counterclockwise to face him.
 - His connected left arm gives power to her spin by pushing counterclockwise around her head.
 - :ref:`Hairbrush hand transition` from his connected left hand.
+
+
+.. _Guided hip copa blind turn:
+
+Guided hip copa blind turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Guided hip copa`
+- As soon as his right hand pushes her right hip forward, the man turns and pushes his connected left arm behind him so that the woman completes her turn.
   
 
 .. _Hip copa:
@@ -2158,6 +2166,13 @@ Shoulder inside turn catch, ping pong, hip turn check, man hook turn, basket, in
 - :ref:`Inside turn, man half right, man half left`
 - :ref:`Inside turn`
 - :ref:`Woman double right`
+
+
+Woman double right, guided hip copa blind turn, shoulder inside turn [#PielCanela]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- :ref:`Woman double right` into :ref:`Guided hip copa blind turn`
+- :ref:`Crossbody`
+- As she walks forward, his left hand catches and pulls her right shoulder for a :ref:`Shoulder inside turn`
 
 
 Woman double right into cuatro break, crossbody into reverse cuatro break, man half right, man half left into woman wrap, guided walk, yo-yo outside turn, push inside turn check, guided spin into man wrap, whip crossbody [#PielCanela]_
