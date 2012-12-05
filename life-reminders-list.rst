@@ -225,3 +225,9 @@ life allocation
 ---------------
 | 9/9/2012
 | Life is too short to spend on people with whom you don't see a future.
+
+
+human potential
+---------------
+| 12/5/2012
+| Social classes waste human potential.
