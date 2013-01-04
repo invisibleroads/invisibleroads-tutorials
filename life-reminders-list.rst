@@ -231,3 +231,10 @@ human potential
 ---------------
 | 12/5/2012
 | Social classes waste human potential.
+
+
+self-interest
+-------------
+| 1/1/2013
+| The world is not my enemy nor is it my caretaker.
+| Even friends do not necessarily look out for my best interests.
