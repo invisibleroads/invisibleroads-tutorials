@@ -238,3 +238,13 @@ self-interest
 | 1/1/2013
 | The world is not my enemy nor is it my caretaker.
 | Even friends do not necessarily look out for my best interests.
+
+
+no illusions
+------------
+| 1/8/2013
+| I have no illusions; 
+| Hard work is ahead, 
+| but I will make it rewarding 
+| for those with whom I work and 
+| for those I love.
