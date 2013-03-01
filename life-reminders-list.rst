@@ -248,3 +248,9 @@ no illusions
 | but I will make it rewarding 
 | for those with whom I work and 
 | for those I love.
+
+
+the next step
+-------------
+| 3/1/2013
+| For each goal, decide on the next step.
