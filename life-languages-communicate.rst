@@ -248,9 +248,11 @@ Hebrew
     children = yeh-lah-dim'
     cool = si-bah'-bah
     year = shah'-nah
-    good = toe-vah'
-    happy new year = shah'-nah toe-vah'
-    good children = yeh-lah-dim' toe-vah'
+    good = toh-vah'
+    happy new year = shah'-nah toh-vah'
+    good children = yeh-lah-dim' toh-vah'
+    thank you = toh-dah'
+    what's happening = mah neesh'-mah
 
 
 Turkish
@@ -329,7 +331,8 @@ Burmese is spoken in Myanmar
 ----------------------------
 ::
 
-    thank you = tjeh-zoo' tih-pah'-deh
+    thank you = tjeh'-zoo
+    thank you = tjeh'-zoo din-bah'-deh
 
 
 Malay
@@ -859,6 +862,13 @@ Croatian
     thank you = hwah'-lah
 
 
+Serbian
+-------
+::
+
+    thank you = hwah'-lah
+
+
 Romanian is spoken in Romania and Moldova
 -----------------------------------------
 ::
@@ -874,6 +884,13 @@ Polish
     thank you = djen-koo'-yah
     how are you = yak-sheh-mash'
     good = dohb-zhah'
+
+
+Slovak
+------
+::
+
+    thank you = djah-koo'-yem
 
 
 Russian
