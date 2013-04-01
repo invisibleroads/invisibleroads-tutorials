@@ -11,6 +11,7 @@ Live
 
     life-reminders-list
     life-goals-reach
+    life-routines-practice
     life-assess
     life-enrich
     life-exercise

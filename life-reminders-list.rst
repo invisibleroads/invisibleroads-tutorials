@@ -254,3 +254,24 @@ the next step
 -------------
 | 3/1/2013
 | For each goal, decide on the next step.
+
+
+lifetime value of a product
+---------------------------
+| 3/10/2013
+| A good enough product released early and used often has more 
+| lifetime value than a perfect product released too late.
+
+
+pass on the reins
+-----------------
+| 3/10/2013
+| It is also your responsibility to ensure that the next generation
+| can continue and improve the work that you have done.
+
+
+be decisive
+-----------
+| 3/31/2013
+| Decide how you will spend your time or others will decide for you.
+| Planning helps you say no.
