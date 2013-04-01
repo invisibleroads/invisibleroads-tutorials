@@ -17,12 +17,12 @@ You can accomplish ambitious goals with a few steps a day.  Here are some guidel
     11 "
     12 Exercise
     13 Eat
-    14 Do non-crucial tasks for others
+    14 Do non-crucial tasks
     15 "
     16 "
     17 Eat
-    18 Do non-crucial tasks for yourself
-    19 Do group activity
+    18 Do group activity
+    19 "
     20 Talk
     21 Read, write, plan
     22 Sleep
