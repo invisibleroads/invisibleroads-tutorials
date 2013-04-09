@@ -275,3 +275,10 @@ be decisive
 | 3/31/2013
 | Decide how you will spend your time or others will decide for you.
 | Planning helps you say no.
+
+
+your calling
+------------
+| 4/9/2013
+| Finish it today because there might not be time tomorrow.
+| Make time.
