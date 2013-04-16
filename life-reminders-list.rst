@@ -282,3 +282,9 @@ your calling
 | 4/9/2013
 | Finish it today because there might not be time tomorrow.
 | Make time.
+
+
+get buy-in
+----------
+| 4/15/2013
+| Win support from stakeholders before making risky decisions.
