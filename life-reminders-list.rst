@@ -288,3 +288,10 @@ get buy-in
 ----------
 | 4/15/2013
 | Win support from stakeholders before making risky decisions.
+
+
+prioritize your needs
+---------------------
+| 5/9/2013
+| Just because a request comes from someone else does not mean that
+| it is more urgent than your own request to yourself.
