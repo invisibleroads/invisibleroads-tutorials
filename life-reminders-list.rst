@@ -295,3 +295,9 @@ prioritize your needs
 | 5/9/2013
 | Just because a request comes from someone else does not mean that
 | it is more urgent than your own request to yourself.
+
+
+choice
+------
+| 5/15/2013
+| Choice means one Yes and many No's.
