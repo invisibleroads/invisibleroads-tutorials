@@ -300,4 +300,4 @@ prioritize your needs
 choice
 ------
 | 5/15/2013
-| Choice means one Yes and many No's.
+| Choice is one Yes and many No's.
