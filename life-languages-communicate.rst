@@ -260,8 +260,12 @@ Turkish
 ::
 
     thank you = teh-sheh-koor'
+    cool = ey-vah'-lah-h
     good = ee'-ah
     good = goo-zeh'
+    good (as positive reinforcement) = ah'-feh-reen
+    where is it = boo neh'-reh-deh
+    what is it = boo neh'-keh-deh
     stick = choo-book'
 
 
@@ -826,6 +830,7 @@ Dutch
 ::
 
     thank you = dahn'-kyeh vehll
+    thanks = bee-dahnkt'
     how = ooh
     much = vehll
     is = es

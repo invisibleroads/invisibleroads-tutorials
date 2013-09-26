@@ -301,3 +301,22 @@ choice
 ------
 | 5/15/2013
 | Choice is one Yes and many No's.
+
+
+ask for help
+------------
+| 7/7/2013
+| Communication is a circulation system for information.
+| Ask for help, because something hard for you might be easy for someone else.
+
+
+practice what you want to do
+----------------------------
+| 7/15/2013
+| Practice a positive behavior to replace a negative behavior.
+
+
+what if other people take advantage of you?
+-------------------------------------------
+| 9/16/2013
+| He or she who gives something that the other person values also has the power to enforce limits and expectations under which he or she will continue to give.
