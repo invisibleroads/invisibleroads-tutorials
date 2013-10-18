@@ -1,7 +1,7 @@
-.. Record 360
 .. Record right to right single file to walk to right over left
 .. Record open hold into reverse cuatro
 .. Record reverse cuatro into wrap hold
+.. Record copa clockwise exit
 
 
 Salsa
@@ -28,6 +28,11 @@ Open to knot
 - His connected right hand swings back to the right and tosses her left hand up.
 - His right hand swings left under his connected left hand and catches her falling left hand into :ref:`Knot hold`.
 
+Open to catch via inside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, he signals an inside turn by stepping out of her way into crossbody stance and leading his connected left hand forward to his left and in a small counterclockwise circle around her head.
+- His right hand catches her upper back and supports her rotational momentum with a strong frame as she is finishing her turn into :ref:`Catch hold`.
+
 
 .. _Right to right hold:
 
@@ -45,6 +50,15 @@ Right to right to right to right single file
 
 Right over left hold
 --------------------
+
+
+Right over left to right over left via walk in place
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Right over left hold`, his left foot steps forward and his connected hands push forward to his right to find her resistance, which signals that she is ready.
+- He moves out of her way as she steps forward while his connected left hand and his connected right hand hold her in a strong frame.
+- He immediately guides her to cross her left foot over her right by rotating his torso slightly but firmly to his right.
+- He immediately guides her to cross her right foot over her left by rotating his torso slightly but firmly to his left.
+- His connected left arm swings over her head to end the walk in place into :ref:`Right over left hold`.
 
 
 .. _Left over right hold:
@@ -96,3 +110,28 @@ Knot to open
 ^^^^^^^^^^^^
 - From :ref:`Knot hold`, his connected left hand goes over and behind his head and releases her hand on his right shoulder.
 - His left hand catches her right hand into :ref:`Open hold`.
+
+
+.. _Catch hold:
+
+Catch hold
+----------
+The :ref:`Catch hold` happens when he catches her during a clockwise spin, such as after an inside turn.  Transitions from the :ref:`Catch hold` can make use of her rotational momentum.
+
+Catch to swing via 360
+^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Catch hold`, he immediately places his right foot as close as possible to her left foot and squares his chest with her chest in a strong frame.
+- He pushes off his left foot so that they rotate 180 degrees clockwise together.
+- His right hand supports her like a strong rubber band into :ref:`Swing hold`.
+
+
+.. _Swing hold:
+
+Swing hold
+----------
+The :ref:`Swing hold` happens when he supports her like a rubber band while she is stepping backward.  Transitions from the :ref:`Swing hold` can make use of her forward momentum.
+
+Swing to open
+^^^^^^^^^^^^^
+- From :ref:`Swing hold`, his upper body and strong frame help her reverse momentum forward into a crossbody as he steps out of her way.
+- She steps to the other side into :ref:`Open hold`.
