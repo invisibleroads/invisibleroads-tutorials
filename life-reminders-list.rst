@@ -326,3 +326,11 @@ infrastructure reconstruction
 -----------------------------
 | 10/16/2013
 | Use success from small projects to win support for large projects.
+
+
+segment your audience
+---------------------
+| 10/20/2013
+| Segment your audience into groups and
+| address each group separately
+| depending on their respective interests.
