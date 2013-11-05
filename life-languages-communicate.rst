@@ -592,6 +592,15 @@ Indonesian
     (name of islands) = karimunjawa
 
 
+Tagalog is spoken in the Philippines
+------------------------------------
+::
+
+    thank you = seh-lah'-maht
+    hi = co'mo esta'
+    good morning = mah-gahn'-dang oo-mah'-gah-po
+
+
 Mandarin is spoken in China and Taiwan
 --------------------------------------
 ::
