@@ -24,15 +24,19 @@ Boot Fedora 19 from live usb
 Install Fedora 19
 -----------------
 - Press the windows button, type "terminal" and press ENTER
+- Become the superuser.
+
+    su
+
 - Mount the EFI partition.
 
-    sudo mount /dev/sda1 /home/liveuser/Templates
+    mount /dev/sda1 /home/liveuser/Templates
 
 - Backup the original EFI configuration.
 
     cd Templates
     tar czvf ../EFI-original.tar.gz *
-    sudo umount /home/liveuser/Templates
+    umount /home/liveuser/Templates
 
 - Save the original EFI configuration to a second usb drive.
 - Start the Fedora 19 installation wizard.
@@ -48,9 +52,10 @@ Install Fedora 19
 
 Configure EFI
 -------------
+- Become the superuser.
 - Mount the EFI partition.
 
-    sudo mount /dev/sda1 /home/liveuser/Templates
+    mount /dev/sda1 /home/liveuser/Templates
 
 - Copy and extract the original EFI configuration.
 
@@ -85,7 +90,7 @@ Boot Fedora 19 from hard drive
 - Tether your smartphone's internet connection.
 - Update the system and halt.
 
-    yum -y update
+    sudo yum -y update
     sudo halt
 
 - Press the ASSIST button to enter BIOS.
