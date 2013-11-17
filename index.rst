@@ -84,4 +84,5 @@ Configure Fedora Linux
 .. toctree::
     :maxdepth: 1
 
+    fedora-vaio-pro-install
     fedora-ethernet-connect
