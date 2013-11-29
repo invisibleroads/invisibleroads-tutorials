@@ -354,4 +354,4 @@ I am responsible for fulfilling my own needs
 Influence through words
 -----------------------
 | 11/29/2013
-| The challenge is to make other people feel healthy, loved and wanted through words.
+| The challenge is to make other people feel healthy, loved and wanted through words and not just actions.
