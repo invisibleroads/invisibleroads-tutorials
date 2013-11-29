@@ -334,3 +334,24 @@ segment your audience
 | Segment your audience into groups and
 | address each group separately
 | depending on their respective interests.
+
+
+relationship as negotiated agreement
+------------------------------------
+| 11/27/2013
+| A relationship is an agreement between two parties on what you will do for me in exchange for what I do for you, with boundaries on which activities and information can be shared with other parties and which activities and information must be exclusive for the agreement to hold.  Givers try to negotiate by offering more costs.  Takers try to negotiate by demanding more benefits.
+
+
+I am responsible for fulfilling my own needs
+--------------------------------------------
+| 11/28/2013
+| I am responsible for fulfilling my own needs.
+| Other people can fulfill my needs.
+| Expand my support network to cover the full spectrum of my needs.
+| Negotiate to get more.
+
+
+Influence through words
+-----------------------
+| 11/29/2013
+| The challenge is to make other people feel healthy, loved and wanted through words.

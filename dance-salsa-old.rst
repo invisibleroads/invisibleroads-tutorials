@@ -1,34 +1,3 @@
-Salsa
-=====
-- Make sure your partner is having fun.
-- Keep your eyes focused on your partner.
-- Adjust your dance according to the level of your partner.
-- Beware of making your partner dizzy with too many turns and spins.
-- If the woman and man turn or spin at the same time, the man signals the woman to spin or turn first, then the man spins or turns but must finish before she does so that he can signal the next lead.
-
-- Shift weight onto the moving foot.
-- Shift weight even when not moving, to stay in beat.
-- In the basic step, the man uses his left leg to step forward and his right leg to step backward.
-- Directions are from a bird's eye point of view, so that if a woman turns to her right, she is turning clockwise.
-
-
-
-
-Closed hold
------------
-The man's frame supports the woman's frame with her left arm resting on his right arm.
-
-
-.. _Crossbody:
-
-Crossbody
-^^^^^^^^^
-- Man left steps forward.
-- Man turns his chest left 90 degrees while keeping arms in constant closed frame and his left foot moves into crossbody stance.
-- Man shifts weight to his right foot in crossbody stance with feet parallel and firmly planted.
-- Man turns his chest left 90 degrees while keeping arms in constant closed frame and his right foot returns to basic stance.
-
-
 .. _Crossbody into right cross hold:
 
 Crossbody into right cross hold
@@ -122,13 +91,6 @@ Open hold
 Partners face each other with his left hand holding her right hand and his right hand holding her left hand.
 
 
-.. _Hip crossbody:
-
-Hip crossbody
-^^^^^^^^^^^^^
-Man signals crossbody from open hold by pulling both connected hands close to his hips and rotating on his back step.
-
-
 .. _Whip crossbody:
 
 Whip crossbody
@@ -193,11 +155,6 @@ Right turn change hands, woman right turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Right turn change hands`
 - :ref:`Woman right turn from open hold`
-
-
-Duck change hands [#SalsaRosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-On his left forward step with his left hand connected, man turns right and continues turning by ducking under his connected left arm whereupon he releases her connected hand over his back from his left hand to his right hand.
 
 
 .. _Drop change hands:
@@ -454,9 +411,6 @@ Man double left
 - He extends his right foot and twists his waist clockwise forty-five degrees.
 - He throws his right hand diagonally across his front and his left hand diagonally across his back for the illusion of a turning screw while unravelling his waist counterclockwise with thighs and ankles close together.  If you are off balance, you may be leaning forward or backward instead of stretching upright.
 - He spots his partner as he spins.
-
-
-!!!
 
 
 .. _Windmill crossbody:
@@ -1697,10 +1651,6 @@ Half crossbody, man clockwise spin
 - Man left steps forward.
 
 
-Combinations
-------------
-
-
 Woman right turn, man right turn, woman right turn, crossbody [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Woman right turn from closed hold`
@@ -2305,11 +2255,3 @@ Woman bends her knees and moves her hips back in a slow upward circular motion.
 Side step double spin [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Man or woman side steps to the left, side steps to the right, then cranks upper torso to right with arms raised in a circle around the chest like the rings of Saturn.  He or she releases upper torso to the left to start the spin on the ball of the left foot with head and torso erect while using the right foot to continue powering the spin.
-
-
-.. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski, Mike Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
-.. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
-.. [#PielCanela] Thanks to Joe Burgos, Jonathan Rodriguez, Jose Negron of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
-.. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
-.. [#YouShouldBeDancing] Thanks to Frankie Martinez of `You Should Be Dancing <http://www.youshouldbedancing.net>`_ in New York, NY, USA.
-.. [#MamboNova] Thanks to Hector Reyes of MamboNova in Redwoord City, CA, USA.
