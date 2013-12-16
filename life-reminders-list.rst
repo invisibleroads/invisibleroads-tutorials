@@ -355,3 +355,10 @@ Influence through words
 -----------------------
 | 11/29/2013
 | The challenge is to make other people feel healthy, loved and wanted through words and not just actions.
+
+
+Opportunity
+-----------
+| 12/16/2013
+| Focus on opportunity instead of loss.
+| Get what you want and don't get what you don't want.
