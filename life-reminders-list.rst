@@ -362,3 +362,21 @@ Opportunity
 | 12/16/2013
 | Focus on opportunity instead of loss.
 | Get what you want and don't get what you don't want.
+
+
+Be your own cheerleader
+-----------------------
+| 12/26/2013
+| What's good?
+| What's better?
+| What's next?
+
+
+Go forth and multiply
+---------------------
+| 12/31/2013
+| Constantly involve other people in my work.
+| Ask for advice.
+| Match people according to what they are interested in doing.
+| Form committees, meet regularly, make each contributor feel valued.
+| Show impact.
