@@ -37,6 +37,14 @@ Open hold
 ---------
 
 
+.. _Open break:
+
+Open to open via break
+^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, his left foot steps back when her right foot steps back to create tension in the connected arms.
+- He lifts his right foot, then returns his left foot forward to :ref:`Open hold`.
+
+
 Open to open via crossbody
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Open hold`, he pulls both connected hands close to his hips so that she walks toward him.
@@ -72,6 +80,14 @@ Open to catch via inside turn
 
 Left open hold
 --------------
+
+
+.. _Clockwise enchufla:
+
+Left open to left open via clockwise enchufla
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, he lightly tugs his connected left hand so that she starts walking toward him.
+- He raises his connected left arm so that she walks under it as he encircles her clockwise until they have switched places into :ref:`Left open hold`.
 
 
 Left open to right cross via duck turn [#Salsa Rosa]_
@@ -110,6 +126,14 @@ Left open to closed via standing dip
 
 Right cross hold
 ----------------
+
+
+.. _Right cross break:
+
+Right cross to right cross via break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Right cross hold`, his left foot steps back when her right foot steps back to create tension in the connected arms.
+- He lifts his right foot, then returns his left foot forward to :ref:`Open hold`.
 
 
 Right cross to open via double right
@@ -324,13 +348,13 @@ Swing to open
 - She steps to the other side into :ref:`Open hold`.
 
 
-.. [#MamboNova] Thanks to Hector Reyes of `MamboNova <http://www.mambonovasf.com>`_ in Mountain View, CA, USA.
-.. [#PielCanela] Thanks to Joe Burgos, Jonathan Rodriguez, Jose Negron of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York, NY, USA.
-.. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski, Mike Brown of `Salsa International <http://salsainternational.net>`_ in New York, NY, USA.
-.. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela, Quetzaltenango, Guatemala.
-.. [#EddieTorres] Thanks to Eddie and Maria Torres of `Eddie Torres Latin Dance Studio <http://www.eddietorresny.com>`_ in New York, NY, USA.
-.. [#MamboRomero] Thanks to Victoria Ruskovoloshina of `Mambo Romero <http://mamboromero.com>`_ in San Francisco, CA, USA.
-.. [#MamboGroovin] Thanks to Sandy Chao of `Mambo Groovin <http://www.mambogroovin.com>`_ in Redwood City, CA, USA.
-.. [#BailaSociety] Thanks to the `Baila Society <http://bailasociety.com>`_ in New York, NY, USA.
-.. [#YouShouldBeDancing] Thanks to Frankie Martinez of `You Should Be Dancing <http://www.youshouldbedancing.net>`_ in New York, NY, USA.
-.. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York, NY, USA.
+.. [#MamboNova] Thanks to Hector Reyes of `MamboNova Dance Company <http://www.mambonovasf.com>`_ in Mountain View.
+.. [#PielCanela] Thanks to Joe Burgos, Jonathan Rodriguez, Jose Negron of `Piel Canela <http://www.pielcaneladancers.com>`_ in New York.
+.. [#SalsaInternational] Thanks to Gina Noel D'Ambrosio, Jason Nino, Junes B. Zahdi, Kate Danielowski, Mike Brown of `Salsa International <http://salsainternational.net>`_ in New York.
+.. [#SalsaRosa] Thanks to Erica, Ciomara, Daniel of `Salsa Rosa <http://wikimapia.org/11090927/TropicaLatina-Salsa-Rosa-Dance-School>`_ in Xela.
+.. [#EddieTorres] Thanks to Eddie and Maria Torres of `Eddie Torres Latin Dance Studio <http://www.eddietorresny.com>`_ in New York.
+.. [#MamboRomero] Thanks to Victoria Ruskovoloshina of `Mambo Romero <http://mamboromero.com>`_ in San Francisco.
+.. [#MamboGroovin] Thanks to Sandy Chao of `Mambo Groovin <http://www.mambogroovin.com>`_ in Redwood City.
+.. [#BailaSociety] Thanks to the `Baila Society <http://bailasociety.com>`_ in New York.
+.. [#YouShouldBeDancing] Thanks to Frankie Martinez of `You Should Be Dancing <http://www.youshouldbedancing.net>`_ in New York.
+.. [#DardoGalletto] Thanks to Philip Haymon of `Dardo Galletto Studios <http://www.newgenerationdc.com>`_ in New York.
