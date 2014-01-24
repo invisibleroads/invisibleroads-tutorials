@@ -380,3 +380,9 @@ Go forth and multiply
 | Match people according to what they are interested in doing.
 | Form committees, meet regularly, make each contributor feel valued.
 | Show impact.
+
+
+Involve other people in your work
+---------------------------------
+| 1/24/2014
+| Relationships are habits.  You can change your habits on whom you reach out to for help.  Make direct requests to specific people with clearly defined tasks.

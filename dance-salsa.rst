@@ -43,6 +43,13 @@ Open to open via crossbody
 - He rotates counterclockwise on his back step into :ref:`Open hold`.
 
 
+Open to open via right elbow wrap
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, he guides a two-handed clockwise turn and ends with his connected right hand latched over her right elbow.
+- His connected right hand rises until his connected left hand is latched over his right elbow.
+- He walks closer to her and, while keeping his right hand connected, wraps his right elbow over and outside of her left arm into :ref:`Open hold`.
+
+
 Open to left over right
 ^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Open hold`, he signals a right turn with both hands into :ref:`Left over right hold`.
