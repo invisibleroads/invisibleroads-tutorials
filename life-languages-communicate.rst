@@ -267,6 +267,7 @@ Turkish
     where is it = boo neh'-reh-deh
     what is it = boo neh'-keh-deh
     stick = choo-book'
+    hundred = yooz
 
 
 Hungarian
@@ -639,10 +640,11 @@ Mandarin is spoken in China and Taiwan
     egg cake = tahn'-kaow
     egg pancake = tahn'-bping
     crab = shi'
-    fish = uh-ah' (tone rises highly on ah)
+    fish = uh-ah~ (tone rises sharply on ah)
     fish market = uh-ah'-ggahng
     oyster omelet = uh-ah'-tsehn
     pig kidney soup = yao'-tzeh-tang
+    first sour then sweet = shien koo~ ho kgan (tone rises sharply on koo)
 
 
 Taiwanese is spoken in Taiwan
