@@ -1,5 +1,7 @@
 List life reminders
 ===================
+
+
 runner's creed
 --------------
 | 12/7/2004
@@ -342,8 +344,8 @@ relationship as negotiated agreement
 | A relationship is an agreement between two parties on what you will do for me in exchange for what I do for you, with boundaries on which activities and information can be shared with other parties and which activities and information must be exclusive for the agreement to hold.  Givers try to negotiate by offering more costs.  Takers try to negotiate by demanding more benefits.
 
 
-I am responsible for fulfilling my own needs
---------------------------------------------
+who is responsible for fulfilling my needs
+------------------------------------------
 | 11/28/2013
 | I am responsible for fulfilling my own needs.
 | Other people can fulfill my needs.
@@ -351,20 +353,20 @@ I am responsible for fulfilling my own needs
 | Negotiate to get more.
 
 
-Influence through words
+influence through words
 -----------------------
 | 11/29/2013
 | The challenge is to make other people feel healthy, loved and wanted through words and not just actions.
 
 
-Opportunity
+opportunity
 -----------
 | 12/16/2013
 | Focus on opportunity instead of loss.
 | Get what you want and don't get what you don't want.
 
 
-Be your own cheerleader
+be your own cheerleader
 -----------------------
 | 12/26/2013
 | What's good?
@@ -372,7 +374,7 @@ Be your own cheerleader
 | What's next?
 
 
-Go forth and multiply
+go forth and multiply
 ---------------------
 | 12/31/2013
 | Constantly involve other people in my work.
@@ -382,7 +384,17 @@ Go forth and multiply
 | Show impact.
 
 
-Involve other people in your work
+involve other people in your work
 ---------------------------------
 | 1/24/2014
 | Relationships are habits.  You can change your habits on whom you reach out to for help.  Make direct requests to specific people with clearly defined tasks.
+
+
+
+reach life goals
+----------------
+| 2/2/2014
+| When overwhelmed with work, I might schedule too much for one day in the wishful hope that I will magically get it all done.  This is a false and unfair promise.  It is not how much I get done, but whether I am doing what is essential toward a long-term goal.
+| If I reach only one goal today, which one will take me closest to where I want to be?
+| Ask people to do specific tasks.
+| Describe a ten-minute mission and cross it out when done.
