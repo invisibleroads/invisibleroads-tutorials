@@ -318,8 +318,8 @@ practice what you want to do
 | Practice a positive behavior to replace a negative behavior.
 
 
-what if other people take advantage of you?
--------------------------------------------
+what if other people take advantage of you
+------------------------------------------
 | 9/16/2013
 | He or she who gives something that the other person values also has the power to enforce limits and expectations under which he or she will continue to give.
 
