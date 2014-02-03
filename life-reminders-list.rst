@@ -255,7 +255,7 @@ no illusions
 the next step
 -------------
 | 3/1/2013
-| For each goal, decide on the next step.
+| For each goal, decide the next step.
 
 
 lifetime value of a product
