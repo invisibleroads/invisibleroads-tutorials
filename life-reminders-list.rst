@@ -384,11 +384,18 @@ go forth and multiply
 | Show impact.
 
 
+everyone is a customer
+----------------------
+| 1/22/2014
+| Be strong and steady even when the customer is upset.
+| Stay focused on improving the customer relationship.
+| Give one compliment a day to generate positivity.
+
+
 involve other people in your work
 ---------------------------------
 | 1/24/2014
 | Relationships are habits.  You can change your habits on whom you reach out to for help.  Make direct requests to specific people with clearly defined tasks.
-
 
 
 reach life goals
