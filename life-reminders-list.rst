@@ -405,3 +405,9 @@ reach life goals
 | If I reach only one goal today, which one will take me closest to where I want to be?
 | Ask people to do specific tasks.
 | Describe a ten-minute mission and cross it out when done.
+
+
+minimize damages
+----------------
+| 2/6/2014
+| Don't miss new chances because you are regretting old chances.

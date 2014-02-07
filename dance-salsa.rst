@@ -58,6 +58,13 @@ Open to open via right elbow wrap
 - He walks closer to her and, while keeping his right hand connected, wraps his right elbow over and outside of her left arm into :ref:`Open hold`.
 
 
+Open to open via inside turn and right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, he signals an inside turn by stepping out of her way into crossbody stance and leading his connected left hand forward to his left and in a small counterclockwise circle around her head.
+- His connected left arm swoops to his right and up in a sweeping circular motion.
+- His connected left arm rises smoothly up and pushes lightly forward in a tight clockwise circle above her head to signal a woman right turn.
+
+
 Open to left over right
 ^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Open hold`, he signals a right turn with both hands into :ref:`Left over right hold`.
@@ -217,7 +224,7 @@ Right over left to wrap hold
 Right over left to left over right via right turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Right over left hold`, he lifts his hands.
-- His connected hands swirl in a tight circle above her head to signal a woman right turn into :ref:`Left over right hold`.
+- His connected hands swirl in a tight clockwise circle above her head to signal a woman right turn into :ref:`Left over right hold`.
 
 
 Right over left to left over right via enchufla
