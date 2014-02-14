@@ -411,3 +411,12 @@ minimize damages
 ----------------
 | 2/6/2014
 | Don't miss new chances because you are regretting old chances.
+
+
+give feedback privately
+-----------------------
+| 2/14/2014
+| Rebuking people publicly causes resentment.
+| Emotion blocks the message we're trying to send.
+| Give feedback one on one.
+| What is the change you would like to see?
