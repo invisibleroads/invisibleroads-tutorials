@@ -420,3 +420,16 @@ give feedback privately
 | Emotion blocks the message we're trying to send.
 | Give feedback one on one.
 | What is the change you would like to see?
+
+
+win supporters
+--------------
+| 3/5/2014
+| Identify stakeholders who can greatly impact the outcome of your project but who are not actively supportive of it.  Strategize how to make influential stakeholders more supportive.
+
+
+motivate units
+--------------
+| 3/11/2014
+| Ask the team member to propose a solution.
+| People are more motivated if they have control over the solution.
