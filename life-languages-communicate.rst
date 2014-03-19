@@ -724,6 +724,14 @@ Japanese
     eat = tah-beh'-roo
 
 
+Portuguese is spoken in Brazil
+------------------------------
+::
+
+    hey = oy
+    everything good? = too'-doo boh?
+
+
 Q'anjob'al is spoken near Huehuetenango in Guatemala
 ----------------------------------------------------
 ::
