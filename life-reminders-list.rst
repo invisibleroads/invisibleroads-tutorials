@@ -433,3 +433,10 @@ motivate units
 | 3/11/2014
 | Ask the team member to propose a solution.
 | People are more motivated if they have control over the solution.
+
+
+
+clarify and confirm
+-------------------
+| 3/22/2014
+| Summarize what you learned after asking questions about the customer's challenge, vision, stakeholders and constraints to confirm that you understand the customer's situation.
