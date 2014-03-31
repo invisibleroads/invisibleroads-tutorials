@@ -255,6 +255,14 @@ Hebrew
     what's happening = mah neesh'-mah
 
 
+Dari is spoken in Afghanistan
+-----------------------------
+::
+
+    thank you = teh-sheh-koor'
+    what is that? = ohn' chee ahst?
+
+
 Turkish
 -------
 ::
