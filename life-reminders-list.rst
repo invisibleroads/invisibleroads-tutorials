@@ -439,7 +439,7 @@ motivate units
 clarify and confirm
 -------------------
 | 3/22/2014
-| Summarize what you learned after asking questions about the customer's challenge, vision, stakeholders and constraints to confirm that you understand the customer's situation.
+| Summarize what you learned after asking questions about the customer's challenge, vision, stakeholders and constraints to confirm that you understand their situation.
 
 
 compare tradeoffs
