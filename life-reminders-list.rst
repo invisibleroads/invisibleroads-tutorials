@@ -447,3 +447,9 @@ compare tradeoffs
 | 4/1/2014
 | Compare tradeoffs before acting.
 | Consult when priorities change.
+
+
+value your life
+---------------
+| 4/6/2014
+| Don't waste your life doing something if your heart is not in it.
