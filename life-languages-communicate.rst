@@ -276,6 +276,7 @@ Turkish
     what is it = boo neh'-keh-deh
     stick = choo-book'
     hundred = yooz
+    what's news = nah'-behr
 
 
 Hungarian
@@ -930,12 +931,13 @@ Russian
 ::
 
     thank you = cpah-cee'-bah
-    good = hha-rdoh'-sheh
+    good = ha-ra-sho'
     one = oh-deen'
     two = dvah
     three = tdree
     four = djeh-tee'-rah
     five = pbeht
+    six = shyst
 
 
 Norwegian

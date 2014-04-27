@@ -92,7 +92,7 @@ Enchufla
 Enchufla doble [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Left open hold`
-- :ref:`Clockwise enchufla check`
+- Clockwise enchufla check
 - :ref:`Enchufla rueda`
 
 
@@ -100,7 +100,7 @@ Pa' ti, pa' mi [#PielCanela]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Left open hold`
 - :ref:`Clockwise enchufla`
-- :ref:`Clockwise enchufla, man backward six-pack`
+- Clockwise enchufla, man backward six-pack
 - :ref:`Clockwise enchufla`
 - :ref:`Dile que non`
 
@@ -153,7 +153,7 @@ El dos
 El kentucky [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Open break` with his right hand under her left hand.
-- :ref:`Clockwise wrap enchufla`
+- Clockwise wrap enchufla
 - He moves back to her right but keeps his left hand in place on her left shoulder.
 - He moves to her left, places his connected left hand on his right shoulder and turns clockwise into closed position.
 - :ref:`Dile que non`
@@ -235,7 +235,7 @@ Pelota de cuatro [#SalsaInternational]_
 Chisme [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Open break` with his right hand under her left hand.
-- :ref:`Clockwise wrap enchufla`
+- Clockwise wrap enchufla
 - Man unravels woman with his right hand so that she spins clockwise to his right as he performs a standard :ref:`Enchufla rueda` with the woman on his left.
 
 
@@ -243,7 +243,7 @@ Dedo [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via right arm`
 - Man walks to his left and raises his connected right arm so that the woman turns clockwise across from his left to his right.
-- :ref:`Clockwise enchufla, man hook spin`
+- Clockwise enchufla, man hook spin
 - His right hand holds her right hand in an arm wrestling grip.
 - :ref:`Dile que non`
 
@@ -252,7 +252,7 @@ Montaña [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Tap stance via right arm` and his left hand is connected under his right hand.
 - Man walks to his left and raises his connected right arm so that the woman turns clockwise across from his left to his right.
-- :ref:`Clockwise enchufla, man hook spin`
+- Clockwise enchufla, man hook spin
 - He lifts his right hand over and behind her head while he lifts his left hand over and behind his head for sombrero hold.
 - :ref:`Dile que non`
 

@@ -453,3 +453,18 @@ value your life
 ---------------
 | 4/6/2014
 | Don't waste your life doing something if your heart is not in it.
+
+
+focus
+-----
+| 4/12/2014
+| Involve others in our work.
+| Choose only work aligned with our life mission.
+| Choose only work that directly advances our business.
+| The real work is in building collaborative relationships.
+
+
+what if
+-------
+| 4/22/2014
+| Trying and missing is better than not trying and wondering what if.
