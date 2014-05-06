@@ -103,6 +103,14 @@ Left open hold
 --------------
 
 
+.. _Left open break:
+
+Left open to left open via break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, his left foot steps back when her right foot steps back to create tension in the connected arms.
+- He lifts his right foot, then returns his left foot forward to :ref:`Left open hold`.
+
+
 .. _Clockwise enchufla:
 
 Left open to left open via clockwise enchufla
@@ -151,8 +159,15 @@ Left open to closed via standing dip
 
 Left open to left over right via break
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Left open hold`, his left foot steps back when her right foot steps back to create tension in the connected arm.
-- His right hand takes her right hand and his left hand takes her left hand for :ref:`Left over right hold`.
+- From :ref:`Left open break`, his right hand takes her right hand and his left hand takes her left hand for :ref:`Left over right hold`.
+
+
+Left open to left over right via swirl walk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open break`, his left foot steps diagonally forward left while his right arm rises up and behind her back.
+- He turns ninety degrees to his right with his right arm guiding her clockwise around him.
+- His left foot crosses over his right.
+- His right hand takes her right hand as his left foot steps back into :ref:`Left over right hold`.
 
 
 .. _Right cross hold:
@@ -166,7 +181,7 @@ Right cross hold
 Right cross to right cross via break
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Right cross hold`, his left foot steps back when her right foot steps back to create tension in the connected arms.
-- He lifts his right foot, then returns his left foot forward to :ref:`Open hold`.
+- He lifts his right foot, then returns his left foot forward to :ref:`Right cross hold`.
 
 
 Right cross to open via double right
