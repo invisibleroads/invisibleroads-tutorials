@@ -35,6 +35,7 @@ Closed to right cross
 
 Open hold
 ---------
+Partners face each other with his left hand holding her right hand and his right hand holding her left hand.
 
 
 .. _Open break:
@@ -60,14 +61,27 @@ Open to open via right elbow wrap
 
 Open to open via inside turn and right turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Open hold`, he signals an inside turn by stepping out of her way into crossbody stance and leading his connected left hand forward to his left and in a small counterclockwise circle around her head.
-- His connected left arm swoops to his right and up in a sweeping circular motion.
+- From :ref:`Open hold`, he steps out of her way and drapes his connected right hand over her head and onto her right shoulder as she walks forward.
+- His connected left hand guides her forward to his left and in a small counterclockwise circle around her head to guide an inside turn.
+- His connected left arm swoops down, right and up in a sweeping circular motion to swivel her hips.
 - His connected left arm rises smoothly up and pushes lightly forward in a tight clockwise circle above her head to signal a woman right turn.
 
 
-Open to left over right
-^^^^^^^^^^^^^^^^^^^^^^^
+Open to right cross via crossbody
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, he steps out of her way to signal a crossbody.
+- His right hand takes her right hand into :ref:`Right cross hold`.
+
+
+Open to left over right via right turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Open hold`, he signals a right turn with both hands into :ref:`Left over right hold`.
+
+
+Open to reverse cuatro
+^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, he steps out of her way to signal a crossbody.
+- He raises his connected right hand and lowers his connected left hand to turn her counterclockwise into :ref:`Reverse cuatro hold`.
 
 
 Open to knot
@@ -97,8 +111,14 @@ Left open to left open via clockwise enchufla
 - He raises his connected left arm so that she walks under it as he encircles her clockwise until they have switched places into :ref:`Left open hold`.
 
 
-Left open to right cross via duck turn [#Salsa Rosa]_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Left open to left open via duck turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, he turns clockwise under his connected left arm.
+- He reverses and turns counterclockwise under his connected left arm into :ref:`Left open hold`.
+
+
+Left open to right cross via duck turn [#SalsaRosa]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Left open hold`, he turns clockwise under his connected left arm.
 - He releases his connected left hand over his back.
 - His right hand catches her left hand into :ref:`Right cross hold`.
@@ -127,6 +147,12 @@ Left open to closed via standing dip
 - He signals an inside turn but his right hand catches her back.
 - His left hand catches her left shoulder and he stands with both legs straight and firmly planted.
 - She dips into his embrace and returns to :ref:`Closed hold`.
+
+
+Left open to left over right via break
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, his left foot steps back when her right foot steps back to create tension in the connected arm.
+- His right hand takes her right hand and his left hand takes her left hand for :ref:`Left over right hold`.
 
 
 .. _Right cross hold:
@@ -213,14 +239,6 @@ Right over left to right over left via walk in place
 - His connected left arm swings over her head to end the walk in place into :ref:`Right over left hold`.
 
 
-Right over left to wrap hold
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Right over left hold`, his connected left hand leads her crossbody.
-- His connected left hand windmills her into a counterclockwise turn and tosses her left hand up.
-- He turns to his right and his right hand catches her falling left hand.
-- His connected right hand brings her forward into :ref:`Wrap hold`.
-
-
 Right over left to left over right via right turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Right over left hold`, he lifts his hands.
@@ -272,6 +290,35 @@ Left over right to right cross via man cuatro
 - His connected right hand continues guiding her forward and turns her clockwise to face him into :ref:`Right cross hold`.
 
 
+Left over right to guided walk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left over right hold`, his connected right hand brings her forward as he walks into reverse crossbody stance.
+- His connected left hand opens her counterclockwise until his left hand is next to her left shoulder and her right hand is next to her right shoulder in a tight frame.
+- His left foot steps back and his right foot steps back.
+- His frame snaps counterclockwise and his left foot flares into :ref:`Guided walk hold`.
+
+
+Left over right to knot [#MamboRomero]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left over right hold`, his connected right hand tosses her right hand clockwise under his connected left hand and up.
+- His right hand quickly takes her left hand while his left hand catches her falling right hand.
+- His right hand tosses her left hand clockwise under his connected left hand into :ref:`Knot hold`.
+
+
+.. _Left cross hold:
+
+Left cross hold
+---------------
+
+
+Left cross to wrap hold
+^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left cross hold`, he steps out of her way to signal a crossbody.
+- His connected left hand windmills an inside turn and tosses her left hand up.
+- He turns to his right and his right hand catches her falling left hand.
+- He steps out of her way and his connected right hand brings her across into :ref:`Wrap hold`.
+
+
 .. _Wrap hold:
 
 Wrap hold
@@ -283,6 +330,18 @@ Wrap to closed
 - From :ref:`Wrap hold`, his connected right hand unwraps her until she faces him.
 - His connected right hand prepares her to his left.
 - He steps out of her way to his left and flings her to his right for a whip inside turn into :ref:`Closed hold`.
+
+
+.. _Guided walk hold:
+
+Guided walk hold
+----------------
+
+
+Guided walk to left over right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Guided walk hold`, his connected hands unwrap her with a clockwise turn.
+- His left hand releases and catches her left hand under his right wrist into :ref:`Left over right hold`.
 
 
 .. _Cuatro hold:
@@ -297,6 +356,13 @@ Cuatro to sweetheart
 - His left foot steps forward with his hips facing hers as he pushes her right hip back with his connected right hand.
 - His right foot rock steps back.
 - He unravels her forward and counterclockwise into :ref:`Sweetheart hold`.
+
+
+.. _Reverse cuatro hold:
+
+Reverse cuatro hold
+-------------------
+His left hand holds her right hand, which is behind her back and near her left hip, while his right hand holds her left hand at shoulder height.
 
 
 .. _Sweetheart hold:
@@ -314,6 +380,7 @@ Sweetheart to knot
 
 Knot hold
 ---------
+His connected left hand rests in the crook of her left elbow while his connected right hand faces her raised left hand.
 
 
 Knot to closed
@@ -322,10 +389,16 @@ Knot to closed
 - He pulls his connected right forward and releases it so that she turns clockwise into :ref:`Closed hold`.
 
 
-Knot to open
-^^^^^^^^^^^^
+Knot to open via man comb
+^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Knot hold`, his connected left hand goes over and behind his head and releases her hand on his right shoulder.
 - His left hand catches her right hand into :ref:`Open hold`.
+
+
+Knot to open via double right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Knot hold`, his connected right hand powers her into a double right.
+- He turns to his left under his connected hands as she finishes her spin into :ref:`Open hold`.
 
 
 .. _Catch hold:

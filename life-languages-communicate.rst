@@ -931,13 +931,15 @@ Russian
 ::
 
     thank you = cpah-cee'-bah
+    luck = oo-dah'-chah
     good = ha-ra-sho'
     one = oh-deen'
     two = dvah
     three = tdree
     four = djeh-tee'-rah
     five = pbeht
-    six = shyst
+    six = shayst
+    seven = seem
 
 
 Norwegian
