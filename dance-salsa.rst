@@ -78,6 +78,12 @@ Open to left over right via right turn
 - From :ref:`Open hold`, he signals a right turn with both hands into :ref:`Left over right hold`.
 
 
+Open to right cross via outside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open hold`, he steps out of her way to signal a crossbody and rotates his connected left hand counterclockwise in a tight circle above her head for an outside turn.
+- His right hand takes her right hand into :ref:`Right cross break`.
+
+
 Open to reverse cuatro
 ^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Open hold`, he steps out of her way to signal a crossbody.
@@ -219,6 +225,12 @@ Right cross to right over left via double right
 - His right hand catches her right hand into :ref:`Right over left hold`.
 
 
+Right cross to guided support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Right cross break`, he steps out of her way and leads his connected right hand to his right to begin an inside turn, but keeps his connected right arm at her shoulder height.
+- His connected right arm catches her shoulders into :ref:`Guided support hold`.
+
+
 .. _Right single file hold:
 
 Right single file hold
@@ -305,12 +317,12 @@ Left over right to right cross via man cuatro
 - His connected right hand continues guiding her forward and turns her clockwise to face him into :ref:`Right cross hold`.
 
 
-Left over right to guided walk
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Left over right to guided support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Left over right hold`, his connected right hand brings her forward as he walks into reverse crossbody stance.
 - His connected left hand opens her counterclockwise until his left hand is next to her left shoulder and her right hand is next to her right shoulder in a tight frame.
 - His left foot steps back and his right foot steps back.
-- His frame snaps counterclockwise and his left foot flares into :ref:`Guided walk hold`.
+- His frame snaps counterclockwise and his left foot flares into :ref:`Guided support hold`.
 
 
 Left over right to knot [#MamboRomero]_
@@ -347,15 +359,15 @@ Wrap to closed
 - He steps out of her way to his left and flings her to his right for a whip inside turn into :ref:`Closed hold`.
 
 
-.. _Guided walk hold:
+.. _Guided support hold:
 
-Guided walk hold
+Guided support hold
 ----------------
 
 
-Guided walk to left over right
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Guided walk hold`, his connected hands unwrap her with a clockwise turn.
+Guided support to left over right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Guided support hold`, his connected hands unwrap her with a clockwise turn.
 - His left hand releases and catches her left hand under his right wrist into :ref:`Left over right hold`.
 
 

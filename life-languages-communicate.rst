@@ -931,12 +931,13 @@ Russian
 ::
 
     thank you = cpah-cee'-bah
-    luck = oo-dah'-chah
+    good luck = oo-dah'-cheh
     good = ha-ra-sho'
+    cool = clah'-snah
     one = oh-deen'
     two = dvah
     three = tdree
-    four = djeh-tee'-rah
+    four = djeh-tee'-ree
     five = pbeht
     six = shayst
     seven = seem
