@@ -31,11 +31,25 @@ Closed to right cross
 - His right forearm rotates backwards, catches her left forearm and twirls it in a counterclockwise flourish into :ref:`Right cross hold`.
 
 
+Closed to man left cuatro
+^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Closed hold`, he steps out of her way and rotates his torso to guide her crossbody.
+- He turns clockwise to face her in :ref:`Man left cuatro hold`.
+
+
 .. _Open hold:
 
 Open hold
 ---------
 Partners face each other with his left hand holding her right hand and his right hand holding her left hand.
+
+
+Open to closed via basket
+^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Open break`, his left foot steps diagonally forward.
+- His connected left hand drapes over her head as his right foot steps behind his left foot until he is behind her.
+- His connected hands pull her hips firmly backward.
+- His left foot steps in front of her and his right foot returns as his connected left hand drapes over her head into :ref:`Closed hold`.
 
 
 .. _Open break:
@@ -84,10 +98,16 @@ Open to right cross via outside turn
 - His right hand takes her right hand into :ref:`Right cross break`.
 
 
-Open to reverse cuatro
-^^^^^^^^^^^^^^^^^^^^^^
+Open to right cuatro
+^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Open hold`, he steps out of her way to signal a crossbody.
-- He raises his connected right hand and lowers his connected left hand to turn her counterclockwise into :ref:`Reverse cuatro hold`.
+- He raises his connected right hand and lowers his connected left hand to turn her counterclockwise into :ref:`Right cuatro hold`.
+
+
+Open to sweetheart
+^^^^^^^^^^^^^^^^^^
+- From :ref:`Open break`, his connected left hand rises up and over her head as he walks forward.
+- His connected left hand lowers near her waist into :ref:`Sweetheart hold`.
 
 
 Open to knot
@@ -99,7 +119,8 @@ Open to knot
 
 Open to catch via inside turn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Open hold`, he signals an inside turn by stepping out of her way into crossbody stance and leading his connected left hand forward to his left and in a small counterclockwise circle around her head.
+- From :ref:`Open hold`, he steps out of her way into crossbody stance.
+- His connected left hand leads forward to his left and in a small counterclockwise circle around her head to signal an inside turn.
 - His right hand catches her upper back and supports her rotational momentum with a strong frame as she is finishing her turn into :ref:`Catch hold`.
 
 
@@ -107,6 +128,25 @@ Open to catch via inside turn
 
 Left open hold
 --------------
+
+
+Left open to closed via standing dip
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, his left foot steps forward.
+- As his left foot pushes him backward, he tosses his connected left hand to his left and his left hand catches her left hand.
+- He signals an inside turn but his right hand catches her back.
+- His left hand catches her left shoulder and he stands with both legs straight and firmly planted.
+- She dips into his embrace and returns to :ref:`Closed hold`.
+
+
+Left open to open via ping pong
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open break`, his connected left hand twists clockwise so that she walks into copa stance as he steps out of her way into crossbody stance.
+- His right hand nudges her right hip to his left.
+- His left hand nudges her left hip to his right.
+- His right hand nudges her right hip to his left.
+- His left hand nudges her left hip to his right.
+- He turns counterclockwise to face her in :ref:`Open hold`.
 
 
 .. _Left open break:
@@ -131,6 +171,22 @@ Left open to left open via duck turn
 - He reverses and turns counterclockwise under his connected left arm into :ref:`Left open hold`.
 
 
+Left open to left open via double inside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, he steps out of her way into crossbody stance.
+- His connected left hand leads forward to his left and in two small counterclockwise circles around her head to signal a double inside turn.
+- He turns to face her into :ref:`Left open hold`.
+
+
+Left open to left open via roundabout double right
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, he breaks back and catches her into a roundabout clockwise couple turn.
+- Halfway through the turn, his right hand guides her under his raised connected left arm and behind him so that they are both facing the same direction and his connected left hand points to her left.
+- He turns counterclockwise to face her and his connected left hand points to her right.
+- His connected left hand swings down and to the right to prepare her for a double right.
+- His connected left hand powers her into a double right spin into :ref:`Left open hold`.
+
+
 Left open to right cross via duck turn [#SalsaRosa]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Left open hold`, he turns clockwise under his connected left arm.
@@ -145,24 +201,6 @@ Left open to right single file
 - His connected right hand turns her to face him while he uses his right foot to hook turn clockwise into :ref:`Right single file hold`.
 
 
-Left open to left open via roundabout and double right
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Left open hold`, he breaks back and catches her into a roundabout couple turn counterclockwise.
-- Halfway through the turn, his right hand guides her under his raised connected left arm and behind him so that they are both facing the same direction and his connected left hand points to her left.
-- He turns counterclockwise to face her and his connected left hand points to her right.
-- His connected left hand swings down and to the right to prepare her for a double right.
-- His connected left hand powers her into a double right spin into :ref:`Left open hold`.
-
-
-Left open to closed via standing dip
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Left open hold`, his left foot steps forward.
-- As his left foot pushes him backward, he tosses his connected left hand to his left and his left hand catches her left hand.
-- He signals an inside turn but his right hand catches her back.
-- His left hand catches her left shoulder and he stands with both legs straight and firmly planted.
-- She dips into his embrace and returns to :ref:`Closed hold`.
-
-
 Left open to left over right via break
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Left open break`, his right hand takes her right hand and his left hand takes her left hand for :ref:`Left over right hold`.
@@ -174,6 +212,12 @@ Left open to left over right via swirl walk
 - He turns ninety degrees to his right with his right arm guiding her clockwise around him.
 - His left foot crosses over his right.
 - His right hand takes her right hand as his left foot steps back into :ref:`Left over right hold`.
+
+
+Left open to catch via toss double inside turn
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left open hold`, he steps out of her way into crossbody stand and his connected left hand tosses her hand to his left.
+- His left hand catches her left wrist and tosses it to his right with enough power to signal a double inside turn into :ref:`Catch hold`.
 
 
 .. _Right cross hold:
@@ -307,14 +351,10 @@ Left over right to open via hand play
 - He finishes turning counterclockwise into :ref:`Open hold`.
 
 
-Left over right to right cross via man cuatro
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Left over right to man right cuatro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - From :ref:`Left over right hold`, he raises his connected left arm.
-- He turns counterclockwise until his connected right hand is behind his waist (man cuatro or man hammerlock).
-- He drapes his connected left hand up and over her head (comb and release).
-- His left arm stylistically circles down, back and up like a matador taunting a bull.
-- As he breaks back, his connected right hand tugs lightly to signal that she should walk forward and he steps diagonally to his right to get out of the way and unravels himself to face her.
-- His connected right hand continues guiding her forward and turns her clockwise to face him into :ref:`Right cross hold`.
+- He turns counterclockwise until his connected right hand is behind his waist into :ref:`Man right cuatro hold`.
 
 
 Left over right to guided support
@@ -362,7 +402,13 @@ Wrap to closed
 .. _Guided support hold:
 
 Guided support hold
-----------------
+-------------------
+
+
+Guided support to left open
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Guided support hold`, his left foot steps forward and his connected right hand scoops downward to unravel the woman in a clockwise turn.
+- His right foot steps forward and he turns counterclockwise under his connected right arm as it scoops upward to face her in :ref:`Left open hold`.
 
 
 Guided support to left over right
@@ -371,31 +417,66 @@ Guided support to left over right
 - His left hand releases and catches her left hand under his right wrist into :ref:`Left over right hold`.
 
 
-.. _Cuatro hold:
+.. _Left cuatro hold:
 
-Cuatro hold
------------
+Left cuatro hold
+----------------
 
 
-Cuatro to sweetheart
-^^^^^^^^^^^^^^^^^^^^
-- From :ref:`Cuatro hold`, his right foot crosses over his left.
+Left cuatro to sweetheart
+^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Left cuatro hold`, his right foot crosses over his left.
 - His left foot steps forward with his hips facing hers as he pushes her right hip back with his connected right hand.
 - His right foot rock steps back.
 - He unravels her forward and counterclockwise into :ref:`Sweetheart hold`.
 
 
-.. _Reverse cuatro hold:
+.. _Right cuatro hold:
 
-Reverse cuatro hold
--------------------
+Right cuatro hold
+-----------------
 His left hand holds her right hand, which is behind her back and near her left hip, while his right hand holds her left hand at shoulder height.
+
+
+.. _Man left cuatro hold:
+
+Man left cuatro hold
+--------------------
+
+
+Man left cuatro to open via basket
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Man left cuatro hold`, his left foot steps diagonally forward.
+- His right arm lifts her right arm out of the way as his right foot steps behind his left foot until he is behind her.
+- His connected hands pull her hips firmly backward.
+- His right foot steps in front of his left foot.
+- His left foot steps in front of her and his right foot returns to :ref:`Open hold`.
+
+
+.. _Man right cuatro hold:
+
+Man right cuatro hold
+---------------------
+
+
+Man right cuator to right cross
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Man right cuatro hold`, his connected left hand drapes up and over her head for comb and release.
+- His left arm stylistically circles down, back and up like a matador taunting a bull.
+- As he breaks back, his connected right hand tugs lightly to signal that she should walk forward and he steps diagonally to his right to get out of the way and unravels himself to face her.
+- His connected right hand continues guiding her forward and turns her clockwise to face him into :ref:`Right cross hold`.
 
 
 .. _Sweetheart hold:
 
 Sweetheart hold
 ---------------
+
+
+Sweetheart to sweetheart via body roll
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Sweetheart hold`, his upper body starts a body roll downward into sitting stance.
+- His lower body starts a body roll upward into :ref:`Sweetheart hold`.
 
 
 Sweetheart to knot
