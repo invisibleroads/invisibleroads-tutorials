@@ -206,6 +206,13 @@ Pidgin is spoken in West Africa
     expensive = dyah
 
 
+Amharic is spoken in Ethiopia
+-----------------------------
+::
+
+    thank you = ah-mah-say' geh-nah'-loo
+
+
 Aramic
 ------
 ::
@@ -941,6 +948,8 @@ Russian
     five = pbeht
     six = shayst
     seven = seem
+    eight = voh'-seem
+    birthday = dyeeng rahj-deen'-iya
 
 
 Norwegian
