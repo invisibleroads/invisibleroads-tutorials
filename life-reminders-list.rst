@@ -468,3 +468,9 @@ what if
 -------
 | 4/22/2014
 | Trying and missing is better than not trying and wondering what if.
+
+
+scientific method
+-----------------
+| 6/16/2014
+| Every day is a new chance to experiment.
