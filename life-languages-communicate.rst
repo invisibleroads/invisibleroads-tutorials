@@ -979,6 +979,21 @@ Russian
     seven = seem
     eight = voh'-seem
     birthday = dyeeng rahj-deen'-iya
+    what is that? = shtoh edah dah koi?
+    water = vah'-dah
+    I want this = ya edah hach-joo'
+    I do not want this = ya edah nee hach-joo'
+    I want water = ya hach-joo' vah-dee'
+    You want water = ti hoht'-gis vah-dee'
+    I like this = ya edah blu-blu
+    I do not like this = ya edah nee blu-blu
+    You like this = ti blu-blis' vah-dee'
+    I eat = ya yem
+    I eat this = ya edah yem
+    spicy = oh'-sdree
+    we = muy
+    why? = poo'-choo-mon?
+    excellent = aht-leech'-nah
 
 
 Norwegian
