@@ -237,6 +237,7 @@ Arabic
     a little = shwai'-yah
     I do not know = lah ah'-rif
     fork = shao'-gkah
+    sweet = heh'-loo
 
 
 Moroccan Arabic
@@ -260,6 +261,7 @@ Hebrew
     good children = yeh-lah-dim' toh-vah'
     thank you = toh-dah'
     what's happening = mah neesh'-mah
+    excellent = met-soo-yahn'
 
 
 Dari is spoken in Afghanistan
@@ -812,6 +814,8 @@ Guatemalan slang
 ----------------
 ::
 
+    oh shit = puchicas
+    hell yeah = puchicas que sí
     hell yeah = cucarachas que sí
     hell yeah = abuelitas que sí
     what's happening? = qué putas
@@ -819,6 +823,31 @@ Guatemalan slang
     how cute! = qué chulo!
     have skills = tener pilas
     have skills in salsa = tener pilas en salsa
+
+
+Nicaraguan slang
+----------------
+::
+
+    no problem = no hay falla (fah'-yah)
+    you have no imagination = tener un cerebro de pollo
+    you are forgetful = tener una cabeza de pollo
+    go to the devil and don't come back = ve te al diablo y no vuelvas más
+    or else = o algo te vas a pasar
+    elbow = un codo
+    be stingy = ser codo
+    breasts = pechugas
+    large breasts = pechugonas
+    skinny legs = las piernas de pollo
+    shapely body = un cuerpo de guitarra
+    to be tired like a zombie = estar desvelado
+    rotten apple = una manzana podrida
+    what's up = qué pasa calabaza?
+    nothing much = nada nada limonada
+    lying man whore = pudo tapudo
+    dummy = un dundo
+    idiot = un baboso
+    toilet paper = quitta caca
 
 
 Spanish
