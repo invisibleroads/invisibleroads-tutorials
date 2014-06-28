@@ -264,6 +264,14 @@ Hebrew
     excellent = met-soo-yahn'
 
 
+Persian is spoken in Iran
+-------------------------
+::
+
+    what is this? = een'-chee-eh?
+    what is that? = oon'-chee-eh?
+
+
 Dari is spoken in Afghanistan
 -----------------------------
 ::
@@ -286,6 +294,11 @@ Turkish
     stick = choo-book'
     hundred = yooz
     what's news = nah'-behr
+    what is that? = bu neh?
+    water = soo
+    I like this = boo noo sehv'-dim
+    I like water = soo yoo sehv'-dim
+    I want water = soo eesti yorum
 
 
 Hungarian
@@ -900,6 +913,7 @@ Dutch
     is = es
     that = dot
     how much is that = ooh vehll es dot
+    children = keen-dehr-roon'
 
 
 German
@@ -994,6 +1008,7 @@ Russian
     we = muy
     why? = poo'-choo-mon?
     excellent = aht-leech'-nah
+    I wish you luck = ya jeh-lah-yoo' tib'-yuh ooh-dah'-chee
 
 
 Norwegian
