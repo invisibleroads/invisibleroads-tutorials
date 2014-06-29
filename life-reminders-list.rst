@@ -474,3 +474,10 @@ scientific method
 -----------------
 | 6/16/2014
 | Every day is a new chance to experiment.
+
+
+for the long term
+-----------------
+| 6/29/2014
+| The only real way to keep her for the long term is to be successful.
+| The only real way to be successful is to be passionate about what I do and not compromise my life mission for short-term gain.
