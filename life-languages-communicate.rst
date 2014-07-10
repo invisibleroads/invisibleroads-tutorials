@@ -761,6 +761,7 @@ Portuguese is spoken in Brazil
 
     hey = oy
     everything good? = too'-doo boh?
+    what's that = keh ee'-soo
 
 
 Q'anjob'al is spoken near Huehuetenango in Guatemala

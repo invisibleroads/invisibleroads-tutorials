@@ -481,3 +481,9 @@ for the long term
 | 6/29/2014
 | The only real way to keep her for the long term is to be successful.
 | The only real way to be successful is to be passionate about what I do and not compromise my life mission for short-term gain.
+
+
+little decision makers
+----------------------
+| 7/10/2014
+| In order to become good decision makers, children must practice making their own decisions and experience the consequences.

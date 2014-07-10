@@ -9,6 +9,7 @@ Salsa
 - Beware of making your partner dizzy with too many turns and spins.
 - If the woman and man turn at the same time, the man signals the woman to turn first, then the man turns but must finish before she does so that he can signal the next lead.
 - Directions are from a bird's eye point of view, so that if a woman turns to her right, she is turning clockwise.
+- Trace your hand along your partner's midline during turns as guidance.
 
 
 .. _Closed hold:
