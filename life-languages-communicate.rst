@@ -356,6 +356,13 @@ Nepali
     my name is ___ = mee'-roo nahm ___ ho
 
 
+Sinhala is spoken in Sri Lanka
+------------------------------
+::
+
+    thank you = stoo'-ti
+
+
 Thai
 ----
 ::
