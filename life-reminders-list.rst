@@ -493,3 +493,10 @@ for dimples
 -----------
 | 7/14/2014
 | Was upset for a while, but realized that, on the bright side, I'm glad that I had the balls to ask, instead of wondering what if, like so many missed opportunities.  Thus, I forgive you and I'm grateful for the shared memories.
+
+
+perfectionism is lethal
+-----------------------
+| 8/3/2014
+| Those in need will not wait for your product to be perfect.
+| Have the courage to act even when the details are incomplete.
