@@ -498,5 +498,5 @@ for dimples
 perfectionism is lethal
 -----------------------
 | 8/3/2014
-| Those in need will not wait for your product to be perfect.
-| Have the courage to act even when the details are incomplete.
+| People will not wait for your work to be perfect.
+| Have the courage to act even if the details are incomplete.
