@@ -500,3 +500,10 @@ perfectionism is lethal
 | 8/3/2014
 | People will not wait for your work to be perfect.
 | Have the courage to act even if the details are incomplete.
+
+
+paths vs goals
+--------------
+| 8/12/2014
+| Reminding yourself of a path that needs work is more effective than criticizing yourself on a goal.
+| The secret to staying focused is to take breaks.
