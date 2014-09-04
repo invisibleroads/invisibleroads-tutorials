@@ -507,3 +507,12 @@ paths vs goals
 | 8/12/2014
 | Reminding yourself of a path that needs work is more effective than criticizing yourself on a goal.
 | The secret to staying focused is to take breaks.
+
+
+female attraction
+-----------------
+| 9/4/2014
+| attraction is not a decision but an emotion
+| women are attracted to masculine behavior
+| confidently take risks
+| be direct in the approach
