@@ -513,3 +513,12 @@ passion vs dedication
 ---------------------
 | 8/30/2014
 | Would you stay in a job that makes you unhappy? I was in a serious relationship for over seven years and stayed with several employers for much longer than necessary. I thought dedication was more important. I have since left these toxic relationships and am leading a much happier life. From experience, I can emphatically say that passion is key to success in any endeavor.
+
+
+female attraction
+-----------------
+| 9/4/2014
+| attraction is not a decision but an emotion
+| women are attracted to masculine behavior
+| confidently take risks
+| be direct in the approach
