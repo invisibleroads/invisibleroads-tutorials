@@ -507,3 +507,9 @@ paths vs goals
 | 8/12/2014
 | Reminding yourself of a path that needs work is more effective than criticizing yourself on a goal.
 | The secret to staying focused is to take breaks.
+
+
+passion vs dedication
+---------------------
+| 8/30/2014
+| Would you stay in a job that makes you unhappy? I was in a serious relationship for over seven years and stayed with several employers for much longer than necessary. I thought dedication was more important. I have since left these toxic relationships and am leading a much happier life. From experience, I can emphatically say that passion is key to success in any endeavor.
