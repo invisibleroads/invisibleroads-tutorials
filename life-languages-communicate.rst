@@ -960,6 +960,13 @@ Serbian
     thank you = hwah'-lah
 
 
+Estonian
+--------
+::
+
+    thank you = aye'-tah
+
+
 Romanian is spoken in Romania and Moldova
 -----------------------------------------
 ::
@@ -975,6 +982,14 @@ Polish
     thank you = djen-koo'-yah
     how are you = yak-sheh-mash'
     good = dohb-zhah'
+
+
+Czech
+-----
+::
+
+    thank you = djeh'-koo-yoo
+    cool = pehk'-nee
 
 
 Slovak
@@ -1039,3 +1054,11 @@ Finnish
 
     thank you = ki'-dos (first syllable has higher pitch than second syllable)
     bye bye = hey'-hey (first syllable has higher pitch than second syllable)
+
+
+Australian slang
+----------------
+::
+
+    have breakfast = have a brekkie
+    make a u-turn = chuck a yoo-ee
