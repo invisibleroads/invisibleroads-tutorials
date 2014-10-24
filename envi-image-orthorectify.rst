@@ -10,6 +10,7 @@ Image providers such as `DigitalGlobe <http://www.digitalglobe.com>`_ strongly r
 Requirements
 ------------
 * `ENVI <http://www.ittvis.com/ProductServices/ENVI.aspx>`_ 
+* Ortho Ready Standard Imagery
 
 
 Walkthrough
@@ -74,6 +75,11 @@ First locate your images.  Below are the typical contents of satellite data acqu
     005613412020_01_README.XML
     schema.ini
 
+Make sure that you have Ortho Ready Standard Imagery by checking the IMD files for the following attribute.
+::
+
+    imageDescriptor = "ORStandard2A";
+
 The ``005613412020_01_P001_MUL`` folder contains the multispectral images and the ``005613412020_01_P001_PAN`` folder contains the corresponding panchromatic images.  Here we have rearranged the files into pairs.
 ::
 
@@ -130,4 +136,4 @@ Begin orthorectification
 * Choose an output file path 
 * Click OK 
   
-The orthorectification process can take anywhere from ten minutes to an hour, depending on the size of the image.
+The orthorectification process can take anywhere from ten minutes to an hour, depending on the size of the image.  Note that you should activate the Geoid option if you are orthorectifying with an SRTM in ArcGIS.
