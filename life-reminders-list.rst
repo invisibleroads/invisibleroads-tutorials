@@ -479,8 +479,8 @@ scientific method
 for the long term
 -----------------
 | 6/29/2014
-| The only real way to keep her for the long term is to be successful.
-| The only real way to be successful is to be passionate about what I do and not compromise my life mission for short-term gain.
+| The real way to keep her for the long term is to be successful.
+| The real way to be successful is to be passionate about what I do and not compromise my life mission for short-term gain.
 
 
 little decision makers
