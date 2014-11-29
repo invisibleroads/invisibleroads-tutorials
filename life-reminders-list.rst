@@ -522,3 +522,9 @@ female attraction
 | women are attracted to masculine behavior
 | confidently take risks
 | be direct in the approach
+
+
+get what you want
+-----------------
+| 11/30/2014
+| Planning increases odds that you will get what you want.
