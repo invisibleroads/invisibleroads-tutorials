@@ -528,3 +528,13 @@ get what you want
 -----------------
 | 11/30/2014
 | Planning increases odds that you will get what you want.
+
+
+do your best
+------------
+| 12/3/2014
+| What can I do to help?
+| You help the family by doing your best.
+| Your friends get stronger when you get stronger.
+| Your responsibility is to survive and take care of yourself.
+| That is how you show love to me.
