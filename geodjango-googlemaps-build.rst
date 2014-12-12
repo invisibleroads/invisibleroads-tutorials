@@ -6,7 +6,8 @@ By the end of this tutorial you will have built a simple GIS web application for
 
     <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Dfd5lzrz7ps&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Dfd5lzrz7ps&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-This tutorial has been updated to work with Django 1.3.
+- `An updated code example is available for Django 1.7 <https://github.com/ivan7707/GeoDjangoTutorial1.7>`_, thanks to `ivan7707 <https://github.com/ivan7707>`_.
+- The steps below use Django 1.3.
 
 
 Example
