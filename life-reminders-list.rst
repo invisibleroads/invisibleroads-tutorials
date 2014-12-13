@@ -538,3 +538,24 @@ do your best
 | Your friends get stronger when you get stronger.
 | Your responsibility is to survive and take care of yourself.
 | That is how you show love to me.
+
+
+plan to get what you want
+-------------------------
+| 12/12/2014
+| If I don't plan and make clear to myself my own goals and what I want,
+| then I end up following what other people want, which leads to resentment.
+| Plan to prepare myself to get what I want.
+| Stay true to what you want to do.
+
+
+ask myself
+----------
+| 12/13/2014
+| Instead of telling myself what to do, ask myself what I feel like doing and do that instead.
+| If I keep getting distracted, then my brain and body are trying to tell me something.
+| Write in my notebook, "What would I like to do now?"
+| After writing three options, circle one and do it.
+| Draw a line through the completed task and ask yourself the question again.
+| Asking questions restores control.
+| Listing options prevents impulsiveness.
