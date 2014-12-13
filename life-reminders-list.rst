@@ -559,3 +559,10 @@ ask myself
 | Draw a line through the completed task and ask yourself the question again.
 | Asking questions restores control.
 | Listing options prevents impulsiveness.
+
+
+consult the locals
+------------------
+| 12/14/2014
+| Before getting in a taxi, ask nearby locals how much the trip will cost.
+| If there is no meter, settle the trip cost with the driver beforehand.
