@@ -552,7 +552,7 @@ plan to get what you want
 ask myself
 ----------
 | 12/13/2014
-| Instead of telling myself what to do, ask myself what I feel like doing and do that instead.
+| Instead of telling myself what to do, ask what I feel like doing and do that instead.
 | If I keep getting distracted, then my brain and body are trying to tell me something.
 | Write in my notebook, "What would I like to do now?"
 | After writing three options, circle one and do it.
@@ -566,3 +566,9 @@ consult the locals
 | 12/14/2014
 | Before getting in a taxi, ask nearby locals how much the trip will cost.
 | If there is no meter, settle the trip cost with the driver beforehand.
+
+
+distance
+--------
+| 12/15/2014
+| With distance, comes distance.
