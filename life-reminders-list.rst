@@ -578,3 +578,11 @@ my goals
 --------
 | 12/24/2014
 | Ultimately, it is my responsibility to realize my own goals.
+
+
+gift of time
+------------
+| 12/25/2014
+| What a gift, to be able to start afresh tomorrow.
+| What a gift, to be able to continue from yesterday.
+| What a gift, to be able to choose today.
