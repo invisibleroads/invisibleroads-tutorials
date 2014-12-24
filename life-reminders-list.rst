@@ -572,3 +572,9 @@ distance
 --------
 | 12/15/2014
 | With distance, comes distance.
+
+
+my goals
+--------
+| 12/24/2014
+| Ultimately, it is my responsibility to realize my own goals.
