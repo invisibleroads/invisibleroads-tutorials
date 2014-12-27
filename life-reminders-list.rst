@@ -574,10 +574,11 @@ distance
 | With distance, comes distance.
 
 
-my goals
---------
+living meaningfully means doing what is most important for me
+-------------------------------------------------------------
 | 12/24/2014
 | Ultimately, it is my responsibility to realize my own goals.
+| Work a few hours each day on what is most important for me.
 
 
 gift of time
