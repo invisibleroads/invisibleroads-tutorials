@@ -577,7 +577,7 @@ distance
 live meaningfully
 -----------------
 | 12/24/2014
-| Ultimately, it is my responsibility to realize my own goals.
+| It is my responsibility to realize my own goals.
 | Work a few hours each day on what is most important for me.
 
 
