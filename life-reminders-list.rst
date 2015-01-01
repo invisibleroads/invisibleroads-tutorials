@@ -584,6 +584,6 @@ live meaningfully
 gift of choice
 --------------
 | 12/25/2014
-| What a gift, to be able to start afresh tomorrow.
-| What a gift, to be able to continue from yesterday.
-| What a gift, to be able to choose today.
+| What a gift, to start afresh tomorrow.
+| What a gift, to continue from yesterday.
+| What a gift, to choose today.
