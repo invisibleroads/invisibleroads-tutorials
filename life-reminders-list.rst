@@ -581,7 +581,7 @@ live meaningfully
 | Work a few hours each day on what is most important for me.
 
 
-gift of time
+gift of life
 ------------
 | 12/25/2014
 | What a gift, to be able to start afresh tomorrow.
