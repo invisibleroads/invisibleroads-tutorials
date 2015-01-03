@@ -587,3 +587,12 @@ gift of choice
 | What a gift, to be able to start afresh tomorrow.
 | What a gift, to be able to continue from yesterday.
 | What a gift, to be able to choose today.
+
+
+right for me
+------------
+| 1/4/2015
+| Going against the wishes of a person close to you is sad
+| but I know I must stick to what feels right for me
+| or else I'll only live half-assed
+| dragging my feet.
