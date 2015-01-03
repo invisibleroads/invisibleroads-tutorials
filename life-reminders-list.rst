@@ -584,15 +584,15 @@ live meaningfully
 gift of choice
 --------------
 | 12/25/2014
-| What a gift, to be able to start afresh tomorrow.
-| What a gift, to be able to continue from yesterday.
-| What a gift, to be able to choose today.
+| What a gift, to start afresh tomorrow.
+| What a gift, to continue from yesterday.
+| What a gift, to choose today.
 
 
 right for me
 ------------
 | 1/4/2015
-| Going against the wishes of a person close to you is sad
+| Going against the wishes of those close to you is sad
 | but I know I must stick to what feels right for me
 | or else I'll only live half-assed
 | dragging my feet.
