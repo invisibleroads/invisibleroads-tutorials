@@ -589,8 +589,8 @@ gift of choice
 | What a gift, to choose today.
 
 
-she is right for me
--------------------
+right for me
+------------
 | 1/4/2015
 | Going against the wishes of those close to you is sad
 | but I know I must stick to what feels right for me
