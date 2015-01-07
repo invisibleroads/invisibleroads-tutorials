@@ -596,3 +596,10 @@ right for me
 | but I know I must stick to what feels right for me
 | or else I'll only live half-assed
 | dragging my feet.
+
+
+how to get unstuck
+------------------
+| 1/7/2015
+| Write a tiny step.
+| Promise a reward.
