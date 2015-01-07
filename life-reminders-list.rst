@@ -601,5 +601,5 @@ right for me
 how to get unstuck
 ------------------
 | 1/7/2015
-| Write a tiny step.
+| Write a baby step.
 | Promise a reward.
