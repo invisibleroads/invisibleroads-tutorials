@@ -609,3 +609,4 @@ habits
 ------
 | 1/13/2015
 | Maybe the key to progress is not goals but habits.
+| Habits are what enable you to reach your goals.
