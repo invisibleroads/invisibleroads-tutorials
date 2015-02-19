@@ -898,6 +898,7 @@ Spanish
     small goal = golecito
     super goal = golazo
     warehouse = bodega
+    mujeriego = womanizer
 
     if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
     leave the water alone if you can't drink it = agua que no has de beber déjala correr
