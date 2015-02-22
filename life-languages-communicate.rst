@@ -1033,6 +1033,7 @@ Russian
     why? = poo'-choo-mon?
     excellent = aht-leech'-nah
     I wish you luck = ya jeh-lah-yoo' tib'-yuh ooh-dah'-chee
+    you are a complicated troublemaker = nyeh pah-dah'-rohk = не подарок
 
 
 Norwegian
