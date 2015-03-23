@@ -276,6 +276,15 @@ Right cross to guided support
 - His connected right arm catches her shoulders into :ref:`Guided support hold`.
 
 
+Right cross to left open via swing step
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- From :ref:`Right cross break`, he raises his connected right arm and steps forward to his left.
+- His left hand catches her left shoulder as he walks around her clockwise until she is in front.
+- His left hand guides her left shoulder forward and his connected right hand guides her right shoulder backward to prepare her for a double left turn.
+- His connected right hand propels her into a double left turn, then he turns counterclockwise to face her.
+- His right hand catches her back as she finishes her turn, swings her 180 degrees forward and 180 degrees again into :ref:`Left open hold`.
+
+
 .. _Right single file hold:
 
 Right single file hold
