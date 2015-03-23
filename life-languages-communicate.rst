@@ -1006,6 +1006,7 @@ Russian
     thank you = cpah-cee'-bah
     good luck = oo-dah'-cheh
     good = ha-ra-sho'
+    cool = kgroo'-dtah
     cool = clah'-snah
     one = oh-deen'
     two = dvah
