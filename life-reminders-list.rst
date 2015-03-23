@@ -603,3 +603,10 @@ how to get unstuck
 | 1/7/2015
 | Write a baby step.
 | Promise a reward.
+
+
+habits
+------
+| 1/13/2015
+| Maybe the key to progress is not goals but habits.
+| Habits are what enable you to reach your goals.
