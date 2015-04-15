@@ -247,6 +247,15 @@ Moroccan Arabic
     lamb = hhow'-li (guttural h)
     two = zjooj
     fork = four-chette'
+    how much is that = bshaael heh'-tha
+
+
+Kabyl is spoken in Algeria
+--------------------------
+::
+
+    thank you = theh'-neh-miert
+    hi = ah-zul'
 
 
 Hebrew
@@ -909,6 +918,9 @@ French
 ::
 
     women = les meufs
+    women = les fums
+    shapely body = une gazelle
+    to play hooky = faire l'école buissonnière
 
 
 Dutch
