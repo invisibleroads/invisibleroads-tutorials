@@ -126,7 +126,7 @@ Adios con la hermana [#PielCanela]_
 
 El uno
 ^^^^^^
-- :ref:`Right cross break`
+- :ref:`Right cross hold`
 - He pulls the woman forward as he moves behind her in crossbody stance so that her back is facing him and his left hand grasps her left hand.
 - He bachata steps behind her to her left and makes eye contact.
 - He bachata steps behind her to her right and makes eye contact.
@@ -152,7 +152,7 @@ El dos
 
 El kentucky [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Open break` with his right hand under her left hand.
+- :ref:`Open hold` with his right hand under her left hand.
 - Clockwise wrap enchufla
 - He moves back to her right but keeps his left hand in place on her left shoulder.
 - He moves to her left, places his connected left hand on his right shoulder and turns clockwise into closed position.
@@ -206,13 +206,13 @@ Sombrero
 Candado, tiempo españa, taro con mano [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - :ref:`Guapea`
-- :ref:`Open break`
+- :ref:`Open hold`
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
 - He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
-- :ref:`Open break`
+- :ref:`Open hold`
 - He raises his connected left hand over and down to her left while walking to her left so that she is in a wrapped embrace on his right.
 - He raises his connected left hand over and down to her right while walking to her right so that she unravels and the couple is in basic stance.
-- :ref:`Open break`
+- :ref:`Open hold`
 - He raises both connected hands over her head while walking to her left but rests his connected right hand on his left shoulder and rests his connected left hand on his right shoulder.
 - Couples walk forward counterclockwise.
 - He turns clockwise into closed position.
@@ -234,7 +234,7 @@ Pelota de cuatro [#SalsaInternational]_
 
 Chisme [#SalsaInternational]_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- :ref:`Open break` with his right hand under her left hand.
+- :ref:`Open hold` with his right hand under her left hand.
 - Clockwise wrap enchufla
 - Man unravels woman with his right hand so that she spins clockwise to his right as he performs a standard :ref:`Enchufla rueda` with the woman on his left.
 
