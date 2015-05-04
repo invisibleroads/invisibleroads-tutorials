@@ -610,3 +610,12 @@ habits
 | 1/13/2015
 | Maybe the key to progress is not goals but habits.
 | Habits are what enable you to reach your goals.
+
+
+assert and defend
+-----------------
+| 5/3/2015
+| If I decide that a request is not in my best interest, then I need to say no firmly and stick to it, regardless of what the other person says or does or how many times the person asks.
+| If the other person proceeds to do what is not in my best interest, then I need to respond and act strongly to respect and defend what is important to me.
+| It is foolish to give in, sacrifice what I want and then seethe afterwards.  If I change my mind and say yes, then I need to take full responsibility for the consequences.
+| Other people have the right to ask me anything, no matter how ridiculous or harmful to myself, but it is my responsibility to protect myself and what is important to me.
