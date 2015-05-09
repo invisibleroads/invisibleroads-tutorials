@@ -880,11 +880,15 @@ Nicaraguan slang
     toilet paper = quitta caca
 
 
-Spanish
--------
+Mexican slang and proverbs
+--------------------------
 ::
 
-    what (respectfully) = mande
+    wow = oh'-rah-leh
+    damn = ee'-hoh-leh
+    
+    what (respectfully) = man-deh'
+    excuse me = con permiso
 
     cool = chido
     gluttonous = cuzco
@@ -907,10 +911,31 @@ Spanish
     small goal = golecito
     super goal = golazo
     warehouse = bodega
-    mujeriego = womanizer
+    womanizer = mujeriego
 
-    if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
+    special food = guisano
+    special food = chicatana
+    special food = escamole
+
+    when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
+    better to be on time than to be invited = mas vale que llegar a tiempo que ser invitado de honor
+    adapt to your environment = as como fueres, as como vieres = a donde fueres, as lo que vieres
+    better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
+    say good things about other people = el escupe al cielo, en la cara le caie
+    rumors have some basis in truth = cuando el rio suena, es porque agua lleva
+
+    don't serve your own drink = nunca el burro se carga solo
+    drink until dawn = hasta la madre
+    no problem = no hay pedo
+    no problem = no hay falla
+
     leave the water alone if you can't drink it = agua que no has de beber déjala correr
+    what the eyes do not see, the heart does not feel = ojos que no ven, corazon que no siente
+    if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
+    don't bother me when I'm eating = yo so juan orrosco, cuando como, no conozco
+    don't bother me when I'm working = en horas de trabajo, los amigos al carajo
+    ? = borrego que chilla, piedre bocado
+    ? = tiene rabo, que le piscen
 
 
 French
