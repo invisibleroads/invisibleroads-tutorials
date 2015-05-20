@@ -934,8 +934,9 @@ Mexican slang and proverbs
     if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
     don't bother me when I'm eating = yo so juan orrosco, cuando como, no conozco
     don't bother me when I'm working = en horas de trabajo, los amigos al carajo
-    ? = borrego que chilla, piedre bocado
-    ? = tiene rabo, que le piscen
+    he who complains that he does not have enough will lose what he has already = borrego que chilla, piedre bocado
+    pay attention or you will get lost = camarón que se duerme, se lo lleva la corriente
+    everyone has said or done embarassing things = tiene cola que le pisen
 
 
 French
