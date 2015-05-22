@@ -949,6 +949,13 @@ French
     to play hooky = faire l'école buissonnière
 
 
+Catalan
+-------
+::
+
+    good luck = keh teeng ees mohl' tahs sohlt
+
+
 Dutch
 -----
 ::
