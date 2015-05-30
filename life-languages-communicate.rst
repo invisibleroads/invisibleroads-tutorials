@@ -937,6 +937,7 @@ Mexican slang and proverbs
     he who complains that he does not have enough will lose what he has already = borrego que chilla, piedre bocado
     pay attention or you will get lost = camarón que se duerme, se lo lleva la corriente
     everyone has said or done embarassing things = tiene cola que le pisen
+    one captured bird has more immediate value than a hundred flying birds = más vale pájaro en mano que ciento volando
 
 
 French
