@@ -637,3 +637,9 @@ time cushion
 | A generous time cushion is important when events are unpredictable and uncontrollable.
 | With more time, there are more options; you can negotiate and relax.
 | Being relaxed is good for your health.
+
+
+keep your family and business completely separated
+--------------------------------------------------
+| 6/4/2015
+| Friends do not necessarily make good business partners.
