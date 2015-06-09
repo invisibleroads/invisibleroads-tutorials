@@ -643,3 +643,11 @@ keep your family and business completely separated
 --------------------------------------------------
 | 6/4/2015
 | Friends do not necessarily make good business partners.
+
+
+socratic method
+---------------
+| 6/9/2015
+| What do you like to do?
+| What are you good at?
+| How would you define success for this project?
