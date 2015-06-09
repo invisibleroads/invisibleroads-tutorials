@@ -650,4 +650,5 @@ socratic method
 | 6/9/2015
 | What do you like to do?
 | What are you good at?
+| Is there someone who might enjoy doing the work that you dislike?
 | How would you define success for this project?
