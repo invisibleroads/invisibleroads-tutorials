@@ -652,3 +652,9 @@ socratic method
 | What are you good at?
 | Is there someone who might enjoy doing the work that you dislike?
 | How would you define success for this project?
+
+
+smaller tasks
+-------------
+| 7/20/2015
+| The less I can concentrate, the smaller my tasks must be.

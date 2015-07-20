@@ -315,6 +315,8 @@ Hungarian
 ::
 
     thank you = kuh'-suh-num
+    what is this? = mi ez
+    what is that? = mi oz
 
 
 Farsi
