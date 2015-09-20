@@ -664,3 +664,9 @@ while I can
 -----------
 | 8/7/2015
 | Time passes. You might be here, but so far away. And I feel guilty for not having kept my promises, even to myself. When will I reach my goals? Why do I often lose focus? Please forgive me, but I will do better today bit by bit while I can.
+
+
+punctual progress
+-----------------
+| 9/20/2015
+| As long as I'm closer and closer to being on time with my promises, there is progress.
