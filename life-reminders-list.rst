@@ -670,3 +670,9 @@ punctual progress
 -----------------
 | 9/20/2015
 | As long as I'm closer and closer to being on time with my promises, there is progress.
+
+
+deadlines
+---------
+| 10/10/2015
+| Maybe deadlines are the key to progress.

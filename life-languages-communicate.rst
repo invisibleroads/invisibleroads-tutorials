@@ -940,6 +940,7 @@ Mexican slang and proverbs
     pay attention or you will get lost = camarón que se duerme, se lo lleva la corriente
     everyone has said or done embarassing things = tiene cola que le pisen
     one captured bird has more immediate value than a hundred flying birds = más vale pájaro en mano que ciento volando
+    take care of your relationships or you will lose them = el que tiene tienda, que la atienda, sinon, que la venda
 
 
 French
