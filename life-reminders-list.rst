@@ -676,3 +676,10 @@ deadlines
 ---------
 | 10/10/2015
 | Maybe deadlines are the key to progress.
+
+
+order of operations
+-------------------
+| 10/16/2015
+| Don't give me that nonsense about being too busy for your own health.
+| Cultivate mind and body, do work that is fulfilling, find a way to make a living from it, seek a mate, build a family, in that order.
