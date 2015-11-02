@@ -1,11 +1,11 @@
 # Import system modules
+import Image
+import cPickle as pickle
+import io as StringIO
+import numpy
 import osgeo.gdal
 import osgeo.osr
 import struct
-import numpy
-import Image
-import cPickle as pickle
-import cStringIO as StringIO
 # Import custom modules
 import store
 import view

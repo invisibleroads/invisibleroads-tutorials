@@ -159,7 +159,7 @@ def loadQueue(queuePath, convertByName):
 
 def convertValueByName(valueByName, convertByName):
     # For each name,
-    for name, value in valueByName.iteritems():
+    for name, value in valueByName.items():
         # Convert
         try: 
             convert = convertByName[name]
