@@ -683,3 +683,9 @@ order of operations
 | 10/16/2015
 | Don't give me that nonsense about being too busy for your own health.
 | Cultivate mind and body, do work that is fulfilling, find a way to make a living from it, seek a mate, build a family, in that order.
+
+
+to my sister
+------------
+| 11/11/2015
+| You can call me whenever you need help or support, even if you're with someone I don't like or do something I don't like. But I'm not going to try to control your life (like Daddy did with Mommy), because I respect your right to make your own decisions.
