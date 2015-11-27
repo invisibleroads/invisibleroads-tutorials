@@ -689,3 +689,9 @@ to my sister
 ------------
 | 11/11/2015
 | You can call me whenever you need help or support, even if you're with someone I don't like or do something I don't like. But I'm not going to try to control your life (like Daddy did with Mommy), because I respect your right to make your own decisions.
+
+
+secret to finishing
+-------------------
+| 11/27/2015
+| By continually starting where you stopped, you will eventually finish.
