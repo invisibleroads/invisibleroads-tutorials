@@ -694,7 +694,7 @@ secret to finishing
 how to steer
 ------------
 | 11/28/2015
-| Set your own schedule or you will follow someone else's schedule.
+| Set your own habits or you will follow someone else's habits.
 | Be strict.
 | Don't let other people override your plans.
 
