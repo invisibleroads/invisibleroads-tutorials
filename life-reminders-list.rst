@@ -702,6 +702,8 @@ how to steer
 what does it mean to stand up for myself?
 -----------------------------------------
 | 11/28/2015
-| Standing up for myself means saying no and refusing to be treated a certain way and telling the other person to treat me better.
+| Say no.
+| Refuse to be treated a certain way.
+| Tell the other person to treat me better.
 | Negotiate for what I want.
 | Protect what is important to me.
