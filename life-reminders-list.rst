@@ -704,6 +704,6 @@ what does it mean to stand up for myself?
 | 11/28/2015
 | Say no.
 | Refuse to be treated a certain way.
-| Tell the other person to treat me better.
+| Tell the other person how it makes me feel.
 | Negotiate for what I want.
 | Protect what is important to me.
