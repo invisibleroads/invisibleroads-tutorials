@@ -695,3 +695,18 @@ secret to finishing
 -------------------
 | 11/27/2015
 | By continually starting where you stopped, you will eventually finish.
+
+
+how to steer
+------------
+| 11/28/2015
+| Set your own schedule or you will follow someone else's schedule.
+| Be strict.
+| Don't let other people override your plans.
+
+
+what does it mean to stand up for myself?
+-----------------------------------------
+| 11/28/2015
+| Standing up for myself means saying no and refusing to be treated a certain way and telling the other person to treat me better.
+| It means negotiating for what I want.
