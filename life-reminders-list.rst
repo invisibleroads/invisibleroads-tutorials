@@ -685,12 +685,6 @@ order of operations
 | Cultivate mind and body, do work that is fulfilling, find a way to make a living from it, seek a mate, build a family, in that order.
 
 
-to my sister
-------------
-| 11/11/2015
-| You can call me whenever you need help or support, even if you're with someone I don't like or do something I don't like. But I'm not going to try to control your life (like Daddy did with Mommy), because I respect your right to make your own decisions.
-
-
 secret to finishing
 -------------------
 | 11/27/2015
@@ -709,4 +703,5 @@ what does it mean to stand up for myself?
 -----------------------------------------
 | 11/28/2015
 | Standing up for myself means saying no and refusing to be treated a certain way and telling the other person to treat me better.
-| It means negotiating for what I want.
+| Negotiate for what I want.
+| Protect what is important to me.
