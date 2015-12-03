@@ -707,3 +707,15 @@ what does it mean to stand up for myself?
 | Tell the other person how it makes me feel.
 | Negotiate for what I want.
 | Protect what is important to me.
+
+
+aura of invincibility
+---------------------
+| 12/3/2015
+| Spiritually weak means you keep finding yourself in a recurring nightmare situation.
+| Spiritually strong means that you are able to steer your life in the direction you want.
+|
+| Those who are spiritually weak are easy to hurt, insult and manipulate and they do this to themselves; they trip themselves.
+| Those who are spiritually strong are unshakable and radiate strength to others.
+|
+| The very spiritually strong have an aura of invincibility.
