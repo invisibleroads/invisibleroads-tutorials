@@ -699,6 +699,18 @@ how to steer
 | Don't let other people override your plans.
 
 
+aura of invincibility
+---------------------
+| 12/3/2015
+| Spiritually weak means you keep finding yourself in a recurring nightmare situation.
+| Spiritually strong means that you are able to steer your life in the direction you want.
+|
+| Those who are spiritually weak are easy to hurt, insult and manipulate and they do this to themselves; they trip themselves.
+| Those who are spiritually strong are unshakable and radiate strength to others.
+|
+| The very spiritually strong have an aura of invincibility.
+
+
 don't do long distance
 ----------------------
 | 12/27/2015
