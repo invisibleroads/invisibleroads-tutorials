@@ -699,11 +699,9 @@ how to steer
 | Don't let other people override your plans.
 
 
-what does it mean to stand up for myself?
------------------------------------------
-| 11/28/2015
-| Say no.
-| Refuse to be treated a certain way.
-| Tell the other person how it makes me feel.
-| Negotiate for what I want.
-| Protect what is important to me.
+don't do long distance
+----------------------
+| 12/27/2015
+| Don't do long distance -- it's not worth it.
+| Focus your energy on someone local.
+| You don't want to get tied up when she's just using you for backup.
