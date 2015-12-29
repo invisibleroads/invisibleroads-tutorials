@@ -691,14 +691,6 @@ secret to finishing
 | By continually starting where you stopped, you will eventually finish.
 
 
-how to steer
-------------
-| 11/28/2015
-| Set your own habits or you will follow someone else's habits.
-| Be strict.
-| Don't let other people override your plans.
-
-
 aura of invincibility
 ---------------------
 | 12/3/2015
@@ -711,9 +703,9 @@ aura of invincibility
 | The very spiritually strong have an aura of invincibility.
 
 
-don't do long distance
-----------------------
-| 12/27/2015
-| Don't do long distance -- it's not worth it.
-| Focus your energy on someone local.
-| You don't want to get tied up when she's just using you for backup.
+start start start start start start start
+-----------------------------------------
+| 12/29/2015
+| Repeatedly try to stop destructive tasks by starting restorative tasks.
+| Repeatedly try to start productive tasks.
+| Keep setting the countdown timer for repeated attempts.
