@@ -924,7 +924,7 @@ Mexican slang and proverbs
     adapt to your environment = as como fueres, as como vieres = a donde fueres, as lo que vieres
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
     say good things about other people = el escupe al cielo, en la cara le caie
-    rumors have some basis in truth = cuando el rio suena, es porque agua lleva
+    rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque trae algo
 
     don't serve your own drink = nunca el burro se carga solo
     drink until dawn = hasta la madre
@@ -1085,6 +1085,8 @@ Russian
     excellent = aht-leech'-nah
     I wish you luck = ya jeh-lah-yoo' tib'-yuh ooh-dah'-chee
     you are a complicated troublemaker = nyeh pah-dah'-rohk = не подарок
+    you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
+    without work you cannot pull the fish from the pond = behz troo-dah nyeh vh-tah-shish ee roob-koo eez proo-dah
 
 
 Norwegian
