@@ -924,7 +924,7 @@ Mexican slang and proverbs
     adapt to your environment = as como fueres, as como vieres = a donde fueres, as lo que vieres
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
     say good things about other people = el escupe al cielo, en la cara le caie
-    rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque trae algo
+    rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
 
     don't serve your own drink = nunca el burro se carga solo
     drink until dawn = hasta la madre
