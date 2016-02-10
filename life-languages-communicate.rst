@@ -365,6 +365,8 @@ Nepali
     what is that? = tyoh-keh'-ho?
     what is your name? = dtah pah'-ee-koh nahm key'-ho?
     my name is ___ = mee'-roo nahm ___ ho
+    new = sahr
+    year = loh
 
 
 Sinhala is spoken in Sri Lanka
