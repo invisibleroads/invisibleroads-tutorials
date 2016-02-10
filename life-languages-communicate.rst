@@ -1086,7 +1086,7 @@ Russian
     I wish you luck = ya jeh-lah-yoo' tib'-yuh ooh-dah'-chee
     you are a complicated troublemaker = nyeh pah-dah'-rohk = не подарок
     you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
-    without work you cannot pull the fish from the pond = behz troo-dah nyeh vh-tah-shish ee roob-koo eez proo-dah
+    without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
 
 
 Norwegian
