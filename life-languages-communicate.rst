@@ -944,6 +944,7 @@ Mexican slang and proverbs
     one captured bird has more immediate value than a hundred flying birds = más vale pájaro en mano que ciento volando
     take care of your relationships or you will lose them = el que tiene tienda, que la atienda, sinon, que la venda
     money talks = en tierra ajena, no hay más amigo ni más pariente cercano que un peso en la mano
+    those who wake early will succeed = al que madruga dios le ayuda
 
 
 French
