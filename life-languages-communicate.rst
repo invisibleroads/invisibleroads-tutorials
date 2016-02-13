@@ -1124,3 +1124,4 @@ Australian slang
 
     have breakfast = have a brekkie
     make a u-turn = chuck a yoo-ee
+    true american = fare dinkam yankee
