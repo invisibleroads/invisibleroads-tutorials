@@ -884,26 +884,25 @@ Nicaraguan slang
     toilet paper = quitta caca
 
 
-Mexican slang and proverbs
---------------------------
+Mexican slang
+-------------
 ::
 
     wow = oh'-rah-leh
     damn = ee'-hoh-leh
-    
+    no problem = no hay pedo
+    no problem = no hay falla
+    drink until dawn = hasta la madre
     what (respectfully) = man-deh'
     excuse me = con permiso
-
     cool = chido
     gluttonous = cuzco
     mature = madurito
     stupid = wei
-
     to cry = chazar
     to chat = platicar
     to store = almacenar
     to improve = superar
-
     asshole = cabrón
     badass = chingón
     idiot = pendejo
@@ -916,10 +915,14 @@ Mexican slang and proverbs
     super goal = golazo
     warehouse = bodega
     womanizer = mujeriego
-
     special food = guisano
     special food = chicatana
     special food = escamole
+
+
+Latin American proverbs
+-----------------------
+::
 
     when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
     better to be on time than to be invited = mas vale que llegar a tiempo que ser invitado de honor
@@ -927,11 +930,7 @@ Mexican slang and proverbs
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
     say good things about other people = el escupe al cielo, en la cara le caie
     rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
-
     don't serve your own drink = nunca el burro se carga solo
-    drink until dawn = hasta la madre
-    no problem = no hay pedo
-    no problem = no hay falla
 
     leave the water alone if you can't drink it = agua que no has de beber déjala correr
     what the eyes do not see, the heart does not feel = ojos que no ven, corazon que no siente
@@ -944,6 +943,11 @@ Mexican slang and proverbs
     one captured bird has more immediate value than a hundred flying birds = más vale pájaro en mano que ciento volando
     take care of your relationships or you will lose them = el que tiene tienda, que la atienda, sinon, que la venda
     money talks = en tierra ajena, no hay más amigo ni más pariente cercano que un peso en la mano
+
+    noisy chicks get the food = quien no llora, no mama 
+    guests are unwelcome if they abuse your hospitality = el muerto y el arrimado a los tres dias apestan
+    mind your own business = zapatero a tu zapato
+    keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
 
 
