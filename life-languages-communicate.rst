@@ -949,6 +949,7 @@ Latin American proverbs
     mind your own business = zapatero a tu zapato
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
+    if you want a good hairstyle, endure the tugging = si quiere quiere moño bonito, aguanta jalones
 
 
 French
