@@ -709,3 +709,11 @@ start start start start start start start
 | Repeatedly try to stop destructive tasks by starting restorative tasks.
 | Repeatedly try to start productive tasks.
 | Keep setting the countdown timer for repeated attempts.
+
+
+Consent is bolder
+-----------------
+| 2/18/2016
+| Getting verbal or physical consent is the bolder action because you make yourself vulnerable to the risk of rejection.
+| It is possible to be ballsy and adventurous and get continual consent.
+| The decision metric to choose the bolder action still holds.
