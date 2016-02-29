@@ -717,3 +717,13 @@ Consent is bolder
 | Getting verbal or physical consent is the bolder action because you make yourself vulnerable to the risk of rejection.
 | It is possible to be ballsy and adventurous and get continual consent.
 | The decision metric to choose the bolder action still holds.
+
+
+
+What are the opportunities that I have now?
+-------------------------------------------
+| 2/24/2016
+| The truth is, there is no way for me to know whether things would have turned out better if I had taken a different path. The only thing to do is to take advantage of the opportunities that I have now.
+| What do I really want?
+| What are the opportunities that I have now?
+| What can I do today to help myself tomorrow?
