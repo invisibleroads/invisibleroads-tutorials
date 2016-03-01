@@ -727,3 +727,9 @@ What are the opportunities that I have now?
 | What do I really want?
 | What are the opportunities that I have now?
 | What can I do today to help myself tomorrow?
+
+
+Scope and time frame
+--------------------
+| 3/1/2016
+| Scope and time frame define a project. If the scope changes, then it is a different project.
