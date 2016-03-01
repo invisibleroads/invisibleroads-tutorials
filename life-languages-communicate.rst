@@ -920,8 +920,8 @@ Mexican slang
     special food = escamole
 
 
-Latin American proverbs
------------------------
+Latin American proverbs in Spanish
+----------------------------------
 ::
 
     when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
@@ -1093,8 +1093,10 @@ Russian
     excellent = aht-leech'-nah
     I wish you luck = ya jeh-lah-yoo' tib'-yuh ooh-dah'-chee
     you are a complicated troublemaker = nyeh pah-dah'-rohk = не подарок
+
     you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
+    bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
 
 
 Norwegian
