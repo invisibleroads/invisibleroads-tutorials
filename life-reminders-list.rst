@@ -733,3 +733,9 @@ Scope and time frame
 --------------------
 | 3/1/2016
 | Scope and time frame define a project. If the scope changes, then it is a different project.
+
+
+Builder's morale
+----------------
+| 3/2/2016
+| The key to getting the most creativity and productivity out of your builders is to motivate them with what the user needs rather than exert more control. Anything that decreases a builder's motivation or morale will hurt the long-term health of a project.
