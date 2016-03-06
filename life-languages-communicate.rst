@@ -949,7 +949,11 @@ Latin American proverbs in Spanish
     mind your own business = zapatero a tu zapato
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
+
     if you want a good hairstyle, endure the tugging = si quiere quiere moño bonito, aguanta jalones
+    do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
+    better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
+    tell me with whom you walk and I'll tell you who you are = dime con quién andas, y te diré quién eres
 
 
 French
