@@ -954,6 +954,7 @@ Latin American proverbs in Spanish
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
     better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
     tell me with whom you walk and I'll tell you who you are = dime con quién andas, y te diré quién eres
+    even if the chimpanzee dresses in silk, it remains a chimpanzee = aunque la mona se vista de seda, mona se queda
 
 
 French
@@ -1115,6 +1116,14 @@ Norwegian
     hest = horse
     pickup artist = bahl'-hest
     uh-oh = oof'-tah
+
+
+Sweden
+------
+::
+
+    hi = hey'-dohrr
+    excellent = yehk'-teh-brrah
 
 
 Finnish
