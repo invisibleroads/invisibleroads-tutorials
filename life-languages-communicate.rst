@@ -929,32 +929,35 @@ Latin American proverbs in Spanish
     adapt to your environment = as como fueres, as como vieres = a donde fueres, as lo que vieres
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
     say good things about other people = el escupe al cielo, en la cara le caie
+
     rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
     don't serve your own drink = nunca el burro se carga solo
-
     leave the water alone if you can't drink it = agua que no has de beber déjala correr
     what the eyes do not see, the heart does not feel = ojos que no ven, corazon que no siente
     if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
+
     don't bother me when I'm eating = yo so juan orrosco, cuando como, no conozco
     don't bother me when I'm working = en horas de trabajo, los amigos al carajo
     he who complains that he does not have enough will lose what he has already = borrego que chilla, piedre bocado
     pay attention or you will get lost = camarón que se duerme, se lo lleva la corriente
     everyone has said or done embarassing things = tiene cola que le pisen
+
     one captured bird has more immediate value than a hundred flying birds = más vale pájaro en mano que ciento volando
     take care of your relationships or you will lose them = el que tiene tienda, que la atienda, sinon, que la venda
     money talks = en tierra ajena, no hay más amigo ni más pariente cercano que un peso en la mano
-
-    noisy chicks get the food = quien no llora, no mama 
     guests are unwelcome if they abuse your hospitality = el muerto y el arrimado a los tres dias apestan
     mind your own business = zapatero a tu zapato
+
+    noisy chicks get the food = quien no llora, no mama 
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
+    better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
+    tell me with whom you walk and I'll tell you who you are = dime con quién andas, y te diré quién eres
 
     if you want a good hairstyle, endure the tugging = si quiere quiere moño bonito, aguanta jalones
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
-    better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
-    tell me with whom you walk and I'll tell you who you are = dime con quién andas, y te diré quién eres
     even if the chimpanzee dresses in silk, it remains a chimpanzee = aunque la mona se vista de seda, mona se queda
+    where there was fire, ashes remain = donde hubo fuego, cenizas quedan
 
 
 French
