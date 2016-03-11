@@ -347,6 +347,7 @@ Hindi
     
     thank you = shoo'-krree-ah
     water = bpah'-nee
+    meat = mah'-s
 
 
 Bengali
@@ -1064,6 +1065,13 @@ Slovak
 ::
 
     thank you = djah-koo'-yem
+
+
+Kazakh
+------
+::
+
+    thank you = rrahk-meht'
 
 
 Russian
