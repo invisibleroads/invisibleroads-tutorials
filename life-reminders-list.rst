@@ -711,7 +711,7 @@ start start start start start start start
 | Keep setting the countdown timer for repeated attempts.
 
 
-Consent is bolder
+consent is bolder
 -----------------
 | 2/18/2016
 | Getting verbal or physical consent is the bolder action because you make yourself vulnerable to the risk of rejection.
@@ -720,8 +720,8 @@ Consent is bolder
 
 
 
-What are the opportunities that I have now?
--------------------------------------------
+opportunities now
+-----------------
 | 2/24/2016
 | The truth is, there is no way for me to know whether things would have turned out better if I had taken a different path. The only thing to do is to take advantage of the opportunities that I have now.
 | What do I really want?
@@ -729,13 +729,19 @@ What are the opportunities that I have now?
 | What can I do today to help myself tomorrow?
 
 
-Scope and time frame
---------------------
+scope
+-----
 | 3/1/2016
 | Scope and time frame define a project. If the scope changes, then it is a different project.
 
 
-Builder's morale
+builder's morale
 ----------------
 | 3/2/2016
 | The key to getting the most creativity and productivity out of your builders is to motivate them with what the user needs rather than exert more control. Anything that decreases a builder's motivation or morale will hurt the long-term health of a project.
+
+
+private
+-------
+| 4/5/2016
+| Nothing shared is ever private.
