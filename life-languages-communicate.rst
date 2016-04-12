@@ -951,6 +951,10 @@ Latin American proverbs in Spanish
     those who wake early will succeed = al que madruga dios le ayuda
     if you want a good hairstyle, endure the tugging = si quiere quiere moño bonito, aguanta jalones
 
+    something non-essential is turning out to be more expensive than what it is worth = the soup is more expensive than the meatballs = cuesta más caro el caldo que las albóndigas
+    he is exaggerating his stories = echarle mucha crema a sus tacos
+    she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
+
 
 French
 ------
