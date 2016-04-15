@@ -963,6 +963,7 @@ Latin American proverbs in Spanish
     something non-essential is turning out to be more expensive than what it is worth = the soup is more expensive than the meatballs = cuesta más caro el caldo que las albóndigas
     he is exaggerating his stories = echarle mucha crema a sus tacos
     she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
+    the boasting fool will regret it tomorrow = alábate pato que mañana te mato
 
 
 French
