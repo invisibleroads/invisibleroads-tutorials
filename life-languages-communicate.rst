@@ -965,6 +965,8 @@ Latin American proverbs in Spanish
     she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
     the boasting fool will regret it tomorrow = alábate pato que mañana te mato
 
+    stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
+
 
 French
 ------
