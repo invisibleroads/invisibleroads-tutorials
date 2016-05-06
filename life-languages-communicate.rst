@@ -963,9 +963,12 @@ Latin American proverbs in Spanish
 
     he is exaggerating his stories = echarle mucha crema a sus tacos
     she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
+    the boasting fool will regret it tomorrow = alábate pato que mañana te mato
+    stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
+
+    better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
     rich get richer and the poor get poorer = cuando el pobre lava, llueve
     sometimes challenges contain opportunities = no hay mal que por bien no venga
-    better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
 
 
 French
@@ -1120,6 +1123,7 @@ Russian
     you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
     bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
+    do not say ho, until they are hatched = не говори гоп, пока не перепрыгнешь
 
 
 Norwegian
