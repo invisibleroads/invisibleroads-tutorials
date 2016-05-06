@@ -959,10 +959,13 @@ Latin American proverbs in Spanish
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
     even if the chimpanzee dresses in silk, it remains a chimpanzee = aunque la mona se vista de seda, mona se queda
     where there was fire, ashes remain = donde hubo fuego, cenizas quedan
-
     something non-essential is turning out to be more expensive than what it is worth = the soup is more expensive than the meatballs = cuesta más caro el caldo que las albóndigas
+
     he is exaggerating his stories = echarle mucha crema a sus tacos
     she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
+    rich get richer and the poor get poorer = cuando el pobre lava, llueve
+    sometimes challenges contain opportunities = no hay mal que por bien no venga
+    better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
 
 
 French
