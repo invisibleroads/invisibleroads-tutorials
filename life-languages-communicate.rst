@@ -1120,6 +1120,7 @@ Russian
     you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
     bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
+    do not say ho, until they are hatched = не говори гоп, пока не перепрыгнешь
 
 
 Norwegian
