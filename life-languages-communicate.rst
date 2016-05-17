@@ -967,8 +967,9 @@ Latin American proverbs in Spanish
     stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
 
     better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
-    rich get richer and the poor get poorer = cuando el pobre lava, llueve
     sometimes challenges contain opportunities = no hay mal que por bien no venga
+    rich get richer and the poor get poorer = cuando el pobre lava, llueve
+    misfortune follows misfortune = llueve sobre mojado
 
 
 French
