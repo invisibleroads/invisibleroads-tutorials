@@ -745,3 +745,9 @@ private
 -------
 | 4/5/2016
 | Nothing shared is ever private.
+
+
+rest to live
+------------
+| 5/28/2016
+| It is important to be well rested to make good decisions.
