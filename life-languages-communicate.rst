@@ -783,6 +783,8 @@ Portuguese is spoken in Brazil
     hey = oy
     everything good? = too'-doo boh?
     what's that = keh ee'-soo
+    cool = mah'-sah
+    cool = leh-gahl'
 
 
 Q'anjob'al is spoken near Huehuetenango in Guatemala
@@ -1122,6 +1124,9 @@ Russian
     excellent = aht-leech'-nah
     I wish you luck = ya jeh-lah-yoo' tib'-yuh ooh-dah'-chee
     you are a complicated troublemaker = nyeh pah-dah'-rohk = не подарок
+    wow = oohk'-tee
+    simple = prroh'-stah = простой / проста
+    ducklings' dance = танец маленьких утят
 
     you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
