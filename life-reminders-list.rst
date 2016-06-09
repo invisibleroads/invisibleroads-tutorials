@@ -747,6 +747,13 @@ private
 | Nothing shared is ever private.
 
 
+let people speak for themselves
+-------------------------------
+| 5/14/2016
+| Instead of stating, "I don't think she knows about XYZ."
+| Ask, "Do you know about XYZ?"
+
+
 rest to live
 ------------
 | 5/28/2016
