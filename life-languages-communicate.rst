@@ -308,6 +308,7 @@ Turkish
     I like this = boo noo sehv'-dim
     I like water = soo yoo sehv'-dim
     I want water = soo eesti yorum
+    cookie = koo-rah'-bee-yeh
 
 
 Hungarian
