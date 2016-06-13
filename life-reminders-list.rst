@@ -758,3 +758,9 @@ rest to live
 ------------
 | 5/28/2016
 | It is important to be well rested to make good decisions.
+
+
+mission alignment
+-----------------
+| 6/13/2016
+| She left because we didn't give her a chance to contribute in a way that was aligned with her personal goals.
