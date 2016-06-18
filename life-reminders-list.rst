@@ -763,4 +763,14 @@ rest to live
 mission alignment
 -----------------
 | 6/13/2016
-| She left because we didn't give her a chance to contribute in a way that was aligned with her personal goals.
+| She left because we didn't give her a chance to contribute in a way that was aligned with her dream goals.
+
+
+notes for team leaders
+----------------------
+| 6/16/2016
+| Focus on results and the user's perspective; you do not need to know exactly how it works.
+| Schedule a demo once every two weeks. The demo does not have to be fancy; even a command-line script is sufficient. Pay attention and provide positive feedback during demos to motivate and boost engineer morale. A safe and supportive environment is important. Avoid criticizing what is wrong as this causes people to blame each other; instead, focus on next steps and what you would like to see for the next demo.
+| Avoid raising emergencies as this can be toxic to team morale and lead to burnout; cost is two weeks of unproductive recovery time for every week of high stress, or worse, loss of a valuable team member.
+| Empower a trusted senior engineer to enforce code quality.
+| Take time to learn the dream goals of each team member, then give a choice of missions that align with their dream goals.
