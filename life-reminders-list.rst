@@ -435,7 +435,6 @@ motivate units
 | People are more motivated if they have control over the solution.
 
 
-
 clarify and confirm
 -------------------
 | 3/22/2014
