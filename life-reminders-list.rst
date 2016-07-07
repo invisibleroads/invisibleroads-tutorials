@@ -773,3 +773,9 @@ notes for team leaders
 | Avoid raising emergencies as this can be toxic to team morale and lead to burnout; cost is two weeks of unproductive recovery time for every week of high stress, or worse, loss of a valuable team member.
 | Empower a trusted senior engineer to enforce code quality.
 | Take time to learn the dream goals of each team member, then give a choice of missions that align with their dream goals.
+
+
+rest to work
+------------
+| 6/7/2016
+| The lesson that I keep forgetting is that working while exhausted is not a good use of time. If I am staring at the computer struggling to remember what I am trying to do, then make a small plan and go to sleep.
