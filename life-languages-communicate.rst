@@ -974,7 +974,10 @@ Latin American proverbs in Spanish
     rich get richer and the poor get poorer = cuando el pobre lava, llueve
     misfortune follows misfortune = llueve sobre mojado
 
-    familiar bad is better than unfamiliar good = vale más lo malo conocido que lo bueno por conocer
+    familiar bad is more useful than unfamiliar good = vale más lo malo conocido que lo bueno por conocer
+    don't worry if someone is ahead of you, you can catch up if you run well = no van lejos los de adelante si los de atrás corren bien
+    eye for eye, tooth for tooth = ojo por ojo, diente por diente
+    now is your chance to shine while you can = date brillo cadena que tu mojo llega
 
 
 French
