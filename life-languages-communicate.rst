@@ -303,7 +303,7 @@ Turkish
     stick = choo-book'
     hundred = yooz
     what's news = nah'-behr
-    what is that? = bu neh?
+    what is that? = bu'-neh?
     water = soo
     I like this = boo noo sehv'-dim
     I like water = soo yoo sehv'-dim
