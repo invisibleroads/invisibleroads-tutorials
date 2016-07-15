@@ -297,6 +297,7 @@ Turkish
     cool = ey-vah'-lah-h
     good = ee'-ah
     good = goo-zeh'
+    good morning = goo-nayh'-dah
     good (as positive reinforcement) = ah'-feh-reen
     where is it = boo neh'-reh-deh
     what is it = boo neh'-keh-deh
