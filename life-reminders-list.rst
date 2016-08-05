@@ -779,3 +779,9 @@ rest to work
 ------------
 | 6/7/2016
 | The lesson that I keep forgetting is that working while exhausted is not a good use of time. If I am staring at the computer struggling to remember what I am trying to do, then make a small plan and go to sleep.
+
+
+microplans
+----------
+| 8/4/2016
+| A microplan defines microtasks that can each be completed under five minutes. Spending fifteen minutes in drafting a microplan for how I will spend the next thirty minutes results in much more focused execution. This is how I will combat the situation of being dazed and easily distracted.
