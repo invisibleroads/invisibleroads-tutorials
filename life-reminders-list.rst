@@ -785,3 +785,11 @@ microplans
 ----------
 | 8/4/2016
 | A microplan defines microtasks that can each be completed under five minutes. Spending fifteen minutes in drafting a microplan for how I will spend the next thirty minutes results in much more focused execution. This is how I will combat the situation of being dazed and easily distracted.
+
+
+promises
+--------
+| 9/5/2016
+| Making promises is easier than keeping them.
+| Be careful when making promises.
+| Be careful when trusting people who make promises.
