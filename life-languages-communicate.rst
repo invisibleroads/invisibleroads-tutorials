@@ -238,6 +238,8 @@ Arabic
     I do not know = lah ah'-rif
     fork = shao'-gkah
     sweet = heh'-loo
+    delicious = lleh-dtheedth'
+    I do not understand = mah-fhemst'
 
 
 Moroccan Arabic
