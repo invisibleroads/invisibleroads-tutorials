@@ -1139,6 +1139,7 @@ Russian
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
     bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
     do not say ho, until they are hatched = не говори гоп, пока не перепрыгнешь
+    strike while the iron is hot = Куй желе́зо, пока горячо́ = cui zahl-ryehl'-zya pah-kah' gar-yahl'-chah
 
 
 Norwegian
