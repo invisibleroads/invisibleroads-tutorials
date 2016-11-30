@@ -240,6 +240,7 @@ Arabic
     sweet = heh'-loo
     delicious = lleh-dtheedth'
     I do not understand = mah-fhemst'
+    don't hate something that went wrong because it might be good in the long run = lah tah-krah-hoo' shah'-ee ehn lah ah'-lah-hoo hah'-ee-ra lah khoom
 
 
 Moroccan Arabic
@@ -1134,6 +1135,7 @@ Russian
     wow = oohk'-tee
     simple = prroh'-stah = простой / проста
     ducklings' dance = танец маленьких утят
+    persimmon = hoor'-mah
 
     you like to sled, then you must like to pull the sled = lloo-beesh kah-taht-cyah, llobee ee sah-noch-kee vah-zeet
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
