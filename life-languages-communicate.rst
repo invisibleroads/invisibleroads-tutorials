@@ -729,6 +729,7 @@ Korean
 
     wolf = nuhk'-ddae
     fox = yuh'-oo
+    he hasn't even thought of giving you rice cake but you are drinking the kimchi broth already = dduk jool sah'-rahm-un ssaeng'-gahk-do ahn'-uhn-deh geem'-chee-gook boo'-tuh mah'-sheen-dah = 떡 줄 사람은 생각도 않는데 김칫국부터 마신다
 
 
 Japanese
