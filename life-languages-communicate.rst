@@ -313,6 +313,9 @@ Turkish
     I like water = soo yoo sehv'-dim
     I want water = soo eesti yorum
     cookie = koo-rah'-bee-yeh
+    even snakes won't bother people when they are drinking water = su ee-cheh-neh' yee-lahn' bee-leh' doh-kooh-nah-mahz'
+    luck = kee'-smaht
+    destiny = kch-dahr'
 
 
 Hungarian
@@ -353,6 +356,7 @@ Hindi
     thank you = shoo'-krree-ah
     water = bpah'-nee
     meat = mah'-s
+    among calves handicapped cow is king = andho mein kana raja
 
 
 Bengali
@@ -725,6 +729,7 @@ Korean
 
     wolf = nuhk'-ddae
     fox = yuh'-oo
+    he hasn't even thought of giving you rice cake but you are drinking the kimchi broth already = dduk jool sah'-rahm-un ssaeng'-gahk-do ahn'-uhn-deh geem'-chee-gook boo'-tuh mah'-sheen-dah = 떡 줄 사람은 생각도 않는데 김칫국부터 마신다
 
 
 Japanese
@@ -940,7 +945,7 @@ Latin American proverbs in Spanish
 
     rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
     don't serve your own drink = nunca el burro se carga solo
-    leave the water alone if you can't drink it = agua que no has de beber déjala correr
+    leave the water alone if you can't drink it = agua que no vas a beber déjala correr
     what the eyes do not see, the heart does not feel = ojos que no ven, corazon que no siente
     if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
 

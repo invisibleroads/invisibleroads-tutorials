@@ -718,7 +718,6 @@ consent is bolder
 | The decision metric to choose the bolder action still holds.
 
 
-
 opportunities now
 -----------------
 | 2/24/2016
