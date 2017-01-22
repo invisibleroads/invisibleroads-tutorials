@@ -962,7 +962,7 @@ Latin American proverbs in Spanish
     better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
     tell me with whom you walk and I'll tell you who you are = dime con quién andas, y te diré quién eres
 
-    if you want a good hairstyle, endure the tugging = si quiere quiere moño bonito, aguanta jalones
+    if you want a good hairstyle, endure the tugging = si quiere moño bonito, aguanta jalones
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
     even if the chimpanzee dresses in silk, it remains a chimpanzee = aunque la mona se vista de seda, mona se queda
     where there was fire, ashes remain = donde hubo fuego, cenizas quedan
