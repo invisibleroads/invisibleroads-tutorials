@@ -792,3 +792,9 @@ promises
 | Making promises is easier than keeping them.
 | Be careful when making promises.
 | Be careful when trusting people who make promises.
+
+
+fire starter
+------------
+| 1/29/2017
+| Starting work each day is like trying to start a fire. Sometimes the tinder is wet and it takes a long time for the fire to catch. Food is fuel.
