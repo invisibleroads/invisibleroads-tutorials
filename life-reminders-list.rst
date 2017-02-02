@@ -798,3 +798,9 @@ fire starter
 ------------
 | 1/29/2017
 | Starting work each day is like trying to start a fire. Sometimes the tinder is wet and it takes a long time for the fire to catch. Food is fuel.
+
+
+live together
+-------------
+| 2/1/2017
+| Every day spent without you is a missed connection. Life is meant to be lived together.
