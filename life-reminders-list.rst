@@ -804,3 +804,18 @@ live together
 -------------
 | 2/1/2017
 | Every day spent without you is a missed connection. Life is meant to be lived together.
+
+
+collaboration primer
+--------------------
+| 2/8/2017
+| Instead of being authoritarian and forcing the person to do what I want,
+| Instead of being hands off and letting the person do whatever the person wants,
+| Repeat the person's concern to the person,
+| Explain my concern,
+| Invite the person to brainstorm solutions that work for the group.
+| How can we solve this problem?
+| Actions show which people and projects I am prioritizing.
+| Respect the time of participants in a meeting by being prepared.
+| Respect contributors by commenting instead of erasing or editing directly.
+| Allocate time each day for communication because feedback can boost morale.
