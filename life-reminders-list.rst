@@ -806,8 +806,8 @@ live together
 | Every day spent without you is a missed connection. Life is meant to be lived together.
 
 
-collaboration primer
---------------------
+collaboration primer based on the explosive child
+-------------------------------------------------
 | 2/8/2017
 | Instead of being authoritarian and forcing the person to do what I want,
 | Instead of being hands off and letting the person do whatever the person wants,
