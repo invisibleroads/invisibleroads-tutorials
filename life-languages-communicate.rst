@@ -1080,6 +1080,13 @@ Polish
     good = dohb-zhah'
 
 
+Lithuania
+---------
+::
+
+    thank you = ah'-choo
+
+
 Czech
 -----
 ::
