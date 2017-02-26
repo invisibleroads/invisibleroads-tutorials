@@ -977,16 +977,17 @@ Latin American proverbs in Spanish
     she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
     the boasting fool will regret it tomorrow = alábate pato que mañana te mato
     stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
-
     better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
+
     sometimes challenges contain opportunities = no hay mal que por bien no venga
     rich get richer and the poor get poorer = cuando el pobre lava, llueve
     misfortune follows misfortune = llueve sobre mojado
-
     familiar bad is more useful than unfamiliar good = vale más lo malo conocido que lo bueno por conocer
+
     don't worry if someone is ahead of you, you can catch up if you run well = no van lejos los de adelante si los de atrás corren bien
     eye for eye, tooth for tooth = ojo por ojo, diente por diente
     now is your chance to shine while you can = date brillo cadena que tu mojo llega
+    you want the moon, it will cost you = el que quiere celeste, que le cueste
 
 
 French
