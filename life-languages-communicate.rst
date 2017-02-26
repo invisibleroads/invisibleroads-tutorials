@@ -941,7 +941,7 @@ Latin American proverbs in Spanish
     better to be on time than to be invited = mas vale que llegar a tiempo que ser invitado de honor
     adapt to your environment = as como fueres, as como vieres = a donde fueres, as lo que vieres
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
-    say good things about other people = el escupe al cielo, en la cara le caie
+    say good things about other people = el escupe al cielo, en la cara le caie = quien escupe para arriba, come saliva
 
     rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
     don't serve your own drink = nunca el burro se carga solo
