@@ -939,7 +939,7 @@ Latin American proverbs in Spanish
 
     when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
     better to be on time than to be invited = mas vale que llegar a tiempo que ser invitado de honor
-    adapt to your environment = as como fueres, as como vieres = a donde fueres, as lo que vieres
+    adapt to your environment = haz como fueres, haz como vieres = allá donde fueres, haz lo que vieres
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
     say good things about other people = el escupe al cielo, en la cara le caie = quien escupe para arriba, come saliva
 
