@@ -1156,6 +1156,9 @@ Russian
     do not say ho, until they are hatched = не говори гоп, пока не перепрыгнешь
     strike while the iron is hot = Куй желе́зо, пока горячо́ = cui zahl-ryehl'-zya pah-kah' gar-yahl'-chah
 
+    those who do not work will not eat = Кто не работает, тот не ест
+    work then play = Делу время, потехе час
+
 
 Norwegian
 ---------
