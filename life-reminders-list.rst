@@ -819,3 +819,15 @@ collaboration primer based on the explosive child
 | Respect the time of participants in a meeting by being prepared.
 | Respect contributors by commenting instead of erasing or editing directly.
 | Allocate time each day for communication because feedback can boost morale.
+
+
+rules of conduct
+----------------
+| 4/2/2017
+| Avoid telling people what to do.
+| Ask each other questions about their long-term and short-term goals.
+| Propose your plan using the mission template for what you want to do.
+| Present your plan at the next team meeting.
+| Execute your plan if the team approves it.
+| Respect each other's health and work life balance.
+| Remind each other if they forget any of these rules of conduct.
