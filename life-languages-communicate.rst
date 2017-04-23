@@ -240,6 +240,8 @@ Arabic
     sweet = heh'-loo
     delicious = lleh-dtheedth'
     I do not understand = mah-fhemst'
+    electricity = kah'-rah-bah
+
     don't hate something that went wrong because it might be good in the long run = lah tah-krah-hoo' shah'-ee ehn lah ah'-lah-hoo hah'-ee-ra lah khoom
 
 
@@ -1158,6 +1160,8 @@ Russian
 
     those who do not work will not eat = Кто не работает, тот не ест
     work then play = Делу время, потехе час
+    better to have a bird in hand than a crane in the sky = Лучше синица в руке, чем журавль в небе
+    small fish is better than big cockroach = маленькая рыбка лучше большого таракана
 
 
 Norwegian
