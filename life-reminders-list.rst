@@ -831,3 +831,9 @@ rules of conduct
 | Execute your plan if the team approves it.
 | Respect each other's health and work life balance.
 | Remind each other if they forget any of these rules of conduct.
+
+
+success
+-------
+| 5/5/2017
+| Success means making a living fulfilling a meaningful mission.
