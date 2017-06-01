@@ -368,6 +368,16 @@ Bengali
     thank you = ddohn'-oh-bahd
 
 
+Urdu
+----
+::
+
+    that = yeh
+    what = kyah
+    is = heh
+    what is that = yeh-kyah'-heh
+
+
 Nepali
 ------
 ::
