@@ -211,6 +211,15 @@ Amharic is spoken in Ethiopia
 ::
 
     thank you = ah-mah-say' geh-nah'-loo
+    please (to male) = eh-bahk'-eh
+    please (to female) = eh-bahk'-esh
+    I do not want = al-fehl'-leh-gehm
+    I want = ah-feh'-leh-gah-loo
+    I want qehy-woht please = eh-bahk'-esh qehy-woht' ah-feh'-leh-gah-loo
+    water = woo'-hah
+    I = eh-neh'
+    you = eh-swoh'
+    what is that = mehn'-tehn-no
 
 
 Aramic
@@ -995,11 +1004,12 @@ Latin American proverbs in Spanish
     rich get richer and the poor get poorer = cuando el pobre lava, llueve
     misfortune follows misfortune = llueve sobre mojado
     familiar bad is more useful than unfamiliar good = vale más lo malo conocido que lo bueno por conocer
-
     don't worry if someone is ahead of you, you can catch up if you run well = no van lejos los de adelante si los de atrás corren bien
+
     eye for eye, tooth for tooth = ojo por ojo, diente por diente
     now is your chance to shine while you can = date brillo cadena que tu mojo llega
     you want the moon, it will cost you = el que quiere celeste, que le cueste
+    he who is born to be a tamale will receive the corn husks from the sky = el que nace para tamal, del cielo le caen las hojas
 
 
 French
@@ -1172,6 +1182,9 @@ Russian
     work then play = Делу время, потехе час
     better to have a bird in hand than a crane in the sky = Лучше синица в руке, чем журавль в небе
     small fish is better than big cockroach = маленькая рыбка лучше большого таракана
+    all is well that ends well = vsyo harasho, shto harasho kohn-chah'-yeht-sah
+
+    the more carefully you go, the more progress you will make = тише едешь, дальше будешь
 
 
 Norwegian
