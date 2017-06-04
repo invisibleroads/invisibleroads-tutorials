@@ -837,3 +837,9 @@ success
 -------
 | 5/5/2017
 | Success means making a living fulfilling a meaningful mission.
+
+
+choosing goals
+--------------
+| 6/4/2017
+| Put on your plate only what you can finish.
