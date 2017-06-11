@@ -220,6 +220,7 @@ Amharic is spoken in Ethiopia
     I = eh-neh'
     you = eh-swoh'
     what is that = mehn'-tehn-no
+    that is expensive = wud'-duh-nuh
 
 
 Aramic
