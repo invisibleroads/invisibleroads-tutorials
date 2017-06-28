@@ -70,7 +70,7 @@ def load(function, *args, **kwargs):
                 try:
                     temporaryPath = os.path.join(temporaryFolder, fileName)
                     return function(temporaryPath, *args[1:], **kwargs)
-                except Exception, error:
+                except Exception as error:
                     errors.append(str(error))
             else:
                 raise ZipError('Could not run {} on any file in {}:\n{}'.format(

@@ -2,9 +2,7 @@
 # Import system modules
 import os
 import shutil
-import itertools
 import tempfile
-import datetime
 import unittest
 from osgeo import ogr
 from shapely import geometry
@@ -19,20 +17,19 @@ shapelyGeometries = [
     geometry.Polygon([(10, 0), (10, 10), (20, 10), (20, 0), (10, 0)]),
 ]
 fieldPacks = [
-    ('xxx', 11111, 44444.44, datetime.date(1939, 9, 1)),
-    ('yyy', 22222, 88888.88, datetime.date(1950, 6, 25)),
+    ('xxx', 11111, 44444.44),
+    ('yyy', 22222, 88888.88),
 ]
 fieldDefinitions = [
     ('Name', ogr.OFTString),
     ('Population', ogr.OFTInteger),
     ('GDP', ogr.OFTReal),
-    ('Updated', ogr.OFTDate),
 ]
 
 
 # Define tests
 
-class TestGeometryStore(unittest.TestCase):
+class GeometryStoreTest(unittest.TestCase):
     'Demonstrate geometry_store usage'
 
     index = 0
@@ -46,97 +43,121 @@ class TestGeometryStore(unittest.TestCase):
     def getPath(self, fileExtension):
         'Return a path with the given fileExtension in temporaryFolder'
         self.index += 1
-        return os.path.join(self.temporaryFolder, str(self.index) + fileExtension)
+        return os.path.join(
+            self.temporaryFolder, str(self.index) + fileExtension)
 
     def test(self):
         'Run tests'
 
-        print 'Save and load a SHP file without attributes'
+        print('Save and load a SHP file without attributes')
         path = self.getPath('.shp')
         geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries)
         result = geometry_store.load(path)
         self.assertEqual(result[0].strip(), geometry_store.proj4LL)
         self.assertEqual(len(result[1]), len(shapelyGeometries))
 
-        print 'Save and load a SHP file with attributes'
+        print('Save and load a SHP file with attributes')
         path = self.getPath('.shp')
-        geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, fieldPacks, fieldDefinitions)
+        geometry_store.save(
+            path, geometry_store.proj4LL, shapelyGeometries, fieldPacks,
+            fieldDefinitions)
         result = geometry_store.load(path)
         self.assertEqual(len(result[2]), len(fieldPacks))
-        for shapelyGeometry, fieldPack in itertools.izip(result[1], result[2]):
-            print
-            for fieldValue, (fieldName, fieldType) in itertools.izip(fieldPack, result[3]):
-                print '%s = %s' % (fieldName, fieldValue)
-            print shapelyGeometry
+        for shapelyGeometry, fieldPack in zip(result[1], result[2]):
+            print()
+            for fieldValue, (
+                fieldName, fieldType
+            ) in zip(fieldPack, result[3]):
+                print('%s = %s' % (fieldName, fieldValue))
+            print(shapelyGeometry)
 
-        print 'Save a SHP file with attributes with different targetProj4'
+        print('Save a SHP file with attributes with different targetProj4')
         path = self.getPath('.shp')
-        geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, fieldPacks, fieldDefinitions, targetProj4=geometry_store.proj4SM)
+        geometry_store.save(
+            path, geometry_store.proj4LL, shapelyGeometries, fieldPacks,
+            fieldDefinitions, targetProj4=geometry_store.proj4SM)
         result = geometry_store.load(path)
         self.assertNotEqual(result[0].strip(), geometry_store.proj4LL)
 
-        print 'Load a SHP file with attributes with different targetProj4'
+        print('Load a SHP file with attributes with different targetProj4')
         path = self.getPath('.shp')
-        geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, fieldPacks, fieldDefinitions)
+        geometry_store.save(
+            path, geometry_store.proj4LL, shapelyGeometries, fieldPacks,
+            fieldDefinitions)
         result = geometry_store.load(path, targetProj4=geometry_store.proj4SM)
         self.assertNotEqual(result[0].strip(), geometry_store.proj4LL)
 
-        print 'Save and load a ZIP file without attributes using save'
+        print('Save and load a ZIP file without attributes using save')
         path = self.getPath('.shp.zip')
         geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries)
         result = geometry_store.load(path)
         self.assertEqual(result[0].strip(), geometry_store.proj4LL)
         self.assertEqual(len(result[1]), len(shapelyGeometries))
 
-        print 'Save and load a ZIP file with attributes using save'
+        print('Save and load a ZIP file with attributes using save')
         path = self.getPath('.shp.zip')
-        geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, fieldPacks, fieldDefinitions)
+        geometry_store.save(
+            path, geometry_store.proj4LL, shapelyGeometries, fieldPacks,
+            fieldDefinitions)
         result = geometry_store.load(path)
         self.assertEqual(len(result[2]), len(fieldPacks))
 
-        print 'Test saving and loading ZIP files of point coordinates'
+        print('Test saving and loading ZIP files of point coordinates')
         path = self.getPath('.shp.zip')
-        geometry_store.save_points(path, geometry_store.proj4LL, [(0, 0)], fieldPacks, fieldDefinitions)
+        geometry_store.save_points(
+            path, geometry_store.proj4LL, [(0, 0)], fieldPacks,
+            fieldDefinitions)
         result = geometry_store.load_points(path)
         self.assertEqual(result[1], [(0, 0)])
 
-        print 'Test get_transform_point'
-        transform_point0 = geometry_store.get_transform_point(geometry_store.proj4LL, geometry_store.proj4LL)
-        transform_point1 = geometry_store.get_transform_point(geometry_store.proj4LL, geometry_store.proj4SM)
+        print('Test get_transform_point')
+        transform_point0 = geometry_store.get_transform_point(
+            geometry_store.proj4LL, geometry_store.proj4LL)
+        transform_point1 = geometry_store.get_transform_point(
+            geometry_store.proj4LL, geometry_store.proj4SM)
         self.assertNotEqual(transform_point0(0, 0), transform_point1(0, 0))
 
-        print 'Test get_transform_geometry'
-        transform_geometry = geometry_store.get_transform_geometry(geometry_store.proj4LL, geometry_store.proj4SM)
-        self.assertEqual(type(transform_geometry(geometry.Point(0, 0))), type(geometry.Point(0, 0)))
-        self.assertEqual(type(transform_geometry(ogr.CreateGeometryFromWkt('POINT (0 0)'))), type(ogr.CreateGeometryFromWkt('POINT (0 0)')))
+        print('Test get_transform_geometry')
+        transform_geometry = geometry_store.get_transform_geometry(
+            geometry_store.proj4LL, geometry_store.proj4SM)
+        self.assertEqual(type(transform_geometry(
+            geometry.Point(0, 0))), type(geometry.Point(0, 0)))
+        self.assertEqual(type(transform_geometry(ogr.CreateGeometryFromWkt(
+            'POINT (0 0)'))), type(ogr.CreateGeometryFromWkt('POINT (0 0)')))
 
-        print 'Test get_coordinateTransformation'
-        geometry_store.get_coordinateTransformation(geometry_store.proj4LL, geometry_store.proj4SM)
+        print('Test get_coordinateTransformation')
+        geometry_store.get_coordinateTransformation(
+            geometry_store.proj4LL, geometry_store.proj4SM)
 
-        print 'Test get_spatialReference'
+        print('Test get_spatialReference')
         geometry_store.get_spatialReference(geometry_store.proj4LL)
         with self.assertRaises(geometry_store.GeometryError):
             geometry_store.get_spatialReference('')
 
-        print 'Test get_geometryType'
+        print('Test get_geometryType')
         geometry_store.get_geometryType(shapelyGeometries)
 
-        print 'Test save() when a fieldPack has fewer fields than definitions'
+        print('Test save() when a fieldPack has fewer fields than definitions')
         with self.assertRaises(geometry_store.GeometryError):
             path = self.getPath('.shp')
-            geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, [x[1:] for x in fieldPacks], fieldDefinitions)
+            geometry_store.save(
+                path, geometry_store.proj4LL, shapelyGeometries,
+                [x[1:] for x in fieldPacks], fieldDefinitions)
 
-        print 'Test save() when a fieldPack has more fields than definitions'
+        print('Test save() when a fieldPack has more fields than definitions')
         with self.assertRaises(geometry_store.GeometryError):
             path = self.getPath('.shp')
-            geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, [x * 2 for x in fieldPacks], fieldDefinitions)
+            geometry_store.save(
+                path, geometry_store.proj4LL, shapelyGeometries,
+                [x * 2 for x in fieldPacks], fieldDefinitions)
 
-        print 'Test save() when the driverName is unrecognized'
+        print('Test save() when the driverName is unrecognized')
         with self.assertRaises(geometry_store.GeometryError):
             path = self.getPath('.shp')
-            geometry_store.save(path, geometry_store.proj4LL, shapelyGeometries, driverName='')
+            geometry_store.save(
+                path, geometry_store.proj4LL, shapelyGeometries, driverName='')
 
-        print 'Test load() when format is unrecognized'
+        print('Test load() when format is unrecognized')
         with self.assertRaises(geometry_store.GeometryError):
             path = self.getPath('')
             geometry_store.load(path)

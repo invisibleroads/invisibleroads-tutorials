@@ -30,7 +30,6 @@ Import modules.
 ::
 
     # Import system modules
-    import itertools
     import osgeo.ogr
     import shapely.geometry
     # Import custom modules
@@ -77,9 +76,9 @@ Load geometries with fields from a compressed ESRI shapefile transformed to the 
     proj4, shapelyGeometries, fieldPacks, fieldDefinitions = geometry_store.load('geometries.shp.zip', 
         targetProj4=geometry_store.proj4LL)
     # Display
-    for shapelyGeometry, fieldPack in itertools.izip(shapelyGeometries, fieldPacks):
+    for shapelyGeometry, fieldPack in zip(shapelyGeometries, fieldPacks):
         print
-        for fieldValue, (fieldName, fieldType) in itertools.izip(fieldPack, fieldDefinitions):
+        for fieldValue, (fieldName, fieldType) in zip(fieldPack, fieldDefinitions):
             print '%s = %s' % (fieldName, fieldValue)
         print shapelyGeometry
 
