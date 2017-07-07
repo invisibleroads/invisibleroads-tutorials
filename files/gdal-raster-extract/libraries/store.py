@@ -121,7 +121,7 @@ def loadInformation(filePath, fileExtension='info'):
     valueByOptionBySection = {}
     # Read
     filePath = replaceFileExtension(filePath, fileExtension)
-    configuration.read(filePath, 'utf-8')
+    configuration.read(filePath)
     # For each section,
     for section in configuration.sections():
         # Initialize
