@@ -845,8 +845,8 @@ choosing goals
 | Put on your plate only what you can finish.
 
 
-lead by asking questions
-------------------------
+lead by asking
+--------------
 | 7/30/2017
-| Instead of answering solutions, lead by asking questions.
+| Instead of answering, lead by asking.
 | Give positive feedback.
