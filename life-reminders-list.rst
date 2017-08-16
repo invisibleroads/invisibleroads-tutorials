@@ -850,3 +850,15 @@ lead by asking
 | 7/30/2017
 | Instead of answering, lead by asking.
 | Give positive feedback.
+
+
+obey the clock
+--------------
+| 8/15/2017
+| Exercise at six, eat at seven.
+| Exercise at twelve, eat at one.
+| Exercise at six, eat at seven.
+| Turn off electronics at ten, sleep at eleven.
+| For brains that often get stuck, obey the clock, obey the timer.
+| Set a time for when you will wake from the dream or nightmare.
+| Obey the clock, obey the timer.
