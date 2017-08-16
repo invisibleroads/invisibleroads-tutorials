@@ -859,6 +859,6 @@ obey the clock
 | Exercise at twelve, eat at one.
 | Exercise at six, eat at seven.
 | Turn off electronics at ten, sleep at eleven.
-| For brains that often get stuck, obey the clock, obey the timer.
+| For brains that get stuck, obey the clock, obey the timer.
 | Set a time for when you will wake from the dream or nightmare.
 | Obey the clock, obey the timer.
