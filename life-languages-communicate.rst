@@ -251,7 +251,9 @@ Arabic
     delicious = lleh-dtheedth'
     I do not understand = mah-fhemst'
     electricity = kah'-rah-bah
-
+    I want (something) = oo-ree'-doo
+    beef = lahkh'-mah
+    I want beef and rice please = oo-ree'-doo lahkh'-mah wah ah'-roz meen fuhd'-luhk
     don't hate something that went wrong because it might be good in the long run = lah tah-krah-hoo' shah'-ee ehn lah ah'-lah-hoo hah'-ee-ra lah khoom
 
 
@@ -283,6 +285,7 @@ Hebrew
     good = toh-vah'
     happy new year = shah'-nah toh-vah'
     good children = yeh-lah-dim' toh-vah'
+    thank you = yah'-sheh koh'-achh
     thank you = toh-dah'
     what's happening = mah neesh'-mah
     excellent = met-soo-yahn'
