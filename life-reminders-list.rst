@@ -862,3 +862,9 @@ obey the clock
 | For brains that get stuck, obey the clock, obey the timer.
 | Set a time for when you will wake from the dream or nightmare.
 | Obey the clock, obey the timer.
+
+
+happy memory
+------------
+| 8/27/2017
+| Today was a special day. It is one of those days that I will remember when times are difficult or sad. Thanks for making this memory.
