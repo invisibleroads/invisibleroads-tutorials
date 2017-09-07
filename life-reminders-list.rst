@@ -868,3 +868,9 @@ happy memory
 ------------
 | 8/27/2017
 | Today was a special day. It is one of those days that I will remember when times are difficult or sad. Thanks for making this memory.
+
+
+time allocation
+---------------
+| 9/7/2017
+| If I don't allocate time to do something, then it is logical I won't make much progress in it.
