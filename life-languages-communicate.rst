@@ -1180,15 +1180,18 @@ Russian
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
     bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
     do not say ho, until they are hatched = не говори гоп, пока не перепрыгнешь
-    strike while the iron is hot = Куй желе́зо, пока горячо́ = cui zahl-ryehl'-zya pah-kah' gar-yahl'-chah
+    strike while the iron is hot = куй желе́зо, пока горячо́ = cui zahl-ryehl'-zya pah-kah' gar-yahl'-chah
 
-    those who do not work will not eat = Кто не работает, тот не ест
-    work then play = Делу время, потехе час
-    better to have a bird in hand than a crane in the sky = Лучше синица в руке, чем журавль в небе
+    those who do not work will not eat = кто не работает, тот не ест
+    work then play = делу время, потехе час
+    better to have a bird in hand than a crane in the sky = лучше синица в руке, чем журавль в небе
     small fish is better than big cockroach = маленькая рыбка лучше большого таракана
     all is well that ends well = vsyo harasho, shto harasho kohn-chah'-yeht-sah
 
     the more carefully you go, the more progress you will make = тише едешь, дальше будешь
+    when I eat, I focus on eating = when I eat, I'm deaf and dumb = когда я ем, я глух и нем
+    no woman no cry = when the woman leaves, the load gets lighter = баба с возу - кобыле легче
+    those who have money are cursed but those who have not die wankers = деньги есть - Иван Иванович, денег нет - горбатый хуй
 
 
 Norwegian
