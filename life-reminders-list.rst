@@ -874,3 +874,13 @@ time allocation
 ---------------
 | 9/7/2017
 | If I don't allocate time to do something, then it is logical I won't make much progress in it.
+
+
+productivity recipe
+-------------------
+| 9/20/2017
+| Sleep well
+| Eat meals
+| Exercise regularly
+| Specify tasks
+| Set alarms
