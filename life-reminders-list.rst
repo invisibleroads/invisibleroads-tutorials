@@ -884,3 +884,15 @@ productivity recipe
 | Exercise regularly
 | Specify tasks
 | Set alarms
+
+
+training leaders
+----------------
+| 9/21/2017
+| A good leader shows people how to come to their own conclusions.
+
+
+realistic goals
+---------------
+| 9/25/2017
+| My hypothesis is that if I get better at setting realistic goals, then I will get better at finishing tasks on time.
