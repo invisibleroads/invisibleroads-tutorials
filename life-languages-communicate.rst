@@ -250,7 +250,7 @@ Arabic
     sweet = heh'-loo
     delicious = lleh-dtheedth'
     I do not understand = mah-fhemst'
-    electricity = kah'-rah-bah
+    electricity = kah'-hhah-rrah-bah
     I want (something) = oo-ree'-doo
     beef = lahkh'-mah
     I want beef and rice please = oo-ree'-doo lahkh'-mah wah ah'-roz meen fuhd'-luhk
