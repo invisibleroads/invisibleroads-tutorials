@@ -874,3 +874,25 @@ time allocation
 ---------------
 | 9/7/2017
 | If I don't allocate time to do something, then it is logical I won't make much progress in it.
+
+
+productivity recipe
+-------------------
+| 9/20/2017
+| Sleep well
+| Eat meals
+| Exercise regularly
+| Specify tasks
+| Set alarms
+
+
+training leaders
+----------------
+| 9/21/2017
+| A good leader shows people how to come to their own conclusions.
+
+
+realistic goals
+---------------
+| 9/25/2017
+| My hypothesis is that if I get better at setting realistic goals, then I will get better at finishing tasks on time.
