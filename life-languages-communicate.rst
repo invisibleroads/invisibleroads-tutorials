@@ -1190,7 +1190,7 @@ Russian
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
     bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
     do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
-    strike while the iron is hot = куй желе́зо, пока горячо́ = cui zahl-ryehl'-zya pah-kah' gar-yahl'-chah
+    strike while the iron is hot = kwee zhe-lleh'-zah, pah-kah' gah-ryahl'-joh = куй желе́зо, пока горячо́
 
     those who do not work will not eat = кто не работает, тот не ест
     work then play = делу время, потехе час
