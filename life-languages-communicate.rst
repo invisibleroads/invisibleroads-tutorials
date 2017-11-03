@@ -990,7 +990,7 @@ Latin American proverbs in Spanish
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
     better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
-    tell me with whom you walk and I'll tell you who you are = dime con quién andas, y te diré quién eres
+    tell me with whom you walk and I'll tell you who you are = dime con quién andas y te diré quién eres
 
     if you want a good hairstyle, endure the tugging = si quiere moño bonito, aguanta jalones
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
@@ -1014,6 +1014,16 @@ Latin American proverbs in Spanish
     now is your chance to shine while you can = date brillo cadena que tu mojo llega
     you want the moon, it will cost you = el que quiere celeste, que le cueste
     he who is born to be a tamale will receive the corn husks from the sky = el que nace para tamal, del cielo le caen las hojas
+    from such a stick, such a splinter = de tal palo, tal astilla
+
+    learn to walk before you fuck = aprenda a caminar antes de coger
+    the wedge made from the same wood sticks the hardest = no hay cuña que mas apriete que la del mismo palo
+    there is no temptation that lasts a hundred years nor is there is a body that can resist such temptations = no hay mal que cien años dure, ni cuerpo que lo resista
+    the dead are dead but the living must live = el muerto al hoyo y el vivo al baile
+    what she dare not say face to face, she says in jest = lo que no dice en serio lo dice en chiste
+
+    beware ulterior motives = caras vemos, corazones no sabemos
+    help them because one day you might need help too = arrieros somos y en el camino nos encontramos
 
 
 French
@@ -1179,7 +1189,7 @@ Russian
     you like to sled, then you must like to pull the sled = lloo'-beesh kah-taht'-cyah, lloo'-bee ee sah'-noch-kee vah-zeet'
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
     bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
-    do not say ho, until they are hatched = не говори гоп, пока не перепрыгнешь
+    do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
     strike while the iron is hot = куй желе́зо, пока горячо́ = cui zahl-ryehl'-zya pah-kah' gar-yahl'-chah
 
     those who do not work will not eat = кто не работает, тот не ест
