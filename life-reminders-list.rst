@@ -896,3 +896,9 @@ realistic goals
 ---------------
 | 9/25/2017
 | My hypothesis is that if I get better at setting realistic goals, then I will get better at finishing tasks on time.
+
+
+on teaching
+-----------
+| 11/6/2017
+| Have your students fix their own mistakes.
