@@ -902,3 +902,9 @@ on teaching
 -----------
 | 11/6/2017
 | Have your students fix their own mistakes.
+
+
+on eating
+---------
+| 11/12/2017
+| Sometimes you eat not because you want to, but because it will give you energy for what you have to do.
