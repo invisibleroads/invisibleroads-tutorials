@@ -896,3 +896,15 @@ realistic goals
 ---------------
 | 9/25/2017
 | My hypothesis is that if I get better at setting realistic goals, then I will get better at finishing tasks on time.
+
+
+on teaching
+-----------
+| 11/6/2017
+| Have your students fix their own mistakes.
+
+
+on eating
+---------
+| 11/12/2017
+| Sometimes you eat not because you want to, but because it will give you energy for what you have to do.
