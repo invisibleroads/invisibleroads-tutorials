@@ -1024,6 +1024,7 @@ Latin American proverbs in Spanish
 
     beware ulterior motives = caras vemos, corazones no sabemos
     help them because one day you might need help too = arrieros somos y en el camino nos encontramos
+    you are so happy = se ríe más que una caja de dientes en una vitrina
 
 
 French
