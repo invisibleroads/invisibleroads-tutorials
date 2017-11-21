@@ -908,3 +908,9 @@ on eating
 ---------
 | 11/12/2017
 | Sometimes you eat not because you want to, but because it will give you energy for what you have to do.
+
+
+pathfinding
+-----------
+| 11/21/2017
+| Today is a new day and if one door does not open then we will find other doors that have already been open to us. We will find a path.
