@@ -916,8 +916,8 @@ pathfinding
 | Today is a new day and if one door does not open then we will find other doors that have already been open to us. We will find a path.
 
 
-special motivation
-------------------
+cathaleen's special motivation
+------------------------------
 | 11/25/2017
 | Start with encouragement
 | Pinpoint positive specifics
