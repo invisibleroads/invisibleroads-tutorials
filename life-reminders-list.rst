@@ -914,3 +914,15 @@ pathfinding
 -----------
 | 11/21/2017
 | Today is a new day and if one door does not open then we will find other doors that have already been open to us. We will find a path.
+
+
+special motivation
+------------------
+| 11/25/2017
+| Start with encouragement
+| Pinpoint positive specifics
+| Ask the person to explain why
+| Can you explain this to me
+| I never thought about it like that
+| Give positive energy
+| Boost morale
