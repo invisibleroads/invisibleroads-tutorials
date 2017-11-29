@@ -29,6 +29,7 @@ Dance
     :maxdepth: 1
 
     dance-salsa
+    dance-salsa-old
     dance-rueda
     dance-tango
     dance-swing

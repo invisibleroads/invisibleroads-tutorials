@@ -181,6 +181,15 @@ Moorit is spoken in Burkina Faso
     thank you = au-roh-wah'
 
 
+Bambara is spoken in Mali
+-------------------------
+::
+
+    thank you = een ee jcheh
+    your name is = eh toh hohh
+    my name is = neh toh hohh
+
+
 Yoruba is spoken in Nigeria
 ---------------------------
 ::
@@ -221,6 +230,22 @@ Amharic is spoken in Ethiopia
     you = eh-swoh'
     what is that = mehn'-tehn-no
     that is expensive = wud'-duh-nuh
+    change = mehr'-s
+    money = gken'-zehb
+    a lot = bi'-zoo
+    teh'-neesh = a little
+    how much = sehn'- tehn'-noh
+    thousand = shee
+    twenty = hah'-yah
+    fourteen = ah-sseer-ah'-raht
+    ten = ah'-sseer-ah
+    seven = seh'-mehnt
+    one = ahnt
+    I want a good deal = kohn'-joh gken'-zehb ah-fell'-leh-gah-loo
+    lentil = meh-'seehr
+    I do not understand = ahl-geh-bah'-gnim
+    yes = ah'-oh
+    no = ah'-eh
 
 
 Aramic
@@ -257,6 +282,20 @@ Arabic
     don't hate something that went wrong because it might be good in the long run = lah tah-krah-hoo' shah'-ee ehn lah ah'-lah-hoo hah'-ee-ra lah khoom
 
 
+Jordanian Arabic
+----------------
+::
+
+    excellent = mniah'
+
+
+Lebanese Arabic
+---------------
+::
+
+    vegetables = hoo-dahr'
+
+
 Moroccan Arabic
 ---------------
 ::
@@ -265,6 +304,7 @@ Moroccan Arabic
     two = zjooj
     fork = four-chette'
     how much is that = bshaael heh'-tha
+    vegetables = hoo'-ddrah
 
 
 Kabyl is spoken in Algeria
@@ -389,6 +429,7 @@ Urdu
     what = kyah
     is = heh
     what is that = yeh-kyah'-heh
+    five = bpah'-nch
 
 
 Nepali
@@ -1025,6 +1066,7 @@ Latin American proverbs in Spanish
     beware ulterior motives = caras vemos, corazones no sabemos
     help them because one day you might need help too = arrieros somos y en el camino nos encontramos
     you are so happy = se ríe más que una caja de dientes en una vitrina
+    you who are guilty should not be accusing others = if you have a straw tail, don't go near the flame = el que tiene rabo de paja, no se arrima a la candela
 
 
 French
@@ -1123,6 +1165,9 @@ Lithuania
 ::
 
     thank you = ah'-choo
+    hi = lah'-bahs
+    what = queh-p
+    how are you = sah'-koo-seh
 
 
 Czech
@@ -1176,6 +1221,8 @@ Russian
     You like this = ti blu-blis' vah-dee'
     I eat = ya yem
     I eat this = ya edah yem
+    I want to eat later = poh'-zjah ya zah-hah-choo' koo'-shaht
+    later = poh'-zjah
     spicy = oh'-sdree
     we = muy
     why? = poo'-choo-mon?
@@ -1186,6 +1233,14 @@ Russian
     simple = prroh'-stah = простой / проста
     ducklings' dance = танец маленьких утят
     persimmon = hoor'-mah
+    lamb = bah-rahn'
+    spoon = lohsh'-kah
+    knife = noh'sh
+
+
+Eastern European proverbs in Russian
+------------------------------------
+::
 
     you like to sled, then you must like to pull the sled = lloo'-beesh kah-taht'-cyah, lloo'-bee ee sah'-noch-kee vah-zeet'
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
@@ -1201,8 +1256,13 @@ Russian
 
     the more carefully you go, the more progress you will make = тише едешь, дальше будешь
     when I eat, I focus on eating = when I eat, I'm deaf and dumb = когда я ем, я глух и нем
-    no woman no cry = when the woman leaves, the load gets lighter = баба с возу - кобыле легче
+    no woman no cry = when the partner leaves, the load gets lighter = baba s'woh-zoo kah-bee'-llyeh llyech'-gcheh = баба с возу - кобыле легче
     those who have money are cursed but those who have not die wankers = деньги есть - Иван Иванович, денег нет - горбатый хуй
+    work is not a wolf, it is not going to run away = работа не волк - в лес не убежит
+
+    haste makes waste = rush things and you'll make a comedy = pahs peh shesh llude nahsh meh shehsh = поспеши́шь - люде́й насмеши́шь
+    show me your friends and I'll show you who you are = skahzji mnyeh tot voy droog y ya skahzjoo tebya kto ti = скажи мне, кто твой друг, и я скажу кто ты
+    it is one step from love to hatred = oht llyoo-bee' doh nyeh-noh'-vee-stee, ah-deen' shahk = от любви до ненависти - один шаг
 
 
 Norwegian

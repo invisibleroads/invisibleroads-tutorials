@@ -926,3 +926,9 @@ cathaleen's special motivation
 | I never thought about it like that
 | Give positive energy
 | Boost morale
+
+
+how to respond as a team
+------------------------
+| 11/28/2017
+| Communicate proposed changes to our side before proposing changes to their side.
