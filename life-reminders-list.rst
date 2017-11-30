@@ -932,3 +932,9 @@ how to respond as a team
 ------------------------
 | 11/28/2017
 | Communicate proposed changes to our side before proposing changes to their side.
+
+
+breaking the cycle
+------------------
+| 11/30/2017
+| You can only break the cycle by changing yourself and exemplifying the habits you want to pass to your children.
