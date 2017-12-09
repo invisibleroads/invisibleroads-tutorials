@@ -946,6 +946,6 @@ how to calm yourself
 | If too many things are happening at once, your brain might start panicking.
 | To calm a panicking brain, you need to give it the sense that it is in control.
 | If your brain can accurately predict what happens next, then it will feel like it is in control.
-| Write the simplest task that you can do next and do it.
+| Write the simplest task that you can do next, do it, mark that it is done.
 | Listen to the same music on repeat.
 | Do a repetitive physical exercise.
