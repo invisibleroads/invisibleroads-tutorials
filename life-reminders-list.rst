@@ -938,3 +938,14 @@ breaking the cycle
 ------------------
 | 11/30/2017
 | You can only break the cycle by changing yourself and exemplifying the habits you want to pass to your children.
+
+
+how to calm yourself
+--------------------
+| 12/08/2017
+| If too many things are happening at once, your brain might start panicking.
+| To calm a panicking brain, you need to give it the sense that it is in control.
+| If your brain can accurately predict what happens next, then it will feel like it is in control.
+| Write the simplest task that you can do next and do it.
+| Listen to the same music on repeat.
+| Do a repetitive physical exercise.
