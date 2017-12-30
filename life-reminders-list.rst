@@ -950,3 +950,9 @@ how to calm yourself
 | Write the simplest task that you can do next, do it, mark that it is done.
 | Listen to the same music on repeat.
 | Do a repetitive physical exercise.
+
+
+nice price
+----------
+| 12/30/2017
+| The price of being nice is that you will work a lot and be paid a little.
