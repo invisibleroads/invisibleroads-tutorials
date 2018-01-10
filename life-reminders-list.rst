@@ -956,3 +956,15 @@ nice price
 ----------
 | 12/30/2017
 | The price of being nice is that you will work a lot and be paid a little.
+
+
+tips on cheering a loved one at a marathon
+------------------------------------------
+| 1/10/2018
+| Coordinate meeting times at each location beforehand.
+| Get to your next location ahead of schedule and multiply travel time estimates by three.
+| Avoid road transportation as there will be bumper to bumper traffic.
+| Keep your runner updated on when you will be where.
+| Focus on cheering instead of taking pictures and videos.
+| Do not bring bags.
+| Prepare banners, balloons and refreshments.
