@@ -961,10 +961,12 @@ nice price
 tips on cheering a loved one at a marathon
 ------------------------------------------
 | 1/10/2018
+| Let your runner sleep earlier in a separate room.
 | Coordinate meeting times at each location beforehand.
-| Get to your next location ahead of schedule and multiply travel time estimates by three.
+| Multiply travel time estimates by three.
+| Arrive at your next location before doing anything else.
 | Avoid road transportation as there will be bumper to bumper traffic.
-| Keep your runner updated on when you will be where.
+| Keep your runner updated if you are behind schedule.
 | Focus on cheering instead of taking pictures and videos.
 | Do not bring bags.
 | Prepare banners, balloons and refreshments.
