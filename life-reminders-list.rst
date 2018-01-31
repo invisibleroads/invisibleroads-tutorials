@@ -970,3 +970,11 @@ tips on cheering a loved one at a marathon
 | Focus on cheering instead of taking pictures and videos.
 | Do not bring bags.
 | Prepare banners, balloons and refreshments.
+
+
+discipline requires repeated practice
+-------------------------------------
+| 1/31/2018
+| Discipline is the strength to repeatedly start what you decide to do
+| and the will to repeatedly stop what you decide not to do
+| until your decisions become habits.
