@@ -975,7 +975,7 @@ tips on cheering a loved one at a marathon
 discipline requires repeated practice
 -------------------------------------
 | 1/31/2018
-| Discipline is the grit to repeatedly start what you decide to do
-| and the will to repeatedly stop what you decide not to do
+| Discipline is the will to repeatedly start what you decide to do
+| and the grit to repeatedly stop what you decide not to do
 | until your decisions become habits.
 | Discipline is the strength to stick to a schedule that you have made for yourself.
