@@ -979,3 +979,11 @@ discipline requires repeated practice
 | and the grit to repeatedly stop what you decide not to do
 | until your decisions become habits.
 | Discipline is the strength to stick to a schedule that you have made for yourself.
+
+
+motivation techniques
+---------------------
+| 2/13/2018
+| Encouragement is more effective than fearmongering.
+| Excessive stress causes tunnel vision and brain paralysis.
+| Experimentation requires safety.
