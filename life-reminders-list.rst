@@ -987,3 +987,17 @@ motivation techniques
 | Encouragement is more effective than fearmongering.
 | Excessive stress causes tunnel vision and brain paralysis.
 | Experimentation requires safety.
+
+
+study tips
+----------
+| 2/14/2018
+| Read before sleeping.
+| Write in the morning.
+| Grasp before sleeping and solve in the morning.
+
+
+train wrecks and traffic jams
+------------------------------
+| 2/15/2018
+| Schedules prevent train wrecks and traffic jams.
