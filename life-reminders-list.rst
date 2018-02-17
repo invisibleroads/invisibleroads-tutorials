@@ -1001,3 +1001,10 @@ train wrecks and traffic jams
 ------------------------------
 | 2/15/2018
 | Schedules prevent train wrecks and traffic jams.
+
+
+testing is paramount
+--------------------
+| 2/17/2018
+| The lesson is that you simply cannot skip testing.
+| Even the smallest changes require re-testing, if not automatically then at least manually.
