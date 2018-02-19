@@ -1008,3 +1008,12 @@ testing is paramount
 | 2/17/2018
 | The lesson is that you simply cannot skip testing.
 | Even the smallest changes require re-testing, if not automatically then at least manually.
+
+
+team building
+-------------
+| 2/18/2018
+| Let people see the results of their work.
+| Resist the temptation to redo their work.
+| Tell people what to fix.
+| Trust your team.

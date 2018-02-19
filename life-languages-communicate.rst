@@ -1005,10 +1005,10 @@ Latin American proverbs in Spanish
 ::
 
     when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
-    better to be on time than to be invited = mas vale que llegar a tiempo que ser invitado de honor
+    better to be on time than to be invited = mejor que llegar a tiempo que ser invitado de honor
     adapt to your environment = haz como fueres, haz como vieres = allá donde fueres, haz lo que vieres
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
-    say good things about other people = el escupe al cielo, en la cara le caie = quien escupe para arriba, come saliva
+    say good things about other people = el escupe al cielo, en la cara le caie = escupe para arriba, come saliva
 
     rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
     don't serve your own drink = nunca el burro se carga solo
@@ -1028,7 +1028,7 @@ Latin American proverbs in Spanish
     guests are unwelcome if they abuse your hospitality = el muerto y el arrimado a los tres dias apestan
     mind your own business = zapatero a tu zapato
 
-    noisy chicks get the food = quien no llora, no mama 
+    noisy chicks get the food = no llora, no mama
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
     better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
@@ -1041,7 +1041,7 @@ Latin American proverbs in Spanish
     something non-essential is turning out to be more expensive than what it is worth = the soup is more expensive than the meatballs = cuesta más caro el caldo que las albóndigas
 
     he is exaggerating his stories = echarle mucha crema a sus tacos
-    she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, ¿dónde te pondré?
+    she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, dónde te pondré?
     the boasting fool will regret it tomorrow = alábate pato que mañana te mato
     stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
     better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
