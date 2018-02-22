@@ -1054,7 +1054,7 @@ Latin American proverbs in Spanish
 
     eye for eye, tooth for tooth = ojo por ojo, diente por diente
     now is your chance to shine while you can = date brillo cadena que tu mojo llega
-    you want the moon, it will cost you = el que quiere celeste, que le cueste
+    you want the moon, it will cost you = si quiere celeste, que le cueste
     he who is born to be a tamale will receive the corn husks from the sky = el que nace para tamal, del cielo le caen las hojas
     from such a stick, such a splinter = de tal palo, tal astilla
 
