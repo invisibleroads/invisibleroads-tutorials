@@ -1032,7 +1032,7 @@ Latin American proverbs in Spanish
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
     those who wake early will succeed = al que madruga dios le ayuda
     better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
-    tell me with whom you walk and I'll tell you who you are = dime con quién andas y te diré quién eres
+    tell me with whom you walk and I'll tell you who you are = dime con quién te juntas y te diré quien eres = dime con quién andas y te diré quién eres
 
     if you want a good hairstyle, endure the tugging = si quiere moño bonito, aguanta jalones
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
@@ -1064,10 +1064,13 @@ Latin American proverbs in Spanish
     the dead are dead but the living must live = el muerto al hoyo y el vivo al baile
     what she dare not say face to face, she says in jest = lo que no dice en serio lo dice en chiste
 
+    wisdom is gained through age and experience = más sabe el diablo por viejo que por diablo
     beware ulterior motives = caras vemos, corazones no sabemos
     help them because one day you might need help too = arrieros somos y en el camino nos encontramos
     you are so happy = se ríe más que una caja de dientes en una vitrina
     you who are guilty should not be accusing others = if you have a straw tail, don't go near the flame = el que tiene rabo de paja, no se arrima a la candela
+
+    having too many decision makers causes confusion = donde manda capitán, no manda marinero
 
 
 French
