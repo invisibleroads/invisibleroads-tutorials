@@ -1071,6 +1071,7 @@ Latin American proverbs in Spanish
     you who are guilty should not be accusing others = if you have a straw tail, don't go near the flame = el que tiene rabo de paja, no se arrima a la candela
 
     having too many decision makers causes confusion = donde manda capitán, no manda marinero
+    people will rob you blind if you let them = cría cuervos y te sacarán los ojos
 
 
 French
