@@ -485,6 +485,7 @@ Indonesian
     where is ___? = dtih mah'-nah ___?
     where is the bathroom? = dtih mah'-nah cah-marr' mahn-dee'?
     what is this? = ee-nee' ah'-pah?
+    what = ah'pah
     how much is the price? = brrah'-pah harr'-gah?
 
     good morning = seh-lah'-mah pah'-gee
