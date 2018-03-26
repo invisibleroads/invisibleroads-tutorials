@@ -1073,6 +1073,8 @@ Latin American proverbs in Spanish
 
     having too many decision makers causes confusion = donde manda capitán, no manda marinero
     people will rob you blind if you let them = cría cuervos y te sacarán los ojos
+    do not put off for tomorrow what you can do today = no deja para mañana lo que puedas hacer hoy
+    a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza
 
 
 French
