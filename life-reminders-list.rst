@@ -1017,3 +1017,10 @@ team building
 | Resist the temptation to redo their work.
 | Tell people what to fix.
 | Trust your team.
+
+
+my priorities
+-------------
+| 3/28/2018
+| Continually remind myself that
+| my priorities and schedule come before those of other people
