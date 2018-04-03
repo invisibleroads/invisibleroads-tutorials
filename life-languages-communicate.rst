@@ -1271,6 +1271,7 @@ Eastern European proverbs in Russian
     haste makes waste = rush things and you'll make a comedy = pahs peh shesh llude nahsh meh shehsh = поспеши́шь - люде́й насмеши́шь
     show me your friends and I'll show you who you are = skahzji mnyeh tot voy droog y ya skahzjoo tebya kto ti = скажи мне, кто твой друг, и я скажу кто ты
     it is one step from love to hatred = oht llyoo-bee' doh nyeh-noh'-vee-stee, ah-deen' shahk = от любви до ненависти - один шаг
+    it doesn't hurt to try = попытка - не пытка
 
 
 Norwegian
