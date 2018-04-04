@@ -1075,6 +1075,7 @@ Latin American proverbs in Spanish
     people will rob you blind if you let them = cría cuervos y te sacarán los ojos
     do not put off for tomorrow what you can do today = no deja para mañana lo que puedas hacer hoy
     a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza
+    appearances can be deceiving = el león no es como lo pintan
 
 
 French
