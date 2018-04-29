@@ -1273,6 +1273,7 @@ Eastern European proverbs in Russian
     show me your friends and I'll show you who you are = skahzji mnyeh tot voy droog y ya skahzjoo tebya kto ti = скажи мне, кто твой друг, и я скажу кто ты
     it is one step from love to hatred = oht llyoo-bee' doh nyeh-noh'-vee-stee, ah-deen' shahk = от любви до ненависти - один шаг
     it doesn't hurt to try = попытка - не пытка
+    do not work alone = one in the field is not a warrior = один в поле не воин
 
 
 Norwegian
