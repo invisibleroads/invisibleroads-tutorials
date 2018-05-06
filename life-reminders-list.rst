@@ -1024,3 +1024,12 @@ my priorities
 | 3/28/2018
 | Continually remind myself that
 | my priorities and schedule come before those of other people
+
+
+mind clutter
+------------
+| 5/6/2018
+| It is not always possible to finish tasks to the degree that one would have liked to have finished them.
+| Unfinished tasks pile and clutter the mind like vaguely nagging baggage.
+| There is not enough time to do everything you wanted to do.
+| What is a strategy for clearing the mind of unfinished tasks?
