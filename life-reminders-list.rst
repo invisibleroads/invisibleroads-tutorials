@@ -1033,3 +1033,13 @@ mind clutter
 | Unfinished tasks pile and clutter the mind like vaguely nagging baggage.
 | There is not enough time to do everything you wanted to do.
 | What is a strategy for clearing the mind of unfinished tasks?
+
+
+return on investment
+--------------------
+| 5/11/2018
+| Adding everyone who wants to help to a project is not a good idea.
+| Newcomers require training.
+| Each person adds cost and risk.
+| Groups incur communication overhead.
+| You might end up giving much more than you receive.
