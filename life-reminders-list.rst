@@ -1051,3 +1051,9 @@ you have to choose what is important
 | The risk of trying to do everything is that I will miss what is important.
 | The truth is that I will not be able to do everything I want to do.
 | Choose what is most important and forget everything else.
+
+
+long term goals
+---------------
+| 6/12/2018
+| If I make a new plan every day, then any task that takes longer than a day runs the risk of getting derailed by a new opportunity.
