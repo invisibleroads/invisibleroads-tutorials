@@ -1077,6 +1077,8 @@ Latin American proverbs in Spanish
     a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza
     appearances can be deceiving = el león no es como lo pintan
 
+    a liar falls more easily than a cripple = más fácil cae un mentiroso que un cojo
+
 
 French
 ------
