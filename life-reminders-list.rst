@@ -1057,3 +1057,9 @@ long term goals
 ---------------
 | 6/12/2018
 | If I make a new plan every day, then any task that takes longer than a day runs the risk of getting derailed by a new opportunity.
+
+
+next steps
+----------
+| 8/17/2018
+| An important part of deciding what to do is deciding what not to do.
