@@ -1063,3 +1063,9 @@ next steps
 ----------
 | 8/17/2018
 | An important part of deciding what to do is deciding what not to do.
+
+
+business survival
+-----------------
+| 9/6/2018
+| The survival of your business depends on what you sell not on what you give.
