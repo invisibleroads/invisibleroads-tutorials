@@ -1069,3 +1069,9 @@ business survival
 -----------------
 | 9/6/2018
 | The survival of your business depends on what you sell not on what you give.
+
+
+on investing
+------------
+| 9/16/2018
+| Choose how you spend your energy, time and money because everything you do is an investment. It is never too late to change your life investment strategy.
