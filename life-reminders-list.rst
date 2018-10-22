@@ -1075,3 +1075,9 @@ on investing
 ------------
 | 9/16/2018
 | Choose how you spend your energy, time and money because everything you do is an investment. It is never too late to change your life investment strategy.
+
+
+request handling
+----------------
+| 10/14/2018
+| It is better to refuse a request than to do it half-heartedly.

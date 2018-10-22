@@ -1255,27 +1255,29 @@ Eastern European proverbs in Russian
 
     you like to sled, then you must like to pull the sled = lloo'-beesh kah-taht'-cyah, lloo'-bee ee sah'-noch-kee vah-zeet'
     without work you cannot pull the fish from the pond = behz troo-dah' nyeh veal'-ah-vish ee roob'-koo eez proo-dah
-    bread tops all = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
-    do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
-    strike while the iron is hot = kwee zhe-lleh'-zah, pah-kah' gah-ryahl'-joh = куй желе́зо, пока горячо́
-
+    eat before you think = (figurative) more importantly = hlehb see-moo' gah-lah-vah'
     those who do not work will not eat = кто не работает, тот не ест
     work then play = делу время, потехе час
-    better to have a bird in hand than a crane in the sky = лучше синица в руке, чем журавль в небе
-    small fish is better than big cockroach = маленькая рыбка лучше большого таракана
-    all is well that ends well = vsyo harasho, shto harasho kohn-chah'-yeht-sah
 
+    strike while the iron is hot = kwee zhe-lleh'-zah, pah-kah' gah-ryahl'-joh = куй желе́зо, пока горячо́
+    better to have a bird in hand than a crane in the sky = лучше синица в руке, чем журавль в небе
+    a small fish is better than big cockroach = маленькая рыбка лучше большого таракана
+    all is well that ends well = vsyo harasho, shto harasho kohn-chah'-yeht-sah
     the more carefully you go, the more progress you will make = тише едешь, дальше будешь
+
     when I eat, I focus on eating = when I eat, I'm deaf and dumb = когда я ем, я глух и нем
     no woman no cry = when the partner leaves, the load gets lighter = baba s'woh-zoo kah-bee'-llyeh llyech'-gcheh = баба с возу - кобыле легче
     those who have money are cursed but those who have not die wankers = деньги есть - Иван Иванович, денег нет - горбатый хуй
     work is not a wolf, it is not going to run away = работа не волк - в лес не убежит
-
     haste makes waste = rush things and you'll make a comedy = pahs peh shesh llude nahsh meh shehsh = поспеши́шь - люде́й насмеши́шь
+
     show me your friends and I'll show you who you are = skahzji mnyeh tot voy droog y ya skahzjoo tebya kto ti = скажи мне, кто твой друг, и я скажу кто ты
     it is one step from love to hatred = oht llyoo-bee' doh nyeh-noh'-vee-stee, ah-deen' shahk = от любви до ненависти - один шаг
     it doesn't hurt to try = попытка - не пытка
     do not work alone = one in the field is not a warrior = один в поле не воин
+
+    do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
+    do not run ahead of the train = nyeh bi-gee' spih-rroht' pah'roh voh-da'
 
 
 Norwegian
