@@ -348,6 +348,13 @@ Dari is spoken in Afghanistan
     what is that? = ohn' chee ahst?
 
 
+Pashto is spoken in Afghanistan
+-------------------------------
+::
+
+    thank you = mah-nah'-nah
+
+
 Turkish
 -------
 ::
