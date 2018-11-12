@@ -1081,3 +1081,12 @@ request handling
 ----------------
 | 10/14/2018
 | It is better to refuse a request than to do it half-heartedly.
+
+
+creative tension
+----------------
+| 11/12/2018
+| Tension is the fundamental unit of drive and creativity.
+| Learn how to stoke it, harness it, focus it.
+| Respect those who evoke life from you.
+| Treat your life source with care as if it were your heart exposed.
