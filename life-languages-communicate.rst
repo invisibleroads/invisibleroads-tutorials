@@ -348,6 +348,13 @@ Dari is spoken in Afghanistan
     what is that? = ohn' chee ahst?
 
 
+Pashto is spoken in Afghanistan
+-------------------------------
+::
+
+    thank you = mah-nah'-nah
+
+
 Turkish
 -------
 ::
@@ -1078,6 +1085,8 @@ Latin American proverbs in Spanish
     appearances can be deceiving = el león no es como lo pintan
 
     a liar falls more easily than a cripple = más fácil cae un mentiroso que un cojo
+    never say that I will not drink that water = nunca digas "de este agua no beberé, este cura no es mi padre ni esta polla no me cabe"
+    motivate someone = meter el dedo por el culo
 
 
 Jamaican
