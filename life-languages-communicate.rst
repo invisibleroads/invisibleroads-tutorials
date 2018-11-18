@@ -1080,6 +1080,13 @@ Latin American proverbs in Spanish
     a liar falls more easily than a cripple = más fácil cae un mentiroso que un cojo
 
 
+Jamaican
+--------
+::
+
+   how are you = wah'-gwahn
+
+
 French
 ------
 ::
