@@ -281,6 +281,7 @@ Arabic
     I want beef and rice please = oo-ree'-doo lahkh'-mah wah ah'-roz meen fuhd'-luhk
     don't hate something that went wrong because it might be good in the long run = lah tah-krah-hoo' shah'-ee ehn lah ah'-lah-hoo hah'-ee-ra lah khoom
     everything is going according to plan = gkool-lleh-shee' ah-lah' mah yah-rahm'
+    God bless you = yer hah'ma all-ah'
 
 
 Jordanian Arabic
