@@ -1090,3 +1090,9 @@ creative tension
 | Learn how to stoke it, harness it, focus it.
 | Respect those who evoke life from you.
 | Treat your life source with care as if it were your heart exposed.
+
+
+time reality
+------------
+| 2/17/2019
+| Time is real and demands respect.
