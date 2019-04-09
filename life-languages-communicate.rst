@@ -1007,88 +1007,135 @@ Mexican slang
     special food = guisano
     special food = chicatana
     special food = escamole
+    ponle perro = make him drunk
 
 
 Latin American proverbs in Spanish
 ----------------------------------
 ::
 
-    when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
-    better to be on time than to be invited = mejor que llegar a tiempo que ser invitado de honor
-    adapt to your environment = haz como fueres, haz como vieres = allá donde fueres, haz lo que vieres
+    work while you pray = a dios rogando y con el mazo dando
     better to spend enough effort and money to get a good result on the first try = el flojo y el mezquino, dos veces al camino
-    say good things about other people = el escupe al cielo, en la cara le caie = escupe para arriba, come saliva
+    don't bother me when I'm working = en horas de trabajo, los amigos al carajo
+    if you want a good hairstyle, endure the tugging = si quiere moño bonito, aguanta jalones
+    those who wake early will succeed = al que madruga dios le ayuda
+    do not put off for tomorrow what you can do today = no deja para mañana lo que puedas hacer hoy
+    sometimes challenges contain opportunities = no hay mal que por bien no venga
+    el que nace para maceta no pasa del corredor = he who sticks to what is safe will not advance in life
+    you can catch up if you run well = no van lejos los de adelante si los de atrás corren bien
+    el querer es poder = desire is power
+
+    when planning, keep in mind that many events are out of your control = no porque madruges, amanece mas temprano
+
+    better to be on time than to be invited = mejor que llegar a tiempo que ser invitado de honor
+
+    adapt to your environment = haz como fueres, haz como vieres = allá donde fueres, haz lo que vieres
 
     rumors have some basis in truth = cuando el río suena, es porque agua lleva = cuando el río suena, es porque piedras trae
-    don't serve your own drink = nunca el burro se carga solo
+
+    don't serve your own drink = nunca el burro se carga solo = una mula no se carga sola
+
     leave the water alone if you can't drink it = agua que no vas a beber déjala correr
-    what the eyes do not see, the heart does not feel = ojos que no ven, corazon que no siente
-    if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
-
-    don't bother me when I'm eating = yo so juan orrosco, cuando como, no conozco
-    don't bother me when I'm working = en horas de trabajo, los amigos al carajo
-    he who complains that he does not have enough will lose what he has already = borrego que chilla, piedre bocado
-    pay attention or you will get lost = camarón que se duerme, se lo lleva la corriente
-    everyone has said or done embarassing things = tiene cola que le pisen
-
     one captured bird has more immediate value than a hundred flying birds = más vale pájaro en mano que ciento volando
     take care of your relationships or you will lose them = el que tiene tienda, que la atienda, sinon, que la venda
+    what the eyes do not see, the heart does not feel = ojos que no ven, corazon que no siente
+    if you love her, let her go; if she returns, she is yours; if not, she never was = si amas a alguien déjalo libre; si regresa es tuyo; si no, nunca lo fue
+    where there was fire, ashes remain = donde hubo fuego, cenizas quedan
+
+    don't bother me when I'm eating = yo so juan orrosco, cuando como, no conozco
+
+    he who complains that he does not have enough will lose what he has already = borrego que chilla, piedre bocado
+
+    pay attention or you will get lost = camarón que se duerme, se lo lleva la corriente
+
     money talks = en tierra ajena, no hay más amigo ni más pariente cercano que un peso en la mano
+
     guests are unwelcome if they abuse your hospitality = el muerto y el arrimado a los tres dias apestan
+
     mind your own business = zapatero a tu zapato
 
     noisy chicks get the food = no llora, no mama
+
     keep your sword in its sheath = calm your anger = machete estate en tu vaina
-    those who wake early will succeed = al que madruga dios le ayuda
-    better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
+
     tell me with whom you walk and I'll tell you who you are = dime con quién te juntas y te diré quien eres = dime con quién andas y te diré quién eres
-
-    if you want a good hairstyle, endure the tugging = si quiere moño bonito, aguanta jalones
-    do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
-    even if the chimpanzee dresses in silk, it remains a chimpanzee = aunque la mona se vista de seda, mona se queda
-    where there was fire, ashes remain = donde hubo fuego, cenizas quedan
-    something non-essential is turning out to be more expensive than what it is worth = the soup is more expensive than the meatballs = cuesta más caro el caldo que las albóndigas
-
-    he is exaggerating his stories = echarle mucha crema a sus tacos
-    she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, dónde te pondré?
-    the boasting fool will regret it tomorrow = alábate pato que mañana te mato
     stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
-    better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
+    quien con lobos anda, a aullar se enseña = he who walks with wolves learns to howl
 
-    sometimes challenges contain opportunities = no hay mal que por bien no venga
-    rich get richer and the poor get poorer = cuando el pobre lava, llueve
-    misfortune follows misfortune = llueve sobre mojado
-    familiar bad is more useful than unfamiliar good = vale más lo malo conocido que lo bueno por conocer
-    don't worry if someone is ahead of you, you can catch up if you run well = no van lejos los de adelante si los de atrás corren bien
+    do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
 
-    eye for eye, tooth for tooth = ojo por ojo, diente por diente
-    now is your chance to shine while you can = date brillo cadena que tu mojo llega
-    you want the moon, it will cost you = si quiere celeste, que le cueste
-    he who is born to be a tamale will receive the corn husks from the sky = el que nace para tamal, del cielo le caen las hojas
-    from such a stick, such a splinter = de tal palo, tal astilla
+    even if the chimpanzee dresses in silk, it remains a chimpanzee = aunque la mona se vista de seda, mona se queda
 
-    learn to walk before you fuck = aprenda a caminar antes de coger
-    the wedge made from the same wood sticks the hardest = no hay cuña que mas apriete que la del mismo palo
-    there is no temptation that lasts a hundred years nor is there is a body that can resist such temptations = no hay mal que cien años dure, ni cuerpo que lo resista
-    the dead are dead but the living must live = el muerto al hoyo y el vivo al baile
-    what she dare not say face to face, she says in jest = lo que no dice en serio lo dice en chiste
-
-    wisdom is gained through age and experience = más sabe el diablo por viejo que por diablo
-    beware ulterior motives = caras vemos, corazones no sabemos
-    help them because one day you might need help too = arrieros somos y en el camino nos encontramos
+    something non-essential is turning out to be more expensive than what it is worth = the soup is more expensive than the meatballs = cuesta más caro el caldo que las albóndigas
+    he is exaggerating his stories = echarle mucha crema a sus tacos
     you are so happy = se ríe más que una caja de dientes en una vitrina
-    you who are guilty should not be accusing others = if you have a straw tail, don't go near the flame = el que tiene rabo de paja, no se arrima a la candela
-
-    having too many decision makers causes confusion = donde manda capitán, no manda marinero
-    people will rob you blind if you let them = cría cuervos y te sacarán los ojos
-    do not put off for tomorrow what you can do today = no deja para mañana lo que puedas hacer hoy
-    a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza
-    appearances can be deceiving = el león no es como lo pintan
-
-    a liar falls more easily than a cripple = más fácil cae un mentiroso que un cojo
-    never say that I will not drink that water = nunca digas "de este agua no beberé, este cura no es mi padre ni esta polla no me cabe"
     motivate someone = meter el dedo por el culo
     making me frustrated = tener hasta los huevos
+
+    better to be head of a rat than tail of a lion = más vale ser cabeza de ratón que cola de león
+    better to die fighting than live begging = es mejor morir de pie que vivir de rodillas
+    eye for eye, tooth for tooth = ojo por ojo, diente por diente
+
+    she is easily excited by new people or things = dear new jar, where should I put you? = jarrito nuevo, dónde te pondré?
+
+    the boasting fool will regret it tomorrow = alábate pato que mañana te mato
+
+    rich get richer and the poor get poorer = cuando el pobre lava, llueve
+    misfortune follows misfortune = llueve sobre mojado
+
+    familiar bad is more useful than unfamiliar good = vale más lo malo conocido que lo bueno por conocer
+
+    now is your chance to shine while you can = date brillo cadena que tu mojo llega
+
+    you want the moon, it will cost you = si quiere celeste, que le cueste
+
+    he who is born to be a tamale will receive the corn husks from the sky = el que nace para tamal, del cielo le caen las hojas
+
+    from such a stick, such a splinter = de tal palo, tal astilla
+    a wedge will stick if it is make of the same wood = para que la cuña apriete tiene que ser del mismo palo
+    the wedge made from the same wood sticks the hardest = no hay cuña que mas apriete que la del mismo palo
+    birds of a feather flock together = cada oveja con su pareja
+
+    there is no temptation that lasts a hundred years nor is there is a body that can resist such temptations = no hay mal que cien años dure, ni cuerpo que lo resista
+
+    the dead are dead but the living must live = el muerto al hoyo y el vivo al baile
+
+    wisdom is gained through age and experience = más sabe el diablo por viejo que por diablo
+    learn to walk before you fuck = aprenda a caminar antes de coger
+
+    beware ulterior motives = caras vemos, corazones no sabemos
+    appearances can be deceiving = el león no es como lo pintan
+
+    help them because one day you might need help too = arrieros somos y en el camino nos encontramos
+
+    having too many decision makers causes confusion = donde manda capitán, no manda marinero
+
+    a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza
+    a liar falls more easily than a cripple = más fácil cae un mentiroso que un cojo
+    people will rob you blind if you let them = cría cuervos y te sacarán los ojos
+
+    never say that I will not drink that water = nunca digas, "de este agua no beberé, este cura no es mi padre, ni esta polla no me cabe"
+
+    he who is hungry thinks about bread = el que hambre tiene en pan piensa
+
+    those who understand need less explanation = a buen entendedor, pocas palabras bastan
+
+    a person who is kind to strangers but neglects family = candil de la calle, oscuridad de su casa
+
+    everyone has said or done embarassing things = tiene cola que le pisen
+    you who are guilty should not be accusing others = if you have a straw tail, don't go near the flame = el que tiene rabo de paja, no se arrima a la candela
+    say good things about other people = el escupe al cielo, en la cara le caie = escupe para arriba, come saliva
+    the rules you impose will be imposed on you = con la regla que midas serás medido
+
+    what she dare not say face to face, she says in jest = lo que no dice en serio lo dice en chiste
+    between jokes the truth hides = entre broma y broma la verdad se asoma
+
+    between gasps the sausage enters = entre risa y risa se te va la longaniza
+    bitch looks at his package = la perra busca la canasta abajo
+
+    avocado / vulva = agua pasa por mi casa, cate por mi corazón
+    eye / vulva = tiene pelos por arriba y por abajo y en el medio es una abertura húmeda que se abre y se cierra
+    long and hairy for your ass = horse = largo y peludo aparente para tu culo
 
 
 Jamaican
