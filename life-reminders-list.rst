@@ -1096,3 +1096,8 @@ time reality
 ------------
 | 2/17/2019
 | Time is real and demands respect.
+
+
+existing resources
+------------------
+| I don't believe there is a magical person out there who will solve our problems. I believe in working with and growing the resources that are available to us now, however flawed, and growing together as a family. The only thing that will not be tolerated is lack of respect between team members.
