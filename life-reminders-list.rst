@@ -1098,6 +1098,13 @@ time reality
 | Time is real and demands respect.
 
 
+
+existing resources
+------------------
+| 4/13/2019
+| I don't believe there is a magical person out there who will solve our problems. I believe in working with and growing the resources that are available to us now, however flawed, and growing together as a family.
+
+
 death test
 ----------
 | 5/13/2019
