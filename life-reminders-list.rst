@@ -1096,3 +1096,10 @@ time reality
 ------------
 | 2/17/2019
 | Time is real and demands respect.
+
+
+death test
+----------
+| 5/13/2019
+| Am I ready to die yet?
+| No.
