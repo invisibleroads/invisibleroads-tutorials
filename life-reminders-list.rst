@@ -1110,3 +1110,9 @@ death test
 | 5/13/2019
 | Am I ready to die yet?
 | No.
+
+
+strength and courage
+--------------------
+| 5/28/2019
+| Give me strength to finish and courage to fight.
