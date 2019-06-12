@@ -404,6 +404,13 @@ Farsi
     rainy day = rooz buh-rah'-nee
 
 
+Albania
+-------
+::
+
+    thank you = fah-leh-meen-deh'-reet
+
+
 Greek
 -----
 ::
