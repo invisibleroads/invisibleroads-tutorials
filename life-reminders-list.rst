@@ -1116,3 +1116,13 @@ strength and courage
 --------------------
 | 5/28/2019
 | Give me strength to finish and courage to fight.
+
+
+mission flights
+---------------
+| 6/14/2019
+| To finish a difficult task, you will need enough fuel and runway.
+| Sleep.
+| Eat properly.
+| Block at least three to five hours.
+| If it will take more than one flight, schedule time on consecutive days to keep memory fresh.
