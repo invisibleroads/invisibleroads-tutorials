@@ -408,7 +408,7 @@ Albania
 -------
 ::
 
-    thank you = fah-leh-meen-deh'-reet
+    thank you = fah-leh-min-deh'-ritt
 
 
 Greek
