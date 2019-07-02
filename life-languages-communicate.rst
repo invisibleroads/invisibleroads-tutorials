@@ -1347,9 +1347,10 @@ Eastern European proverbs in Russian
     it is one step from love to hatred = oht llyoo-bee' doh nyeh-noh'-vee-stee, ah-deen' shahk = от любви до ненависти - один шаг
     it doesn't hurt to try = попытка - не пытка
     do not work alone = one in the field is not a warrior = один в поле не воин
-
     do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
+
     do not run ahead of the train = nyeh bi-gee' spih-rroht' pah'roh voh-da'
+    finish your work then play freely = finish business then walk boldly = сделал дело - гуляй смело
 
 
 Norwegian
