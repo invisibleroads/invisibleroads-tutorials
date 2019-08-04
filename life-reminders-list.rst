@@ -1126,3 +1126,11 @@ mission flights
 | Eat properly.
 | Block at least three to five hours.
 | If it will take more than one flight, schedule time on consecutive days to keep memory fresh.
+
+
+live life to the fullest
+------------------------
+| 8/3/2019
+| It does not mean to do whatever you feel like doing in the moment.
+| It means to select the goals that are the most important to you and then to
+| do your darndest to make them true.
