@@ -1139,4 +1139,4 @@ live life to the fullest
 art
 ---
 | 8/21/2019
-| Some paths are better preserved as fantasy than enacted in reality.
+| Some paths are more beautiful preserved as fantasy than enacted in reality.
