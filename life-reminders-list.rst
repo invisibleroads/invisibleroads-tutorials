@@ -1134,3 +1134,9 @@ live life to the fullest
 | It does not mean to do whatever you feel like doing in the moment.
 | It means to select the goals that are the most important to you and then to
 | do your darndest to make them true.
+
+
+art
+---
+| 8/21/2019
+| Some paths are better preserved as fantasy than enacted in reality.
