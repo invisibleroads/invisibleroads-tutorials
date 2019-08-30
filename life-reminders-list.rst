@@ -1140,3 +1140,9 @@ art
 ---
 | 8/21/2019
 | Some paths are more beautiful preserved as fantasy than enacted in reality.
+
+
+long-term marriage
+------------------
+| 8/30/2019
+| Maybe the secret to a happy marriage is to keep making and reminding each other about good memories with your partner.
