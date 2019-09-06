@@ -2,6 +2,15 @@ Communicate with people in other languages
 ==========================================
 
 
+English is spoken in the United States
+--------------------------------------
+::
+
+    keep your head on a swivel = pay attention to your surroundings
+    you miss all of the shots you don't take = risks can be rewarding
+    tighten the knot nut to butt = make the knot super tight
+
+
 Chvi Ashanti is spoken in Kumasi and Accra of Ghana
 ---------------------------------------------------
 ::
