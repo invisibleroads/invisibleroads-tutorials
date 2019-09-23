@@ -1146,3 +1146,9 @@ long-term marriage
 ------------------
 | 8/30/2019
 | Maybe the secret to a happy marriage is to keep making and reminding each other about good memories with your partner.
+
+
+success
+-------
+| 9/22/2019
+| Success is the best revenge.
