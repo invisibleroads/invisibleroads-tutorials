@@ -1360,6 +1360,9 @@ Eastern European proverbs in Russian
 
     do not run ahead of the train = nyeh bi-gee' spih-rroht' pah'roh voh-da'
     finish your work then play freely = finish business then walk boldly = сделал дело - гуляй смело
+    not caught not a thief = nyeh poy-mahn' nyeh vorr'
+    don't piss in my ear = stop bullshitting me = не ссы мне в уши
+    do not roll pasta over my ears = do not tell me something that you will not make happen = не вешай мне лапшу на уши
 
 
 Norwegian
