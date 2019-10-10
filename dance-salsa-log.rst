@@ -18,4 +18,9 @@ Salsa Log
 - From Left Over Right Break, pull connected right hand and step behind woman into Supported Frame Hold.
 - From Supported Frame Hold, guide her to your right on 1 then left on 2 then right on 3.
 - From Supported Frame Hold, lead coordinated body roll on 5 6 and into Sitting Stance on 7.
--
+
+20190625 Yamulee Intermediate
+-----------------------------
+- From Open Hold, lead inside turn but check her right shoulder on 3 to guide her crossbody around your left under your connected left arm into Left Open Hold.
+- From Left Open Hold, lead enchufla past your left, man half right turn under connected left arm into Right Train Break.
+- (to be continued)

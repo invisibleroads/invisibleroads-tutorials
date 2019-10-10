@@ -2,6 +2,15 @@ Communicate with people in other languages
 ==========================================
 
 
+English is spoken in the United States
+--------------------------------------
+::
+
+    keep your head on a swivel = pay attention to your surroundings
+    you miss all of the shots you don't take = risks can be rewarding
+    tighten the knot nut to butt = make the knot super tight
+
+
 Chvi Ashanti is spoken in Kumasi and Accra of Ghana
 ---------------------------------------------------
 ::
@@ -408,7 +417,7 @@ Albania
 -------
 ::
 
-    thank you = fah-leh-meen-deh'-reet
+    thank you = fah-leh-min-deh'-ritt
 
 
 Greek
@@ -1347,9 +1356,14 @@ Eastern European proverbs in Russian
     it is one step from love to hatred = oht llyoo-bee' doh nyeh-noh'-vee-stee, ah-deen' shahk = от любви до ненависти - один шаг
     it doesn't hurt to try = попытка - не пытка
     do not work alone = one in the field is not a warrior = один в поле не воин
-
     do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
+
     do not run ahead of the train = nyeh bi-gee' spih-rroht' pah'roh voh-da'
+    finish your work then play freely = finish business then walk boldly = сделал дело - гуляй смело
+    not caught not a thief = nyeh poy-mahn' nyeh vorr'
+    don't piss in my ear = stop bullshitting me = не ссы мне в уши
+    do not roll pasta over my ears = do not tell me something that you will not make happen = не вешай мне лапшу на уши
+
     dog on the hay = unused resources = co-bah'-kah na cseh'-nee
 
 

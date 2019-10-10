@@ -1126,3 +1126,29 @@ mission flights
 | Eat properly.
 | Block at least three to five hours.
 | If it will take more than one flight, schedule time on consecutive days to keep memory fresh.
+
+
+live life to the fullest
+------------------------
+| 8/3/2019
+| It does not mean to do whatever you feel like doing in the moment.
+| It means to select the goals that are the most important to you and then to
+| do your darndest to make them true.
+
+
+art
+---
+| 8/21/2019
+| Some paths are more beautiful preserved as fantasy than enacted in reality.
+
+
+long-term marriage
+------------------
+| 8/30/2019
+| Maybe the secret to a happy marriage is to keep making and reminding each other about good memories with your partner.
+
+
+success
+-------
+| 9/22/2019
+| Success is the best revenge.
