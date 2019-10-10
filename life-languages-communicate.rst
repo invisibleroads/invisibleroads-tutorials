@@ -1350,6 +1350,7 @@ Eastern European proverbs in Russian
 
     do not say ho, until they are hatched = nyeh gavaree goe-p, pahkah nyeh peh-rehl-preeg'-nyesh = не говори гоп, пока не перепрыгнешь
     do not run ahead of the train = nyeh bi-gee' spih-rroht' pah'roh voh-da'
+    dog on the hay = unused resources = co-bah'-kah na cseh'-nee
 
 
 Norwegian
