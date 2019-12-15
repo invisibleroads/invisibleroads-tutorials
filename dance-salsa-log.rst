@@ -24,3 +24,15 @@ Salsa Log
 - From Open Hold, lead inside turn but check her right shoulder on 3 to guide her crossbody around your left under your connected left arm into Left Open Hold.
 - From Left Open Hold, lead enchufla past your left, man half right turn under connected left arm into Right Train Break.
 - (to be continued)
+
+20191208 Yamulee Intermediate
+-----------------------------
+- From left open hold, right over left double outside turn
+- From left open break, left cross connected copa
+- From left open break, reacharound crossbody into man right turn
+- From right over left, right over left open into inside turn
+- From closed hold, man right turn crossbody into right open toss behind into right cross cuatro
+- From right cross cuatro, open break lead woman to unravel crossbody into man alarde into woman left blind turn into man right turn into two hand open hold
+- From two hand open hold, shoulder drape inside turn
+From left open break, roundabout adios man left connected exit into left open hold
+- From left open hold, toss inside turn
