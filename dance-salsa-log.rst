@@ -30,7 +30,7 @@ Salsa Log
 - From left open hold, right over left double outside turn
 - From left open break, left cross connected copa
 - From left open break, reacharound crossbody into man right turn
-- From right over left, right over left open into inside turn
+- From right over left, right over left open shoulder push into inside turn
 - From closed hold, man right turn crossbody into right open toss behind into right cross cuatro
 - From right cross cuatro, open break lead woman to unravel crossbody into man alarde into woman left blind turn into man right turn into two hand open hold
 - From two hand open hold, shoulder drape inside turn
