@@ -1152,3 +1152,9 @@ success
 -------
 | 9/22/2019
 | Success is the best revenge.
+
+
+complainers
+-----------
+| 12/29/2019
+| You can tell what kind of problems you will have with a person by what they complain about other people because the problems they complain about are often problems with themselves.
