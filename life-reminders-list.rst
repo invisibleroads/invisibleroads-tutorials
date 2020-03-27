@@ -1160,3 +1160,9 @@ human resources
 | How people work in the beginning does not change. If they did not produce anything within the first three months, they will not produce anything for the rest of the year.
 | How people behave when they work without pay does not change after you start paying them.
 | You can tell what kind of problems you will have with a person by what they complain about other people because the problems they complain about are often problems with themselves.
+
+
+victory of progress
+-------------------
+| 3/15/2020
+| Victory is making progress toward your goals.
