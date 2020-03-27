@@ -1152,6 +1152,7 @@ Latin American proverbs in Spanish
     avocado / vulva = agua pasa por mi casa, cate por mi corazón
     eye / vulva = tiene pelos por arriba y por abajo y en el medio es una abertura húmeda que se abre y se cierra
     long and hairy for your ass = horse = largo y peludo aparente para tu culo
+    poke the air blindly = have an unclear objective = dar palos de ciego
 
 
 Jamaican
