@@ -1166,3 +1166,9 @@ victory of progress
 -------------------
 | 3/15/2020
 | Victory is making progress toward your goals.
+
+
+make stuff that people use
+--------------------------
+| 4/14/2020
+| The point of engineering is not to use the latest technology, but to make something that works and that people can use.
