@@ -1172,3 +1172,8 @@ make stuff that people use
 --------------------------
 | 4/14/2020
 | The point of engineering is not to use the latest technology, but to make something that works and that people can use.
+
+reaching goals
+--------------
+| 5/6/2020
+| Reaching goals is more important than setting goals.
