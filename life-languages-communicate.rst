@@ -1366,6 +1366,7 @@ Eastern European proverbs in Russian
     do not roll pasta over my ears = do not tell me something that you will not make happen = не вешай мне лапшу на уши
 
     dog on the hay = unused resources = co-bah'-kah na cseh'-nee
+    man is the head, woman is the neck = Муж — голова, жена — шея
 
 
 Norwegian
