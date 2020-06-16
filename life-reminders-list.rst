@@ -1173,7 +1173,16 @@ make stuff that people use
 | 4/14/2020
 | The point of engineering is not to use the latest technology, but to make something that works and that people can use.
 
+
 reaching goals
 --------------
 | 5/6/2020
 | Reaching goals is more important than setting goals.
+
+
+productivity firestarter
+------------------------
+| 7/16/2020
+| Having a focused work session is like building a fire.
+| Keep starting -- Repeatedly start the task after a distraction.
+| No stopping -- Once you start, repeatedly say no to distractions the end of your chosen time block.
