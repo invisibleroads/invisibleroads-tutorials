@@ -1180,6 +1180,13 @@ reaching goals
 | Reaching goals is more important than setting goals.
 
 
+tetris
+------
+| 6/30/2020
+| Don't beat yourself up for mistakes.
+| Focus on how to do better now.
+
+
 productivity firestarter
 ------------------------
 | 7/16/2020
