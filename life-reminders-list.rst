@@ -1193,3 +1193,9 @@ productivity firestarter
 | Having a focused work session is like building a fire.
 | Keep starting -- Repeatedly start the task after a distraction.
 | No stopping -- Once you start, repeatedly say no to distractions the end of your chosen time block.
+
+
+creativity is messy
+-------------------
+| 7/24/2020
+| It is necessary to experiment, make mistakes and make a mess before cleaning up to get the final solution.
