@@ -1199,3 +1199,9 @@ creativity is messy
 -------------------
 | 7/24/2020
 | It is necessary to experiment, make mistakes and make a mess before cleaning up to get the final solution.
+
+
+go boss yourself
+----------------
+| 8/5/2020
+| Imagine how much you could accomplish if you work as hard for yourself as you work for others.
