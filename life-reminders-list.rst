@@ -1210,7 +1210,7 @@ go boss yourself
 dialogue check
 --------------
 | 8/13/2020
-| The pattern seems to be that I act impulsively on my emotions when I have extreme stress and fear. And my natural inclination is to withdraw from people in order to protect myself. Somehow I need to figure out how to replace withdrawal with dialogue as the standard reflex to fear. Another modification is to add a dialogue check before taking extreme actions. The way to implement this modification is by making it a habit to draft a plan before taking any kind of extreme action. And the first step on that plan is to have it be reviewed by someone else.
+| The pattern seems to be that I act impulsively on my emotions when I have extreme stress and fear. And my natural inclination is to push people away and withdraw from people in order to protect myself. Somehow I need to figure out how to replace withdrawal with dialogue as the standard reflex to fear. Another modification is to add a dialogue check before taking extreme actions. The way to implement this modification is by making it a habit to draft a plan before taking any kind of extreme action. And the first step on that plan is to have it be reviewed by someone else.
 | 1. Describe fear
 | 2. Plan response
 | 3. Request review
