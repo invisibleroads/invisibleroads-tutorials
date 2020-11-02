@@ -1220,3 +1220,9 @@ forget and live
 ---------------
 | 10/17/2020
 | Remember my lessons, then forget to quiet the jarring mind and focus on what I need to do now. Forgetting will help me forgive myself and other people and keep my eyes forward in the present, which I can still change, and not in the past, which I cannot change. It does not make sense for me to dwell in the past and make more mistakes in the future. I must quiet these bothersome and painful thoughts and forget forget forget so that I can focus on a brighter future.
+
+
+hidden teachers
+---------------
+| 10/31/2020
+| You can learn something from everybody.
