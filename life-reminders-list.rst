@@ -1232,3 +1232,9 @@ distributed redundancy
 ----------------------
 | 11/9/2020
 | When packing, add essential components to each bag so that you can still function if you lose a bag.
+
+
+timed goals
+-----------
+| 12/6/2020
+| Time is also a goal.
