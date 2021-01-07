@@ -1238,3 +1238,11 @@ timed goals
 -----------
 | 12/6/2020
 | Time is also a goal.
+
+
+do one box
+----------
+| 1/7/2021
+| Celebrate what you have done today instead of despairing what you have not.
+| Choose one task.
+| Respect time boundaries.
