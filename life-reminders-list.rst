@@ -1246,3 +1246,9 @@ do one box
 | Celebrate what you have done today instead of despairing what you have not.
 | Choose one task.
 | Respect time boundaries.
+
+
+sharpening focus
+----------------
+| 1/10/2021
+| If you are having trouble focusing, try exercising, eating and sleeping, in that order.
