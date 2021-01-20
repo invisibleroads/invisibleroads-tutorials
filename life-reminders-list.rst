@@ -1252,3 +1252,15 @@ sharpening focus
 ----------------
 | 1/10/2021
 | If you are having trouble focusing, try exercising, eating and sleeping, in that order.
+
+
+iterate and inspire for impact
+------------------------------
+| 1/20/2021
+| Drawing the best nose can lead to starvation.
+| You can always come back to the nose after you sketch the face.
+| Impact matters more than perfection.
+| Inspire people to a common cause.
+| Organisms do more than cells.
+| Armies do more than soldiers.
+| If worth is measured as positive impact minus negative impact summed over all people within your community, and if there is a limit to which you can impact one person, then you need to reach more people to maximize impact.
