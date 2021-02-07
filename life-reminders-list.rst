@@ -1264,3 +1264,9 @@ iterate and inspire for impact
 | Organisms do more than cells.
 | Armies do more than soldiers.
 | If worth is measured as positive impact minus negative impact summed over all people within your community, and if there is a limit to which you can impact one person, then you need to reach more people to maximize impact.
+
+
+new day
+-------
+| 2/6/2021
+| Every day brings new opportunities if you look carefully enough.
