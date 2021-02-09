@@ -1270,3 +1270,13 @@ new day
 -------
 | 2/6/2021
 | Every day brings new opportunities if you look carefully enough.
+
+
+handling tantrums from loved ones
+---------------------------------
+| 2/9/2021
+| There is a difference between expressing needs and having a tantrum.
+| Being persuasive is more effective than having a tantrum.
+| Anger is good and an important emotion.
+| You just have to use it effectively by being persuasive.
+| Set a good role model for the children.
