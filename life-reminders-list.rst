@@ -1280,3 +1280,11 @@ handling tantrums from loved ones
 | Anger is good and an important emotion.
 | You just have to use it effectively by being persuasive.
 | Set a good role model for the children.
+
+
+life is random
+--------------
+| 3/17/2021
+| People walk. They step on some ants.
+| Why did some ants survive? Random.
+| Probability is a good religion.
