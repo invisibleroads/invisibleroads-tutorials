@@ -1288,3 +1288,11 @@ life is random
 | People walk. They step on some ants.
 | Why did some ants survive? Random.
 | Probability is a good religion.
+
+
+forgive yourself
+----------------
+| 3/25/2021
+| Remember to celebrate your successes, forgive yourself and
+| as our mother would tell us, tomorrow is another day and
+| another chance to do our best.
