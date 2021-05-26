@@ -1126,7 +1126,7 @@ Latin American proverbs in Spanish
 
     having too many decision makers causes confusion = donde manda capitán, no manda marinero
 
-    a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza
+    a tree that grows crooked will never straighten its branches = árbol que crece torcido jamás su rama endereza = árbol que crece torcido jamás su tronco endereza
     a liar falls more easily than a cripple = más fácil cae un mentiroso que un cojo
     people will rob you blind if you let them = cría cuervos y te sacarán los ojos
 
