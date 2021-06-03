@@ -1296,3 +1296,11 @@ forgive yourself
 | Remember to celebrate your successes, forgive yourself and
 | as our mother would tell us, tomorrow is another day and
 | another chance to do our best.
+
+
+brain instructions
+------------------
+| 6/2/2021
+| Starting: When your brain is distracted, it is important to know how to start. Do exercise or play music on repeat until your brain is focused and on autopilot.
+| Stopping: When your brain is on autopilot, it is important to know how to stop. Write a simple task, then do it and cross it out. Repeat until you have regained control.
+| Maintenance: In both cases, changing course or reprogramming your brain is like starting a fire. There will be inertia as new instructions try to replace old instructions. Keep setting sparks to the tinder while supplying oxygen until the kindle alights. Don't forget to eat and sleep.
