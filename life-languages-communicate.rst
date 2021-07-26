@@ -331,7 +331,7 @@ Hebrew
 ::
 
     children = yeh-lah-dim'
-    cool = si-bah'-bah
+    cool = sah-bah'-bah
     year = shah'-nah
     good = toh-vah'
     happy new year = shah'-nah toh-vah'
