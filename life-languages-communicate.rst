@@ -418,6 +418,8 @@ Albania
 ::
 
     thank you = fah-leh-min-deh'-ritt
+    good = meerr
+    excellent = shoo'-meerr
 
 
 Greek
