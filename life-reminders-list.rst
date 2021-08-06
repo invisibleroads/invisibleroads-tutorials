@@ -1310,3 +1310,9 @@ one a day
 ---------
 | 6/22/2021
 | Finish one high priority task a day.
+
+
+better than yesterday
+---------------------
+| 8/6/2021
+| Every day is a chance to do better than yesterday.
