@@ -1316,3 +1316,9 @@ better than yesterday
 ---------------------
 | 8/6/2021
 | Every day is a chance to do better than yesterday.
+
+
+look forward
+------------
+| 8/8/2021
+| Change how you spend the next hour instead of regretting how you spent the last two.
