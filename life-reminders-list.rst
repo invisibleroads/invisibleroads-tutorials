@@ -1321,4 +1321,4 @@ better than yesterday
 look forward
 ------------
 | 8/8/2021
-| Change how you spend the next hour instead of regretting how you spent the last two.
+| Choose how you spend the next hour instead of regretting how you spent the last two.
