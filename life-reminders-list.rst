@@ -1322,3 +1322,10 @@ look forward
 ------------
 | 8/8/2021
 | Choose how you spend the next hour instead of regretting how you spent the last two.
+
+
+how to build community
+----------------------
+| 8/23/2021
+| The key to building a healthy community is to have an excellent onboarding process for beginners.
+| The key to building a healthy business is to have an excellent onboarding process for customers.
