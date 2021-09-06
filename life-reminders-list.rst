@@ -1321,7 +1321,7 @@ better than yesterday
 look forward
 ------------
 | 8/8/2021
-| Choose how you spend the next hour instead of regretting how you spent the last two.
+| Choose how you live your next hour instead of regretting how you spent the last two.
 
 
 how to build community
