@@ -1315,7 +1315,7 @@ one a day
 better than yesterday
 ---------------------
 | 8/6/2021
-| Every day is a chance to do better than yesterday.
+| Every day is a chance to live better than yesterday.
 
 
 look forward
@@ -1329,3 +1329,10 @@ how to build community
 | 8/23/2021
 | The key to building a healthy community is to have an excellent onboarding process for beginners.
 | The key to building a healthy business is to have an excellent onboarding process for customers.
+
+
+positivity attracts
+-------------------
+| 9/7/2021
+| Positivity attracts.
+| Negativity repels.
