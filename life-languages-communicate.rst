@@ -389,6 +389,7 @@ Turkish
     even snakes won't bother people when they are drinking water = su ee-cheh-neh' yee-lahn' bee-leh' doh-kooh-nah-mahz'
     luck = kee'-smaht
     destiny = kch-dahr'
+    how are you = nah-sil-sin'
 
 
 Hungarian
