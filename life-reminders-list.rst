@@ -1336,3 +1336,17 @@ positivity attracts
 | 9/7/2021
 | Positivity attracts.
 | Negativity repels.
+
+
+knife and compass
+-----------------
+| 10/15/2021
+| The real battle is with myself -- on my ability to focus on what is important.
+| How do we push forward on a mission with a mind that wanders?
+| Can I give myself the gift of focus?
+| Can I say no to distractions and yes to goals?
+| Do what you can, there is still time.
+| You are still alive. You have another chance.
+| But only if you work on those paths that you promised to take.
+| Your focus is your knife and your heart is your compass.
+| For each act, ask yourself -- will this take me closer to my goals?
