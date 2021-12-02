@@ -1040,7 +1040,7 @@ Latin American proverbs in Spanish
     those who wake early will succeed = al que madruga dios le ayuda
     do not put off for tomorrow what you can do today = no deja para mañana lo que puedas hacer hoy
     sometimes challenges contain opportunities = no hay mal que por bien no venga
-    el que nace para maceta no pasa del corredor = he who sticks to what is safe will not advance in life
+    el que nace para maceta no pasa del corredor = he who is born for the pot does not leave the hallway
     you can catch up if you run well = no van lejos los de adelante si los de atrás corren bien
     el querer es poder = desire is power
 
