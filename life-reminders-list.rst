@@ -1350,3 +1350,9 @@ knife and compass
 | But only if you work on those paths that you promised to take.
 | Your focus is your knife and your heart is your compass.
 | For each act, ask yourself -- will this take me closer to my goals?
+
+
+impact over technology
+----------------------
+| 12/11/2021
+| It is not so much the technology that matters but the impact. You can be in an infinite loop optimizing but if nobody uses your service, then you are not having any impact. It is important to focus on impact.
