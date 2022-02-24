@@ -1356,3 +1356,9 @@ impact over technology
 ----------------------
 | 12/11/2021
 | It is not so much the technology that matters but the impact. You can be in an infinite loop optimizing but if nobody uses your service, then you are not having any impact. It is important to focus on impact.
+
+
+new stories every day
+---------------------
+| 02/24/2022
+| History is happening every day. Our children will learn about it in school.
