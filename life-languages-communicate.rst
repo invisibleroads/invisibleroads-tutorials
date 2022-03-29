@@ -446,7 +446,15 @@ Bengali
 -------
 ::
 
-    thank you = ddohn'-oh-bahd
+    thank you = ddohn'-yoh-bahd
+    food = kah'-bahr
+    rice = bhaat
+    this = ti
+    good = pah-lood'
+    this rice is good = bhaat-ti pbah-lood'
+    this food is good = kah'-bahr-ti pbah-lood'
+    how are you = keh'-mon ah'-cho
+    I love you = ah-mi' toh-mah-keh' vah-loh'-vah-si
 
 
 Urdu
