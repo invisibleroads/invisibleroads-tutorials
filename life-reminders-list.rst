@@ -1371,3 +1371,16 @@ nothing is free
 | The cost of fun is work.
 | The cost of happiness is sadness.
 | The cost of connection is pain.
+
+
+aging
+-----
+| 04/29/2022
+| Growing older, I become more conscious of my limitations --
+| Mental lapses, bouts of absentmindedness
+| Lack of focus, hair trigger distractions
+| Attention like flies easily scattered
+| Perhaps numbing old white hot scars -- don't look too closely
+| Better to forget.
+| Maybe it is time to train and trust the next generation because I am
+| Already cracking under too many promises that I cannot fulfill alone.
