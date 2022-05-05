@@ -1384,3 +1384,11 @@ aging
 | Better to forget.
 | Maybe it is time to train and trust the next generation because I am
 | Already cracking under too many promises that I cannot fulfill alone.
+
+
+management
+----------
+| 05/05/2022
+| Each person has different skills, sometimes hidden, and applicable to different tasks.
+| Each person has different motivations, sometimes hidden, and applicable to different missions.
+| The good manager learns each person's skills and motivations and puts the right people to the right jobs to realize a common higher vision.
