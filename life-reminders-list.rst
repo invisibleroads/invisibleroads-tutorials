@@ -1392,3 +1392,10 @@ management
 | Each person has different skills, sometimes hidden, and applicable to different tasks.
 | Each person has different motivations, sometimes hidden, and applicable to different missions.
 | The good manager learns each person's skills and motivations and puts the right people to the right jobs to realize a common higher vision.
+
+
+constraints
+-----------
+| 8/3/2022
+| Your time is not infinite.
+| Your energy is not unlimited.
