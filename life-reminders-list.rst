@@ -1399,3 +1399,12 @@ constraints
 | 8/3/2022
 | Your time is not infinite.
 | Your energy is not unlimited.
+
+
+watch the problem
+-----------------
+| 10/24/2022
+| We have been overemphasizing tasks instead of problems. We need to continually check whether we are actually solving the problem.
+| What is the customer's problem?
+| What might be all the ways we can solve the problem?
+| Are we really solving the problem?
