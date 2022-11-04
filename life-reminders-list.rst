@@ -1408,3 +1408,11 @@ watch the problem
 | What is the customer's problem?
 | What might be all the ways we can solve the problem?
 | Are we really solving the problem?
+
+
+relapse
+-------
+| 11/4/2022
+| mess up
+| don't die
+| keep going
