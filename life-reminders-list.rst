@@ -1416,3 +1416,10 @@ relapse
 | mess up
 | don't die
 | keep going
+
+
+make jobs
+---------
+| 01/15/2023
+| Meet potential users.
+| Solve pain points.
