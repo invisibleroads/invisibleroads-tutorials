@@ -1423,3 +1423,12 @@ make jobs
 | 01/15/2023
 | Meet potential users.
 | Solve pain points.
+
+
+relapse 2
+---------
+| 01/19/2023
+| I am still struggling with an unproductive use of time on
+| electronic devices. I would like to replace this addiction
+| with reading and writing. Smartphone addiction is the bane
+| of our generation.
