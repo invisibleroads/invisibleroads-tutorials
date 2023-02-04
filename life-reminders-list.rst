@@ -1432,3 +1432,9 @@ relapse 2
 | electronic devices. I would like to replace this addiction
 | with reading and writing. Smartphone addiction is the bane
 | of our generation.
+
+
+passing the torch
+-----------------
+| 02/04/2023
+| Dear children, we entrust the world to you.
