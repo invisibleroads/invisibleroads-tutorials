@@ -1173,6 +1173,14 @@ Jamaican
    how are you = wah'-gwahn
 
 
+French Creole in Saint Lucia
+----------------------------
+::
+
+    what's up = sah' kah feh
+    serves you right = hee' sah-lop'
+
+
 French
 ------
 ::
