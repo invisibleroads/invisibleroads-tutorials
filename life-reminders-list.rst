@@ -1444,3 +1444,11 @@ exercise
 --------
 | 03/07/2023
 | Exercise is meditation.
+
+
+travel
+------
+| 03/08/2023
+| Pack and clean the night before.
+| The day of travel should have one and only one goal:
+| To get to your destination.
