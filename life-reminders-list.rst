@@ -1438,3 +1438,9 @@ passing the torch
 -----------------
 | 02/04/2023
 | Dear children, we entrust the world to you.
+
+
+exercise
+--------
+| 03/07/2023
+| Exercise is meditation.

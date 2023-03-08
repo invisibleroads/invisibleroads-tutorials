@@ -1181,6 +1181,17 @@ French Creole in Saint Lucia
     serves you right = hee' sah-lop'
 
 
+Saint Vincent
+-------------
+::
+
+    make sense out of nonsense = find the wisdom in everything
+    where horse reach, donkey go reach = poor can eventually do what the rich do now
+    one day go be conquer day = one day I will rise again
+    today for you, tomorrow for me = my day shall come
+    when you think is bush, is people = act like people are watching
+
+
 French
 ------
 ::
