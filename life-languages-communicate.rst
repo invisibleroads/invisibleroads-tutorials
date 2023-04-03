@@ -1087,7 +1087,7 @@ Latin American proverbs in Spanish
 
     tell me with whom you walk and I'll tell you who you are = dime con quién te juntas y te diré quien eres = dime con quién andas y te diré quién eres
     stay close to a good tree and you will get good shade = quien a buen árbol se arrima, buena sombra le cobija
-    quien con lobos anda, a aullar se enseña = he who walks with wolves learns to howl
+    he who walks with wolves learns to howl = quien con lobos anda, a aullar se enseña
 
     do not marry or start important work on a Tuesday = en martes, ni te cases ni te embarques
 
