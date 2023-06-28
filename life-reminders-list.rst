@@ -1460,3 +1460,11 @@ alien legacy simulation
 | balanced equilibrium to survive
 | positive equilibrium to grow
 | automate or delegate to positive equilibrium
+
+
+rest to work
+------------
+| 2023-06-28
+| My focus is greatest when I am fully rested.
+| Don't waste the morning hours.
+| Work upon waking.
