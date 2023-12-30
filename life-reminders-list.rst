@@ -1468,3 +1468,16 @@ rest to work
 | My focus is greatest when I am fully rested.
 | Don't waste the morning hours.
 | Work upon waking.
+
+
+ten feet high and rising
+------------------------
+| 2023-12-31
+| year by year rain falling
+| child stomps puddles laughing
+| teenager jumps waves daring
+| adult swims currents fighting
+| elderly treads oceans drowning
+| then
+| let
+| go
