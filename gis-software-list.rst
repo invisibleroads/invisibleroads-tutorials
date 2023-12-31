@@ -19,6 +19,7 @@ Server-side mapping
 * `Mapnik <http://mapnik.org>`_
 * `GeoServer <http://geoserver.org>`_
 * `MapServer <http://mapserver.org>`_
+* `OpenMapTiles <https://openmaptiles.org/>`_
 
 
 Databases
