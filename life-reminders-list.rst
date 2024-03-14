@@ -1481,3 +1481,9 @@ ten feet high and rising
 | then
 | let
 | go
+
+
+opportunity cost
+----------------
+| 2024-03-14
+| time is more valuable than physical objects
