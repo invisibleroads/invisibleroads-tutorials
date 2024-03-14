@@ -1487,3 +1487,4 @@ opportunity cost
 ----------------
 | 2024-03-14
 | time is more valuable than physical objects
+| so stop thinking about or looking for that thing you lost
