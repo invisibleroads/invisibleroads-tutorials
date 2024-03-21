@@ -1488,3 +1488,10 @@ opportunity cost
 | 2024-03-14
 | time is more valuable than physical objects
 | so stop thinking about or looking for that thing you lost
+
+
+in defense of freedom
+---------------------
+| 2024-03-21
+| gardens need protection
+| at what price to be free
