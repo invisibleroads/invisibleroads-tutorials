@@ -1515,3 +1515,16 @@ madness
 | After years of labor,
 | I can only conclude
 | that my work is a form of madness.
+
+
+intention vs perception
+-----------------------
+| 2024-05-25
+| messages longer than three sentences are better said face to face
+| use electronic messages to schedule meetings
+| reread your message from the perspective of each recipient
+| the more recipients, the greater the risk
+| beware how your message could be perceived
+| clarify wording to optimize for the intended effect
+| have your messages reviewed by people who are not yourself
+| why is communication so complicated
