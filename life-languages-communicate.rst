@@ -214,6 +214,7 @@ Hau-sah' is spoken in Nigeria
 ::
 
     thank you = nah'-goh-dey
+    if you see a child with a bone at a party, his mother is around = idan kaga yaro da kashi a wurin biki, mahaifiyarsa tana kusa = ee-dahn' kah-gah' yah'-roh dah kah-shee' oo-reen' bee-kee', mah-hai' fee-yahr'-sah tah-nah' koo-sah'
 
 
 Pidgin is spoken in West Africa
