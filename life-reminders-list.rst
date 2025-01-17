@@ -1528,3 +1528,11 @@ intention vs perception
 | clarify wording to optimize for the intended effect
 | have your messages reviewed by people who are not yourself
 | why is communication so complicated
+
+
+not losing stuff
+----------------
+| 2025-01-17
+| put it in a pocket
+| tie it to yourself
+| put it in a bag and close the zipper
