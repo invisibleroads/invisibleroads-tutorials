@@ -1536,3 +1536,10 @@ not losing stuff
 | put it in a pocket
 | tie it to yourself
 | put it in a bag and close the zipper
+
+
+break and make
+--------------
+| 2025-02-14
+| it is easier to break than to make
+| but sometimes you need to break before you make
