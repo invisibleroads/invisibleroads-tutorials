@@ -1543,3 +1543,10 @@ break and make
 | 2025-02-14
 | it is easier to break than to make
 | but sometimes you need to break before you make
+
+
+ask for help
+------------
+| 2025-04-19
+| better to ask for help and succeed
+| than to struggle quietly and fail
