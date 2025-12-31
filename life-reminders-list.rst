@@ -1556,3 +1556,14 @@ reconditioning
 --------------
 | 2025-10-09
 | I need to realize that when I am around other people, their priorities tend to supersede my own. My brain is conditioned to serve other people's needs over my own. This week I will experiment with setting some time each day to write and rediscover my own day's priorities and recapture my time so as not to neglect my own goals.
+
+
+very avoidable suffering
+------------------------
+| 2025-12-22
+| same script
+| same nightmare
+| oops
+| please try
+| something different
+| next time
