@@ -1573,3 +1573,11 @@ one
 ---
 | 2026-04-09
 | I can really only do one thing at a time.
+
+
+travel advisory
+---------------
+| 2026-08-08
+| They are the wolves;
+| You are the sheep.
+| Do not feed the wildlife.
