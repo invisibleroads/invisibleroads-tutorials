@@ -1581,3 +1581,17 @@ travel advisory
 | They are the wolves;
 | You are the sheep.
 | Do not feed the wildlife.
+
+
+children are not pets
+---------------------
+| 2026-09-18
+| Los niños no son mascotas.
+
+
+future of work
+--------------
+| 2026-09-23
+| I am now thoroughly convinced that
+| the future of work
+| is training robots to do your work.
