@@ -1595,3 +1595,17 @@ future of work
 | I am now thoroughly convinced that
 | the future of work
 | is training robots to do your work.
+
+
+superbrain cult
+---------------
+| 2026-10-09
+| Land meant for living and water meant for drinking are being sacrificed to serve a superbrain.
+| Humans have created something that will demand more and more resources.
+| It will never be satisfied.
+| If everyone trusts the brain to tell them what to watch, do and say, how do we know we aren't being led off a cliff?
+| It feels like a cult where mindless meatbags are coordinated by the superbrain to feed its endless hunger.
+| Compute belongs in space and under sea, not on arable land and residential property.
+| What I dislike most are the generated flyers for social events, particularly in the dance community.
+| Most of the work will be in maintenance; people should not trust what they don't understand.
+| We haven't seen the bill yet, but it is coming soon.
